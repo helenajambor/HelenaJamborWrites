@@ -18,9 +18,9 @@ about:
 
 Helena Jambor is a **Visual data communication** scientists & lecturer for bioinformatics.
 
-I am a molecular biologist with a passion for design. After completing a PhD at EMBL, I worked with multi-dimensional datasets, images and genome-scale data at the Max-Planck Dresden. While a scholar at the Wissenschaftskolleg (Institute for Advanced Studies) Berlin I started seriously researching data visualisation practices in life science and today combine my expertise with large data sets and my interest in data communication.
+I am a molecular biologist with a passion for design. After completing a PhD at EMBL, I worked with multi-dimensional datasets composed of images and genome-scale data at the <a hef="https://www.mpi-cbg.de/research/researchgroups/currentgroups/pavel-tomancak/research-focus">Max-Planck Dresden</a>. While a scholar at the Institute for Advanced Studies in Berlin I started seriously researching data visualisation practices in life science and today combine my expertise with large data sets and my interest in data communication.
 
-I work as a scientist at the University Hospital Dresden testing visualizations that help health data communication. Since 2019 I lecture biomedical data science at Berlin Hochschule für Technik and I teach data visualization whereever someone needs me.
+Today, I work as a scientist at the University Hospital Dresden with visualizations for medical data communication. Since 2019, I lecture biomedical data science at Berlin Hochschule für Technik and teach data visualization whereever someone needs me.
 
 I blogs, tweets, and writes about all aspects of data visualisation.
 
