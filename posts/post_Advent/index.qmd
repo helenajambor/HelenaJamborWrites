@@ -7,4 +7,11 @@ categories:
   - datavis
   - datasketch
   - fun
+#draft: true
+image: "Tag_24.png"
 ---
+
+<!-- draft: true in header, will hide blog until finished --> 
+
+![](Tag_24.png)
+*24 with dots and lines and waves (also, happy Christmas)*
