@@ -10,12 +10,15 @@ website:
       - icon: github
         text: Github
         href: https://github.com/helenajambor        
-      - icon: twitter
-        text: Twitter
+      - icon: mastodon
+        text: Mastodon
+        href: https://vis.social/@helenajambor        
+      - text: Twitter
         href: https://twitter.com/helenajambor
       - icon: linkedin
         text: LinkedIn
         href: https://linkedin.com//in/helena-klara-jambor-b35b507b
+
         
 format:
   html:

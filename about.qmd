@@ -4,6 +4,9 @@ image: profile_blog.jpg
 about:
   template: jolla
   links:
+    - icon: mastodon
+      text: Mastodon
+      href: https://vis.social/@helenajambor  
     - icon: twitter
       text: Twitter
       href: https://twitter.com/helenajambor
@@ -13,7 +16,6 @@ about:
     - icon: github
       text: Github
       href: https://github.com/helenajambor
-
 ---
 
 Helena Jambor is a **Visual data communication** scientists & lecturer for bioinformatics.
