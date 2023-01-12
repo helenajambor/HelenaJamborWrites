@@ -7,6 +7,11 @@ website:
   navbar:
     right:
       - about.qmd
+      - text: "science"
+        file: science.qmd
+      - text: "talks & courses"
+        file: talks.qmd
+      - doodles.qmd
       - icon: github
         text: Github
         href: https://github.com/helenajambor        
@@ -18,7 +23,6 @@ website:
       - icon: linkedin
         text: LinkedIn
         href: https://linkedin.com//in/helena-klara-jambor-b35b507b
-
         
 format:
   html:
