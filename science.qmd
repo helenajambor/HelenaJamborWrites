@@ -1,6 +1,18 @@
 ---
-title: "science"
+title: "Science"
 ---
 
+### Visualzation of data
+After ending my time in the laboratory, I worked as Project Manager for Spim4You, a spin-off initiative aimed to bring new imaging and image analysis tools to scientists, and I spend a sabbatical in Berlin as a Fellow at the Wissenschaftskolleg Berlin investigating images and data visualization in biology.
 
+### Large data to understand nucleic acids in cells
+#### (& suddenly needing visualizations to communicate this!)
+In the lab of Pavel Tomancak at the Max-Planck Institute for Cell Biology and Genetics I then build an atlas for all 14,000 fruit fly genes of when their RNAs are made and how they localize over the development from a stem cell to the full oocyte. The data is collected in the Dresden Ovary Table (DOT) and publicly available.
+
+### Nucleic acid that controls body axis
+For my PhD, I worked at the European Molecular Biology Laboratory/Heidelberg with Anne Ephrussi. We studied one RNA that controls abdomen formation in flies by being unevenly distributed, “localized”, in the egg.
+I discovered that RNA-RNA interaction is a new mechanism to localize this RNA and we termed this “RNA hitch-hiking”. We also found an RNA element that controls the first step in localization. What is pretty cools is that if this element is put into other RNAs, it forces them to localize too! And, this works in all cell types we tested.
+
+### Excited about nucleic acids 
+I studied biology in Berlin and at Robinson College/Cambridge, and did my Diploma at the Max-Planck for Molecular Genetics where I studied cycling RNA expressions that control the length of the mouse embryo. This is process is called somitogenesis and each somite is a precursor for a segment in the vertebrate body. The cycling RNA expressions determine the number of vertebrae!
 

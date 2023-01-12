@@ -37,8 +37,43 @@
   {
     "objectID": "doodles.html",
     "href": "doodles.html",
-    "title": "doodles",
+    "title": "Doodles",
     "section": "",
-    "text": "nude\n friends in Berlin\n my parents\n bathing\n faces\n emotions\n shapes\n I love Sol LeWitt"
+    "text": "I was obsessed with drawing and doodling as kid, mainly interested in humans and faces. I try to doodle every day a little to this day!\n nude\n friends in Berlin\n my parents\n bathing\n faces\n emotions\n shapes\n I love Sol LeWitt"
+  },
+  {
+    "objectID": "talks.html",
+    "href": "talks.html",
+    "title": "talks",
+    "section": "",
+    "text": "I give a lot of scientific talks, visualization workshops and teach."
+  },
+  {
+    "objectID": "talks.html#scientific-talks",
+    "href": "talks.html#scientific-talks",
+    "title": "talks",
+    "section": "Scientific talks",
+    "text": "Scientific talks\n\n2022\nSharing Knowledge Talk, University of Tübingen Excellence Programme. 19th Annual Advanced Imaging Methods, Berkeley. Invited tutorial: “Image visualization for communication” ELMI FINLAND/TURKU Juni 2022 LIPID SCHOOL Mai 2022 CLINICIAN SCIENTIST RETREAT, DSCS Juni 2022 Danube Okt 2022 HT Mailand Sept 2022 ### 2021 FENS (Federation of European Neuroscience Society) Webinar “Creating Clear and Informative Figures for Scientific Publications” ISMB BioVis invited high-light talk “Image quality in publications” FEBS Danube Conference on Epigenetics, invited talk “Data Visualization” DPG, Young Physiologists Symposium, “Image and Data Visualization” HAW Hochschule für Angewandte Wissenschaften, Hamburg, lecture “Data Visualization” for the call Chair in Data Visualization Hochschule Ingolstadt, lectures “NGS Sequencing of SARS-CoV-2” and “Data Visualization” for the call Chair in Medical Informatics Hochschule Fulda, lectures “Feedback mechanisms” and “Data Visualization” for the call Chair in Visual Analytics EKFZ Digital Health Spring School “Medical Data Visualization”\n\n\nearlier\nWoodstock of Biology, Tel-Aviv, “My pretty little big data visualized” Sächsische Landesärztekammer, Physician training in digital medicine/visualization of medical data Hochschule Coburg, lectures “Microarrays”, “Data Visualization” for the call chair in bioinformatics. German BioImaging Society, lecture for society seminar series “Image quality in publications” https://youtu.be/NfXSddDOyt8 FH Graubünden, CH, guest lecture at Swiss institute for Information science in the context of the appointment for chair “Data visualization”, list position 2. ### 2019 Hochschule Beuth Berlin, guest lecture for Prof. Simone Reber “Introduction to DataViz bioinformatics” Max-Planck-Institut Zellbiologie “Data Visualization – poster design” BIMSB Berlin, laboratory of Prof. Uwe Ohler “Scientific data visualization” ### 2018 TU Dresden, “Introduction to scientific data visualization” for PhD students from all disciplines Faculty of Computer science, Magdeburg, “Visualization of life science data”, invitation by Prof. Holger Theisel IMG Prague, PhD students conference, “Introduction to visual communication” Dresden Biopolis PhD student conference “Poster and figure design”. Dresden DIGS-BB ask the Expert session “Visual communication”. DGZ conference, Berlin “DataViz for life sciences”. 2017 Predoc course DIPP, “Life science figure design”. SignGene Winter school, Elat Israel (invited Talk). DFG FOR233 meeting, Heidelberg. 2016 TedEx talk, Frankfurt, “History of Life Science Images”. Wissenschaftskolleg Berlin, “RNAs in Space and Time - How Ribonucleic Acid Determines Cell Organization”. Workshop on “Life Science Figure Design”: Max-Planck Institute Dresden, University of Gothenburg, IMP/IMBA Wien, HU Berlin. MDC Berlin (Invited by Prof. Rajewski). 2015 BIOTEC, Dresden (Invited by Prof. Stewart). EMBO RNA Localization and local translation, Crete. Berlin Summer Meeting, Berlin (invited Talk). 2014 University of Heidelberg (Invited by Prof. Wittbrodt). University of Regensburg (Invited by Dr. Medenbach). 2013 New York University Langone Medical Center (Invited by Prof. Lehmann). Whitehead Institute, MIT, Cambridge (Invited by Prof. Orr-Weaver). EMBL, Heidelberg (Invited by Anne Ephrussi). Max-Planck Institute in Dresden, Institute seminar. 2012 Max-Planck Institute Tübingen (Invited by Dr. Bono). 2011 European Drosophila Research Conference, Berlin Summer Meeting. 2009 Max Planck Institute fo. Neurobiology (Invited by Dr. Frank Bradke), University of Cambridge, UK (Invited by Dr. Jordan Raff), KU Leuven. (Invited by Dr. Bassem Hassan). 2008 DGZ Young Scientist Meeting."
+  },
+  {
+    "objectID": "talks.html#workshops",
+    "href": "talks.html#workshops",
+    "title": "talks",
+    "section": "Workshops",
+    "text": "Workshops\n2022 CNC - Center for Neuroscience and Cell Biology, BEB Doctoral Program course, workshop Visual communication of biomedical data. Graduate School ESGC, Erasmus, Faculty of Environment and Natural Resources, University of Freiburg, 3-day virtual course. International Institute of Molecular and Cell Biology, MOSaic initiative, Warszawa, Poland, 4-day virtual course for advanced scientists. 2021 TU Dresden, Graduate Academy, PhD, 2 courses Charite Berlin, Quantum Futur Academy, undergraduate students Junge Physiologen, annual meeting, physicians and medical scientsits EKFZ Spring School, undergraduates in medicine and engineering 2020 TU Dresden, Graduate Academy, PhD, 2 courses Helmholtz Rossendorf, postdocs Sächsische Ärztekammer, resident physicians 2019 BISMB/MDC Ohler lab, scientists Iain Patten, online course MPI Dortmund, PhD students TU Dresden, Graduate Academy, PhD, 2 courses MPI-CBG, postdoc retreat 2018 Max Planck Society, scientists and science communicators Hemlhotz MUC/Henry/ lab HU Berlin, IRI graduate School Uni. Regensburg, PhD program TU Dresden, Graduate Academy, PhD, 2 courses MPI-AGE, PhD students Center for regenerative therapies, postdocs Dresnden International Graduate School, PhD students IMG Prague, PhD students 2017 MPI-CBG, postdocs IRI, HU Berlin, PhD Helmholtz Müchen, PhD, 4 courses DFG Forschergruppe RNA Localization, training for members Univ. Frankfurt, Dept Biochemie EMBO Young Investigator Program Annual meeting 2016 VBCF (IMBA/IMP) Vienna Univ. Götheburg, Sweden, department retreat 2015 Pharmacy, University Hospital Dresden"
+  },
+  {
+    "objectID": "talks.html#undergraduate-teaching",
+    "href": "talks.html#undergraduate-teaching",
+    "title": "talks",
+    "section": "Undergraduate teaching",
+    "text": "Undergraduate teaching"
+  },
+  {
+    "objectID": "science.html",
+    "href": "science.html",
+    "title": "Science",
+    "section": "",
+    "text": "Visualzation of data\nAfter ending my time in the laboratory, I worked as Project Manager for Spim4You, a spin-off initiative aimed to bring new imaging and image analysis tools to scientists, and I spend a sabbatical in Berlin as a Fellow at the Wissenschaftskolleg Berlin investigating images and data visualization in biology.\n\n\nLarge data to understand nucleic acids in cells\n\n(& suddenly needing visualizations to communicate this!)\nIn the lab of Pavel Tomancak at the Max-Planck Institute for Cell Biology and Genetics I then build an atlas for all 14,000 fruit fly genes of when their RNAs are made and how they localize over the development from a stem cell to the full oocyte. The data is collected in the Dresden Ovary Table (DOT) and publicly available.\n\n\n\nNucleic acid that controls body axis\nFor my PhD, I worked at the European Molecular Biology Laboratory/Heidelberg with Anne Ephrussi. We studied one RNA that controls abdomen formation in flies by being unevenly distributed, “localized”, in the egg. I discovered that RNA-RNA interaction is a new mechanism to localize this RNA and we termed this “RNA hitch-hiking”. We also found an RNA element that controls the first step in localization. What is pretty cools is that if this element is put into other RNAs, it forces them to localize too! And, this works in all cell types we tested.\n\n\nExcited about nucleic acids\nI studied biology in Berlin and at Robinson College/Cambridge, and did my Diploma at the Max-Planck for Molecular Genetics where I studied cycling RNA expressions that control the length of the mouse embryo. This is process is called somitogenesis and each somite is a precursor for a segment in the vertebrate body. The cycling RNA expressions determine the number of vertebrae!"
   }
 ]
