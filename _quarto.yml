@@ -3,13 +3,20 @@ project:
 
 website:
   title: "HelenaJamborWrites"
+  description: "This is Helena Jambor's personal blog and website. I write about life sciences and data visualization, most of the time merged as biovis. I am mostly interested in visual communication of scientific data." 
   navbar:
     right:
       - about.qmd
       - icon: github
-        href: https://github.com/
+        text: Github
+        href: https://github.com/helenajambor        
       - icon: twitter
-        href: https://twitter.com
+        text: Twitter
+        href: https://twitter.com/helenajambor
+      - icon: linkedin
+        text: LinkedIn
+        href: https://linkedin.com//in/helena-klara-jambor-b35b507b
+        
 format:
   html:
     theme: cosmo
