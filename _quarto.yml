@@ -7,9 +7,9 @@ website:
   navbar:
     right:
       - about.qmd
-      - text: "science"
+      - text: "Science"
         file: science.qmd
-      - text: "talks & courses"
+      - text: "Talks & courses"
         file: talks.qmd
       - doodles.qmd
       - icon: github
