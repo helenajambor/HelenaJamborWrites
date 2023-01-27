@@ -1,34 +1,26 @@
 ---
 title: "Doodles"
 ---
-I was obsessed with drawing and doodling as kid, mainly interested in humans and faces. I try to doodle every day a little to this day! 
+I am obsessed with sketching and usually draw figures and faces. Most often when making phone calls or with my morning tea! 
 
+<p float="left">
+  <img src="/doodle1.jpg" width="236" />
+  <img src="/doodle3.jpg" width="182" /> 
+  <img src="doodle5.jpg" width="182" />
+</p>
 
-![](doodle1.jpg)
-*nude*
+<p float="left">
+  <img src="/doodle10.jpg" width="609" />
+</p>
 
+<p float="left">
+  <img src="/doodle4.jpg" width="220" />
+  <img src="/doodle7.jpg" width="380" /> 
+</p>
 
-![](doodle3.jpg)
-*friends in Berlin*
-
-![](doodle5.jpg)
-*my parents*
-
-![](doodle4.jpg)
-*bathing*
-
-![](doodle10.jpg)
-*faces*
-
-![](doodle7.jpg)
-*emotions*
-
-![](doodle8.jpg)
-*shapes*
-
-
-
-![](doodle11.jpg)
-*I love Sol LeWitt*
+<p float="left">
+  <img src="/doodle8.jpg" width="300" />
+  <img src="/doodle11.jpg" width="300" /> 
+</p>
 
 
