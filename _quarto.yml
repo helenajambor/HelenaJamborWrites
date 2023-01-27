@@ -1,6 +1,6 @@
 project:
   type: website
-
+  
 website:
   title: "HelenaJamborWrites"
   description: "This is Helena Jambor's personal blog and website. I write about life sciences and data visualization, most of the time merged as biovis. I am mostly interested in visual communication of scientific data." 
@@ -24,9 +24,10 @@ website:
         text: LinkedIn
         href: https://linkedin.com//in/helena-klara-jambor-b35b507b
         
+
 format:
   html:
-    theme: cosmo
+    theme: lux
     css: styles.css
 
 
