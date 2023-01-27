@@ -24,6 +24,6 @@ I am a molecular biologist with a passion for design. After completing a PhD at 
 
 Today, I work as a scientist at the University Hospital Dresden with visualizations for medical data communication. Since 2019, I lecture biomedical data science at Berlin Hochschule für Technik and teach data visualization whereever someone needs me.
 
-I blogs, tweets, and writes about all aspects of data visualisation.
+I blog, tweet, and writes about all aspects of data visualisation.
 
 
