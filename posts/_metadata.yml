@@ -6,3 +6,10 @@ freeze: true
 
 # Enable banner style title blocks
 title-block-banner: true
+
+# Default author
+author:
+  - name: Helena Jambor 
+    affiliation: TU Dresden
+    googlescholar: https://scholar.google.com/citations?user=KbpBSGsAAAAJ&hl=en
+    orcid: 0000-0003-3397-1842
