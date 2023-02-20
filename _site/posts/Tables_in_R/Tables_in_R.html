@@ -10,7 +10,7 @@
 <meta name="dcterms.date" content="2023-02-20">
 <meta name="description" content="Post description">
 
-<title>HelenaJamborWrites - Tables: Calendar data</title>
+<title>HelenaJamborWrites - Tables: With R</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -127,7 +127,7 @@ ul.task-list li input[type="checkbox"] {
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
     <div class="quarto-title column-body">
-      <h1 class="title">Tables: Calendar data</h1>
+      <h1 class="title">Tables: With R</h1>
                   <div>
         <div class="description">
           Post description
@@ -172,25 +172,18 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<section id="tables-calendar-data" class="level2">
-<h2 class="anchored" data-anchor-id="tables-calendar-data">Tables: Calendar Data</h2>
-<section id="a-new-years-resolution" class="level4">
-<h4 class="anchored" data-anchor-id="a-new-years-resolution">A New year’s resolution</h4>
-<p>At some point in her life, a girl’s gotta start with sports to stay healthy and fit when getting older. Did you know that the number of cells in a brain increases when exercising, and that bones stay strong when close to trained muscles (they actually get signaling molecules telling them to stay young!)? My 2017 New year’s resolution was therefore to do sports as often as possible.</p>
-<p>As I am in love with data, I tracked my progress daily. You can see that I increased from doing sports around 50% of the days to a whopping 90% in July. In January and February, before I was keeping the diary, it was well below half of the days. Clearly, it is easier to run, swim etc. in summer, and I could not keep this up. It was challenging when traveling and on days with a lot of evening appointments and work (November). Most of the days without sports were when I had visitors!</p>
-<p>Initially I also tracked exercise time and what kind of sports I did, but that got too tiring and too complicated. But I did track other parts of my life such as my mood (hint: boring dataset, mainly correlates with female cycle!), my food and my alcohol intake. Interestingly, there is no correlation between sports and alcohol. I do not drink on those days that I feel too miserable for sports. Some days I drank a sip (light grey, a small sherry or so) after my sports, some days I neither drank nor did sports.</p>
-<p>Since I use my diary regularly, I of course tracked all this data on paper: <img src="img_0173.jpg" class="img-fluid"></p>
-<p>I thought a lot about how to present it best, and at the end of the day, I really wanted to showcase my daily routine – this is why the final visualization does not look very different. I only added a bar chart summarizing the data.</p>
-<p>I started out making a dot for each day in a simple table format: <img src="sports_1.png" class="img-fluid"></p>
-<p>Then I adjusted the number of days and numbered them to have a week-like format. Sticking to standard practice: labeling 1, 8, 15 is of course counter-intuitive, so I quickly changed this to 7/14/21. <img src="sports_2.png" class="img-fluid"> <img src="sports_2b.png" class="img-fluid"></p>
-<p>I then added the actual data: empty space for days without sports, a circle for days I did sports, and a cross for sick days. <img src="sports_3.png" class="img-fluid"> Having completed the data visualization, I then started the graphic design part – decluttering wherever possible, playing with color and adjusting layout If necessary. For example, the table like boxes were not necessary at all. What about the lines separating weeks? They are ugly, even in grey!, but some guide is needed to wade through the days. The Gestalt principles show that white space is more effective in grouping that lines and boxes. To discriminate between ‘no sports’ and white space, I changed the white data points to a light grey.</p>
-<p><img src="sports_4.png" class="img-fluid"> <img src="sports_5.png" class="img-fluid"> <img src="sports_6.png" class="img-fluid"></p>
-<p>All right, looking better! Now some more details… I added a summarizing bar chart of the percentage of days I did sports (not counting sick days), added titles, axis labels, tick marks, and I also showed the data for the months in which I tracked my alcohol consumption. <img src="sports_7.png" class="img-fluid"></p>
-<p>At last – and always at last only! – I added color, and I am in love with blue. <img src="myYear4.png" class="img-fluid"></p>
+<p><a href="Tables_in_R/Tables_in_R.qmd">Last week</a> I visualized the days I did sports in 2017 by hand with illustrator. Most of the time, we want however re-tell similar data (I am not giving up sports anytime soon!), so I always look for ways to create visualizations computationally, for example in R. Therefore, today, I show you how to make a viz of data on days of a year in R.</p>
+<p><img src="myYear4.png" class="img-fluid"></p>
+<p>First step: googling (or: duckduck-ing) to find a package other people use for this type of visualization. To my surprise, this took a very long time! Apparently, there is no default package in R that can visualize calendar data!? I found a very laborious solution that someone made with ggplot (referenced here: https://www.r-bloggers.com/ggplot2-time-series-heatmaps/), but it was &gt; 10 lines of code. I then stumbled upon another package, made specifically for visualizing pollutants in air (!), but it works also for other data and is straightforward to use. “openair” takes any dataframe with a “date”-column in the standard format (YYYY-MM-DD) and plots whatever you define as the “pollutant”. In my case, the days I did sports were the “pollutant”.</p>
+<p>3 easy steps:</p>
+<ol type="1">
+<li>Open your data in R, I called my dataframe “sports”.</li>
+<li>Then load library(openair)</li>
+<li>Plot: calendarPlot(sports, pollutant = Sports, year = 2017)</li>
+</ol>
+<p>Voila! <img src="Screen Shot 2018-01-14 at 10.35.29.png" class="img-fluid"> Red: days I did sports, yellow: lazy days, white: sick days.</p>
 
 
-</section>
-</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
