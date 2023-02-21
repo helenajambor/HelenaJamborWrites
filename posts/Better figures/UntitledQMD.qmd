@@ -1,0 +1,111 @@
+---
+title: "How to... Better Figures"
+description: "A quick guide on designing better data figures for your science"
+author: "Helena Jambor"
+date: "20230222"
+categories:
+  - datavis
+  - Vis formats
+  - how-to
+image: ""
+draft: true
+---
+
+I spend almost one year in my postdoc from data analysis to the final visualization of my <a href="https://elifesciences.org/articles/05003">postdoc results</a>. A year, in which I tried many visualization strategies and simplified them again and again. Helpful at that time were Edward Tufte’s book „The visualization of quantitative data” and my pre-science background in applied art, that taught me effects of color and shape.
+
+While visualizations are used in science since antiquity, their number and complexity now increased significantly. Nevertheless, even today budding scientists do not learn to encode and effectively decode visualizations. This is evident in the numerous examples of difficult-to-read figures and outright misleading charts.  In the past years, I taught data visualization to hundreds of scientists. A few tips and tricks to increase readability and effectiveness of data figures are summarized here.
+
+&nbsp;
+
+<strong>Planning</strong>
+
+As always, the plan comes first. Who is my audience, what do I want to say, and why/ what is my message? Only when these questions have been answered succinctly can you begin to implement the visualization. What otherwise happens are charts with 50 categories, 12 colors, or the use of a diagram type altogether.
+
+&nbsp;
+
+<strong>Testing </strong>
+
+Testing a visualization is a must. Does the visualization work on paper? Is the electronic version readable? We should always look for external, objective reviewers. Often these are not the laboratory colleagues who already know our results and awkward visuals. Ideally, you should find several Guinea-pigs to get a feeling for the representative-ness of the answers.
+
+&nbsp;
+
+<strong>Choose diagram type</strong>
+
+A diagram should represent data truthfully and functionally. It is therefore important to select the diagram type suitable for the data type. A line chart shows a temporal progression, a bar chart compares sets of different categories, and if the category names are long, you can make a bar chart of them (Figure 1). Pie charts effectively show percentages for up to 5 rather differently sized categories. They quickly become a disaster if used for more categories, in 3D, or if two pie charts are to be compared precisely.
+
+To avoid being misleading, some basic visualization rules should be followed: omitting the zero line distorts relative size differences in column and bar graphs (Figure 1C). In line charts, on the other hand, a zero line can be omitted because only trends are read, and in fact at times (link to twitter) a zero-baseline in line charts can result in very misleading information presentation. Absolute caution is advised with charts for statistical distributions: The box plot is suitable for normally distributed data; in histograms, the number of bins must match the number of data points. And important for readability: the invariable size, e.g. time, is shown on the x-axis, the dependent size on the y-axis (not as in Fig. 1D!).
+
+[caption id="attachment_1088" align="alignnone" width="2055"]<img class="alignnone size-full wp-image-1088" src="https://helenajambor.files.wordpress.com/2019/06/diagramm_types-01.png" alt="Diagramm_types-01" width="2055" height="1292" /> A bar chart (A) focuses on absolute amounts and is not ideal for showing trends. Line charts (B) are better suited to show trends over time. Bar charts without a zero-baseline distort the relative category sizes: Germany's ERC successes is over-emphasized when the baseline starts at 10 (C). Conventions about choosing data for the x- and y-axes are important. When ignoring those charts rapidly become incomprehensible (D).[/caption]
+
+<strong>Label</strong>
+
+Without text, each diagram is just like an abstract piece of art. To be self-explanatory, images need a title, axis labels, and a legend. Nowadays, the title often simply sits above the diagram itself, otherwise it is found in the caption. Legends should be placed where they are needed - i.e. better not in the signature, but close to the data (see: Layout).
+
+The following applies to all text elements: Abbreviations should be avoided, with the exception of very, very common ones. Again, find colleagues to try out your favorite abbreviation. You’d be surprised how an abbreviation turns out to be just lab jargon or really specific to your field of research. But: your papers should not be! (Googling it is also possible: if not found among the top entries, probably you should not use that abbreviation).
+
+It is also important to avoid redundancies (especially in the axis labels!!), filler texts and passive language.
+
+&nbsp;
+
+<strong>Layout</strong>
+
+In a fraction of a second we can capture visual information, understand content, color and organization. The better this information is structured, the faster we understand it.
+
+Most importantly, we usually read images like text, from top left to bottom right. That's why posters have titles at the top and references at the bottom. Just like on posters, however, we can also increase the reading speed of individual charts: a meaningful title might be placed above a diagram (left align is usually good!) and color codes should be explained right here. On the other hand, scale information, data source, or sample size can happily be placed at the bottom right.
+
+Because we read visual information similar to text, composite images should be organized in <u>either</u> rows or columns. Once such a reading direction is set, it should not be changed (best: keep reading direction for all figures of the manuscript). To maintain an overall organized look, you are best advised to maintain the (imaginary) borders of the columns and rows – this is known in layout-ing as the underlying grid.
+
+A wonderful resource for making visual information effective are the "Gestalt principles" described in the 1920s. They describe how we understand visual information. Helpful are: a simple overall form, for example organization of the bars according to their size, symmetry in the layout, proximity of objects belonging together, and a similar appearance of objects belonging together: the same color-code across the manuscript, easily recognizable symbols for the same category e.g. in scatterplots etc.
+
+&nbsp;
+
+<strong>Colorize </strong>
+
+Henry Dreyfuss described color as the exclamation mark of a design. He meant that color invariably provokes a reaction, attracts attention, and, like the punctuation mark, should be used last and strategically. In diagrams, color is used to create groupings (see gestalt principles above), to convey quantities (e.g. red stands for high, blue for low temperatures), or to highlight part of the data (e.g. a red line between loud gray lines, Fig. 2 before/after).
+
+[caption id="attachment_1087" align="alignnone" width="1465"]<img class="alignnone size-full wp-image-1087" src="https://helenajambor.files.wordpress.com/2019/06/color_choice-01.png" alt="Color_choice-01" width="1465" height="767" /> More than three to five color shades are confusing and hard to distinguish (top). Color is better used strategically for the core message (below) or alternatively can be used for groups. Note: incorporating the legend into the title increases readability and saves space.[/caption]
+
+To make sure I do not overuse color I start with greyscales. Sometimes, a black bar among grey bars is already enough to focus the reader. If color is to be used, it has to match the data. Quantitative data that have a common scale (e.g. animal age in days) should be shown with a hue in different intensities. Divergent data (temperature, gene expression above/below zero) are shown with two hues merging into each other. Only categorical data can be coded with different hues.
+
+Don't forget: each color must be explained in the illustration or legend (see labeling) and should be used consistently within a figure, poster, or manuscript (color code).
+
+In any case, colors should also be accessible to <a href="https://helenajambor.wordpress.com/2017/04/27/color-blind-are-your-audience-too/">colorblind people</a>. So please do not mix red and green tones in one image.
+
+&nbsp;
+
+<strong>Improve</strong>
+
+Once a first version of a figure is done improving it ideally is iterated until the core statement stands out at the first glance (1-second test!) and it is self-explanatory. As always, helpful colleagues are gold!
+
+Effective and clear figures are helpful as they transport your message faster, but they also make your science accessible to a wider audience (which means more citations!) and to future readers (reproducibility!). And, if you are extremely successful, some figures even become icons to an entire field, like the phylogenetic diagram of Darwin that is <a href="https://helenajambor.wordpress.com/2016/04/19/evolution-and-the-hourglass/">re-used again and again</a>.
+
+&nbsp;
+
+&nbsp;
+<h2>Further reading &amp; training</h2>
+<h4><strong>Train and test</strong></h4>
+Catalogue of chart types: <a href="http://www.datavizcatalogue.com/">http://www.datavizcatalogue.com/</a>
+
+Train to label axes: <a href="http://mathbench.umd.edu/modules/visualization_graph/page05.htm">mathbench.umd.edu/modules/visualization_graph/page05.htm</a>
+
+Why all data points should be shown: <a href="https://www.autodeskresearch.com/publications/samestats">https://www.autodeskresearch.com/publications/samestats</a>
+
+Guess the correlation: <a href="http://guessthecorrelation.com/"> http://guessthecorrelation.com/</a>
+<h4>Online tools for making charts etc</h4>
+Venn: <a href="http://bioinformatics.psb.ugent.be/webtools/Venn/">http://bioinformatics.psb.ugent.be/webtools/Venn/</a> (never use for &gt;3/4 categories. Alternative: UpSetR plots). Boxplot: <a href="http://shiny.chemgrid.org/boxplotr/">http://shiny.chemgrid.org/boxplotr/</a>. Michaelis-Menten: <a href="http://www.physiologyweb.com/calculators/michaelis_menten_equation_interactive_graph.html">http://www.physiologyweb.com/calculators/michaelis_menten_equation_interactive_graph.html</a>
+
+Graphical Abstracts: https://biorender.com/
+<h4>Colors</h4>
+Colorshemes: <a href="http://colorbrewer2.org/">colorbrewer2.org</a>
+
+Test slides, figures and posters for color blind safety: ColorOracle
+
+Study on color perception by XKCD: <a href="https://blog.xkcd.com/2010/05/03/color-survey-results/">https://blog.xkcd.com/2010/05/03/color-survey-results/</a>
+
+<strong>Read on</strong>
+
+Edward R. Tufte „The Visual Display of Quantitative Data“
+
+William S. Cleveland, „Visualizing Data“
+
+Alberto Cairo, „The Truthful Art“
