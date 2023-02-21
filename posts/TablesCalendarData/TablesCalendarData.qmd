@@ -1,6 +1,6 @@
 ---
 title: "Tables: Calendar data"
-description: "Post description"
+description: "Calendar data turned into chart"
 author: "Helena Jambor"
 date: "20230220"
 categories:

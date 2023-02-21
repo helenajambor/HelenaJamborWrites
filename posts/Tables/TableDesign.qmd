@@ -1,6 +1,6 @@
 ---
 title: "How to... Tables"
-description: "Post description"
+description: "All about how to design legible and pretty tables"
 author: "Helena Jambor"
 date: "20230221"
 categories:

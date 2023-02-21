@@ -1,6 +1,6 @@
 ---
 title: "Tables: With R"
-description: "Post description"
+description: "A workaround solution to create calendar data charts in R"
 author: "Helena Jambor"
 date: "20230220"
 categories:
