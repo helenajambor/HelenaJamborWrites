@@ -20,7 +20,7 @@ First step: googling (or: duckduck-ing) to find a package other people use for t
 1. Open your data in R, I called my dataframe “sports”.
 2. Then load library(openair)
 3. Plot: 
-calendarPlot(sports, pollutant = Sports, year = 2017)
+<kbd>calendarPlot(sports, pollutant = sports, year = 2017)</kbd>
 
 
 Voila!
