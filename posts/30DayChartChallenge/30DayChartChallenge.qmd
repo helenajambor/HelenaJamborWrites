@@ -24,7 +24,6 @@ All entries are <a href="https://twitter.com/search?q=%2330DayChartChallenge">po
 
 ::: {layout-nrow=2}
 ![](../30DayChartChallenge/week1.png)
-
 ![](../30DayChartChallenge/week2.png)
 ![](../30DayChartChallenge/week3.png)
 
@@ -60,7 +59,7 @@ Finding time each day for a full month was impossible with Easter vacation and c
 #### My Design objectives 
 My goal was to create a visually and thematically cohesive work. I plan to use my charts for teaching purposes and for teaching the many ways how we can communicate data with charts. Most of my time, as always, was spend on finding a topic for which a dataset was available. A lot of time was also consumed by data wrangling and getting it in a format to actually make charts. And only a fleeting moment for creating the visualizations. That’s how it goes!
 
-Enjoy th charts, **Slava Ukraini** and keep Ukraine in the news! 
+Enjoy my charts, **Slava Ukraini** and keep Ukraine in the news! 
 
 <p float="left">
   <img src="../30DayChartChallenge/helenajambor_day20_googletrends.png" width="250" />
