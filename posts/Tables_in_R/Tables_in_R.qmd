@@ -20,9 +20,9 @@ First step: googling (or: duckduck-ing) to find a package other people use for t
 1. Open your data in R, I called my dataframe “sports”.
 2. Then load library(openair)
 3. Plot: 
-<kbd>calendarPlot(sports, pollutant = sports, year = 2017)</kbd>
-
-
+```r
+calendarPlot(sports, pollutant = sports, year = 2017)
+`````
 Voila!
 ![](Screen Shot 2018-01-14 at 10.35.29.png)
 Red: days I did sports, yellow: lazy days, white: sick days.

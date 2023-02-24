@@ -2,6 +2,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/30DayChartChallenge/30DayChartChallenge.html",
       "/posts/Tables/TableDesign.html",
       "/posts/TablesCalendarData/TablesCalendarData.html",
       "/posts/Tables_in_R/Tables_in_R.html",
