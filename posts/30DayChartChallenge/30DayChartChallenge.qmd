@@ -23,11 +23,10 @@ All entries are <a href="https://twitter.com/search?q=%2330DayChartChallenge">po
 !-->
 
 ::: {layout-nrow=2}
-![](../30DayChartChallenge/week1.png)
-![](../30DayChartChallenge/week2.png)
-![](../30DayChartChallenge/week3.png)
-
-![](../30DayChartChallenge/week4.png)
+![](../30DayChartChallenge/week1.png){width=300}
+![](../30DayChartChallenge/week2.png){width=300}
+![](../30DayChartChallenge/week3.png){width=300}
+![](../30DayChartChallenge/week4.png){width=300}
 All charts
 :::
 
