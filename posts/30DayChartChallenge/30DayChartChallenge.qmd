@@ -29,16 +29,18 @@ All entries are <a href="https://twitter.com/search?q=%2330DayChartChallenge">po
 ![](../30DayChartChallenge/week3.png)
 
 ![](../30DayChartChallenge/week4.png)
-
+All charts
 :::
 
 #### My 30DayChartChallenge
 I personally was looking for an excuse to get back to making charts with R. All I could think of at the time was however the war in Ukraine. My granddad Anton Jámbor was born and raised in Khust, Zakarpatia Oblast, which was another reason to finally educate myself about Ukraine. So, I made a plan and almost completed it! I researched the people and population of Ukraine, the country and cities, and a little bit the health data since my day-job is in medical research at the University hospital.
 
 From idea to implementation:
-![](img_5597-1.jpg)
-![](helenajambor_day6_alternative.png)
 
+::: {layout-nrow=1}
+![](img_5597-1.jpg){width=300}
+![](helenajambor_day6_alternative.png){width=300}
+:::
 
 #### Moving along: the daily charts
 Over the course of April I completed 18 of the 30 challenges. Many times I made several solutions and tested many more. Below is the example for Kazimir Malevich. I plotted the color-schemes he used in his paintings over his lifetime and tried our several options, including an animation.
