@@ -9,6 +9,7 @@ categories:
   - fun
 #draft: true
 image: "Tag_24.png"
+draft: true
 ---
 
 <!-- draft: true in header, will hide blog until finished --> 
