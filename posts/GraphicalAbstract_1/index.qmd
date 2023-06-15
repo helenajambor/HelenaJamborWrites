@@ -13,10 +13,12 @@ draft: true
 Graphical abstracts are increasingly common to explain biomedical concepts and research results. As “summary slides”, they have long been used at the end of a talk or lecture. Today, graphical abstracts are widely used as a thumbnail/preview of online publications and also found at posters, on lab websites, and in research grant applications. 
 The key element of every graphical abstract are the visuals - pictograms, icons, or images. Text, arrows and lines then combine the visual elements into a narrated story, and color highlights key elements or encodes quantities. I summarized a few key points to consider before designing a graphical abstract. 
 
-#### Key visual, the resources for icons and pictograms
-All graphical abstract have images. Most often these are icons/pictograms or symbols, rarely iconic microscope or photographic images, or charts. Pictograms can be hand-drawn or constructed from simple shapes, but increasingly icon libraries exist that offer free and often non-attributable icons. 
-In the libraries users find icons as PNGs (Portable Network Graphic) which is a raster-graphics format for lossless data compression. PNGs are ready to use on the web or in software, but are not adaptable. Alternatively, icons are provided as as SVG files (Scalable Vector Graphics), a vector image format that can be used interactively on the web, adapted with graphic software, and also used as image as is.  
-For general icons, many repositories exist for simple icons: 
+#### Key visual: find icons and pictograms
+All graphical abstract have key visuals and usually these are icons/pictograms or symbols, rarely also iconic microscope or photographic pics or charts. Pictograms can be hand-drawn, constructed with simple shapes, but most use ready-made icons.
+
+Many icon libraries exist, many are free, and some even non-attributable (public domain). Libraries offer icons as PNG or SVG file. PNG, Portable Network Graphic, is a raster-graphics format for lossless data compression. PNGs are ready to use on the web or in software, but are not adaptable. SVG, Scalable Vector Graphic, is a vector images format that can be used interactively on the web, adapted with graphic software, and also used as image as is. Best: you can scale it as large as you like and no pixels will appear. Yay for large posters!
+
+Libraries for general icons: 
 -	New versions of PowerPoint have inbuild, free image and icon libraries, as well as many pre-drawn shapes. 
 -	Fontawesome.org is a unicode-based icon library that also can be installed locally as a font for graphic programs or downloaded as SVG. 
 -	Nounproject is a large repository sourcing icons from various designers, hence the available icons are vast, but also not matched in style, icons can be used for free with attribution as SVG or PNG. 
