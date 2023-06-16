@@ -5,8 +5,8 @@ author: "Helena Jambor"
 date: "20230616"
 categories:
   - datavis
-  - Vis formats
   - how-to
+  - Graphical abstracts
 
 ---
 ## How to... Graphical abstracts 1
