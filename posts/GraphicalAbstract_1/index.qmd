@@ -36,12 +36,13 @@ Libraries for general icons:
 ##### Biology and Medicine specific icons are in addition available. 
 
 * <a href = "https://smart.servier.com/">SmartServier</a> released full slide-decks with medically-relevant images - lots of detail for diseases!
-![SmartServier icons](Smart.png)
+![SmartServier icons: detailled](Smart.png)
 
 * <a href = "https://bioicons.com/">Biocions</a> releases a growing list of biology and laboratory icons, such as Petri dishes and model organisms, mostly as CC0, and it accepts submissions to expand this library! 
+![bioicons - same look as SmartServier](BioIc.png)
 
 * <a href = "healthicons.org">Healthicons</a> has many really simple icons for specialized medical scenarios. Free, no attribution, downloadable!
-![bioicons](BioIc.png)
+![Health Icons - simple icons](Health.png)
 
 * <a href = "phylopic.org/">Phylopic</a> has shapes of numerous animals, e.g. for phylogeny tree
 
