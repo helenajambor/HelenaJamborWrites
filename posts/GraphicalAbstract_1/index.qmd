@@ -22,23 +22,31 @@ In libraries, icons can be downloaded as **PNG** or **SVG** file. PNG, Portable 
 Libraries for general icons: 
 
 * PowerPoint (newer versions) come with free image and icon libraries, as well as many pre-drawn shapes. 
+
 * <a href = "https://www.svgrepo.com/">SVGrepo </a> is currently the largest (500.000!) general resource and has a pretty cool style search function (by color, rounded, filled/outline, sharp/rounded icons).  
 ![SVGrepo icons](SVG.png)
+
 * <a href = "https://thenounproject.com/">Nounproject</a> is a large repository sourcing icons from various designers, hence the available icons are vast, but also not matched in style, icons can be used for free with attribution as SVG or PNG. 
 ![Nounproject icons](Noun.png)
+
 * <a href = "https://fontawesome.com/icons">Fontawesome</a> is a unicode-based icon library that also can be installed locally as a font for graphic programs or downloaded as SVG. 
 ![Fontawesome icons](Font.png)
 
 
-Biology and Medicine specific icons are in addition available. 
+##### Biology and Medicine specific icons are in addition available. 
 
 * <a href = "https://smart.servier.com/">SmartServier</a> released full slide-decks with medically-relevant images - lots of detail for diseases!
 ![SmartServier icons](Smart.png)
+
 * <a href = "https://bioicons.com/">Biocions</a> releases a growing list of biology and laboratory icons, such as Petri dishes and model organisms, mostly as CC0, and it accepts submissions to expand this library! 
+
 * <a href = "healthicons.org">Healthicons</a> has many really simple icons for specialized medical scenarios. Free, no attribution, downloadable!
 ![bioicons](BioIc.png)
+
 * <a href = "phylopic.org/">Phylopic</a> has shapes of numerous animals, e.g. for phylogeny tree
+
 * <a href = "ebi.ac.uk/style-lab/general/fonts/v1.3/">General scientific icon</a>
+
 * <a href = "https://reactome.org/icon-lib">Reactome</a> started a collection of scientific pictograms and chemical drawings for free re-use and encourages the upload of user-designed pictograms for sharing with the scientific community. I have not seen it grow much, wonder where it will go.
 
 When selecting icons for a graphical abstract make sure all icons have an overall similar appearance: same line-width, colors, and level of detail. Many times icon libraries have a design team to ensure this, but open libraries collect pictograms from various designers with quite distinct appearance. 
