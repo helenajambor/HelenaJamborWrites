@@ -92,5 +92,6 @@ Before starting the design process, spend a good amount of time brainstorming th
 
 ![Write down a key message first, then spend time implementing a Graphical Abstract](Draw.png)
 
+Note, an earlier version of this post lives at <a href =" https://helenajambor.wordpress.com/2020/10/27/how-to-graphical-abstracts/">my wordpress site</a>
 
 
