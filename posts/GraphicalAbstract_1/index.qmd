@@ -91,6 +91,7 @@ A popular, however increasingly costly option are <a href="https://www.biorender
 Before starting the design process, spend a good amount of time brainstorming the key message you want to get across. I personally do this by doodling on paper and discussing with peers. Without a clear main message, it will be impossible to design a good graphical abstract. These days a quick conversation with ChatGPT may also help to towards summarizing an abstract to a punchy one-to-two sentences condensed version. 
 
 ![Write down a key message first, then spend time implementing a Graphical Abstract](Draw.png)
+See more about layout in [Graphical Abstracts 2](../GraphicalAbstracts_2/index.qmd) and text and colors in [Graphical Abstracts 3](../GraphicalAbstracts_3/GraphicalAbstracts.qmd)
 
 Note, an earlier version of this post lives at <a href =" https://helenajambor.wordpress.com/2020/10/27/how-to-graphical-abstracts/">my wordpress site</a>
 
