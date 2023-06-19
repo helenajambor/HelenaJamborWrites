@@ -19,7 +19,7 @@ The key element of every graphical abstract are the visuals - pictograms, icons,
 All graphical abstract have key visuals and usually these are icons, pictograms or symbols, less common are iconic microscope or photographic pics or charts. Pictograms can be illustrations, constructed from simple shapes, but mostly are found in icon libraries. Many icon libraries are free and some can also be used without attribution (public domain). 
 In libraries, icons can be downloaded as **PNG** or **SVG** file. PNG, Portable Network Graphic, is a raster-graphics format for lossless data compression. PNGs are ready to use on the web or in software, but are not adaptable. SVG, Scalable Vector Graphic, is a vector images format that can be used interactively on the web, adapted with graphic software, and also used as image as is. Best: you can scale it as large as you like and no pixels will appear. Yay for large posters!
 
-Libraries for general icons: 
+##### Libraries for general icons: 
 
 * PowerPoint (newer versions) come with free image and icon libraries, as well as many pre-drawn shapes. 
 
@@ -28,6 +28,7 @@ Libraries for general icons:
 
 * <a href = "https://thenounproject.com/">Nounproject</a> is a large repository sourcing icons from various designers, hence the available icons are vast, but also not matched in style, icons can be used for free with attribution as SVG or PNG. 
 ![Nounproject icons](Noun.png)
+
 
 * <a href = "https://fontawesome.com/icons">Fontawesome</a> is a unicode-based icon library that also can be installed locally as a font for graphic programs or downloaded as SVG. 
 ![Fontawesome icons](Font.png)
@@ -38,15 +39,19 @@ Libraries for general icons:
 * <a href = "https://smart.servier.com/">SmartServier</a> released full slide-decks with medically-relevant images - lots of detail for diseases!
 ![SmartServier icons: detailled](Smart.png)
 
+
 * <a href = "https://bioicons.com/">Biocions</a> releases a growing list of biology and laboratory icons, such as Petri dishes and model organisms, mostly as CC0, and it accepts submissions to expand this library! 
 ![bioicons - same look as SmartServier](BioIc.png)
 
 * <a href = "healthicons.org">Healthicons</a> has many really simple icons for specialized medical scenarios. Free, no attribution, downloadable!
 ![Health Icons - simple icons](Health.png)
 
-* <a href = "phylopic.org/">Phylopic</a> has shapes of numerous animals, e.g. for phylogeny tree
+* <a href = "https://www.phylopic.org/">Phylopic</a> has 7500 shapes of animals, plants, algae, , e.g. for phylogeny tree, most in public domain and free to re-used. You can curate your collection. Thank you <a href ="http://tmkeesey.net/"> Michael Keesey </a>!   
 
-* <a href = "ebi.ac.uk/style-lab/general/fonts/v1.3/">General scientific icon</a>
+![Phylopic - shapes of biology](Phylo.png)
+
+
+* <a href = "ebi.ac.uk/style-lab/general/fonts/v1.3/">General scientific icon</a> from the EBI. 
 
 * <a href = "https://reactome.org/icon-lib">Reactome</a> started a collection of scientific pictograms and chemical drawings for free re-use and encourages the upload of user-designed pictograms for sharing with the scientific community. I have not seen it grow much, wonder where it will go.
 
@@ -57,7 +62,7 @@ When you want to adapt icons to match in style, get the SVG file which is adapta
 
 ![What to do: mix icons that have overall similar appearance](GA_pictogram1.png)
 
-
+#### Key visual: data in chart
 When a key visual should show data in the form of a chart, it is advisable to stick to the most common chart types, bar, line, pie chart or scatter plots. Most readers are familiar with these and they are founded on our core visual perception abilities, comparing lengths, angles, or slopes. For all charts ensure that only a few categories or data points are included and details, tick marks, axis label, legends, are omitted.
 
 ![Simple Charts that may be used in Graphical Abstracts](DataViz.png)
@@ -74,7 +79,7 @@ Suitable vector-design software are:
 * Adobe Illustrator (commercial) 
 * CorelDraw (commercial)
 * Affinity Designer (commercial)
-* open-source: <a href="https://inkscape.org/">Inkscape</a>  - this sweet readers, has direct link to many icon libraries inbuild!! 
+* open-source: <a href="https://inkscape.org/">Inkscape</a>  - this sweet readers, has direct link to many icon libraries (newest version)! Go to File > Import Web Image > select library.
 
 Vector-based graphics programs allow zooming in and out without quality loss. For most graphical abstracts PowerPoint will also produce sufficient results when slides are adjusted in size and exported as vector graphics, e.g., as PDF. To prevent pixelation select that images are not compressed in the options. 
 A big plus of the open source Inkscape: it keeps getting better. Newest feature: direct import of icons from web-based icon libraries via “Import Web Image” tab. This works already for Bioicons and Reactome via dropdown. Also possible in Inkscaoe: script-based image processing, and script-based chart preparation. Another plus, Inkscape relies on the web vector format SVG and is thus readable by browsers and other vector graphics programs. 
