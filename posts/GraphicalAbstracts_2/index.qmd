@@ -1,5 +1,5 @@
 ---
-title: "How to... Graphical abstracts 2: Organising the page"
+title: "How to... Graphical abstracts 2: Layout and arrows"
 description: "Layout and arrows to organise Graphical abstracts"
 author: "Helena Jambor"
 date: "20230619"
@@ -7,7 +7,7 @@ categories:
   - datavis
   - how-to
   - Graphical abstracts
-image: Layout_figure.png
+image: "Layout_dimensions2-01.png"
 ---
 ## How to... Graphical Abstacts 2
 In [Graphical Abstracts 1](../GraphicalAbstract_1/index.qmd) I outlined where you can find tools, icons, pictograms and simple charts for you Graphical Abstracts. In the next step, the visuals need to be organised into a logical sequence. You therefore need to know your page dimension, decide on a reading direction, and then support the chosen layout with arrows. And at the very end, you can add a little text and colors 
