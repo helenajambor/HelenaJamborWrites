@@ -7,7 +7,7 @@ categories:
   - datavis
   - tables
   - how-to
-image: ""
+image: "myYear4.png"
 ---
 [Last week](../TablesCalendarData/TablesCalendarData.qmd) I visualized the days I did sports in 2017 by hand with illustrator. Most of the time, we want however re-tell similar data (I am not giving up sports anytime soon!), so I always look for ways to create visualizations computationally, for example in R. Therefore, today, I show you how to make a viz of data on days of a year in R.
 

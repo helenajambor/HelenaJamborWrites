@@ -7,7 +7,7 @@ categories:
   - datavis
   - charts
   - SciVis
-image: ""
+image: "30DayChartChallenge/week1.png"
 ---
 ## 30+ charts
 The <a href="https://30daychartchallenge.org/">#30DayChartChallenge</a> is an annual festival for chart-lovers around the world. There is a daily visualization challenge and participants submit  their contributions online. Datasets, data analysis, tools, and presentation is entirely up to the participant. 

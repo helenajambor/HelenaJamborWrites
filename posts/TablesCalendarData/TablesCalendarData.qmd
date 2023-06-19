@@ -7,7 +7,7 @@ categories:
   - datavis
   - tables
   - how-to
-image: ""
+image: "img_0173.jpg"
 ---
 ## Tables: Calendar Data 
 #### A New year’s resolution

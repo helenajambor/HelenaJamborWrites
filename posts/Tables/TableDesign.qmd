@@ -7,7 +7,7 @@ categories:
   - datavis
   - tables
   - how-to
-image: ""
+image: "alignment_tables-01.png"
 ---
 ## How to... Tables
 #### The ancient gold of DataViz
