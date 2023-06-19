@@ -7,7 +7,7 @@ categories:
   - datavis
   - Vis formats
   - how-to
-image: ""
+image: "text3.png"
 
 ---
 ## How to... Graphical Abstacts 3
