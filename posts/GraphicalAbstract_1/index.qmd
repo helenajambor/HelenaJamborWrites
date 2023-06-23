@@ -51,7 +51,7 @@ In libraries, icons can be downloaded as **PNG** or **SVG** file. PNG, Portable 
 ![Phylopic - shapes of biology](Phylo.png)
 
 
-* <a href = "ebi.ac.uk/style-lab/general/fonts/v1.3/">General scientific icon</a> from the EBI. 
+* <a href = "https://www.ebi.ac.uk/style-lab/general/fonts/v1.3/">General scientific icons</a> from the EBI, many related to bioinformatics! (But also: Bomb.. wonder how that entered the collection!?). Very neat, you can request support and icons! 
 
 * <a href = "https://reactome.org/icon-lib">Reactome</a> started a collection of scientific pictograms and chemical drawings for free re-use and encourages the upload of user-designed pictograms for sharing with the scientific community. I have not seen it grow much, wonder where it will go.
 
