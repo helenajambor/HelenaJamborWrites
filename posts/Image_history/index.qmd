@@ -17,8 +17,6 @@ Images were essential for scientific communication long before the era of photog
 
 Later, scientific drawings and copper plates intentionally showed “averages” of specimen, the drawing essentially being an overlay of many observed individuals. Maria Sibylla Merian and others who documented nature explained the size of specimen in their drawings and often included known insects that could double as scale information. 
 
-![Maria Sibylla Merian (1647-1717) - "Das kleine Buch der Tropenwunder", Insel Verlag, Leipzig Wiesbaden 1954, Public Domain, from: https://commons.wikimedia.org/w/index.php?curid=3319993](Merian.jpg)
-
 ## Photography
 With the advent of photography, publications started to include photos and microscopic images of specimen. A pioneer of photographic images in biomedical sciences was the physiologist Marey. Étienne-Jules Marey developed many medical apparatuses, and notably the first “chronophotographic gun” in 1882 which allowed him to capture twelve frames per second on the same picture to document the rapid movements of animal and human locomotion. Notably, Marey also authored the first text book of data visualizing for physiology, introducing many scientists to charts and images for collecting biomedical data. The book, La Méthode graphique dans les sciences expérimentales can be viewed online in French (Text on line) and was recently translated by George Hattab and RJ Andrews (https://medium.com/nightingale/information-graphic-visionaries-6dda1a0b8056).
 
@@ -28,7 +26,7 @@ At the turn of the last century, the first photographs appeared in scientific jo
 
 ![Photo by Newth in Nature, July, 1930 documents feeding of an Amphioxus larva](Newth.png)
 
-Image in scientific publications however were not always well received – in a letter to the editor, Benjamin Moore complained in 1910 that “Scores of pages are sacrificed to drawings, photographs, and descriptions of apparatus with which we all have been familiar from our youth onwards in our everyday laboratory work.”
+Image in scientific publications however were not always well received – in a letter to the editor, Benjamin Moore complained in 1910 that:
 
 ![Letter to the Editor, Nature](BMoore_1910.png)
 
