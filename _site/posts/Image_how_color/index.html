@@ -7,10 +7,10 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="author" content="Helena Jambor">
-<meta name="dcterms.date" content="2023-08-22">
+<meta name="dcterms.date" content="2023-08-10">
 <meta name="description" content="Images in biology and medicine from antiquity to today">
 
-<title>HelenaJamborWrites - (A very short) History of Bio-Images</title>
+<title>HelenaJamborWrites - How to… image colors</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -130,7 +130,7 @@ ul.task-list li input[type="checkbox"] {
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
     <div class="quarto-title column-body">
-      <h1 class="title">(A very short) History of Bio-Images</h1>
+      <h1 class="title">How to… image colors</h1>
                   <div>
         <div class="description">
           Images in biology and medicine from antiquity to today
@@ -138,7 +138,7 @@ ul.task-list li input[type="checkbox"] {
       </div>
                           <div class="quarto-categories">
                 <div class="quarto-category">images</div>
-                <div class="quarto-category">history</div>
+                <div class="quarto-category">how-to</div>
               </div>
                   </div>
   </div>
@@ -156,7 +156,7 @@ ul.task-list li input[type="checkbox"] {
       <div>
       <div class="quarto-title-meta-heading">Published</div>
       <div class="quarto-title-meta-contents">
-        <p class="date">August 22, 2023</p>
+        <p class="date">August 10, 2023</p>
       </div>
     </div>
     
@@ -174,8 +174,56 @@ ul.task-list li input[type="checkbox"] {
 
 
 
+<section id="how-to-image-colors" class="level2">
+<h2 class="anchored" data-anchor-id="how-to-image-colors">How to… image colors</h2>
+<p>Photos, histological staining, or clinical image, these are usually not color adjusted and shown in full color. Light microscopy images however are most often composed of one or several separate greyscale channels. For each channel, brightness and contrast can be adjusted. For comparisons of several images, fixed intensity values should be used. Novice users are advised to stick to linear adjustments that are applied to the whole image. For each individual greyscale channel, users can select a suitable display color (‘lookup table’).</p>
+</section>
+<section id="color-channels-in-fluorescenct-microscopy" class="level2">
+<h2 class="anchored" data-anchor-id="color-channels-in-fluorescenct-microscopy">Color channels in fluorescenct microscopy</h2>
+<p>For images with only one channel users can choose a display color with high contrast on the background. On a black background blue has the lowest, white the highest contrast; thus greyscale images will have the best visibility, even more so when the signal and background are inverted to black signal intensities on a white background.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="Colors_visibility.png" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Color visibility</figcaption>
+</figure>
+</div>
+<p>When combining several color channels, consider the visibility to color-blind audiences. Many cannot distinguish red from green, but also other combinations may be problematic. Online software and also ImageJ allow you to test color combinations for their visibility to diverse audiences. While two channels can be combined in color-blind save mode, it is impossible for three or more channels to be shown in a color blind friendly manner. Thus, the safest and best for contrast option is to show each color channel with a separate greyscale image. <img src="Colors.png" class="img-fluid" alt="Visibility test for color combinations"></p>
+</section>
+<section id="a-little-more-on-color-choices" class="level2">
+<h2 class="anchored" data-anchor-id="a-little-more-on-color-choices">A little more on color choices</h2>
+<section id="or-why-are-we-still-debating-this" class="level5">
+<h5 class="anchored" data-anchor-id="or-why-are-we-still-debating-this">or why are we still debating this?</h5>
+<p>In all forms of science communication, including image preparation, authors should be considered of colorblind readers. Among data scientists, it has been well established for at least over a century that red and green colors should not be used in parallel when communicating data. W.C. Brinton already wrote about this topic in his books in 1914 and 1939 (Chapter 49 “Color and its use”), citing an even older article by Edward Ayers from 1907, that “One man in twenty and one women in about two hundred are unable to see red and green normally” (Brintons book is <a href="https://archive.org/details/graphicpresentat00brinrich/mode/1up">fully online</a>). Surprisingly, this topic has still not reached all scientists: a recent, widely shared technology feature in Nature (<a href="https://doi.org/10.1038/d41586-021-02696-z">Katsnelson, 2021, Colour me better: fixing figures for colour blindness</a>) once more calls for authors to use inclusive colors. Also many scientific societies are backing calls for color inclusivity, e.g., <a href="https://www.ascb.org/science-news/how-to-make-scientific-figures-accessible-to-readers-with-color-blindness/">the American Society for Cell Biology</a>.</p>
+</section>
+</section>
+<section id="combine-colors" class="level2">
+<h2 class="anchored" data-anchor-id="combine-colors">Combine colors</h2>
+<p>How colors should be combined to be accessible to all readers is more controversial. For some images, such as colored photographs, rendering them safe for viewing by colorblind readers is not possible and risks sacrificing clarity. As pointed out above, adjusting the display colors is simple for most light microscopy images. Here, colors are selected in the microscope or image processing software. Many already offer combinations of color that are accessible to most colorblind audiences. Currently, many scientists already embraced green/magenta as a color scheme to replace green/red images. However, this may pose a semantic problem, when referring to red-fluorophores depicted in magenta color etc, or a convention problem to others, who feel “Green Fluorescent Protein” should not be shown in e.g., cyan. In light of these semantic and convention obstacles, scientists should embrace publishing each channel of a multicolored light microscope image as a standalone, separate (greyscale) image. Grayscale images are in any case superior to discern fine image details such as specific structures or cells in images. Human eyes perceive the contrast between light and dark areas more easily than they do contrast between a color and dark areas, e.g.&nbsp;as is the case when showing intensities in green on a dark background.</p>
+</section>
+<section id="literature-on-colors-in-microscopy" class="level2">
+<h2 class="anchored" data-anchor-id="literature-on-colors-in-microscopy">Literature on colors in microscopy</h2>
+<p>A Review of Color Blindness for Microscopists: Guidelines and Tools for Accommodating and Coping with Color Vision Deficiency.<br>
+<a href="https://doi.org/10.1017/S1431927615000173">Keene, D.R., 2015, Microscopy and Microanalysis</a></p>
+<section id="tools-and-resources-for-color-choices" class="level4">
+<h4 class="anchored" data-anchor-id="tools-and-resources-for-color-choices">Tools and resources for color choices</h4>
+<ul>
+<li>
+Design color palettes &amp; test accessibility<a href="https://hclwizard.org">HCLwizard</a>
+</li>
+<li>
+Find color palettes for charts<a href="https://colorbrewer2.org">ColorBrewer2</a>
+</li>
+<li>
+Blog on Viz for Colorblind readers<a href="https://www.datylon.com/blog/data-visualization-for-colorblind-readers">Datylon blog</a>
+</li>
+<li>
+Tableau blog on red/green<a href="https://www.tableau.com/blog/examining-data-viz-rules-dont-use-red-green-together">Tableau blog</a>
+</li>
+</ul>
 
 
+</section>
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
