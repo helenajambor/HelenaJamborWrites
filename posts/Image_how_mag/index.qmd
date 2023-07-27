@@ -23,7 +23,7 @@ Next, many images are rotated. There are consensus ways to orient images in many
 Cropping is a normal adjustment to focus the audience on the key message. To show cellular structures, a close up of the organelle is required, not the whole slide that was imaged. As a rule, cropping is permitted, as long as no key feature is removed that is important for the scientific conclusion. 
 Scientist should also consider the size of the image in the final figure: are the features that matter visible? Might it be better to show the image in larger size? Alternatively, consider enlarging and cropping the image to focus the reader on your key result, or ideally show the original image and an image detail (inset) side by side. When insets are shown their position in the original image must be indicated, e.g., with a “Region of interest”.
 
-![Example of poor and improved insets in figures](Insets.png)
+![Example of poor and improved insets in figures<a href ="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001161">from Jambor 2021</a>](Insets.png)
 
 ## Assembling a figure with images 
 Finally, when images are all processed there are many solutions to assembling multi-panel figures. Usually, figures do not only show one microscope image, but several views, split channels, merged images, or false-color quantifications. One is <a href ="https://imagej.net/plugins/figurej">FigureJ</a>, a plugin for ImageJ/FIJI by Jerome Mutterer. Another possibility is QuickFigures, again for ImageJ by Mazo. And last, it is also possible to run image processing scripts in the vector graphics software Inkscape directly (<a href="https://www.youtube.com/watch?v=hdlnZMybf7g">here</a> is a youtube tutorial by Jerome Mutterer). 
