@@ -10,6 +10,7 @@ categories:
 image: ""
 draft: true
 ---
+## How to… image scale information
 Microscopy images without any annotations are abstract art rather than scientific evidences. A first step towards making image content understandable is to annotate the object size, explain all colors, and any symbols used. [see How to...image annotation]
 
 ## How to… Scale

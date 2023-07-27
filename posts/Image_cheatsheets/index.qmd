@@ -9,6 +9,7 @@ categories:
 image: ""
 draft: true
 ---
+## Cheat sheets for Image publishing 
 Images are omnipresent in biomedical science [link history] but their understandability [link PLOS] and quality [link misleading] is often subpar. To truthfully report qualitative observations abd quantify observations images need to be properly processed. As images are digital data, the sequence and software of image processing matters.
 
 ## Image Workflow for Novice Users
