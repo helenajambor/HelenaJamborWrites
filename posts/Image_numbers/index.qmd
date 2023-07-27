@@ -24,40 +24,42 @@ Not too long ago a motivated group of scientists including me systematically ana
 This is possibly the most unexpected finding: many images in publications lack sufficient information about physical scales. This is unexpected as each of us had some memories of being taught about scale bars early in our careers, if not already in high-school biology. 
 Scale information can come in many forms and all of them were acceptable to us: as scale bar inside the image, as information about the physical size of the entire image in figures, and even an indication of the magnification were deemed acceptable. This however was entirely missing in 10-30% of the papers and incomplete in another 30-40% (Jambor et al., 2021). 
 
-![Many, many papers omit scale information in images](Scale_numbers.png){}
-![Examples of poor and better scale information for images](Scale_examples.png){}
+![Many, many papers omit scale information in images <a href ="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001161">from Jambor et al., 2021</a>)](Scale_numbers.png){}
+![Examples of poor and better scale information for images <a href ="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001161">from Jambor et al., 2021</a>)](Scale_examples.png){}
 
 #### Colors: often not accessible to color blind
 Red/Green color blindness affects around 10% of the male population, and less than 1% of the female population. Nonetheless, astonishingly 30 - 50% of the screened images were not color blind friendly! 
 In addition, in around 20% of images the annotations of colors were not color blind save. This means that colorblind readers are hindered in seeing or fully understand the key scientific messages conveyed in these images.
 
-![Colors in microscope images and visibility tests](Colors.png){}
+![Colors in microscope images and visibility tests <a href ="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001161">from Jambor et al., 2021</a>)](Colors.png){}
 
-![Examples of color visibility](Colors_visibility.png)
+![Examples of color visibility <a href ="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001161">from Jambor et al., 2021</a>)](Colors_visibility.png)
 
 #### Details: not visible, or insets not explained 
 Just like in photography, also in microscopy the key subject should ideally fill the frame. What does this mean? If you want to show a cellular detail, do not show the entire petri dish of cells – cutting unnecessary image details is allowed, if this does not change the conclusion! Likewise, if you aim to show morphology of an organ, make sure that said organ is fully visible – image stitching, if declared (legend, methods), is possible and allowed. 
 Many times an overview, e.g. of cell culture dish and a focus on some detail is shown with two images side by side, one the original image and alongside this a zoomed inset. In one third of publications, likely accidental, the origin of the inset in the original image is not clearly indicated or entirely missing. This hinders the audiences to understand the relation of inset to image, especially since in half of the cases the inset is also not explained in the legend. 
 
-![Inset example and the number of missing inset explanations](Insets_numbers.png){}
+![Inset example and the number of missing inset explanations <a href ="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001161">from Jambor et al., 2021</a>)](Insets_numbers.png){}
 
 
 #### Annotations: incomplete
 Speaking of annotations – they are not optional, despite what the data suggest: up to 30% of publications omit an explanation of the colors shown in images (e.g., channel, staining), up to 40% fail to explain symbols, regions of interest, or arrows, and many times the species or cell type visible in the image is not clear from the legend. Especially all colors and symbols must essentially be explained with the figure, while further details such as specimen could also be described in the method section – alas, it is also missing very often in this section, but that is another story (Marques G, 2020; Sheen et al., 2019).
 
-![Poor and better annotations, here of the color channels](Annotations.png){}
+![Poor and better annotations, here of the color channels <a href ="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001161">from Jambor et al., 2021</a>)](Annotations.png){}
 
 
 #### A happy ending 
 We showed that across all criteria, only 1/5 th of publications with images show fully interpretable images. Beyond our analysis, many papers also fail to understandably present data on image acquisition, imaging methods and also image processing details. We as scientific community have to ensure that our scientific data is truthful and reliable, and also  understandable to current and future readers. Incomprehensible images limit effective science communication and we should strive to improve all data we present in publications. 
 
-I have compiled a string blog posts “How to… Publish Images” that provide a rapid guidance and links to further resources. 
-How to... image formatting (August 1)
-How to... image scale information (August 3)
-How to... image annotation (August 8)
-How to... image colors (August 10)
-How to... image availability (August 15)
-How to... image analysis (tbd)
+I have compiled a series of blog posts “How to… Publish Images” that provide a rapid guidance and links to further resources. 
+<ul>
+<li>How to... image formatting (August 1)</li>
+<li>How to... image scale information (August 3)</li>
+<li>How to... image annotation (August 8)</li>
+<li>How to... image colors (August 10)</li>
+<li>How to... image availability (August 15)</li>
+<li>How to... image analysis (tbd)</li>
+</ul>
 
 #### Read more
 <ul>
