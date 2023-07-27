@@ -22,8 +22,7 @@ Scales are included in scientific illustrations for a long time in different way
 
 A long tradition is to include familiar objects in drawings or images for scale: a penny is placed on a rock, a person stands next to a tree, or a measuring tape is shown – and these measure are still used today.  
 
-![Earth worm next to measuring tape](worms.tif)
-
+![Earth worm next to measuring tape](worms copy.png)
 
 Using familiar objects for scale isn’t possible when we make microscopic observations. In the few early photographs and micrographs that got published (images were often considered a waste of space and decoration, see figure), scales were often omitted. 
 
