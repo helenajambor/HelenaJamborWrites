@@ -22,10 +22,12 @@ Not too long ago a motivated group of scientists including me systematically ana
 
 #### Scale information: missing in up to 70% of papers
 This is possibly the most unexpected finding: many images in publications lack sufficient information about physical scales. This is unexpected as each of us had some memories of being taught about scale bars early in our careers, if not already in high-school biology. 
-Scale information can come in many forms and all of them were acceptable to us: as scale bar inside the image, as information about the physical size of the entire image in figures, and even an indication of the magnification were deemed acceptable. This however was entirely missing in 10-30% of the papers and incomplete in another 30-40% (Jambor et al., 2021). 
+Scale information can come in many forms and all of them were acceptable to us: as scale bar inside the image, as information about the physical size of the entire image in figures, and even an indication of the magnification were deemed acceptable. This however was entirely missing in 10-30% of the papers and incomplete in another 30-40%.
 
-![Many, many papers omit scale information in images <a href ="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001161">from Jambor et al., 2021</a>)](Scale_numbers.png){}
-![Examples of poor and better scale information for images <a href ="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001161">from Jambor et al., 2021</a>)](Scale_examples.png){}
+![Many papers omit scale information for images, <a href ="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001161">from Jambor 2021</a>](Scale_numbers.png)
+
+![Examples of poor and better scale information, <a href ="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001161">from Jambor 2021</a>](Scale_examples.png)
+
 
 #### Colors: often not accessible to color blind
 Red/Green color blindness affects around 10% of the male population, and less than 1% of the female population. Nonetheless, astonishingly 30 - 50% of the screened images were not color blind friendly! 
