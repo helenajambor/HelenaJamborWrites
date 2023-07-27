@@ -1,0 +1,70 @@
+---
+title: "Cheat sheet Image preparation"
+description: "Cheat sheets to process and prepare images for publication"
+author: "Helena Jambor"
+date: "20230817"
+categories:
+  - images
+  - how-to
+image: ""
+draft: true
+---
+Images are omnipresent in biomedical science [link history] but their understandability [link PLOS] and quality [link misleading] is often subpar. To truthfully report qualitative observations abd quantify observations images need to be properly processed. As images are digital data, the sequence and software of image processing matters.
+
+## Image Workflow for Novice Users
+We have therefore compiled a easy to follow workflow to get from microscope to published image in simple steps. At the moment, only few scientists are trained in microscopy and image handling and only few research institutes have dedicated facilities – this means there is a great need in introductory level information.
+
+## Cheat Sheets
+The workflow is summarised in two printable cheat sheets. One cheat sheet explains the steps towards a publishable image, the second cheat sheet how to implement the steps with ImageJ/FIJI image processing software. 
+
+![Preparing an image for publication: a quick design reference. From: <a href = "https://f1000research.com/articles/9-1373">Schmied and Jambor. Effective image visualization for publications - a workflow using open access tools and concepts</a>](SchmiedJambor_Figure4.png){fig-alt="Cheat sheet that explains all steps and commands in FIJI to process and image for publication"}
+
+![Processing image: a quick guide how to do this in FIJI. From: <a href = "https://f1000research.com/articles/9-1373">Schmied and Jambor. Effective image visualization for publications - a workflow using open access tools and concepts </a>](SchmiedJambor_Figure3.png){fig-alt="Cheat sheet that explains all steps and commands in FIJI to process and image for publication"}
+
+##### Download
+Get the cheat sheets as <a href = "https://osf.io/cjp8w/">printable PDF</a>.
+
+## Further resources
+Beyond out cheat sheet there several specialized resources: 
+The “Biologist’s guide to planning and performing quantitative bioimaging experiments” describes the entire arc from sample to microscope via image analysis towards data interpretation and publication. The resource lists many key points and aggregates links to more detailed descriptions, making it easy for biologists to navigate their first microscopy experiments. 
+<ul>
+<li>A biologist’s guide to planning and performing quantitative bioimaging experiments. <a href = "https://doi.org/10.1371/journal.pbio.3002167">Senft RA, Diaz-Rohrer B, Colarusso P, Swift L, Jamali N, Jambor H, et al. (2023) PLoS Biol</a> </li>
+</ul>
+
+## More about
+#### Microscopy image acquisition
+<ul>
+<li>Seeing is believing? A beginners’ guide to practical pitfalls in image acquisition. <a href ="https://doi.org/10.1083/jcb.200507103">North, A.J., 2006. J Cell Biol</a></li>
+<li>Fluorescence microscopy--avoiding the pitfalls. J<a href ="https://doi.org/10.1242/jcs.03433">Brown, C.M., 2007. Cell Sci 120, 1703–1705. </a></li>
+<li>Rigor and Reproducibility in Confocal Fluorescence Microscopy. <a href ="https://doi.org/10.1002/cyto.a.23924">Jonkman, J., 2020. Cytometry A</a></li>
+</ul>
+
+#### Fluorophores and Filters
+<ul>
+<li>Optimizing live-cell fluorescence imaging conditions to minimize phototoxicity. <a href ="https://doi.org/10.1242/jcs.242834">Kiepas, A., Voorand, E., Mubaid, F., Siegel, P.M., Brown, C.M., 2020. J Cell Sci. </a></li>
+<li>Assessing phototoxicity in live fluorescence imaging.<a href ="https://doi.org/10.1038/nmeth.4344">Laissue, P.P., Alghamdi, R.A., Tomancak, P., Reynaud, E.G., Shroff, H., 2017. Nat Methods</a></li>
+<li>Recommendations for a standardized nomenclature for probe tags used in cytometry and microscopy imaging<a href ="https://doi.org/10.1002/cyto.a.24224">Blenman, K.R.M., Spidlen, J., Parks, D.R., Moore, W., Treister, A., Leif, R., Bray, C., Goldberg, M., ISAC Data Standards Task Force, Brinkman, R., 2021. ISAC Probe Tag Dictionary: Standardized Nomenclature for Detection and Visualization Labels Used in Cytometry and Microscopy Imaging. Cytometry A</a></li>
+</ul>
+
+#### Sample preparation
+<ul>
+<li>Seeing is believing? A beginners’ guide to practical pitfalls in image acquisition. <a href ="https://doi.org/10.1083/jcb.200507103">North, A.J., 2006. J Cell Biol</a></li>
+</ul>
+
+#### Method reporting
+<ul>
+<li>Towards community-driven metadata standards for light microscopy: tiered specifications extending the OME model.<a href ="https://doi.org/10.1038/s41592-021-01327-9">Hammer, M., Huisman, M., Rigano, A., Boehm, U., Chambers, J.J., Gaudreault, N., North, A.J., Pimentel, J.A., Sudar, D., Bajcsy, P., Brown, C.M., Corbett, A.D., Faklaris, O., Lacoste, J., Laude, A., Nelson, G., Nitschke, R., Farzam, F., Smith, C.S., Grunwald, D., Strambio-De-Castillia, C., 2021.  Nat Methods</a></li>
+<li>A guide to accurate reporting in digital image acquisition - can anyone replicate your microscopy data?<a href ="https://doi.org/10.1242/jcs.254144">Heddleston, J.M., Aaron, J.S., Khuon, S., Chew, T.-L., 2021.  J Cell Sci</a></li>
+<li>Best practices and tools for reporting reproducible fluorescence microscopy methods. <a href ="https://doi.org/10.1038/s41592-021-01156-w">Montero Llopis, P., Senft, R.A., Ross-Elliott, T.J., Stephansky, R., Keeley, D.P., Koshar, P., Marqués, G., Gao, Y.-S., Carlson, B.R., Pengo, T., Sanders, M.A., Cameron, L.A., Itano, M.S., 2021. Nat Methods</a></li>
+<li>Imaging methods are vastly underreported in biomedical research. <a href ="https://doi.org/10.7554/eLife.55133">Marques G, P.T., Sanders MA, 2020. Elife</a></li>
+<li>Micro-Meta App: an interactive tool for collecting microscopy metadata based on community specifications.<a href ="">Rigano, A. et al.  Nat. Methods</a></li>
+<li>MethodsJ2: a software tool to capture metadata and generate comprehensive microscopy methods text. <a href ="https://doi.org/10.1038/s41592-021-01290-5">Ryan, J., Pengo, T., Rigano, A., Llopis, P.M., Itano, M.S., Cameron, L.A., Marqués, G., Strambio-De-Castillia, C., Sanders, M.A., Brown, C.M., 2021. Nat Methods</a></li>
+</ul>
+
+#### Image analysis & processing software
+<ul>
+<li>Fiji: an open-source platform for biological-image analysis.<a href ="https://www.nature.com/articles/nmeth.2019">Schindelin J, Arganda-Carreras I, Frise E, Kaynig V, Longair M, Pietzsch T, et al. Nature methods</a></li>
+<li>A Hitchhiker’s guide through the bio-image analysis software universe.<a href ="https://doi.org/10.1002/1873-3468.14451">Haase, R., Fazeli, E., Legland, D., Doube, M., Culley, S., Belevich, I., Jokitalo, E., Schorb, M., Klemm, A., Tischer, C., 2022. FEBS Lett</a></li>
+<li>Reproducible image handling and analysis. <a href ="https://www.embopress.org/doi/full/10.15252/embj.2020105889">Miura K NS. EMBO J. 2021;40(3):e105889.</a></li>
+</ul>
+
