@@ -1,12 +1,33 @@
 ---
-title: "(A very short) History of Bio-Images"
-description: "Images in biology and medicine from antiquity to today"
+title: "How to… image availability"
+description: "Make your published images available for coworkers, colleagues and future re-analysis"
 author: "Helena Jambor"
-date: "20230822"
+date: "20230815"
 categories:
   - images
-#  - how-to
-  - history
+  - how-to
+#  - history
 image: ""
 draft: true
 ---
+## How to… image availability
+
+It was said before [LINK], but it should be said again. Make a copy of your original microscope/image file before starting any processing and adjustments and then store this image file along with the final, processed image somewhere save. 
+Ideally, it should be possible that other researchers get a copy of both the final published, processed image as well as its source. And at best this is done through a public repository, that is accessible independently of the authors – at present finding scientists is a lot of detective work when they change affiliation, Email, or even profession. A team investigated how good “data available upon request” really is – in almost 50% this did not even result in Email replies. The team then made “rigorous attempts to contact the authors”, i.e. continuously bothered the authors, which increased the data availability a little, but not enough (Tedersoo et al., 2021)!
+
+## Public places for your data
+For regular light microscope image techniques many public storage possibilities exist and should be used. 
+Free options for up to 20-50Gb of image data are Zenodo, OSF, and figshare. These repositories are broad and allow upload of any kind of digital data. 
+A dedicated option for image data are OMERO servers (https://www.openmicroscopy.org/omero/institution/), however these are usually maintained by institutions, rarely by individual labs and can be both public or private. 
+Image data repositories, that are fully searchable are still being build. The BioImage Archive is one such attempt that accepts any image data, the Image Data Resource publishes image datasets that serves as reference datasets, and EMPIAR is a resource specifically for Electron Microscopy data. 
+
+![Overview of data repositories that accept images. From: <a href="https://zenodo.org/record/7628604">Beth Cimini, 2023</a>](Beth.png)
+
+## What files to deposit? 
+The specific file type of the microscope image will depend on imaging setup. A standard format for loss-loss compression is TIFF or the open format OME-TIFF. 
+In specilizsed microscopy techniques that rapidly accumulate tera-bites of data, e.g., long-term live-imaging, light-sheet microscopy, or similar the original microscopy files are often not stored locally and too large for public repositories. When only compressed files can be kept, PNG files are preferred to e.g., JPEG files, as they allow loss-less compression. 
+
+#### Read more: 
+The BioImage Archive - Building a Home for Life-Sciences Microscopy Data.  434, 167505. <a href="https://doi.org/10.1016/j.jmb.2022.167505">Hartley et al 2022 J Mol Biol.</a> 
+
+A call for public archives for biological image data. <a href="https://doi.org/10.1038/s41592-018-0195-8">Ellenberg et al 2018.  Nat Methods.</a>
