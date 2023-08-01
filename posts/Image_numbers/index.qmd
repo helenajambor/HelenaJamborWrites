@@ -63,7 +63,8 @@ I have compiled a series of blog posts “How to… Publish Images” that provi
 <li>How to... image analysis (tbd)</li>
 </ul>
 
-[Graphical Abstracts 1](../GraphicalAbstract_1/index.qmd)
+PS if you are interested, I usually write about more general visualizations, e.g., 
+[How to create Graphical Abstracts](../GraphicalAbstract_1/index.qmd)
 
 #### Read more
 <ul>
