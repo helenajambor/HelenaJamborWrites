@@ -55,13 +55,15 @@ We showed that across all criteria, only 1/5 th of publications with images show
 
 I have compiled a series of blog posts “How to… Publish Images” that provide a rapid guidance and links to further resources. 
 <ul>
-<li>How to... image formatting (August 1)</li>
+<li>How to... image formatting (August 1) [Link to blog](../Image_how_mag/index.qmd)</li>
 <li>How to... image scale information (August 3)</li>
 <li>How to... image annotation (August 8)</li>
 <li>How to... image colors (August 10)</li>
 <li>How to... image availability (August 15)</li>
 <li>How to... image analysis (tbd)</li>
 </ul>
+
+[Graphical Abstracts 1](../GraphicalAbstract_1/index.qmd)
 
 #### Read more
 <ul>

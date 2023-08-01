@@ -10,6 +10,7 @@ categories:
 image: "Kota.png"
 ---
 ## How to… image formatting
+In my [previous post](../Image_numbers/index.qmd) I wrote about issues that make images in publications hard to understand. Now let's improve this! 
 
 #### Before you start… 
 At best do not mess with the image from your microscope (usually .TIFF).Before adjusting an image for publication, first make a copy and keep the original untouched somewhere save. You more likely than not will need it at some point, e.g. to re-do analysis with newer software, make a better version for publication, or to give to colleagues for reanalysis! 
