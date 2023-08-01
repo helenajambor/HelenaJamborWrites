@@ -7,7 +7,7 @@ categories:
   - images
   - how-to
 #  - history
-image: ""
+image: "worms copy.png"
 draft: true
 ---
 ## How to… image scale information

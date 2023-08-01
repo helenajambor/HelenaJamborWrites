@@ -8,7 +8,6 @@ categories:
   - how-to
 #  - history
 image: "Kota.png"
-draft: true
 ---
 ## How to… image formatting
 
