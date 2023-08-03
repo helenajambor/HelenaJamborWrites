@@ -15,6 +15,9 @@ Microscopy images without any annotations are abstract art rather than scientifi
 ## How to… Scale
 Every scientific image needs scale information to allow audiences to compare and relate the image size with the physical world [alas, not enoug published images have scales](../Image_numbers/index.qmd). Scale information is best conveyed with a scale bar with its physical dimensions. It’s also possible to make statements about the size of the entire image, or, as last resort, state the dimensions in the figure legend.
 
+![Examples of poor and better scale information, <a href ="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001161">from Jambor 2021</a>](Scale_examples.png)
+
+
 ## Many ways to show scale in images
 Scales are included in scientific illustrations for a long time in different ways. I recently saw drawings by Maria Sybilla Merian at Kupferstichkabinett Berlin and the Library Dresden. Merian, who lived from 1647 to 1717, is renowned for her exceptional illustrations of biological specimens and gained recognition as a scientist for her nature observations, for example, of insect metamorphosis. Merian took care of size statements with her actual drawings, as she stated in the preface of her books that all drawings are to scale. So for her drawings the size of the original book page will allow you to assess the specimen size.  
 
