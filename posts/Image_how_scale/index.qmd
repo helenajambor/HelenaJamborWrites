@@ -8,13 +8,12 @@ categories:
   - how-to
 #  - history
 image: "worms copy.png"
-draft: true
 ---
 ## How to… image scale information
-Microscopy images without any annotations are abstract art rather than scientific evidences. A first step towards making image content understandable is to annotate the object size, explain all colors, and any symbols used. [see How to...image annotation]
+Microscopy images without any annotations are abstract art rather than scientific evidences. [After deciding on image size and format](../Image_how_mag/index.qmd), the next step towards making image content understandable is to annotate the object size, explain all colors, and any symbols used.
 
 ## How to… Scale
-Every scientific image needs scale information to allow audiences to compare and relate the image size with the physical world. Scale information is best conveyed with a scale bar with its dimensions. It’s also possible to make statements about the size of the entire image, or, as last resort, state the dimensions in the figure legend.
+Every scientific image needs scale information to allow audiences to compare and relate the image size with the physical world [alas, not enoug published images have scales](../Image_numbers/index.qmd). Scale information is best conveyed with a scale bar with its physical dimensions. It’s also possible to make statements about the size of the entire image, or, as last resort, state the dimensions in the figure legend.
 
 ## Many ways to show scale in images
 Scales are included in scientific illustrations for a long time in different ways. I recently saw drawings by Maria Sybilla Merian at Kupferstichkabinett Berlin and the Library Dresden. Merian, who lived from 1647 to 1717, is renowned for her exceptional illustrations of biological specimens and gained recognition as a scientist for her nature observations, for example, of insect metamorphosis. Merian took care of size statements with her actual drawings, as she stated in the preface of her books that all drawings are to scale. So for her drawings the size of the original book page will allow you to assess the specimen size.  
