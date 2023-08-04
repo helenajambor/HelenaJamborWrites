@@ -242,7 +242,7 @@
     "href": "posts/Image_how_scale/index.html#many-ways-to-show-scale-in-images",
     "title": "How to… image scale information",
     "section": "Many ways to show scale in images",
-    "text": "Many ways to show scale in images\nScales are included in scientific illustrations for a long time in different ways. I recently saw drawings by Maria Sybilla Merian at Kupferstichkabinett Berlin and the Library Dresden. Merian, who lived from 1647 to 1717, is renowned for her exceptional illustrations of biological specimens and gained recognition as a scientist for her nature observations, for example, of insect metamorphosis. Merian took care of size statements with her actual drawings, as she stated in the preface of her books that all drawings are to scale. So for her drawings the size of the original book page will allow you to assess the specimen size.\n\n\n\nMaria Sibylla Merian (1647-1717) - “Das kleine Buch der Tropenwunder”, Insel Verlag, Leipzig Wiesbaden 1954, Public Domain, from: https://commons.wikimedia.org/w/index.php?curid=3319993\n\n\nA long tradition is to include familiar objects in drawings or images for scale: a penny is placed on a rock, a person stands next to a tree, or a measuring tape is shown – and these measure are still used today.\n\n\n\nEarth worm next to measuring tape\n\n\nUsing familiar objects for scale isn’t possible when we make microscopic observations. In the few early photographs and micrographs that got published (images were often considered a waste of space and decoration, see figure), scales were often omitted."
+    "text": "Many ways to show scale in images\nScales are included in scientific illustrations for a long time in different ways. In Maria Merian times, size statements were included in the book, not the drawing itself; she usually stated in the preface that all drawings are at real scale.\nMany times familiar objects are included in drawings or images for scale. Often, this is a human figure, e.g. with plants and trees, rocks, or animals.\n\n\n\n\n\n\n\n\n\n\n\n\n\nFigure 2: Humans for scale of plants, dinosaurs, and unexpectedly large invertebrates\n\n\nAt times other familiar objects are included: a penny is placed on a rock in geology or a measuring tape is shown.\n\n\n\n\n\n\n\n\n\n\n\n\nFigure 3: Earth worm next to measuring tape and bone scaled with credit-card measure (merch from Nat_SCA)"
   },
   {
     "objectID": "posts/Image_how_scale/index.html#suggestions-for-scale-bars",
@@ -257,5 +257,40 @@
     "title": "How to… image scale information",
     "section": "Scales by size comparisons - some good, some meh",
     "text": "Scales by size comparisons - some good, some meh\nA lovely tool that tried placing familiar objects next to microscopic scenes is the Utah genetics cellular scale animation Genetics Utah Animation of Scale I never cease to be amazed at the relative size differences of cells and how they vary over so many magnitudes! A fun, although not quite practical idea is suggested by Monica Zoppe, cats for scale! Check out  her article!\n\n\n\nUnconventional idea for annotating scales in biology"
+  },
+  {
+    "objectID": "posts/Image_how_scale/index.html#how-to-scale-bar",
+    "href": "posts/Image_how_scale/index.html#how-to-scale-bar",
+    "title": "How to… image scale information",
+    "section": "How to… Scale bar",
+    "text": "How to… Scale bar\nEvery scientific image needs scale information to allow audiences to compare and relate the image size with the physical world and not all published images currently have scale info. Scale information is best conveyed with a scale bar with its physical dimensions. It’s also possible to make statements about the size of the entire image, or, as last resort, state the dimensions in the figure legend.\n\n\n\n\n\n\n\nFigure 1: Examples of poor and better scale information, from Jambor 2021"
+  },
+  {
+    "objectID": "posts/Image_how_scale/index.html#scales-in-microscopy-images",
+    "href": "posts/Image_how_scale/index.html#scales-in-microscopy-images",
+    "title": "How to… image scale information",
+    "section": "Scales in microscopy images",
+    "text": "Scales in microscopy images\nUsing familiar objects for scale isn’t possible when we make microscopic observations. This may be why in the earliest published photographs and microscope pictures (not many, images were long considered a waste of space and pure decoration…), scales are omitted.\nA lovely tool that tried placing familiar objects next to microscopic scenes is the Utah genetics cellular scale animation Genetics Utah Animation of Scale I never cease to be amazed at the relative size differences of cells and how they vary over so many magnitudes!\n\nAlternative to sclae bars\nA cute alternative to the regular scale bar is here, thanks to Filip Port/@criprflydesign who turned the googly eyes of @thekengevik into a veritable scale bar!\n\n\n\n\n\n\n\n\n\n\nFigure 4: thekengevik googly eyes idea and googly eyes adapted for scale\n\n\nAnd finalkly, a fun but maybe not quite practical idea is suggested by Monica Zoppe, cats for scale! Check out  her article!\n\n\n\n\n\n\n\nFigure 5: Unconventional idea for annotating scales in biology"
+  },
+  {
+    "objectID": "posts/Image_how_scale/index.html#suggestions-for-making-scale-bars",
+    "href": "posts/Image_how_scale/index.html#suggestions-for-making-scale-bars",
+    "title": "How to… image scale information",
+    "section": "Suggestions for making scale bars",
+    "text": "Suggestions for making scale bars\nAs we don’t have a clear mental image of the size of a salt grain, sesames seed, or submicron cats to reliably use them to scale, we have to for now rely on scale bars. Using ImageJ/FIJI this can be rapidly accomplished: when using Bioformats to import microscopy files, the metadata, including the physical size, is read in. Then use Analyze &gt; Tools &gt; Scale Bar to define length, width, color, position, and label or your scale bar.\n\nLength\nBe kind to your audience and use simple units, such as 100um, 50um, 10 or 2um.\n\n\nColor\nScale bars should have a high contrast with the background. Avoid red, green, or blue bars, as these colors might be considered part of the image.\n\n\nPosition\nLower left corner is a safe place. The upper space should be kept for important information like species, cell type, or gene name, and many times figure panel name (A, B,…).\n\n\nAdd scale bar last\nIn the process of writing your manuscript you may re-think the figure size. Also images are re-sized for posters and slides. It is therefore easiest to add only a very fine scale bar with FIJI and then re-draw it in Adobe Illustrator (or PowerPoint, as I now that about half of you out there use PowerPoint for making figures and posters!).\n\n\nIn FIJI/ImageJ\n\n\n\n\n\n\n\nFigure 6: Quick scale bar with FIJI/ImageJ. Also check this Youtube Tutorial from Lipke Lab\n\n\n\n\nPS\n…if you find old scientific images with scale bars, or interesting scales, send them my way for my collection!"
+  },
+  {
+    "objectID": "posts/Image_how_scale/index.html#scale-bar-in-publications",
+    "href": "posts/Image_how_scale/index.html#scale-bar-in-publications",
+    "title": "How to… image scale information",
+    "section": "Scale bar in publications",
+    "text": "Scale bar in publications\nEvery scientific image needs scale information to allow audiences to compare and relate the image size with the physical world and not all published images currently have scale info. Scale information is best conveyed with a scale bar with its physical dimensions. It’s also possible to make statements about the size of the entire image, or, as last resort, state the dimensions in the figure legend.\n\n\n\n\n\n\n\nFigure 1: Examples of poor and better scale information, from Jambor 2021"
+  },
+  {
+    "objectID": "posts/Image_how_scale/index.html#scale-bars-in-publications",
+    "href": "posts/Image_how_scale/index.html#scale-bars-in-publications",
+    "title": "How to… image scale information",
+    "section": "Scale bars in publications",
+    "text": "Scale bars in publications\nEvery scientific image needs scale information to allow audiences to compare and relate the image size with the physical world and not all published images currently have scale info. Scale information is best conveyed with a scale bar with its physical dimensions. It’s also possible to make statements about the size of the entire image, or, as last resort, state the dimensions in the figure legend.\n\n\n\n\n\n\n\nFigure 1: Examples of poor and better scale information, from Jambor 2021"
   }
 ]

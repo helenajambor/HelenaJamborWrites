@@ -12,37 +12,88 @@ image: "worms copy.png"
 ## How to… image scale information
 Microscopy images without any annotations are abstract art rather than scientific evidences. [After deciding on image size and format](../Image_how_mag/index.qmd), the next step towards making image content understandable is to annotate the object size, explain all colors, and any symbols used.
 
-## How to… Scale
-Every scientific image needs scale information to allow audiences to compare and relate the image size with the physical world [alas, not enoug published images have scales](../Image_numbers/index.qmd). Scale information is best conveyed with a scale bar with its physical dimensions. It’s also possible to make statements about the size of the entire image, or, as last resort, state the dimensions in the figure legend.
+## Scale bars in publications
+Every scientific image needs scale information to allow audiences to compare and relate the image size with the physical world [and not all published images currently have scale info](../Image_numbers/index.qmd). Scale information is best conveyed with a scale bar with its physical dimensions. It’s also possible to make statements about the size of the entire image, or, as last resort, state the dimensions in the figure legend.
 
-![Examples of poor and better scale information, <a href ="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001161">from Jambor 2021</a>](Scale_examples.png)
+::: {#fig-Scales layout-ncol=1}
+![](Scale_examples.png)
 
+Examples of poor and better scale information, <a href ="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001161">from Jambor 2021</a>
+:::
 
 ## Many ways to show scale in images
-Scales are included in scientific illustrations for a long time in different ways. I recently saw drawings by Maria Sybilla Merian at Kupferstichkabinett Berlin and the Library Dresden. Merian, who lived from 1647 to 1717, is renowned for her exceptional illustrations of biological specimens and gained recognition as a scientist for her nature observations, for example, of insect metamorphosis. Merian took care of size statements with her actual drawings, as she stated in the preface of her books that all drawings are to scale. So for her drawings the size of the original book page will allow you to assess the specimen size.  
+Scales are included in scientific illustrations for a long time in different ways. In Maria Merian times, size statements were included in the book, not the drawing itself; she usually stated in the preface that all drawings are at real scale. 
 
-![Maria Sibylla Merian (1647-1717) - "Das kleine Buch der Tropenwunder", Insel Verlag, Leipzig Wiesbaden 1954, Public Domain, from:  https://commons.wikimedia.org/w/index.php?curid=3319993](Merian.jpg)
+Many times familiar objects are included in drawings or images for scale. Often, this is a human figure, e.g. with plants and trees, rocks, or animals.   
 
-A long tradition is to include familiar objects in drawings or images for scale: a penny is placed on a rock, a person stands next to a tree, or a measuring tape is shown – and these measure are still used today.  
+::: {#fig-humanscale layout-ncol=3}
+![](Scale_human.png){width=250}
 
-![Earth worm next to measuring tape](worms copy.png)
+![](ReDreaw_ipad.jpg){width=320}
 
-Using familiar objects for scale isn’t possible when we make microscopic observations. In the few early photographs and micrographs that got published (images were often considered a waste of space and decoration, see figure), scales were often omitted. 
+![](NICE_scalebar_human-for-scale.PNG){width=180}
 
-## Scales by size comparisons - some good, some meh
-A lovely tool that tried placing familiar objects next to microscopic scenes is the Utah genetics cellular scale animation <a href="http://learn.genetics.utah.edu/content/cells/scale/">Genetics Utah Animation of Scale</a> I never cease to be amazed at the relative size differences of cells and how they vary over so many magnitudes! A fun, although not quite practical idea is suggested by Monica Zoppe, cats for scale! Check out <a href="http://www.nature.com/nmeth/journal/v14/n7/abs/nmeth.4300.html"> her article!</a>
+Humans for scale of plants, dinosaurs, and unexpectedly large invertebrates
+:::
 
-![Unconventional idea for annotating scales in biology](Zoppe.png)
+At times other familiar objects are included: a penny is placed on a rock in geology or a measuring tape is shown. 
 
-## 3 suggestions for scale bars
+
+::: {#fig-familiars layout-nrow=2}
+![](worms copy.png)
+
+![](NigelLarkin_Nat_SCA_Scalebar.png)
+
+Earth worm next to measuring tape and bone scaled with credit-card measure (merch from Nat_SCA)
+:::
+
+## Scales in microscopy images 
+Using familiar objects for scale isn’t possible when we make microscopic observations. This may be why in the earliest published photographs and microscope pictures (not many, images were long considered a waste of space and pure decoration...), scales are omitted. 
+
+A lovely tool that tried placing familiar objects next to microscopic scenes is the Utah genetics cellular scale animation <a href="http://learn.genetics.utah.edu/content/cells/scale/">Genetics Utah Animation of Scale</a> I never cease to be amazed at the relative size differences of cells and how they vary over so many magnitudes! 
+
+#### Alternative to sclae bars 
+A cute alternative to the regular scale bar is here, thanks to Filip Port/@criprflydesign who turned the googly eyes of @thekengevik into a veritable scale bar!   
+
+::: {#fig-googly layout-ncol=2}
+![](thekengevik_googlyeyes.jpg)
+
+![](Screenshot 2022-11-09 at 10.03.32.png)
+
+thekengevik googly eyes idea and googly eyes adapted for scale
+:::
+
+And finalkly, a fun but maybe not quite practical idea is suggested by Monica Zoppe, cats for scale! Check out <a href="http://www.nature.com/nmeth/journal/v14/n7/abs/nmeth.4300.html"> her article!</a>
+
+::: {#fig-cat layout-ncol=1}
+![](Zoppe.png)
+
+Unconventional idea for annotating scales in biology
+::: 
+
+## Suggestions for making scale bars
 As we don’t have a clear mental image of the size of a salt grain, sesames seed, or submicron cats to reliably use them to scale, we have to for now rely on scale bars.
 Using ImageJ/FIJI this can be rapidly accomplished: when using Bioformats to import microscopy files, the metadata, including the physical size, is read in. Then use Analyze > Tools > Scale Bar to define length, width, color, position, and label or your scale bar. 
 
-<ul>
-  <li><strong>Length: </strong>Be kind to your audience and use simple units, such as 100um, 50um, 10 or 2um.</li>
-  <li><strong>Color:</strong> Scale bars should have a high contrast with the background. Avoid red, green, or blue bars, as these colors might be considered part of the image.</li>
-  <li><strong>Position</strong>: Lower left corner is a safe place. The upper space should be kept for important information like species, cell type, or gene name, and many times figure panel name (A, B,…).</li>
-  <li><strong>Add scale bar last</strong>: In the process of writing your manuscript you may re-think the figure size. Also images are re-sized for posters and slides. It is therefore easiest to add only a very fine scale bar with FIJI and then re-draw it in Adobe Illustrator (or PowerPoint, as I now that about half of you out there use PowerPoint for making figures and posters!).</li>
-</ul>
+##### Length
+Be kind to your audience and use simple units, such as 100um, 50um, 10 or 2um.
 
-PS if you find old scientific images with scale bars, or interesting scales, send them my way for my collection!
+##### Color
+Scale bars should have a high contrast with the background. Avoid red, green, or blue bars, as these colors might be considered part of the image.
+
+##### Position
+Lower left corner is a safe place. The upper space should be kept for important information like species, cell type, or gene name, and many times figure panel name (A, B,…).
+
+##### Add scale bar last
+In the process of writing your manuscript you may re-think the figure size. Also images are re-sized for posters and slides. It is therefore easiest to add only a very fine scale bar with FIJI and then re-draw it in Adobe Illustrator (or PowerPoint, as I now that about half of you out there use PowerPoint for making figures and posters!).
+
+##### In FIJI/ImageJ
+
+::: {#fig-fiji layout-ncol=1}
+![](FIJI_scalebar_figure_2.png)
+
+Quick scale bar with FIJI/ImageJ. Also check this <a href="https://www.youtube.com/watch?v=UBcipUjwFec&list=PL8jDF_fSen2BxniT30JZ4zzZfQi4AHni9&index=4">Youtube Tutorial from Lipke Lab</a> 
+:::
+
+#### PS
+...if you find old scientific images with scale bars, or interesting scales, send them my way for my collection!
