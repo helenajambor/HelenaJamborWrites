@@ -107,7 +107,7 @@ Here are some first returns:
 Human for scale in geology (courtesy James Saenz) and: pick useful scale bar units, 17:4is NOT user friendly (courtesy Jerome Mutterer). 
 :::
 
-Oh and over at Reddit there seems to be a whole community making #### <a href= "https://www.reddit.com/r/BananasForScale/">Banana's for scale</a> a thing, as
+Oh and over at Reddit there seems to be a whole community making <a href= "https://www.reddit.com/r/BananasForScale/">Banana's for scale</a> a thing, as
 Barry Rowlingson @geospacedman@mastodon.social pointed out. One example adapted for biology by Hauke Drechsler (@HD_sci@biologists.social): 
 
 ![Figure 8: Why not! (joke)](HaukeDrechsel_banana_for_scale.png)
