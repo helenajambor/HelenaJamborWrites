@@ -48,12 +48,12 @@ Earth worm next to measuring tape and bone scaled with credit-card measure (merc
 :::
 
 ## Scales in microscopy images 
-Using familiar objects for scale isn’t possible when we make microscopic observations. This may be why in the earliest published photographs and microscope pictures (not many, images were long considered a waste of space and pure decoration...), scales are omitted. 
+Using familiar objects for scale isn’t possible when we make microscopic observations. This may be why in the earliest published photographs and microscope pictures (mind you, there aren't many as images were considered a waste of space and decorational) scales are omitted. 
 
 A lovely tool that tried placing familiar objects next to microscopic scenes is the Utah genetics cellular scale animation <a href="http://learn.genetics.utah.edu/content/cells/scale/">Genetics Utah Animation of Scale</a> I never cease to be amazed at the relative size differences of cells and how they vary over so many magnitudes! 
 
-#### Alternative to sclae bars 
-A cute alternative to the regular scale bar is here, thanks to Filip Port/@criprflydesign who turned the googly eyes of @thekengevik into a veritable scale bar!   
+#### Alternative to scale bars 
+A cute alternative to the regular scale bar is here, thanks to Filip Port (@crisprflydesign@fediscience.org) who turned the googly eyes of @thekengevik into a veritable scale bar!   
 
 ::: {#fig-googly layout-ncol=2}
 ![](thekengevik_googlyeyes.jpg)
@@ -63,7 +63,7 @@ A cute alternative to the regular scale bar is here, thanks to Filip Port/@cripr
 thekengevik googly eyes idea and googly eyes adapted for scale
 :::
 
-And finalkly, a fun but maybe not quite practical idea is suggested by Monica Zoppe, cats for scale! Check out <a href="http://www.nature.com/nmeth/journal/v14/n7/abs/nmeth.4300.html"> her article!</a>
+And finally, a fun but maybe not quite practical idea is suggested by Monica Zoppe, cats for scale! Check out <a href="http://www.nature.com/nmeth/journal/v14/n7/abs/nmeth.4300.html"> her article!</a>
 
 ::: {#fig-cat layout-ncol=1}
 ![](Zoppe.png)
@@ -97,3 +97,25 @@ Quick scale bar with FIJI/ImageJ. Also check this <a href="https://www.youtube.c
 
 #### PS
 ...if you find old scientific images with scale bars, or interesting scales, send them my way for my collection!
+
+Here are some first returns: 
+
+::: {#fig-examples layout-nrow=1}
+![](Scale_human_geology.png){width=350}
+![](scale_Bar_legendproblem.jpg){width=270}
+
+Human for scale in geology (courtesy James Saenz) and: pick useful scale bar units, 17:4is NOT user friendly (courtesy Jerome Mutterer). 
+:::
+
+Oh and over at Reddit there seems to be a whole community making #### <a href= "https://www.reddit.com/r/BananasForScale/">Banana's for scale</a> a thing, as
+Barry Rowlingson @geospacedman@mastodon.social pointed out. One example adapted for biology by Hauke Drechsler (@HD_sci@biologists.social): 
+
+![Figure 8: Why not! (joke)](HaukeDrechsel_banana_for_scale.png)
+
+
+
+
+
+
+
+
