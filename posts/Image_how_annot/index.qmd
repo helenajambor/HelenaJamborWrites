@@ -7,10 +7,11 @@ categories:
   - images
   - how-to
 #  - history
-image: "Annotations_toomany2.png"
+image: "Symbols_arrows_lettercode.png"
 ---
 ## How to… image annotation
-I already spoke why we need to annotate more, how to choose your image format, and annotate physical scales. But we also have to annotate symbols, regions, stainings and fluorphores (for general colors wait for next post). 
+I already wrote [why we need to annotate more](../Image_numbers/index.qmd), [how to choose your image format](../Image_how_mag/index.qmd), and [how to annotate physical scales](../Image_how_scale/index.qmd). But we also have to annotate symbols, regions, stainings and fluorphores (for general colors [wait for next post](../Image_how_color/index.qmd).
+
 
 ::: {#fig-good-bad}
 ![](Annotations.png)
