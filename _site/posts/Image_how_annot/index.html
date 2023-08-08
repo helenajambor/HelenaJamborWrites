@@ -176,37 +176,108 @@ ul.task-list li input[type="checkbox"] {
 
 <section id="how-to-image-annotation" class="level2">
 <h2 class="anchored" data-anchor-id="how-to-image-annotation">How to… image annotation</h2>
-<p>Image size, stainings and fluorphores (see next post) and symbols are not self-explanatory and should be described.</p>
-</section>
-<section id="where-do-annotations-go" class="level2">
-<h2 class="anchored" data-anchor-id="where-do-annotations-go">Where do annotations go?</h2>
-<p>Ideally the explanation is in the figure itself, close to the data on top of the image or next to it. Alternatively explanations can also be placed in the figure legend. If annotations are explained in the legend be aware that these not always on the same page as the image, consequently hard to find, or restricted in length by the publisher. Also consider that when many annotations are explained, figure legends become tedious to read.</p>
+<p>I already spoke why we need to annotate more, how to choose your image format, and annotate physical scales. But we also have to annotate symbols, regions, stainings and fluorphores (for general colors wait for next post).</p>
+<div id="fig-good-bad" class="quarto-figure quarto-figure-center anchored">
+<figure class="figure">
+<p><img src="Annotations.png" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Figure&nbsp;1: Image annotations, the good, the bad and the ugly <a href="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001161">from Jambor 2021</a></figcaption>
+</figure>
+</div>
 </section>
 <section id="color-annotations" class="level2">
 <h2 class="anchored" data-anchor-id="color-annotations">Color annotations</h2>
-<p>Colors may be explained with an annotation color-code like the data or or they can be referred to by name. Be super careful with unusual color names, not everyone is familiar with “lavender” or “salmon”. See a hilarious and very <a hreaf="https://blog.xkcd.com/2010/05/03/color-survey-results/">exhaustive analysis by XKCD</a>. And of course, just like your image colors, also your annotations should be color-blind save.</p>
-<div class="quarto-figure quarto-figure-center">
+<p>Image colors are usually annotated in the color they are shown, this is fast and easy for readers. Problems may arise when image colors are not color-bind save, when the image has yellow stainigs that do not work for text. Alternatively, the color name is written out and linked to the molecule (GFP = green, actin-Cy3 = red etc). In this case the readers has to do a semantic translation of color name to image color, which is slow and error-prone as we all see colors differently.</p>
+<p>Whenever you have &gt;2-3 colors, you can safely assume that not all will be able to distinguish them any more. Not everyone is familiar with “lavender” or “salmon”, as we know since the hilarious and VERY <a href="https://blog.xkcd.com/2010/05/03/color-survey-results/">exhaustive survey by XKCD</a>.</p>
+<div id="fig-xkcd" class="quarto-layout-panel">
 <figure class="figure">
-<p><img src="Annotations.png" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Image annotations, the good, the bad and the ugly.<a href="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001161">From Jambor 2021</a></figcaption>
+<div class="quarto-layout-row quarto-layout-valign-top">
+<div class="quarto-layout-cell" style="flex-basis: 57.1%;justify-content: center;">
+<p><img src="color_boy_girl2010-03-01-12bf011.png" class="img-fluid figure-img" width="400"></p>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 42.9%;justify-content: center;">
+<p><img src="xkcd_satfaces_map_450.webp" class="img-fluid figure-img" width="300"></p>
+</div>
+</div>
+<p></p><figcaption class="figure-caption">Figure&nbsp;2: His/Her color names by Doghouse Diaries and the color space with name-territoires by XKCD</figcaption><p></p>
 </figure>
 </div>
 </section>
-<section id="explain-symbols-and-arrows" class="level2">
-<h2 class="anchored" data-anchor-id="explain-symbols-and-arrows">Explain symbols and arrows</h2>
+<section id="visibility-of-annotations" class="level2">
+<h2 class="anchored" data-anchor-id="visibility-of-annotations">Visibility of Annotations</h2>
+<p>Just like your image colors, also your annotations should be color-blind save. But some color combinations are also hard to decipher with regular vision.</p>
+<div id="fig-poorex" class="quarto-figure quarto-figure-center anchored">
+<figure class="figure">
+<p><img src="yellow_text_poor.png" class="img-fluid figure-img"> <img src="yellow_text_Poor_visibility.png" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Figure&nbsp;3: ouch…</figcaption>
+</figure>
+</div>
+</section>
+<section id="symbols-arrows-rois" class="level2">
+<h2 class="anchored" data-anchor-id="symbols-arrows-rois">Symbols, arrows, ROIs</h2>
 <p>Oftentimes lines, arrows, symbols and regions of interest (ROIs) are used to point out important details or areas in an image. It is essential that all annotations are distinguishable and clearly explained. Avoid using the same symbol for several meanings: if arrows are used to point out structures, they should not concurrently be used to also indicate motion.</p>
-<div class="quarto-figure quarto-figure-center">
+<div id="fig-exampleannot" class="quarto-figure quarto-figure-center anchored">
 <figure class="figure">
-<p><img src="Annotations_toomany.png" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Annotations, how much is too much?<a href="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001161"> Adapted from Jambor 2021</a></figcaption>
+<p><img src="Symbols_arrows_lettercode.png" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Figure&nbsp;4: Examples of annotations in scientific images</figcaption>
 </figure>
 </div>
 </section>
-<section id="figure-legends" class="level2">
-<h2 class="anchored" data-anchor-id="figure-legends">Figure legends</h2>
-<p>Figure legends are an essential part of image annotation. Ideally they provide readers with an good idea of the specimen, preparation methods, dye etc and further essentials to understand the image. How this information is distributed between figure and figure legend, but also method section, depends on the journal requirement and personal preference, but in sum the information should make the figure self-explanatory. A critical analysis by Yu of figure legends showed that up to 70% of the information needed to comprehend the figure was lacking, many times readers needed a complete paper to fully comprehend figures.</p>
-<section id="read-about-figure-legends" class="level4">
-<h4 class="anchored" data-anchor-id="read-about-figure-legends">Read about figure legends</h4>
+<section id="annotate-your-heart-out.." class="level2">
+<h2 class="anchored" data-anchor-id="annotate-your-heart-out..">Annotate your heart out..</h2>
+<p>Whatever you may feel important for your readers you should make an effort to help them take it in fast. Below are examples that annotate the position of laser manipulation with dashed-line ROI, color-code the z-stack depth, progressive zoom, and the overlap colors (good to be reminded in RGB space that mixing red, blue and green is WHITE).</p>
+<div id="fig-many" class="quarto-layout-panel">
+<figure class="figure">
+<div class="quarto-layout-row quarto-layout-valign-top">
+<div class="quarto-layout-cell" style="flex-basis: 100.0%;justify-content: center;">
+<p><img src="Annotations_many.png" class="img-fluid figure-img"></p>
+</div>
+</div>
+<p></p><figcaption class="figure-caption">Figure&nbsp;5: Examples of what can be annotated.</figcaption><p></p>
+</figure>
+</div>
+</section>
+<section id="many-annotations" class="level2">
+<h2 class="anchored" data-anchor-id="many-annotations">Many annotations</h2>
+<p>If you went a bit overboard with your annotations, you may have to find creative solutions. Here are two examples:</p>
+<div id="fig-manyA" class="quarto-layout-panel">
+<figure class="figure">
+<div class="quarto-layout-row quarto-layout-valign-top">
+<div class="quarto-layout-cell" style="flex-basis: 100.0%;justify-content: center;">
+<p><img src="Annotations_toomany.png" class="img-fluid figure-img"> <img src="Full_page_scace_forAnnotations.png" class="img-fluid figure-img"></p>
+</div>
+</div>
+<p></p><figcaption class="figure-caption">Figure&nbsp;6: Annotations, how much is too much? Some clever annotation <a href="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001161">strategy for many labels</a> above, and a practical approach, make figures larger, here a full-page.</figcaption><p></p>
+</figure>
+</div>
+</section>
+<section id="consistent-code-from-image-to-quantification" class="level2">
+<h2 class="anchored" data-anchor-id="consistent-code-from-image-to-quantification">Consistent code from image to quantification</h2>
+<div id="fig-image-chart" class="quarto-layout-panel">
+<figure class="figure">
+<div class="quarto-layout-row quarto-layout-valign-top">
+<div class="quarto-layout-cell" style="flex-basis: 100.0%;justify-content: center;">
+<p><img src="ColorScheme_image-chart_annotation_good copy.png" class="img-fluid figure-img" width="200"> <img src="Annotation_image-chart_good.png" class="img-fluid figure-img" width="550"></p>
+</div>
+</div>
+<p></p><figcaption class="figure-caption">Figure&nbsp;7: A good example of consistent color (left) and label (right) between image and chart.</figcaption><p></p>
+</figure>
+</div>
+<div id="fig-bad" class="quarto-figure quarto-figure-center anchored">
+<figure class="figure">
+<p><img src="ColorScheme__image-chart_annotation_poorvis_1.png" class="img-fluid figure-img"> <img src="ColorScheme__image-chart_annotation_poorvis_2.png" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Figure&nbsp;8: Colored annotations are hard to see on multi-colored background - the link to the chart above is almost impossible to see (right).</figcaption>
+</figure>
+</div>
+</section>
+<section id="annotate-where" class="level2">
+<h2 class="anchored" data-anchor-id="annotate-where">Annotate where?</h2>
+<p>Ideally the explanation is in the figure itself, as close to the data as possible. Alternatively, explanations can go to the figure legend. Remember however that at times the legend is not even on the same page as the figure, that legends may have word limits, and that a legends in which many annotations have to be explained become tedious to read.</p>
+</section>
+<section id="speaking-of..-figure-legends" class="level2">
+<h2 class="anchored" data-anchor-id="speaking-of..-figure-legends">Speaking of.. Figure legends</h2>
+<p>Figure legends are essential for complete image annotation. They should inform about the specimen, maybe preparation, dyes and all essentials for understanding the image. Which information is in the figure versus the figure legend (and method section) depends on journal requirements and personal preference, but in sum the information should make the figure self-explanatory. A critical analysis by Yu of figure legends showed that up to 70% of the information needed to comprehend the figure was lacking, many times readers needed a complete paper to fully comprehend figures.</p>
+<section id="read-more" class="level4">
+<h4 class="anchored" data-anchor-id="read-more">Read more</h4>
 <p>Are figure legends sufficient? Evaluating the contribution of associated text to biomedical figure comprehension. <a href="https://doi.org/10.1186/1747-5333-4-1">Yu, H., Agarwal, S., Johnston, M., Cohen, A., 2009. J Biomed Discov Collab</a></p>
 
 
