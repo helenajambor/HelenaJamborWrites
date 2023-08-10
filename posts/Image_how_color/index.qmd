@@ -59,7 +59,7 @@ Surprisingly, being considerate with color choices still not reached all: a wide
 
 ![](Brinton_colorcombo.png)
 
-WC Brinton published in 1914 his seminal work, which included a guide to which color-combinations have low visibility and which are not suitable to color blind. 
+WC Brinton published in 1914 his book "Graphic presentation", which included a guide to which color-combinations and their visibility to normal vision (right column) and color blind (left column) audiences . 
 ::: 
 
 ## More on color combinations
