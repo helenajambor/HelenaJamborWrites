@@ -375,21 +375,21 @@
     "href": "posts/Image_how_color/index.html",
     "title": "How to… image colors",
     "section": "",
-    "text": "Images come in many appearances. Photos, histology staining, and some clinical image are usually not color adjusted and shown in full color. Electron microscopy images show one layer of information and are shown in greyscale. In light microscopy images we can excite features in several different wavelengths and combine them in multi-colored images. And this is where trouble starts (more on trouble in my overview)."
+    "text": "Images come in many appearances. Photos, histology staining, and some clinical image are usually not color adjusted and shown in full color. Electron microscopy images show one layer of information and are shown in greyscale. In light microscopy images we can excite features in several different wavelengths and combine them in multi-colored images. And this is where trouble starts (more on trouble in my overview). I already wrote about color annotation, today I focus on the image colors."
   },
   {
     "objectID": "posts/Image_how_color/index.html#how-to-image-colors",
     "href": "posts/Image_how_color/index.html#how-to-image-colors",
     "title": "How to… image colors",
     "section": "",
-    "text": "Images come in many appearances. Photos, histology staining, and some clinical image are usually not color adjusted and shown in full color. Electron microscopy images show one layer of information and are shown in greyscale. In light microscopy images we can excite features in several different wavelengths and combine them in multi-colored images. And this is where trouble starts (more on trouble in my overview)."
+    "text": "Images come in many appearances. Photos, histology staining, and some clinical image are usually not color adjusted and shown in full color. Electron microscopy images show one layer of information and are shown in greyscale. In light microscopy images we can excite features in several different wavelengths and combine them in multi-colored images. And this is where trouble starts (more on trouble in my overview). I already wrote about color annotation, today I focus on the image colors."
   },
   {
     "objectID": "posts/Image_how_color/index.html#adjust-brightness-contrast",
     "href": "posts/Image_how_color/index.html#adjust-brightness-contrast",
     "title": "How to… image colors",
     "section": "Adjust brightness & contrast",
-    "text": "Adjust brightness & contrast\nFor each channel, brightness and contrast can be adjusted separately. When images are to be compared, fixed intensity values should be used. Adjustment can be done in linear mode, which is applied uniformly to the whole image [note: if you are really into image display details there is much more to learn for you here, monitor display are not uniform, different algorithms are “linear” in different ways etc. If this is critical for your image analysis, learn more. If not, stop here and move on with your science].\n\n\n\nFigure 1: Adjust channel settings in light microscope images"
+    "text": "Adjust brightness & contrast\nFor each channel, brightness and contrast can be adjusted separately. When images are to be compared, fixed intensity values should be used. Adjustment can be done in linear mode, which is applied uniformly to the whole image [note: if you are really into image display details there is much more to learn for you here, monitor display are not uniform, different algorithms are “linear” in different ways etc. If this is critical for your image analysis, learn more. If not, stop here and move on with your science].\n\n\n\nFigure 1: Adjust channel settings in light microscope images. from: Christopher Schmied, F1000R 2020."
   },
   {
     "objectID": "posts/Image_how_color/index.html#select-color-display",
