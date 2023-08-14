@@ -446,5 +446,12 @@
     "title": "How to… image availability",
     "section": "Whichg files should be deposited?",
     "text": "Whichg files should be deposited?\nThe specific file type of the microscope image will depend on imaging setup. A standard format for loss-loss compression is TIFF or the open format OME-TIFF. In specialized microscopy techniques that rapidly accumulate tera-bites of data, e.g., long-term live-imaging, light-sheet microscopy, or similar the original microscopy files are often not stored locally and too large for public repositories. When only compressed files can be kept, PNG files are preferred to e.g., JPEG files, as they allow loss-less compression.\n\nRead more:\nThe BioImage Archive - Building a Home for Life-Sciences Microscopy Data. 434, 167505. Hartley et al 2022 J Mol Biol.\nA call for public archives for biological image data. Ellenberg et al 2018. Nat Methods."
+  },
+  {
+    "objectID": "posts/Image_how_avail/index.html#which-files-should-be-deposited",
+    "href": "posts/Image_how_avail/index.html#which-files-should-be-deposited",
+    "title": "How to… image availability",
+    "section": "Which files should be deposited?",
+    "text": "Which files should be deposited?\nThe specific file type of the microscope image will depend on imaging setup. A standard format for loss-loss compression is TIFF or the open format OME-TIFF. In specialized microscopy techniques that rapidly accumulate tera-bites of data, e.g., long-term live-imaging, light-sheet microscopy, or similar the original microscopy files are often not stored locally and too large for public repositories. When only compressed files can be kept, PNG files are preferred to e.g., JPEG files, as they allow loss-less compression.\n\nRead more:\nThe BioImage Archive - Building a Home for Life-Sciences Microscopy Data. 434, 167505. Hartley et al 2022 J Mol Biol.\nA call for public archives for biological image data. Ellenberg et al 2018. Nat Methods."
   }
 ]
