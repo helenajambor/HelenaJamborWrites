@@ -2,6 +2,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/Image_how_avail/index.html",
       "/posts/Image_how_color/index.html",
       "/posts/Image_how_annot/index.html",
       "/posts/Image_how_scale/index.html",
