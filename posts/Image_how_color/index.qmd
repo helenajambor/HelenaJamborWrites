@@ -1,6 +1,6 @@
 ---
 title: "How to… image colors"
-description: "Images in biology and medicine from antiquity to today"
+description: "Color your image data - acceessible, understandable, visible."
 author: "Helena Jambor"
 date: "20230810"
 categories:

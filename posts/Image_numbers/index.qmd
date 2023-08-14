@@ -59,7 +59,7 @@ I have compiled a series of blog posts “How to… Publish Images” that provi
 <li>How to... image scale information (August 3) [Link to blog](../Image_how_scale/index.qmd)</li>
 <li>How to... image annotation (August 8)[Link to blog](../Image_how_annot/index.qmd)</li>
 <li>How to... image colors (August 10)[Link to blog](../Image_how_color/index.qmd)</li>
-<li>How to... image availability (August 15)</li>
+<li>How to... image availability (August 15)[Link to blog](../Image_how_avail/index.qmd)</li>
 <li>How to... image analysis (tbd)</li>
 </ul>
 
