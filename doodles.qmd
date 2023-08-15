@@ -3,6 +3,19 @@ title: "Doodles"
 ---
 I am obsessed with sketching and usually draw figures and faces. Most often when making phone calls or with my morning tea! 
 
+:::{#fig layout-nrow=4}
+![](Scan1.png){width=300}
+![](Scan2.png){width=300}
+![](Scan8_2.png){width=300}
+![](Scan9.png){width=300}
+![](Scan10.png){width=300}
+![](Scan11.png){width=300}
+![](Scan12.png){width=300}
+![](Scan17.png){width=300}
+
+Summer 2023
+:::
+
 <p float="left">
   <img src="/doodle1.jpg" width="236" />
   <img src="/doodle3.jpg" width="182" /> 
