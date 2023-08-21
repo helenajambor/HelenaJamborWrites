@@ -2,35 +2,49 @@
 title: "Cheat sheet Image preparation"
 description: "Cheat sheets to process and prepare images for publication"
 author: "Helena Jambor"
-date: "20230817"
+date: "20230821"
 categories:
   - images
   - how-to
-image: ""
-draft: true
+image: "SchmiedJambor_Figure4.png"
 ---
 ## Cheat sheets for Image publishing 
-Images are omnipresent in biomedical science [link history] but their understandability [link PLOS] and quality [link misleading] is often subpar. To truthfully report qualitative observations abd quantify observations images need to be properly processed. As images are digital data, the sequence and software of image processing matters.
+Images, initially drawings now photos, are  [widely used in biology and medicine](../Image_history/index.qmd) but when published [not always understandable](../Image_numbers/index.qmd). 
 
 ## Image Workflow for Novice Users
-We have therefore compiled a easy to follow workflow to get from microscope to published image in simple steps. At the moment, only few scientists are trained in microscopy and image handling and only few research institutes have dedicated facilities – this means there is a great need in introductory level information.
+When preparing images for publication, the sequence and proper use of software matters to truthfully report observations. During the first lock down, Christopher Schmied and I therefore created cheat sheets that explain a most basic workflow to get everyone from microscope data to figure in a few simple steps. 
 
 ## Cheat Sheets
-The workflow is summarised in two printable cheat sheets. One cheat sheet explains the steps towards a publishable image, the second cheat sheet how to implement the steps with ImageJ/FIJI image processing software. 
+The workflow is summarized in two printable cheat sheets. One cheat sheet explains the steps towards a publishable image, the second cheat sheet how to implement the steps with ImageJ/FIJI image processing software. 
 
-![Preparing an image for publication: a quick design reference. From: <a href = "https://f1000research.com/articles/9-1373">Schmied and Jambor. Effective image visualization for publications - a workflow using open access tools and concepts</a>](SchmiedJambor_Figure4.png){fig-alt="Cheat sheet that explains all steps and commands in FIJI to process and image for publication"}
+::: {#fig-helena}
+![](SchmiedJambor_Figure4.png){fig-alt="Cheat sheet that explains all steps and commands in FIJI to process and image for publication"}
 
-![Processing image: a quick guide how to do this in FIJI. From: <a href = "https://f1000research.com/articles/9-1373">Schmied and Jambor. Effective image visualization for publications - a workflow using open access tools and concepts </a>](SchmiedJambor_Figure3.png){fig-alt="Cheat sheet that explains all steps and commands in FIJI to process and image for publication"}
+Preparing an image for publication: a quick design reference. From: <a href = "https://f1000research.com/articles/9-1373">Schmied and Jambor. Effective image visualization for publications - a workflow using open access tools and concepts</a>
+::: 
+
+:::{#fig-chris}
+![](SchmiedJambor_Figure3.png){fig-alt="Cheat sheet that explains all steps and commands in FIJI to process and image for publication"}
+
+Processing image: a quick guide how to do this in FIJI. From: <a href = "https://f1000research.com/articles/9-1373">Schmied and Jambor. Effective image visualization for publications - a workflow using open access tools and concepts </a>
+:::
+
 
 ##### Download
 Get the cheat sheets as <a href = "https://osf.io/cjp8w/">printable PDF</a>.
+Note, we used an open license, that means you can get the adaptable files and e.g., make translations, alterations, or add your own notes. 
+
+A German version was already made by <a href="https://joram.schwartzmann.de/cheat-sheet-wissenschaftliche-abbildungen.html">Joram Schwartzmann</a>, checkt it out!
 
 ## Further resources
-Beyond out cheat sheet there several specialized resources: 
+Beyond our starter cheat sheets more great resources help you along the way: 
 The “Biologist’s guide to planning and performing quantitative bioimaging experiments” describes the entire arc from sample to microscope via image analysis towards data interpretation and publication. The resource lists many key points and aggregates links to more detailed descriptions, making it easy for biologists to navigate their first microscopy experiments. 
-<ul>
-<li>A biologist’s guide to planning and performing quantitative bioimaging experiments. <a href = "https://doi.org/10.1371/journal.pbio.3002167">Senft RA, Diaz-Rohrer B, Colarusso P, Swift L, Jamali N, Jambor H, et al. (2023) PLoS Biol</a> </li>
-</ul>
+
+:::{#fig-senft }
+![](Senft.PNG)
+
+A biologist’s guide to planning and performing quantitative bioimaging experiments <a href = "https://doi.org/10.1371/journal.pbio.3002167">Senft RA, Diaz-Rohrer B, Colarusso P, Swift L, Jamali N, Jambor H, et al. (2023) PLoS Biol</a>
+:::
 
 ## More about
 #### Microscopy image acquisition

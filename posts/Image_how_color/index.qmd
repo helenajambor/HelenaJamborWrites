@@ -10,7 +10,7 @@ categories:
 image: "Brinton_colorcombo.png"
 ---
 ## How to… image colors
-Images come in many appearances. Photos, histology staining, and some clinical image are usually not color adjusted and shown in full color. Electron microscopy images show one layer of information and are shown in greyscale. In light microscopy images we can excite features in several different wavelengths and combine them in multi-colored images. And this is where trouble starts (more on trouble [in my overview](../Image_numbers/index.qmd)). I already wrote about [color annotation](../Image_how_annot/index.qmd), today I focus on the image colors. 
+Images come in many appearances. Photos, histology staining, and some clinical image are usually not color adjusted and shown in full color. Electron microscopy images show one layer of information and are shown in greyscale. In light microscopy images we can excite features in several different wavelengths and combine them in multi-colored images. And this is where trouble starts (more on trouble [in my overview](../Image_numbers/index.qmd). I already wrote about [color annotation](../Image_how_annot/index.qmd), today I focus on the image colors. 
 
 ## Adjust brightness & contrast
 For each channel, brightness and contrast can be adjusted separately. When images are to be compared, fixed intensity values should be used. 

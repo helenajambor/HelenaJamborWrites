@@ -5,10 +5,10 @@ author: "Helena Jambor"
 date: "20230727"
 categories:
   - images
-  - how-to
-  - cheat sheets
+#  - how-to
 #  - history
 image: "Summary.png"
+
 ---
 ## Many papers, many images, many problems 
 500 papers are newly indexed in PubMed every day, almost 1 million each year (<a href="https://www.nlm.nih.gov/bsd/index_stats_comp.html">PubMed Statistics</a>). Many of these contain images: 20% have a photos, light or electron microscopy images, x-rays or similar (see <a href ="https://ieeexplore.ieee.org/document/7888968">Lee, 2018</a>). These images document the appearance or structure of specimen, tissues, or cells, and are a analysed to gain quantitative insights of biological processes.
@@ -60,7 +60,6 @@ I have compiled a series of blog posts “How to… Publish Images” that provi
 <li>How to... image annotation (August 8)[Link to blog](../Image_how_annot/index.qmd)</li>
 <li>How to... image colors (August 10)[Link to blog](../Image_how_color/index.qmd)</li>
 <li>How to... image availability (August 15)[Link to blog](../Image_how_avail/index.qmd)</li>
-<li>Cheat sheets for image publishing(August 21)[Link to blog](../Image_cheatsheets/index.qmd)</li>
 <li>How to... image analysis (tbd)</li>
 </ul>
 
