@@ -7,7 +7,7 @@ categories:
   - images
 #  - how-to
   - history
-image: "Stückelberger.jgp"
+image: "Marey.jpg"
 
 ---
 ## (A very short) History of Bio-Images
