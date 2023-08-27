@@ -60,7 +60,8 @@ I have compiled a series of blog posts “How to… Publish Images” that provi
 <li>How to... image annotation (August 8)[Link to blog](../Image_how_annot/index.qmd)</li>
 <li>How to... image colors (August 10)[Link to blog](../Image_how_color/index.qmd)</li>
 <li>How to... image availability (August 15)[Link to blog](../Image_how_avail/index.qmd)</li>
-<li>Cheat sheets for image publishing(August 21)[Link to blog](../Image_cheatsheets/index.qmd)</li>
+<li>Cheat sheets for image publishing (August 21)[Link to blog](../Image_cheatsheets/index.qmd)</li>
+<li>A short history of science images (August 27)[Link to blog](../Image_history/index.qmd)</li>
 <li>How to... image analysis (tbd)</li>
 </ul>
 
