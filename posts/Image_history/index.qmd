@@ -1,8 +1,8 @@
 ---
 title: "(A very short) History of Bio-Images"
-description: "Images in biology and medicine from antiquity to today"
+description: "Images in biology and medicine, from antiquity to today"
 author: "Helena Jambor"
-date: "20230822"
+date: "20230827"
 categories:
   - images
 #  - how-to
@@ -11,28 +11,47 @@ image: "Stückelberger.jgp"
 draft: true
 ---
 ## (A very short) History of Bio-Images
-Images were essential for scientific communication long before the era of photography and light microscopy. The first images were drawings in medical and pharmaceutical text books from antiquity. While these drawings to us today have an artistic quality, they very much serve a scientific point: for better comparison and identification, specimen are aligned, oriented, and size-standardized. 
+Images communicate scientific observations long before photography and light microscopy were invented. The first evidences of images were drawings in medical and pharmaceutical text books from antiquity. While these drawings to us today seem almost like art, they very much served a scientific purpose. See the example below, in which objects are aligned, oriented, and size-standardized to allow readers to compare various poisonous scorpions. 
 
-![Poisonous scorpions, medical textbook ~200 AD, transcript ~500 AD. From: Alfred Stückelberger, Bild und Wort](Stückelberger.jpg)
+::: {#fig-antique}
+![](Stückelberger.jpg)
 
-Later, scientific drawings and copper plates intentionally showed “averages” of specimen, the drawing essentially being an overlay of many observed individuals. Maria Sibylla Merian and others who documented nature explained the size of specimen in their drawings and often included known insects that could double as scale information. 
+Poisonous scorpions, medical textbook ~200 AD, transcript ~500 AD. From: Alfred Stückelberger, Bild und Wort
+:::
+
+For most of their time scientific drawings and copper plates intentionally showed “average” observations, not individual specimen. The drawings were in fact an overlay, idealised version of single animals and plants. They also came with key information: Maria Sibylla Merian and others who documented nature explained the size of specimen in their drawings and often included known insects that could double as scale information. 
 
 ## Photography
-With the advent of photography, publications started to include photos and microscopic images of specimen. A pioneer of photographic images in biomedical sciences was the physiologist Marey. Étienne-Jules Marey developed many medical apparatuses, and notably the first “chronophotographic gun” in 1882 which allowed him to capture twelve frames per second on the same picture to document the rapid movements of animal and human locomotion. Notably, Marey also authored the first text book of data visualizing for physiology, introducing many scientists to charts and images for collecting biomedical data. The book, La Méthode graphique dans les sciences expérimentales can be viewed online in French (Text on line) and was recently translated by George Hattab and RJ Andrews (https://medium.com/nightingale/information-graphic-visionaries-6dda1a0b8056).
+With the advent of photography, publications started to include photos and microscopic images of specimen. A pioneer of photographic images in biomedical sciences was the physiologist Marey. Étienne-Jules Marey, a French physiologist, developed many medical apparatuses, and notably the first “chronophotographic gun” in 1882 which allowed him to capture twelve frames per second on the same picture to document the rapid movements of animal and human locomotion. Notably, Marey also authored the first text book of data visualizing for physiology, introducing many scientists to charts and how to use photo images as evidence in biomedicine. The book, La Méthode graphique dans les sciences expérimentales can be viewed online in French (Text on line) and was <a href="https://medium.com/nightingale/information-graphic-visionaries-6dda1a0b8056">recently translated by George Hattab and RJ Andrews</a>.
 
-![Marey invented a method to study locomotion with photography](Etienne_Jules_Marey_.jpg)
+::: {#fig-marey}
+![](Etienne_Jules_Marey_.jpg)
+
+Marey invented a method to study locomotion with photography
+:::
 
 At the turn of the last century, the first photographs appeared in scientific journals and slowly photos were used to document biological observations made through the microscope, e.g. Newth’s microscopic image of lamprey’s larvae. At the same time, Friedrich Kopsch in Berlin captured serial time-lapse images to document gastrulation in axolotl and frog eggs. 
 
-![Photo by Newth in Nature, July, 1930 documents feeding of an Amphioxus larva](Newth.png)
+:::{#fig-newth}
+![](Newth.png)
+
+Photo by Newth in Nature, July, 1930 documents feeding of an Amphioxus larva
+:::
 
 Image in scientific publications however were not always well received – in a letter to the editor, Benjamin Moore complained in 1910 that:
 
-![Letter to the Editor, Nature](BMoore_1910.png)
+:::{#fig-moore}
+![](BMoore_1910.png)
 
+Letter to the Editor, Nature
+:::
 The invention of fluorescent markers and techniques to couple these to antibodies by Albert Coons made light microscopy a mainstream technique widely accepted and images became accepted as data also outside its core application fields, embryology and morphology. With the invention of photography, and in particular digital photomicrography, a steady increase in images figures is noticeable in scientific articles. Today 20% of the articles indexed in PubMed contain image figures and in the 10-15 minutes you spend reading this article, 5 new publications with images will appear.
 
-![One of the first videos with a fluorescent microscope, published by Horio and Hotani 1986](Horio_Hotani_1986_Video.png)
+:::{#fig-fluo}
+![](Horio_Hotani_1986_Video.png)
+
+One of the first videos with a fluorescent microscope, published by Horio and Hotani 1986
+:::
 
 #### More literature on scientific images
 <ul>
