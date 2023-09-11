@@ -6,6 +6,7 @@ date: "20230821"
 categories:
   - images
   - how-to
+  - cheat sheets
 image: "SchmiedJambor_Figure4.png"
 ---
 ## Cheat sheets for Image publishing 
