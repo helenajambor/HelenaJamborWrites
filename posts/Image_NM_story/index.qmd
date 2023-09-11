@@ -2,7 +2,7 @@
 title: "Checklists for image publication"
 description: "A quick checklist for everyone wishing to publish images and image analysis results - out today in Nature Methods"
 author: "Helena Jambor"
-date: "202309xx"
+date: "20230930"
 categories:
   - images
   - how-to
@@ -12,13 +12,27 @@ draft: True
 Today, our guidelines for image and image analyses publishing finally are available for you all <a href=”LINK”> in Nature Methods</a>. For me personally, this was a very long time in the making, read my 8-year story!
 
 ## Some images, oh my!
-It started in 2017 when I searched teaching examples for one of my data vis courses. I looked for good figures in publications, only to realise that many, many authors were still happily using red/green color combinations in plots and also microscopy images, rendering their science visually inaccessible to colour-blind readers <a href=” https://thenode.biologists.com/color-blind-audiences/photo/”> (see my post at TheNode)</a>. 
+It started in 2017 when I searched teaching examples for one of my data vis courses. I looked for good figures in publications, only to realise that many, many authors were still happily using red/green color combinations in plots and also microscopy images, rendering their science visually inaccessible to colour-blind readers <a href="https://thenode.biologists.com/color-blind-audiences/photo/">(see my post at TheNode)</a>. 
 
 ## We collected numbers, OH DEAR!
 In 2018 <a href=https://meetings.embo.org/event/18-lsm>Light Sheet Microscopy conference</a> microscopy folks gathered in Dresden to discuss awesome images. Except me: still stunned by the subpar images, I told Rita Strack about my intention to investigate this. An idea very quickly turned into reality when I joined the eLIFE ambassadors and teamed up with Tracey Weissgerber, who had previous experience with meta-research (i.e.  screening literature). We then co-lead a dedicated ambassador group, analyzing tons of published images with a standardized protocol and control. This project really put numbers on what previously was just my impression: lots of pictures didn't have sizes marks, giving readers a little guessing game time. The colors? Turns out, many were like secret codes that only the authors could understand. Plus, the explanations often barely enlightened - check ourpaper <a href ="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001161">in PLOS BIO</a>
 
-## Zoom, Zoom, more Zoom: how to do science in a global network
-Our PLOS BIO paper got me onto the (virtual, remember COVID!) stage of the 2020 meeting of the German Bioimaging society*. The Q&A was a lively discussion of many impossible ways to improve image communication and one clear idea: let's form a QUAREP working group for this! Starting with just four members, we hashed, clashed, and conjured what eventually became the checklists for image publishing. Very quickly we grew and we became very interdisciplinary: we came from international institutes, medical clinics, and even NASA, from all continents and time-zones, from applied research to those fighting cancer. Safe to say, we often failed to find a consensus and tip toed around some topics until we dropped them. Our opinions also differed on how strict we wanted to be with guidelines but also there found a workable compromise between our ideals and reality. In the end, all scientists globally, also those with little access to advanced microscopy facilities, should be empowered to reach the minimal goals, while at the same time we also wanted topush some higher image and image analysis standards. This lead to the the three levels, mandatory, recommended and ideal. 
+## Zoom, Zoom, Zoom: science in a global network
+Our PLOS BIO paper got me onto the (virtual, remember COVID!) stage of the 2020 meeting of the German Bioimaging society. The Q&A was a lively discussion of many impossible ways to improve image communication and one clear idea: let's form a <a href="https://quarep.org/">QUAREP</a> working group for this! Starting with just four members, we hashed, clashed, and conjured what eventually became the checklists for image publishing. Very quickly our <a href="https://quarep.org/working-groups/wg-12-image-visualization-and-analysis/">Working Group 12</a> grew and became very interdisciplinary: we are from international institutes, medical clinics, and even NASA, from all continents and time-zones, from applied research to those fighting cancer. Safe to say, we often failed to find a consensus and tip toed around some topics until we dropped them. Our opinions also differed on how strict we wanted to be with guidelines but also there found a workable compromise between our ideals and reality. In the end, all scientists globally, also those with little access to advanced microscopy facilities, should be empowered to reach the minimal goals, while at the same time we also wanted topush some higher image and image analysis standards. This lead to the the three levels, mandatory, recommended and ideal. 
 
-## A paper is born
-Fuelled by caffeine and carbs at the Human Technopole in Milano, an intense writing weekend brought us the first manuscript draft. This was improved in feedback rounds with our QUAREP comrades and external voices. This extended vetting seems to have been a good idea: with just one round of small revisions our manuscript was accepted by our first choice journal, Nature Methods. And now we give the checklists to all of you scientists – These are not lists, but the audacious result of chasing pixel perfection in scientific zoom calls.
+::: {#fig-evolution}
+![](checklist_evolution.png)
+
+Evolution of the checklists. From white-silver-gold to Recommended and Ideal. Only icons were always there, everything else changed. 
+:::
+
+
+## A paper grows
+Fuelled by caffeine and carbs at the Human Technopole in Milano, an intense writing weekend brought us the first manuscript draft. This was improved in feedback rounds with our QUAREP comrades and external voices. This extended vetting seems to have been a good idea: with just one round of small revisions our manuscript was accepted by our first choice journal, Nature Methods. And now we give the checklists to all of you scientists – These are not lists, but the audacious result of chasing pixel perfection in scientific zoom calls. For me personally it was a rewarding experience to collaborate with so many people, and from now I will keep meeting co-authors at many meetings to come! 
+
+::: {#fig-meeting}
+![](HTBesuch2.jpg)
+![](IMG_2346.jpeg)
+
+HT Milan where Helena & Christopher wrote a first draft. Meeting of 10% of the author team at PoLBIAS23.
+:::
