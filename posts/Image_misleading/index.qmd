@@ -1,0 +1,50 @@
+---
+title: "Misleading images"
+description: "Find and avoid misleading images in publications"
+author: "Helena Jambor"
+date: "20230939"
+categories:
+  - images
+  - how-to
+image: ""
+draft: True
+---
+I care about science and images that is widely accessible. At present, that is not always the case. Image figures are confusing and unclear. I have [extensively written](../Image_numbers/index.qmd) and 
+<a href ="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001161"> published</a> on how to make image data understandable. Incomprehensible data is demonstrably less read, less often cited, and unlikely to be included in the scientific canon. Don't believe me? <a href="https://pubmed.ncbi.nlm.nih.gov/26361556/">Letchford et al</a> have data! 
+
+## Accidentally misleading images
+At other times, published images are also misleading, not just unclear. This may be because image data was incorrectly processed. I [previously wrote about one case ](../Image_how_mag/index.qmd), which illustrated that the sequence of contrast adjustment and image cropping matter! I regularly witness the education gap in my DataViz courses. In the image section the graduate students ask: Is it ok to turn images? Can I crop away a neighbouring cell? Am I allowed to show green fluorescent protein in red? When images are processed without in-depth knowledge of the software, accidentally misleading images may be the result. 
+
+## Actually misleading images
+In comparison more rare are instances of intentional image manipulation. These are cases when authors fabricate or forge data to mislead audiences. Elisabeth Bik has extensively brought attention to this problem and also quantified image manipulations in publications. Already before Biks quantification and activism, early initiatives of scientists and editors clarified what counts as image manipulation and which image processing is acceptable for publication. The CSE guidelines are long and update annually! 
+
+## Read more 
+Bik, E.M., Casadevall, A., Fang, F.C., 2016.<a href="https://doi.org/10.1128/mBio.00809-16">The Prevalence of Inappropriate Image Duplication in Biomedical Research Publications.</a> mBio 7.
+
+<a href=""></a>
+#### Accurate and reproducible image quality
+Brown, C.M., 2007. Fluorescence microscopy--avoiding the pitfalls. J Cell Sci 120, 1703–1705. https://doi.org/10.1242/jcs.03433
+Faklaris, O., Bancel-Vallée, L., Dauphin, A., Monterroso, B., Frère, P., Geny, D., Manoliu, T., de Rossi, S., Cordelières, F.P., Schapman, D., Nitschke, R., Cau, J., Guilbert, T., 2022. Quality assessment in light microscopy for routine use through simple tools and robust metrics. Journal of Cell Biology 221, e202107093. https://doi.org/10.1083/jcb.202107093
+
+#### Recommendations to avoid misleading images
+Bik, E.M., Fang, F.C., Kullas, A.L., Davis, R.J., Casadevall, A., 2018. Analysis and Correction of Inappropriate Image Duplication: the Molecular and Cellular Biology Experience. Mol Cell Biol 38, e00309-18. https://doi.org/10.1128/MCB.00309-18
+Cromey, D.W., 2013. Digital images are data: and should be treated as such. Methods Mol Biol 931, 1–27. https://doi.org/10.1007/978-1-62703-056-4_1
+CSE [WWW Document], 2012. . CSE’s White Paper on Promoting Integrity in Scientific Journal Publications. URL http://www.councilscienceeditors.org/wp-content/uploads/entire_whitepaper.pdf (accessed 1.1.21).
+North, A.J., 2006. Seeing is believing? A beginners’ guide to practical pitfalls in image acquisition. J Cell Biol 172, 9–18. https://doi.org/10.1083/jcb.200507103
+Rossner, M., Yamada, K.M., 2004. What’s in a picture? The temptation of image manipulation. J Cell Biol 166, 11–5. https://doi.org/10.1083/jcb.200406019
+
+#### Detection of manipulated image data
+Bucci, E.M., 2018. Automatic detection of image manipulations in the biomedical literature. Cell Death Dis 9, 400. https://doi.org/10.1038/s41419-018-0430-3
+Koppers, L., Wormer, H., Ickstadt, K., 2017. Towards a Systematic Screening Tool for Quality Assurance and Semiautomatic Fraud Detection for Images in the Life Sciences. Sci Eng Ethics 23, 1113–1128. https://doi.org/10.1007/s11948-016-9841-7
+
+Van Noorden, R., 2022. Journals adopt AI to spot duplicated images in manuscripts. Nature 601, 14–15. https://doi.org/10.1038/d41586-021-03807-6
+Van Noorden, R., 2020. Publishers launch joint effort to tackle altered images in research papers. Nature. https://doi.org/10.1038/d41586-020-01410-9
+
+#### Appropriate image handling and analysis 
+Aaron, J., Chew, T.-L., 2021. A guide to accurate reporting in digital image processing - can anyone reproduce your quantitative analysis? J Cell Sci 134, jcs254151. https://doi.org/10.1242/jcs.254151
+Hammer, M., Huisman, M., Rigano, A., Boehm, U., Chambers, J.J., Gaudreault, N., North, A.J., Pimentel, J.A., Sudar, D., Bajcsy, P., Brown, C.M., Corbett, A.D., Faklaris, O., Lacoste, J., Laude, A., Nelson, G., Nitschke, R., Farzam, F., Smith, C.S., Grunwald, D., Strambio-De-Castillia, C., 2021. Towards community-driven metadata standards for light microscopy: tiered specifications extending the OME model. Nat Methods 18, 1427–1440. https://doi.org/10.1038/s41592-021-01327-9
+Martin, C., Blatt, M., 2013. Manipulation and misconduct in the handling of image data. Plant Cell 25, 3147–3148. https://doi.org/10.1105/tpc.113.250980
+Miura, K., Norrelykke, S.F., 2021. Reproducible image handling and analysis. EMBO J 40, e105889. https://doi.org/10.15252/embj.2020105889
+
+#### Guidelines for writing materials and methods sections for images
+Marques G, P.T., Sanders MA, 2020. Imaging methods are vastly underreported in biomedical research. Elife 2020. https://doi.org/10.7554/eLife.55133
