@@ -7,7 +7,6 @@ categories:
   - sketches
 image: "Scan1.png"
 ---
-
 A few sketches I made in summer 2023 in Smilka, Plön, Beverbeck, Berlin.
 
 ::: {=html}
