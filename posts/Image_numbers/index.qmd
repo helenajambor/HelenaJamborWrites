@@ -62,8 +62,10 @@ I have compiled a series of blog posts “How to… Publish Images” that provi
 <li>How to... image availability (August 15) [Link to blog](../Image_how_avail/index.qmd)</li>
 <li>Cheat sheets for image publishing (August 21) [Link to blog](../Image_cheatsheets/index.qmd)</li>
 <li>A short history of science images (August 27) [Link to blog](../Image_history/index.qmd)</li>
-<li>How to... image analysis (tbd)</li>
+<li>How to... image analysis (Sept 20) [Link to blog](../Image_how_analysis/index.qmd)</li>
+<li>How to... avoid misleading with images (Sept 22) [Link to blog](../Image_misleading/index.qmd)</li>
 </ul>
+
 
 PS if you are interested, I usually write about more general visualizations, e.g., 
 [How to create Graphical Abstracts](../GraphicalAbstract_1/index.qmd)

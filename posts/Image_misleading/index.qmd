@@ -1,8 +1,8 @@
 ---
-title: "Misleading images"
-description: "Find and avoid misleading images in publications"
+title: "How to... avoid Misleading images"
+description: "An introduction to avoid misleading images in publications"
 author: "Helena Jambor"
-date: "20230939"
+date: "20230922"
 categories:
   - images
   - how-to

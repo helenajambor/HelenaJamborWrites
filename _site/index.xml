@@ -1,0 +1,1413 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>HelenaJamborWrites</title>
+<link>https://helenajamborwrites.netlify.app/index.html</link>
+<atom:link href="https://helenajamborwrites.netlify.app/index.xml" rel="self" type="application/rss+xml"/>
+<description>Helena Jambor&#39;s blog on data visualization and visual communication of scientific data</description>
+<generator>quarto-1.3.361</generator>
+<lastBuildDate>Sat, 26 Aug 2023 22:00:00 GMT</lastBuildDate>
+<item>
+  <title>(A very short) History of Bio-Images</title>
+  <dc:creator>Helena Jambor</dc:creator>
+  <dc:creator>Helena Jambor</dc:creator>
+  <link>https://helenajamborwrites.netlify.app/posts/Image_history/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="a-very-short-history-of-bio-images" class="level2">
+<h2 class="anchored" data-anchor-id="a-very-short-history-of-bio-images">(A very short) History of Bio-Images</h2>
+<p>Images communicate scientific observations long before photography and light microscopy were invented. The first evidences of images were drawings in medical and pharmaceutical text books from antiquity. While these drawings to us today seem almost like art, they very much served a scientific purpose. See the example below, in which objects are aligned, oriented, and size-standardized to allow readers to compare various poisonous scorpions.</p>
+<div id="fig-antique" class="quarto-figure quarto-figure-center anchored">
+<figure class="figure">
+<p><img src="https://helenajamborwrites.netlify.app/posts/Image_history/Stückelberger.jpg" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Figure&nbsp;1: Poisonous scorpions, medical textbook ~200 AD, transcript ~500 AD. From: Alfred Stückelberger, Bild und Wort</figcaption>
+</figure>
+</div>
+<p>For most of their time scientific drawings and copper plates intentionally showed “average” observations, not individual specimen. The drawings were in fact an overlay, idealized version of single animals and plants. They also came with key information: Maria Sibylla Merian and others who documented nature explained the <a href="../../posts/Image_how_scale/index.html">size of specimen</a> in their drawings and often included known insects that could double as scale information.</p>
+</section>
+<section id="photography" class="level2">
+<h2 class="anchored" data-anchor-id="photography">Photography</h2>
+<p>With the advent of photography, publications started to include photos and microscopic images of specimen. A pioneer of photographic images in biology and medicine was the physiologist Marey. Étienne-Jules Marey, a French physiologist, developed many medical apparatuses, and notably the first “chronophotographic gun” in 1882 which allowed him to capture twelve frames per second on the same picture to document the rapid movements of animal and human locomotion. Notably, Marey also authored the first text book of data visualizing for physiology, introducing many scientists to charts and how to use photo images as evidence in biomedicine. The book, La Méthode graphique dans les sciences expérimentales can be viewed online in French (Text on line) and was <a href="https://medium.com/nightingale/information-graphic-visionaries-6dda1a0b8056">recently translated by George Hattab and RJ Andrews</a>.</p>
+<div id="fig-marey" class="quarto-figure quarto-figure-center anchored">
+<figure class="figure">
+<p><img src="https://helenajamborwrites.netlify.app/posts/Image_history/Etienne_Jules_Marey_.jpg" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Figure&nbsp;2: Marey invented a method to study locomotion with photography</figcaption>
+</figure>
+</div>
+<p>At the turn of the last century, the first photographs appeared in scientific journals and slowly photos were used to document biological observations made through the microscope, e.g.&nbsp;Newth’s microscopic image of lamprey’s larvae. At the same time, Friedrich Kopsch in Berlin captured serial time-lapse images to document gastrulation in axolotl and frog eggs.</p>
+<div id="fig-newth" class="quarto-figure quarto-figure-center anchored">
+<figure class="figure">
+<p><img src="https://helenajamborwrites.netlify.app/posts/Image_history/Newth.png" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Figure&nbsp;3: Photo by Newth in Nature, July, 1930 documents feeding of an Amphioxus larva</figcaption>
+</figure>
+</div>
+<p>Image in scientific publications however were not always well received – in a letter to the editor, Benjamin Moore complained in 1910 that:</p>
+<div id="fig-moore" class="quarto-figure quarto-figure-center anchored">
+<figure class="figure">
+<p><img src="https://helenajamborwrites.netlify.app/posts/Image_history/BMoore_1910.png" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Figure&nbsp;4: Letter to the Editor, Nature</figcaption>
+</figure>
+</div>
+<p>The invention of fluorescent markers and techniques to couple these to antibodies by Albert Coons made light microscopy a mainstream technique widely accepted and images became accepted as data also outside its core application fields, embryology and morphology. With the invention of photography, and in particular digital photo-micrography, a steady increase in images figures is noticeable in scientific articles. Today <a href="../../posts/Image_numbers/index.html">20% of the articles indexed in PubMed</a> contain image figures and in the minutes you spend reading this article, 5 new publications with images will appear.</p>
+<div id="fig-fluo" class="quarto-figure quarto-figure-center anchored">
+<figure class="figure">
+<p><img src="https://helenajamborwrites.netlify.app/posts/Image_history/Horio_Hotani_1986_Video.png" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Figure&nbsp;5: One of the first videos with a fluorescent microscope, published by Horio and Hotani 1986</figcaption>
+</figure>
+</div>
+<section id="more-literature-on-scientific-images" class="level4">
+<h4 class="anchored" data-anchor-id="more-literature-on-scientific-images">More literature on scientific images</h4>
+<ul>
+<li>
+A seminal book that describes how images became data in science: Daston L, &amp; Peter Galison, P. . Objectivity. New York: Zone Books; 2007
+</li>
+<li>
+A book in German that outlines the history of science images: Stückelberger A. Bild und Wort: Das illustrierte Fachbuch in der antiken Naturwissenschaft, Medizin und Technik: P. von Zabern; 1994
+</li>
+<li>
+A book about early observations and images in embryology.Wellmann J. Model and movement: studying cell movement in early morphogenesis, 1900 to the present. Hist Philos Life Sci. 2018;40(3):59.
+</li>
+<li>
+NEWTH, H. The Feeding of Ammocœtes. Nature 126, 94–95 (1930) <a href="https://doi.org/10.1038/126094b0">Article</a>
+</li>
+</ul>
+
+
+</section>
+</section>
+
+ ]]></description>
+  <category>images</category>
+  <category>history</category>
+  <guid>https://helenajamborwrites.netlify.app/posts/Image_history/index.html</guid>
+  <pubDate>Sat, 26 Aug 2023 22:00:00 GMT</pubDate>
+  <media:content url="https://helenajamborwrites.netlify.app/posts/Image_history/Marey.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Cheat sheet Image preparation</title>
+  <dc:creator>Helena Jambor</dc:creator>
+  <dc:creator>Helena Jambor</dc:creator>
+  <link>https://helenajamborwrites.netlify.app/posts/Image_cheatsheets/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="cheat-sheets-for-image-publishing" class="level2">
+<h2 class="anchored" data-anchor-id="cheat-sheets-for-image-publishing">Cheat sheets for Image publishing</h2>
+<p>Images, initially drawings now photos, are <a href="../../posts/Image_history/index.html">widely used in biology and medicine</a> but when published <a href="../../posts/Image_numbers/index.html">not always understandable</a>.</p>
+</section>
+<section id="image-workflow-for-novice-users" class="level2">
+<h2 class="anchored" data-anchor-id="image-workflow-for-novice-users">Image Workflow for Novice Users</h2>
+<p>When preparing images for publication, the sequence and proper use of software matters to truthfully report observations. During the first lock down, Christopher Schmied and I therefore created cheat sheets that explain a most basic workflow to get everyone from microscope data to figure in a few simple steps.</p>
+</section>
+<section id="cheat-sheets" class="level2">
+<h2 class="anchored" data-anchor-id="cheat-sheets">Cheat Sheets</h2>
+<p>The workflow is summarized in two printable cheat sheets. One cheat sheet explains the steps towards a publishable image, the second cheat sheet how to implement the steps with ImageJ/FIJI image processing software.</p>
+<div id="fig-helena" class="quarto-figure quarto-figure-center anchored">
+<figure class="figure">
+<p><img src="https://helenajamborwrites.netlify.app/posts/Image_cheatsheets/SchmiedJambor_Figure4.png" class="img-fluid figure-img" alt="Cheat sheet that explains all steps and commands in FIJI to process and image for publication"></p>
+<figcaption class="figure-caption">Figure&nbsp;1: Preparing an image for publication: a quick design reference. From: <a href="https://f1000research.com/articles/9-1373">Schmied and Jambor. Effective image visualization for publications - a workflow using open access tools and concepts</a></figcaption>
+</figure>
+</div>
+<div id="fig-chris" class="quarto-figure quarto-figure-center anchored">
+<figure class="figure">
+<p><img src="https://helenajamborwrites.netlify.app/posts/Image_cheatsheets/SchmiedJambor_Figure3.png" class="img-fluid figure-img" alt="Cheat sheet that explains all steps and commands in FIJI to process and image for publication"></p>
+<figcaption class="figure-caption">Figure&nbsp;2: Processing image: a quick guide how to do this in FIJI. From: <a href="https://f1000research.com/articles/9-1373">Schmied and Jambor. Effective image visualization for publications - a workflow using open access tools and concepts </a></figcaption>
+</figure>
+</div>
+<section id="download" class="level5">
+<h5 class="anchored" data-anchor-id="download">Download</h5>
+<p>Get the cheat sheets as <a href="https://osf.io/cjp8w/">printable PDF</a>. Note, we used an open license, that means you can get the adaptable files and e.g., make translations, alterations, or add your own notes.</p>
+<p>A German version was already made by <a href="https://joram.schwartzmann.de/cheat-sheet-wissenschaftliche-abbildungen.html">Joram Schwartzmann</a>, checkt it out!</p>
+</section>
+</section>
+<section id="further-resources" class="level2">
+<h2 class="anchored" data-anchor-id="further-resources">Further resources</h2>
+<p>Beyond our starter cheat sheets more great resources help you along the way: The “Biologist’s guide to planning and performing quantitative bioimaging experiments” describes the entire arc from sample to microscope via image analysis towards data interpretation and publication. The resource lists many key points and aggregates links to more detailed descriptions, making it easy for biologists to navigate their first microscopy experiments.</p>
+<div id="fig-senft" class="quarto-figure quarto-figure-center anchored">
+<figure class="figure">
+<p><img src="https://helenajamborwrites.netlify.app/posts/Image_cheatsheets/Senft.PNG" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Figure&nbsp;3: A biologist’s guide to planning and performing quantitative bioimaging experiments <a href="https://doi.org/10.1371/journal.pbio.3002167">Senft RA, Diaz-Rohrer B, Colarusso P, Swift L, Jamali N, Jambor H, et al.&nbsp;(2023) PLoS Biol</a></figcaption>
+</figure>
+</div>
+</section>
+<section id="more-about" class="level2">
+<h2 class="anchored" data-anchor-id="more-about">More about</h2>
+<section id="microscopy-image-acquisition" class="level4">
+<h4 class="anchored" data-anchor-id="microscopy-image-acquisition">Microscopy image acquisition</h4>
+<ul>
+<li>
+Seeing is believing? A beginners’ guide to practical pitfalls in image acquisition. <a href="https://doi.org/10.1083/jcb.200507103">North, A.J., 2006. J Cell Biol</a>
+</li>
+<li>
+Fluorescence microscopy–avoiding the pitfalls. J<a href="https://doi.org/10.1242/jcs.03433">Brown, C.M., 2007. Cell Sci 120, 1703–1705. </a>
+</li>
+<li>
+Rigor and Reproducibility in Confocal Fluorescence Microscopy. <a href="https://doi.org/10.1002/cyto.a.23924">Jonkman, J., 2020. Cytometry A</a>
+</li>
+</ul>
+</section>
+<section id="fluorophores-and-filters" class="level4">
+<h4 class="anchored" data-anchor-id="fluorophores-and-filters">Fluorophores and Filters</h4>
+<ul>
+<li>
+Optimizing live-cell fluorescence imaging conditions to minimize phototoxicity. <a href="https://doi.org/10.1242/jcs.242834">Kiepas, A., Voorand, E., Mubaid, F., Siegel, P.M., Brown, C.M., 2020. J Cell Sci. </a>
+</li>
+<li>
+Assessing phototoxicity in live fluorescence imaging.<a href="https://doi.org/10.1038/nmeth.4344">Laissue, P.P., Alghamdi, R.A., Tomancak, P., Reynaud, E.G., Shroff, H., 2017. Nat Methods</a>
+</li>
+<li>
+Recommendations for a standardized nomenclature for probe tags used in cytometry and microscopy imaging<a href="https://doi.org/10.1002/cyto.a.24224">Blenman, K.R.M., Spidlen, J., Parks, D.R., Moore, W., Treister, A., Leif, R., Bray, C., Goldberg, M., ISAC Data Standards Task Force, Brinkman, R., 2021. ISAC Probe Tag Dictionary: Standardized Nomenclature for Detection and Visualization Labels Used in Cytometry and Microscopy Imaging. Cytometry A</a>
+</li>
+</ul>
+</section>
+<section id="sample-preparation" class="level4">
+<h4 class="anchored" data-anchor-id="sample-preparation">Sample preparation</h4>
+<ul>
+<li>
+Seeing is believing? A beginners’ guide to practical pitfalls in image acquisition. <a href="https://doi.org/10.1083/jcb.200507103">North, A.J., 2006. J Cell Biol</a>
+</li>
+</ul>
+</section>
+<section id="method-reporting" class="level4">
+<h4 class="anchored" data-anchor-id="method-reporting">Method reporting</h4>
+<ul>
+<li>
+Towards community-driven metadata standards for light microscopy: tiered specifications extending the OME model.<a href="https://doi.org/10.1038/s41592-021-01327-9">Hammer, M., Huisman, M., Rigano, A., Boehm, U., Chambers, J.J., Gaudreault, N., North, A.J., Pimentel, J.A., Sudar, D., Bajcsy, P., Brown, C.M., Corbett, A.D., Faklaris, O., Lacoste, J., Laude, A., Nelson, G., Nitschke, R., Farzam, F., Smith, C.S., Grunwald, D., Strambio-De-Castillia, C., 2021. Nat Methods</a>
+</li>
+<li>
+A guide to accurate reporting in digital image acquisition - can anyone replicate your microscopy data?<a href="https://doi.org/10.1242/jcs.254144">Heddleston, J.M., Aaron, J.S., Khuon, S., Chew, T.-L., 2021. J Cell Sci</a>
+</li>
+<li>
+Best practices and tools for reporting reproducible fluorescence microscopy methods. <a href="https://doi.org/10.1038/s41592-021-01156-w">Montero Llopis, P., Senft, R.A., Ross-Elliott, T.J., Stephansky, R., Keeley, D.P., Koshar, P., Marqués, G., Gao, Y.-S., Carlson, B.R., Pengo, T., Sanders, M.A., Cameron, L.A., Itano, M.S., 2021. Nat Methods</a>
+</li>
+<li>
+Imaging methods are vastly underreported in biomedical research. <a href="https://doi.org/10.7554/eLife.55133">Marques G, P.T., Sanders MA, 2020. Elife</a>
+</li>
+<li>
+Micro-Meta App: an interactive tool for collecting microscopy metadata based on community specifications.<a href="">Rigano, A. et al.&nbsp;Nat. Methods</a>
+</li>
+<li>
+MethodsJ2: a software tool to capture metadata and generate comprehensive microscopy methods text. <a href="https://doi.org/10.1038/s41592-021-01290-5">Ryan, J., Pengo, T., Rigano, A., Llopis, P.M., Itano, M.S., Cameron, L.A., Marqués, G., Strambio-De-Castillia, C., Sanders, M.A., Brown, C.M., 2021. Nat Methods</a>
+</li>
+</ul>
+</section>
+<section id="image-analysis-processing-software" class="level4">
+<h4 class="anchored" data-anchor-id="image-analysis-processing-software">Image analysis &amp; processing software</h4>
+<ul>
+<li>
+Fiji: an open-source platform for biological-image analysis.<a href="https://www.nature.com/articles/nmeth.2019">Schindelin J, Arganda-Carreras I, Frise E, Kaynig V, Longair M, Pietzsch T, et al.&nbsp;Nature methods</a>
+</li>
+<li>
+A Hitchhiker’s guide through the bio-image analysis software universe.<a href="https://doi.org/10.1002/1873-3468.14451">Haase, R., Fazeli, E., Legland, D., Doube, M., Culley, S., Belevich, I., Jokitalo, E., Schorb, M., Klemm, A., Tischer, C., 2022. FEBS Lett</a>
+</li>
+<li>
+Reproducible image handling and analysis. <a href="https://www.embopress.org/doi/full/10.15252/embj.2020105889">Miura K NS. EMBO J. 2021;40(3):e105889.</a>
+</li>
+</ul>
+
+
+</section>
+</section>
+
+ ]]></description>
+  <category>images</category>
+  <category>how-to</category>
+  <category>cheat sheets</category>
+  <guid>https://helenajamborwrites.netlify.app/posts/Image_cheatsheets/index.html</guid>
+  <pubDate>Sun, 20 Aug 2023 22:00:00 GMT</pubDate>
+  <media:content url="https://helenajamborwrites.netlify.app/posts/Image_cheatsheets/SchmiedJambor_Figure4.png" medium="image" type="image/png" height="111" width="144"/>
+</item>
+<item>
+  <title>Summer23</title>
+  <dc:creator>Helena Jambor</dc:creator>
+  <dc:creator>Helena Jambor</dc:creator>
+  <link>https://helenajamborwrites.netlify.app/posts/Summer23/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>A few sketches I made in summer 2023 in Smilka, Plön, Beverbeck, Berlin.</p>
+<div class="{=html}">
+<iframe src="slideshow.html" frameborder="0" width="800" height="600">
+Sketches
+</iframe>
+</div>
+
+
+
+ ]]></description>
+  <category>sketches</category>
+  <guid>https://helenajamborwrites.netlify.app/posts/Summer23/index.html</guid>
+  <pubDate>Mon, 14 Aug 2023 22:00:00 GMT</pubDate>
+  <media:content url="https://helenajamborwrites.netlify.app/posts/Summer23/Scan1.png" medium="image" type="image/png" height="102" width="144"/>
+</item>
+<item>
+  <title>How to… image availability</title>
+  <dc:creator>Helena Jambor</dc:creator>
+  <dc:creator>Helena Jambor</dc:creator>
+  <link>https://helenajamborwrites.netlify.app/posts/Image_how_avail/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="how-to-image-availability" class="level2">
+<h2 class="anchored" data-anchor-id="how-to-image-availability">How to… image availability</h2>
+<p>I <a href="../../posts/Image_how_mag/index.html">said this before</a>, but it should be said again: Make a copy of your original microscope/image file before starting any processing and adjustments and then store this image file along with the final, processed image somewhere save. In an ideal world your colleagues should see your final published image figure and be able to re-do the analysis to get there from a provided microscope image. Ideally, nobody would need to ask you, i.e., the files (TIFFimage, PNG image, scripts, method, anaylsis pipeline etc) should be in a public repository. At present, finding authors and working email adresses is a lot of detective work with changing affiliation, Email, or even profession. This was “wonderfully” demonstrated recently. Researchers investigated how well “data available upon request” really works. To no ones surprise and in almost 50%, this did not even got an Email replies. The team then made “rigorous attempts to contact the authors”, i.e.&nbsp;continuously bothered the authors, which increased the data availability a little, but not enough (Tedersoo et al., 2021).</p>
+</section>
+<section id="public-places-for-your-data" class="level2">
+<h2 class="anchored" data-anchor-id="public-places-for-your-data">Public places for your data</h2>
+<p>For regular light microscope image techniques many public storage possibilities exist and should be used. Free options for up to 20-50Gb of image data are <a href="https://zenodo.org/">Zenodo</a>, <a href="https://osf.io/">Open Science Framework</a>, and <a href="https://figshare.com/">Figshare</a>. These repositories are broad and allow upload of any kind of digital data. A dedicated option for image data are <a href="https://www.openmicroscopy.org/omero/institution/">OMERO servers</a>, however these are usually maintained by institutions, rarely by individual labs and can be both public or private. Image data repositories, that are fully searchable are still being build. The <a href="https://www.ebi.ac.uk/bioimage-archive/">BioImage Archive</a> is one such attempt that accepts any image data, the Image Data Resource publishes image datasets that serves as reference datasets, and EMPIAR is a resource specifically for Electron Microscopy data.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://helenajamborwrites.netlify.app/posts/Image_how_avail/Beth.png" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Overview of data repositories that accept images. From: <a href="https://zenodo.org/record/7628604">Beth Cimini, 2023</a></figcaption>
+</figure>
+</div>
+</section>
+<section id="which-files-should-be-deposited" class="level2">
+<h2 class="anchored" data-anchor-id="which-files-should-be-deposited">Which files should be deposited?</h2>
+<p>The specific file type of the microscope image will depend on imaging setup. A standard format for loss-loss compression is TIFF or the open format OME-TIFF. In specialized microscopy techniques that rapidly accumulate tera-bites of data, e.g., long-term live-imaging, light-sheet microscopy, or similar the original microscopy files are often not stored locally and too large for public repositories. When only compressed files can be kept, PNG files are preferred to e.g., JPEG files, as they allow loss-less compression.</p>
+<section id="read-more" class="level4">
+<h4 class="anchored" data-anchor-id="read-more">Read more:</h4>
+<p>The BioImage Archive - Building a Home for Life-Sciences Microscopy Data. 434, 167505. <a href="https://doi.org/10.1016/j.jmb.2022.167505">Hartley et al 2022 J Mol Biol.</a></p>
+<p>A call for public archives for biological image data. <a href="https://doi.org/10.1038/s41592-018-0195-8">Ellenberg et al 2018. Nat Methods.</a></p>
+
+
+</section>
+</section>
+
+ ]]></description>
+  <category>images</category>
+  <category>how-to</category>
+  <guid>https://helenajamborwrites.netlify.app/posts/Image_how_avail/index.html</guid>
+  <pubDate>Mon, 14 Aug 2023 22:00:00 GMT</pubDate>
+  <media:content url="https://helenajamborwrites.netlify.app/posts/Image_how_avail/Beth.png" medium="image" type="image/png" height="67" width="144"/>
+</item>
+<item>
+  <title>How to… image colors</title>
+  <dc:creator>Helena Jambor</dc:creator>
+  <dc:creator>Helena Jambor</dc:creator>
+  <link>https://helenajamborwrites.netlify.app/posts/Image_how_color/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="how-to-image-colors" class="level2">
+<h2 class="anchored" data-anchor-id="how-to-image-colors">How to… image colors</h2>
+<p>Images come in many appearances. Photos, histology staining, and some clinical image are usually not color adjusted and shown in full color. Electron microscopy images show one layer of information and are shown in greyscale. In light microscopy images we can excite features in several different wavelengths and combine them in multi-colored images. And this is where trouble starts (more on trouble <a href="../../posts/Image_numbers/index.html">in my overview</a>. I already wrote about <a href="../../posts/Image_how_annot/index.html">color annotation</a>, today I focus on the image colors.</p>
+</section>
+<section id="adjust-brightness-contrast" class="level2">
+<h2 class="anchored" data-anchor-id="adjust-brightness-contrast">Adjust brightness &amp; contrast</h2>
+<p>For each channel, brightness and contrast can be adjusted separately. When images are to be compared, fixed intensity values should be used. Adjustment can be done in linear mode, which is applied uniformly to the whole image [note: if you are really into image display details there is much more to learn for you here, monitor display are not uniform, different algorithms are “linear” in different ways etc. If this is critical for your image analysis, learn more. If not, stop here and move on with your science].</p>
+<div id="fig-adjust" class="quarto-figure quarto-figure-center anchored">
+<figure class="figure">
+<p><img src="https://helenajamborwrites.netlify.app/posts/Image_how_color/Adjust_channel.png" height="400" class="figure-img"></p>
+<figcaption class="figure-caption">Figure&nbsp;1: Adjust channel settings in light microscope images. from: Christopher Schmied, F1000R 2020.</figcaption>
+</figure>
+</div>
+</section>
+<section id="select-color-display" class="level2">
+<h2 class="anchored" data-anchor-id="select-color-display">Select color display</h2>
+<p>The vast majority of light microscope cameras capture each emission spectrum as a separate greyscale image. Users then often select a display color (‘lookup table’) for each channel. Many times users simply pick the color of the emission wavelengths. DAPI peaks at 461 nm and is then shown in blue, GFP peaks at 509 nm, which is in the green portion of the visible spectrum, and RFP peaks at 583 nm,hence is shown as red.</p>
+<section id="visibiilty-of-colors" class="level4">
+<h4 class="anchored" data-anchor-id="visibiilty-of-colors">Visibiilty of colors</h4>
+<p>The problem is that blue or red on the black background of microscopy images have a much lower visibility than the original greyscale image. We can see much more fine details when the signal is shown in white on black, as in the original greyscale image. You thus serve your audiences best if you show microscope images in greyscale also in your figures</p>
+<div id="fig-visibilitly" class="quarto-figure quarto-figure-center anchored">
+<figure class="figure">
+<p><img src="https://helenajamborwrites.netlify.app/posts/Image_how_color/Colors_visibility.png" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Figure&nbsp;2: Display colors of light microscope images and a visibility test (greyscale render): details are barely visible in blue on a black background, more structures can be seen when data is shown in white.</figcaption>
+</figure>
+</div>
+</section>
+<section id="accessibility-of-colors" class="level4">
+<h4 class="anchored" data-anchor-id="accessibility-of-colors">Accessibility of colors</h4>
+<p>When we prepare figures we should also consider color-blind audiences. Problems to differentiate red/green, as is the case in deuteranopia, is well known, but also other combinations may be problematic. Online software and also ImageJ allow you to test color combinations for their visibility to diverse audiences. In general: you may find possibilities to combine two channels in color-blind save mode. It is however impossible to find color options for three or more channels. Thus your safest option is again to show each color channel with a separate greyscale image.</p>
+<div id="fig-colorcombo" class="quarto-figure quarto-figure-center anchored">
+<figure class="figure">
+<p><img src="https://helenajamborwrites.netlify.app/posts/Image_how_color/Colors.png" height="400" class="figure-img"></p>
+<figcaption class="figure-caption">Figure&nbsp;3: Think of accessibility of your colors and do a visibility test for color combinations.</figcaption>
+</figure>
+</div>
+</section>
+</section>
+<section id="why-are-we-still-debating-color-choices" class="level2">
+<h2 class="anchored" data-anchor-id="why-are-we-still-debating-color-choices">Why are we still debating color choices?</h2>
+<p>In all forms of science communication, including image preparation, authors should be considered of colorblind readers. Among data scientists, it is well established for at least over a century that red and green colors should not be used in parallel when communicating data.</p>
+<p>W.C. Brinton already wrote about this topic in his books in 1914 and 1939 (Chapter 49 “Color and its use”), citing an even older article by Edward Ayers from 1907, that “One man in twenty and one women in about two hundred are unable to see red and green normally” (Brintons book is <a href="https://archive.org/details/graphicpresentat00brinrich/mode/1up">available online</a>).</p>
+<p>Surprisingly, being considerate with color choices still not reached all: a widely shared technology feature in Nature (<a href="https://doi.org/10.1038/d41586-021-02696-z">Katsnelson, 2021, Colour me better: fixing figures for colour blindness</a>) again calls for authors to use inclusive colors. Also this is echoed by many scientific societies e.g., <a href="https://www.ascb.org/science-news/how-to-make-scientific-figures-accessible-to-readers-with-color-blindness/">the American Society for Cell Biology</a>.</p>
+<div id="fig-brinton" class="quarto-layout-panel">
+<figure class="figure">
+<div class="quarto-layout-row quarto-layout-valign-top">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<p><img src="https://helenajamborwrites.netlify.app/posts/Image_how_color/Brinton_book.png" class="img-fluid figure-img"></p>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<p><img src="https://helenajamborwrites.netlify.app/posts/Image_how_color/Brinton_colorcombo.png" class="img-fluid figure-img"></p>
+</div>
+</div>
+<p></p><figcaption class="figure-caption">Figure&nbsp;4: WC Brinton published in 1914 his book “Graphic presentation”, which included a guide to which color-combinations and their visibility to normal vision (right column) and color blind (left column) audiences .</figcaption><p></p>
+</figure>
+</div>
+</section>
+<section id="more-on-color-combinations" class="level2">
+<h2 class="anchored" data-anchor-id="more-on-color-combinations">More on color combinations</h2>
+<p>How exactly colors can be combined and still be accessible to all readers is controversial. For some images, such as colored photographs, rendering them safe for viewing by colorblind readers is not possible and risks sacrificing clarity. But, as pointed out above, adjusting the display colors is simple for most light microscopy images. Here, colors are selected in the microscope or image processing software. Many already offer combinations of color that are accessible to most colorblind audiences. Currently, many scientists already embraced green/magenta as a color scheme to replace green/red images. However, this may pose a semantic problem, when referring to red-fluorophores depicted in magenta color etc, or a convention problem to others, who feel “Green Fluorescent Protein” should not be shown in e.g., cyan. In light of these semantic and convention obstacles, scientists should embrace publishing each channel of a multicolored light microscope image as a standalone, separate (greyscale) image. Grayscale images are in any case superior to discern fine image details such as specific structures or cells in images. Human eyes perceive the contrast between light and dark areas more easily than they do contrast between a color and dark areas, e.g.&nbsp;as is the case when showing intensities in green on a dark background.</p>
+</section>
+<section id="literature-on-colors-in-microscopy" class="level2">
+<h2 class="anchored" data-anchor-id="literature-on-colors-in-microscopy">Literature on colors in microscopy</h2>
+<p>A Review of Color Blindness for Microscopists: Guidelines and Tools for Accommodating and Coping with Color Vision Deficiency.<br>
+<a href="https://doi.org/10.1017/S1431927615000173">Keene, D.R., 2015, Microscopy and Microanalysis</a></p>
+<section id="tools-and-resources-for-color-choices" class="level4">
+<h4 class="anchored" data-anchor-id="tools-and-resources-for-color-choices">Tools and resources for color choices</h4>
+<ul>
+<li>
+Design color palettes &amp; test accessibility<a href="https://hclwizard.org">HCLwizard</a>
+</li>
+<li>
+Find color palettes for charts<a href="https://colorbrewer2.org">ColorBrewer2</a>
+</li>
+<li>
+Blog on Viz for Colorblind readers<a href="https://www.datylon.com/blog/data-visualization-for-colorblind-readers">Datylon blog</a>
+</li>
+<li>
+Tableau blog on red/green<a href="https://www.tableau.com/blog/examining-data-viz-rules-dont-use-red-green-together">Tableau blog</a>
+</li>
+</ul>
+
+
+</section>
+</section>
+
+ ]]></description>
+  <category>images</category>
+  <category>how-to</category>
+  <guid>https://helenajamborwrites.netlify.app/posts/Image_how_color/index.html</guid>
+  <pubDate>Wed, 09 Aug 2023 22:00:00 GMT</pubDate>
+  <media:content url="https://helenajamborwrites.netlify.app/posts/Image_how_color/Brinton_colorcombo.png" medium="image" type="image/png" height="153" width="144"/>
+</item>
+<item>
+  <title>How to… image annotation</title>
+  <dc:creator>Helena Jambor</dc:creator>
+  <dc:creator>Helena Jambor</dc:creator>
+  <link>https://helenajamborwrites.netlify.app/posts/Image_how_annot/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="how-to-image-annotation" class="level2">
+<h2 class="anchored" data-anchor-id="how-to-image-annotation">How to… image annotation</h2>
+<p>I already wrote <a href="../../posts/Image_numbers/index.html">why we need to annotate more</a>, <a href="../../posts/Image_how_mag/index.html">how to choose your image format</a>, and <a href="../../posts/Image_how_scale/index.html">how to annotate physical scales</a>. But we also have to annotate symbols, regions, stainings and fluorphores (for general colors <a href="../../posts/Image_how_color/index.html">wait for next post</a>.</p>
+<div id="fig-good-bad" class="quarto-figure quarto-figure-center anchored">
+<figure class="figure">
+<p><img src="https://helenajamborwrites.netlify.app/posts/Image_how_annot/Annotations.png" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Figure&nbsp;1: Image annotations, the good, the bad and the ugly <a href="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001161">from Jambor 2021</a></figcaption>
+</figure>
+</div>
+</section>
+<section id="color-annotations" class="level2">
+<h2 class="anchored" data-anchor-id="color-annotations">Color annotations</h2>
+<p>Image colors are usually annotated in the color they are shown, this is fast and easy for readers. Problems may arise when image colors are not color-bind save, when the image has yellow stainigs that do not work for text. Alternatively, the color name is written out and linked to the molecule (GFP = green, actin-Cy3 = red etc). In this case the readers has to do a semantic translation of color name to image color, which is slow and error-prone as we all see colors differently.</p>
+<p>Whenever you have &gt;2-3 colors, you can safely assume that not all will be able to distinguish them any more. Not everyone is familiar with “lavender” or “salmon”, as we know since the hilarious and VERY <a href="https://blog.xkcd.com/2010/05/03/color-survey-results/">exhaustive survey by XKCD</a>.</p>
+<div id="fig-xkcd" class="quarto-layout-panel">
+<figure class="figure">
+<div class="quarto-layout-row quarto-layout-valign-top">
+<div class="quarto-layout-cell" style="flex-basis: 57.1%;justify-content: center;">
+<p><img src="https://helenajamborwrites.netlify.app/posts/Image_how_annot/color_boy_girl2010-03-01-12bf011.png" class="img-fluid figure-img" width="400"></p>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 42.9%;justify-content: center;">
+<p><img src="https://helenajamborwrites.netlify.app/posts/Image_how_annot/xkcd_satfaces_map_450.webp" class="img-fluid figure-img" width="300"></p>
+</div>
+</div>
+<p></p><figcaption class="figure-caption">Figure&nbsp;2: His/Her color names by Doghouse Diaries and the color space with name-territoires by XKCD</figcaption><p></p>
+</figure>
+</div>
+</section>
+<section id="visibility-of-annotations" class="level2">
+<h2 class="anchored" data-anchor-id="visibility-of-annotations">Visibility of Annotations</h2>
+<p>Just like your image colors, also your annotations should be color-blind save. But some color combinations are also hard to decipher with regular vision.</p>
+<div id="fig-poorex" class="quarto-figure quarto-figure-center anchored">
+<figure class="figure">
+<p><img src="https://helenajamborwrites.netlify.app/posts/Image_how_annot/yellow_text_poor.png" class="img-fluid figure-img"> <img src="https://helenajamborwrites.netlify.app/posts/Image_how_annot/yellow_text_Poor_visibility.png" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Figure&nbsp;3: ouch…</figcaption>
+</figure>
+</div>
+</section>
+<section id="symbols-arrows-rois" class="level2">
+<h2 class="anchored" data-anchor-id="symbols-arrows-rois">Symbols, arrows, ROIs</h2>
+<p>Oftentimes lines, arrows, symbols and regions of interest (ROIs) are used to point out important details or areas in an image. It is essential that all annotations are distinguishable and clearly explained. Avoid using the same symbol for several meanings: if arrows are used to point out structures, they should not concurrently be used to also indicate motion.</p>
+<div id="fig-exampleannot" class="quarto-figure quarto-figure-center anchored">
+<figure class="figure">
+<p><img src="https://helenajamborwrites.netlify.app/posts/Image_how_annot/Symbols_arrows_lettercode.png" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Figure&nbsp;4: Examples of annotations in scientific images</figcaption>
+</figure>
+</div>
+</section>
+<section id="annotate-your-heart-out.." class="level2">
+<h2 class="anchored" data-anchor-id="annotate-your-heart-out..">Annotate your heart out..</h2>
+<p>Whatever you may feel important for your readers you should make an effort to help them take it in fast. Below are examples that annotate the position of laser manipulation with dashed-line ROI, color-code the z-stack depth, progressive zoom, and the overlap colors (good to be reminded in RGB space that mixing red, blue and green is WHITE).</p>
+<div id="fig-many" class="quarto-layout-panel">
+<figure class="figure">
+<div class="quarto-layout-row quarto-layout-valign-top">
+<div class="quarto-layout-cell" style="flex-basis: 100.0%;justify-content: center;">
+<p><img src="https://helenajamborwrites.netlify.app/posts/Image_how_annot/Annotations_many.png" class="img-fluid figure-img"></p>
+</div>
+</div>
+<p></p><figcaption class="figure-caption">Figure&nbsp;5: Examples of what can be annotated.</figcaption><p></p>
+</figure>
+</div>
+</section>
+<section id="many-annotations" class="level2">
+<h2 class="anchored" data-anchor-id="many-annotations">Many annotations</h2>
+<p>If you went a bit overboard with your annotations, you may have to find creative solutions. Here are two examples:</p>
+<div id="fig-manyA" class="quarto-layout-panel">
+<figure class="figure">
+<div class="quarto-layout-row quarto-layout-valign-top">
+<div class="quarto-layout-cell" style="flex-basis: 100.0%;justify-content: center;">
+<p><img src="https://helenajamborwrites.netlify.app/posts/Image_how_annot/Annotations_toomany.png" class="img-fluid figure-img"> <img src="https://helenajamborwrites.netlify.app/posts/Image_how_annot/Full_page_scace_forAnnotations.png" class="img-fluid figure-img"></p>
+</div>
+</div>
+<p></p><figcaption class="figure-caption">Figure&nbsp;6: Annotations, how much is too much? Some clever annotation <a href="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001161">strategy for many labels</a> above, and a practical approach, make figures larger, here a full-page.</figcaption><p></p>
+</figure>
+</div>
+</section>
+<section id="consistent-code-from-image-to-quantification" class="level2">
+<h2 class="anchored" data-anchor-id="consistent-code-from-image-to-quantification">Consistent code from image to quantification</h2>
+<div id="fig-image-chart" class="quarto-layout-panel">
+<figure class="figure">
+<div class="quarto-layout-row quarto-layout-valign-top">
+<div class="quarto-layout-cell" style="flex-basis: 100.0%;justify-content: center;">
+<p><img src="https://helenajamborwrites.netlify.app/posts/Image_how_annot/ColorScheme_image-chart_annotation_good copy.png" class="img-fluid figure-img" width="200"> <img src="https://helenajamborwrites.netlify.app/posts/Image_how_annot/Annotation_image-chart_good.png" class="img-fluid figure-img" width="550"></p>
+</div>
+</div>
+<p></p><figcaption class="figure-caption">Figure&nbsp;7: A good example of consistent color (left) and label (right) between image and chart.</figcaption><p></p>
+</figure>
+</div>
+<div id="fig-bad" class="quarto-figure quarto-figure-center anchored">
+<figure class="figure">
+<p><img src="https://helenajamborwrites.netlify.app/posts/Image_how_annot/ColorScheme__image-chart_annotation_poorvis_1.png" class="img-fluid figure-img"> <img src="https://helenajamborwrites.netlify.app/posts/Image_how_annot/ColorScheme__image-chart_annotation_poorvis_2.png" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Figure&nbsp;8: Colored annotations are hard to see on multi-colored background - the link to the chart above is almost impossible to see (right).</figcaption>
+</figure>
+</div>
+</section>
+<section id="annotate-where" class="level2">
+<h2 class="anchored" data-anchor-id="annotate-where">Annotate where?</h2>
+<p>Ideally the explanation is in the figure itself, as close to the data as possible. Alternatively, explanations can go to the figure legend. Remember however that at times the legend is not even on the same page as the figure, that legends may have word limits, and that a legends in which many annotations have to be explained become tedious to read.</p>
+</section>
+<section id="speaking-of..-figure-legends" class="level2">
+<h2 class="anchored" data-anchor-id="speaking-of..-figure-legends">Speaking of.. Figure legends</h2>
+<p>Figure legends are essential for complete image annotation. They should inform about the specimen, maybe preparation, dyes and all essentials for understanding the image. Which information is in the figure versus the figure legend (and method section) depends on journal requirements and personal preference, but in sum the information should make the figure self-explanatory. A critical analysis by Yu of figure legends showed that up to 70% of the information needed to comprehend the figure was lacking, many times readers needed a complete paper to fully comprehend figures.</p>
+<section id="read-more" class="level4">
+<h4 class="anchored" data-anchor-id="read-more">Read more</h4>
+<p>Are figure legends sufficient? Evaluating the contribution of associated text to biomedical figure comprehension. <a href="https://doi.org/10.1186/1747-5333-4-1">Yu, H., Agarwal, S., Johnston, M., Cohen, A., 2009. J Biomed Discov Collab</a></p>
+
+
+</section>
+</section>
+
+ ]]></description>
+  <category>images</category>
+  <category>how-to</category>
+  <guid>https://helenajamborwrites.netlify.app/posts/Image_how_annot/index.html</guid>
+  <pubDate>Mon, 07 Aug 2023 22:00:00 GMT</pubDate>
+  <media:content url="https://helenajamborwrites.netlify.app/posts/Image_how_annot/Symbols_arrows_lettercode.png" medium="image" type="image/png" height="66" width="144"/>
+</item>
+<item>
+  <title>How to… image scale information</title>
+  <dc:creator>Helena Jambor</dc:creator>
+  <dc:creator>Helena Jambor</dc:creator>
+  <link>https://helenajamborwrites.netlify.app/posts/Image_how_scale/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="how-to-image-scale-information" class="level2">
+<h2 class="anchored" data-anchor-id="how-to-image-scale-information">How to… image scale information</h2>
+<p>Microscopy images without any annotations are abstract art rather than scientific evidences. <a href="../../posts/Image_how_mag/index.html">After deciding on image size and format</a>, the next step towards making image content understandable is to annotate the object size, explain all colors, and any symbols used.</p>
+</section>
+<section id="scale-bars-in-publications" class="level2">
+<h2 class="anchored" data-anchor-id="scale-bars-in-publications">Scale bars in publications</h2>
+<p>Every scientific image needs scale information to allow audiences to compare and relate the image size with the physical world <a href="../../posts/Image_numbers/index.html">and not all published images currently have scale info</a>. Scale information is best conveyed with a scale bar with its physical dimensions. It’s also possible to make statements about the size of the entire image, or, as last resort, state the dimensions in the figure legend.</p>
+<div id="fig-Scales" class="quarto-layout-panel">
+<figure class="figure">
+<div class="quarto-layout-row quarto-layout-valign-top">
+<div class="quarto-layout-cell" style="flex-basis: 100.0%;justify-content: center;">
+<p><img src="https://helenajamborwrites.netlify.app/posts/Image_how_scale/Scale_examples.png" class="img-fluid figure-img"></p>
+</div>
+</div>
+<p></p><figcaption class="figure-caption">Figure&nbsp;1: Examples of poor and better scale information, <a href="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001161">from Jambor 2021</a></figcaption><p></p>
+</figure>
+</div>
+</section>
+<section id="many-ways-to-show-scale-in-images" class="level2">
+<h2 class="anchored" data-anchor-id="many-ways-to-show-scale-in-images">Many ways to show scale in images</h2>
+<p>Scales are included in scientific illustrations for a long time in different ways. In Maria Merian times, size statements were included in the book, not the drawing itself; she usually stated in the preface that all drawings are at real scale.</p>
+<p>Many times familiar objects are included in drawings or images for scale. Often, this is a human figure, e.g.&nbsp;with plants and trees, rocks, or animals.</p>
+<div id="fig-humanscale" class="quarto-layout-panel">
+<figure class="figure">
+<div class="quarto-layout-row quarto-layout-valign-top">
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
+<p><img src="https://helenajamborwrites.netlify.app/posts/Image_how_scale/Scale_human.png" class="img-fluid figure-img" width="250"></p>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 42.7%;justify-content: center;">
+<p><img src="https://helenajamborwrites.netlify.app/posts/Image_how_scale/ReDreaw_ipad.jpg" class="img-fluid figure-img" width="320"></p>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 24.0%;justify-content: center;">
+<p><img src="https://helenajamborwrites.netlify.app/posts/Image_how_scale/NICE_scalebar_human-for-scale.PNG" class="img-fluid figure-img" width="180"></p>
+</div>
+</div>
+<p></p><figcaption class="figure-caption">Figure&nbsp;2: Humans for scale of plants, dinosaurs, and unexpectedly large invertebrates</figcaption><p></p>
+</figure>
+</div>
+<p>At times other familiar objects are included: a penny is placed on a rock in geology or a measuring tape is shown.</p>
+<div id="fig-familiars" class="quarto-layout-panel">
+<figure class="figure">
+<div class="quarto-layout-row quarto-layout-valign-top">
+<div class="quarto-layout-cell" style="flex-basis: 100.0%;justify-content: center;">
+<p><img src="https://helenajamborwrites.netlify.app/posts/Image_how_scale/worms copy.png" class="img-fluid figure-img"></p>
+</div>
+</div>
+<div class="quarto-layout-row quarto-layout-valign-top">
+<div class="quarto-layout-cell" style="flex-basis: 100.0%;justify-content: center;">
+<p><img src="https://helenajamborwrites.netlify.app/posts/Image_how_scale/NigelLarkin_Nat_SCA_Scalebar.png" class="img-fluid figure-img"></p>
+</div>
+</div>
+<p></p><figcaption class="figure-caption">Figure&nbsp;3: Earth worm next to measuring tape and bone scaled with credit-card measure (merch from Nat_SCA)</figcaption><p></p>
+</figure>
+</div>
+</section>
+<section id="scales-in-microscopy-images" class="level2">
+<h2 class="anchored" data-anchor-id="scales-in-microscopy-images">Scales in microscopy images</h2>
+<p>Using familiar objects for scale isn’t possible when we make microscopic observations. This may be why in the earliest published photographs and microscope pictures (mind you, there aren’t many as images were considered a waste of space and decorational) scales are omitted.</p>
+<p>A lovely tool that tried placing familiar objects next to microscopic scenes is the Utah genetics cellular scale animation <a href="http://learn.genetics.utah.edu/content/cells/scale/">Genetics Utah Animation of Scale</a> I never cease to be amazed at the relative size differences of cells and how they vary over so many magnitudes!</p>
+<section id="alternative-to-scale-bars" class="level4">
+<h4 class="anchored" data-anchor-id="alternative-to-scale-bars">Alternative to scale bars</h4>
+<p>A cute alternative to the regular scale bar is here, thanks to Filip Port (<span class="citation" data-cites="crisprflydesign">@crisprflydesign</span><span class="citation" data-cites="fediscience.org">@fediscience.org</span>) who turned the googly eyes of <span class="citation" data-cites="thekengevik">@thekengevik</span> into a veritable scale bar!</p>
+<div id="fig-googly" class="quarto-layout-panel">
+<figure class="figure">
+<div class="quarto-layout-row quarto-layout-valign-top">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<p><img src="https://helenajamborwrites.netlify.app/posts/Image_how_scale/thekengevik_googlyeyes.jpg" class="img-fluid figure-img"></p>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<p><img src="https://helenajamborwrites.netlify.app/posts/Image_how_scale/Screenshot 2022-11-09 at 10.03.32.png" class="img-fluid figure-img"></p>
+</div>
+</div>
+<p></p><figcaption class="figure-caption">Figure&nbsp;4: thekengevik googly eyes idea and googly eyes adapted for scale</figcaption><p></p>
+</figure>
+</div>
+<p>And finally, a fun but maybe not quite practical idea is suggested by Monica Zoppe, cats for scale! Check out <a href="http://www.nature.com/nmeth/journal/v14/n7/abs/nmeth.4300.html"> her article!</a></p>
+<div id="fig-cat" class="quarto-layout-panel">
+<figure class="figure">
+<div class="quarto-layout-row quarto-layout-valign-top">
+<div class="quarto-layout-cell" style="flex-basis: 100.0%;justify-content: center;">
+<p><img src="https://helenajamborwrites.netlify.app/posts/Image_how_scale/Zoppe.png" class="img-fluid figure-img"></p>
+</div>
+</div>
+<p></p><figcaption class="figure-caption">Figure&nbsp;5: Unconventional idea for annotating scales in biology</figcaption><p></p>
+</figure>
+</div>
+</section>
+</section>
+<section id="suggestions-for-making-scale-bars" class="level2">
+<h2 class="anchored" data-anchor-id="suggestions-for-making-scale-bars">Suggestions for making scale bars</h2>
+<p>As we don’t have a clear mental image of the size of a salt grain, sesames seed, or submicron cats to reliably use them to scale, we have to for now rely on scale bars. Using ImageJ/FIJI this can be rapidly accomplished: when using Bioformats to import microscopy files, the metadata, including the physical size, is read in. Then use Analyze &gt; Tools &gt; Scale Bar to define length, width, color, position, and label or your scale bar.</p>
+<section id="length" class="level5">
+<h5 class="anchored" data-anchor-id="length">Length</h5>
+<p>Be kind to your audience and use simple units, such as 100um, 50um, 10 or 2um.</p>
+</section>
+<section id="color" class="level5">
+<h5 class="anchored" data-anchor-id="color">Color</h5>
+<p>Scale bars should have a high contrast with the background. Avoid red, green, or blue bars, as these colors might be considered part of the image.</p>
+</section>
+<section id="position" class="level5">
+<h5 class="anchored" data-anchor-id="position">Position</h5>
+<p>Lower left corner is a safe place. The upper space should be kept for important information like species, cell type, or gene name, and many times figure panel name (A, B,…).</p>
+</section>
+<section id="add-scale-bar-last" class="level5">
+<h5 class="anchored" data-anchor-id="add-scale-bar-last">Add scale bar last</h5>
+<p>In the process of writing your manuscript you may re-think the figure size. Also images are re-sized for posters and slides. It is therefore easiest to add only a very fine scale bar with FIJI and then re-draw it in Adobe Illustrator (or PowerPoint, as I now that about half of you out there use PowerPoint for making figures and posters!).</p>
+</section>
+<section id="in-fijiimagej" class="level5">
+<h5 class="anchored" data-anchor-id="in-fijiimagej">In FIJI/ImageJ</h5>
+<div id="fig-fiji" class="quarto-layout-panel">
+<figure class="figure">
+<div class="quarto-layout-row quarto-layout-valign-top">
+<div class="quarto-layout-cell" style="flex-basis: 100.0%;justify-content: center;">
+<p><img src="https://helenajamborwrites.netlify.app/posts/Image_how_scale/FIJI_scalebar_figure_2.png" class="img-fluid figure-img"></p>
+</div>
+</div>
+<p></p><figcaption class="figure-caption">Figure&nbsp;6: Quick scale bar with FIJI/ImageJ. Also check this <a href="https://www.youtube.com/watch?v=UBcipUjwFec&amp;list=PL8jDF_fSen2BxniT30JZ4zzZfQi4AHni9&amp;index=4">Youtube Tutorial from Lipke Lab</a></figcaption><p></p>
+</figure>
+</div>
+</section>
+<section id="ps" class="level4">
+<h4 class="anchored" data-anchor-id="ps">PS</h4>
+<p>…if you find old scientific images with scale bars, or interesting scales, send them my way for my collection!</p>
+<p>Here are some first returns:</p>
+<div id="fig-examples" class="quarto-layout-panel">
+<figure class="figure">
+<div class="quarto-layout-row quarto-layout-valign-top">
+<div class="quarto-layout-cell" style="flex-basis: 100.0%;justify-content: center;">
+<p><img src="https://helenajamborwrites.netlify.app/posts/Image_how_scale/Scale_human_geology.png" class="img-fluid figure-img" width="350"> <img src="https://helenajamborwrites.netlify.app/posts/Image_how_scale/scale_Bar_legendproblem.jpg" class="img-fluid figure-img" width="270"></p>
+</div>
+</div>
+<p></p><figcaption class="figure-caption">Figure&nbsp;7: Human for scale in geology (courtesy James Saenz) and: pick useful scale bar units, 17:4is NOT user friendly (courtesy Jerome Mutterer).</figcaption><p></p>
+</figure>
+</div>
+<p>Oh and over at Reddit there seems to be a whole community making <a href="https://www.reddit.com/r/BananasForScale/">Banana’s for scale</a> a thing, as Barry Rowlingson <span class="citation" data-cites="geospacedman">@geospacedman</span><span class="citation" data-cites="mastodon.social">@mastodon.social</span> pointed out. One example adapted for biology by Hauke Drechsler (<span class="citation" data-cites="HD_sci">@HD_sci</span><span class="citation" data-cites="biologists.social">@biologists.social</span>):</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://helenajamborwrites.netlify.app/posts/Image_how_scale/HaukeDrechsel_banana_for_scale.png" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Figure 8: Why not! (joke)</figcaption>
+</figure>
+</div>
+
+
+</section>
+</section>
+
+ ]]></description>
+  <category>images</category>
+  <category>how-to</category>
+  <guid>https://helenajamborwrites.netlify.app/posts/Image_how_scale/index.html</guid>
+  <pubDate>Wed, 02 Aug 2023 22:00:00 GMT</pubDate>
+  <media:content url="https://helenajamborwrites.netlify.app/posts/Image_how_scale/worms copy.png" medium="image" type="image/png" height="33" width="144"/>
+</item>
+<item>
+  <title>How to… image formatting</title>
+  <dc:creator>Helena Jambor</dc:creator>
+  <dc:creator>Helena Jambor</dc:creator>
+  <link>https://helenajamborwrites.netlify.app/posts/Image_how_mag/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="how-to-image-formatting" class="level2">
+<h2 class="anchored" data-anchor-id="how-to-image-formatting">How to… image formatting</h2>
+<p>In my <a href="../../posts/Image_numbers/index.html">previous post</a> I wrote about issues that make images in publications hard to understand. Now let’s improve this!</p>
+<section id="before-you-start" class="level4">
+<h4 class="anchored" data-anchor-id="before-you-start">Before you start…</h4>
+<p>At best do not mess with the image from your microscope (usually .TIFF).Before adjusting an image for publication, first make a copy and keep the original untouched somewhere save. You more likely than not will need it at some point, e.g.&nbsp;to re-do analysis with newer software, make a better version for publication, or to give to colleagues for reanalysis!</p>
+</section>
+</section>
+<section id="adjust-brighness-and-orientation" class="level2">
+<h2 class="anchored" data-anchor-id="adjust-brighness-and-orientation">Adjust brighness and orientation</h2>
+<p>Almost always adjustments are necessary in digital images, most common of the brightness and contrast. When doing quantitative comparisons of images, fixed intensity values should be used and novice users should only apply linear adjustments that are applied to the whole image. Important: make these adjustments before cropping an image! Miura and Norrelykke in detail describe how the same adjustment calculation varies when performed on an full-view versus a cropped image. Next, many images are rotated. There are consensus ways to orient images in many fields. Humans are shown with the head at the top and the feet at the bottom, but also other traditions exist, e.g.&nbsp;for epithelia the apical side in shown at the top etc. This often requires rotation of microscope images. All rotations must be done carefully as this process redistributes image intensity values. In most software, increments of 90 degrees pixels can be reordered rather than interpolated, which maintains the intensity distribution. (Find out more here: Miura &amp; Norrelykke 2021, Schmied &amp; Jambor, 2020).</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://helenajamborwrites.netlify.app/posts/Image_how_mag/Kota.png" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Sequence matters when adjusting brightness contrast. Adapted from <a href="https://doi.org/10.15252/embj.2020105889">Miura &amp; Norrelykke</a></figcaption>
+</figure>
+</div>
+</section>
+<section id="cropping-magnification" class="level2">
+<h2 class="anchored" data-anchor-id="cropping-magnification">Cropping &amp; Magnification</h2>
+<p>Cropping is a normal adjustment to focus the audience on the key message. To show cellular structures, a close up of the organelle is required, not the whole slide that was imaged. As a rule, cropping is permitted, as long as no key feature is removed that is important for the scientific conclusion. Scientist should also consider the size of the image in the final figure: are the features that matter visible? Might it be better to show the image in larger size? Alternatively, consider enlarging and cropping the image to focus the reader on your key result, or ideally show the original image and an image detail (inset) side by side. When insets are shown their position in the original image must be indicated, e.g., with a “Region of interest”.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://helenajamborwrites.netlify.app/posts/Image_how_mag/Insets.png" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Example of poor and improved insets in figures<a href="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001161">from Jambor 2021</a></figcaption>
+</figure>
+</div>
+</section>
+<section id="assembling-a-figure-with-images" class="level2">
+<h2 class="anchored" data-anchor-id="assembling-a-figure-with-images">Assembling a figure with images</h2>
+<p>Finally, when images are all processed there are many solutions to assembling multi-panel figures. Usually, figures do not only show one microscope image, but several views, split channels, merged images, or false-color quantifications. One is <a href="https://imagej.net/plugins/figurej">FigureJ</a>, a plugin for ImageJ/FIJI by Jerome Mutterer. Another possibility is QuickFigures, again for ImageJ by Mazo. And last, it is also possible to run image processing scripts in the vector graphics software Inkscape directly (<a href="https://www.youtube.com/watch?v=hdlnZMybf7g">here</a> is a youtube tutorial by Jerome Mutterer).</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://helenajamborwrites.netlify.app/posts/Image_how_mag/FigureJ.png" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">FigureJ workflow to assemble a composite image figure</figcaption>
+</figure>
+</div>
+<section id="read-more" class="level4">
+<h4 class="anchored" data-anchor-id="read-more">Read more</h4>
+<ul>
+<li>
+Reproducible image handling and analysis. <a href="https://doi.org/10.15252/embj.2020105889"> Miura, K., Norrelykke, S.F., 2021. EMBO J</a>
+</li>
+<li>
+Effective image visualization for publications - a workflow using open access tools and concepts.<a href="https://doi.org/10.12688/f1000research.27140.2">Schmied, C., Jambor, H.K., 2020. F1000Res 9, 1373.</a>
+</li>
+<li>
+QuickFigures: a tool to quickly transform microscope images into quality figures.<a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0240280">Mazo, G., 2020. PLoS One</a>
+</li>
+</ul>
+
+
+</section>
+</section>
+
+ ]]></description>
+  <category>images</category>
+  <category>how-to</category>
+  <guid>https://helenajamborwrites.netlify.app/posts/Image_how_mag/index.html</guid>
+  <pubDate>Mon, 31 Jul 2023 22:00:00 GMT</pubDate>
+  <media:content url="https://helenajamborwrites.netlify.app/posts/Image_how_mag/Kota.png" medium="image" type="image/png" height="58" width="144"/>
+</item>
+<item>
+  <title>Many papers, many images, many problems</title>
+  <dc:creator>Helena Jambor</dc:creator>
+  <dc:creator>Helena Jambor</dc:creator>
+  <link>https://helenajamborwrites.netlify.app/posts/Image_numbers/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="many-papers-many-images-many-problems" class="level2">
+<h2 class="anchored" data-anchor-id="many-papers-many-images-many-problems">Many papers, many images, many problems</h2>
+<p>500 papers are newly indexed in PubMed every day, almost 1 million each year (<a href="https://www.nlm.nih.gov/bsd/index_stats_comp.html">PubMed Statistics</a>). Many of these contain images: 20% have a photos, light or electron microscopy images, x-rays or similar (see <a href="https://ieeexplore.ieee.org/document/7888968">Lee, 2018</a>). These images document the appearance or structure of specimen, tissues, or cells, and are a analysed to gain quantitative insights of biological processes.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://helenajamborwrites.netlify.app/posts/Image_numbers/ImageTypes.png" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Image types</figcaption>
+</figure>
+</div>
+</section>
+<section id="what-we-did" class="level2">
+<h2 class="anchored" data-anchor-id="what-we-did">What we did</h2>
+<p>Not too long ago a motivated group of scientists including me systematically analyzed the clarity and legibility of images (<a href="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001161">Jambor et al., 2021</a>). It turns out, in only a fraction of the publications, 10-20%, images are fully accessible and interpretable. To get to this number, we surveyed the image quality in the top journals, based on impact factor, in three representative fields, physiology, cell biology and plant sciences. We used a validated protocol and each article was assessed by two independent reviewers. The screening protocol covered diverse aspects: the image presentation in the figure, the completeness of feature annotations, presence of scale information, accessible image colors, and informative image titles/legends.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://helenajamborwrites.netlify.app/posts/Image_numbers/Summary.png" class="img-fluid figure-img" alt="Example images showing the types of problems that were encounterd and their frequency. E.g., scale bars are missing in 45-70% of publicartions with images."></p>
+<figcaption class="figure-caption">Summary of Image Survey, <a href="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001161">from Jambor et al., 2021</a>)</figcaption>
+</figure>
+</div>
+<section id="scale-information-missing-in-up-to-70-of-papers" class="level4">
+<h4 class="anchored" data-anchor-id="scale-information-missing-in-up-to-70-of-papers">Scale information: missing in up to 70% of papers</h4>
+<p>This is possibly the most unexpected finding: many images in publications lack sufficient information about physical scales. This is unexpected as each of us had some memories of being taught about scale bars early in our careers, if not already in high-school biology. Scale information can come in many forms and all of them were acceptable to us: as scale bar inside the image, as information about the physical size of the entire image in figures, and even an indication of the magnification were deemed acceptable. This however was entirely missing in 10-30% of the papers and incomplete in another 30-40%.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://helenajamborwrites.netlify.app/posts/Image_numbers/Scale_numbers.png" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Many papers omit scale information for images, <a href="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001161">from Jambor 2021</a></figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://helenajamborwrites.netlify.app/posts/Image_numbers/Scale_examples.png" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Examples of poor and better scale information, <a href="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001161">from Jambor 2021</a></figcaption>
+</figure>
+</div>
+</section>
+<section id="colors-often-not-accessible-to-color-blind" class="level4">
+<h4 class="anchored" data-anchor-id="colors-often-not-accessible-to-color-blind">Colors: often not accessible to color blind</h4>
+<p>Red/Green color blindness affects around 10% of the male population, and less than 1% of the female population. Nonetheless, astonishingly 30 - 50% of the screened images were not color blind friendly! In addition, in around 20% of images the annotations of colors were not color blind save. This means that colorblind readers are hindered in seeing or fully understand the key scientific messages conveyed in these images.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://helenajamborwrites.netlify.app/posts/Image_numbers/Colors.png" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Colors in microscope images and visibility tests <a href="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001161">from Jambor et al., 2021</a>)</figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://helenajamborwrites.netlify.app/posts/Image_numbers/Colors_visibility.png" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Examples of color visibility <a href="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001161">from Jambor et al., 2021</a>)</figcaption>
+</figure>
+</div>
+</section>
+<section id="details-not-visible-or-insets-not-explained" class="level4">
+<h4 class="anchored" data-anchor-id="details-not-visible-or-insets-not-explained">Details: not visible, or insets not explained</h4>
+<p>Just like in photography, also in microscopy the key subject should ideally fill the frame. What does this mean? If you want to show a cellular detail, do not show the entire petri dish of cells – cutting unnecessary image details is allowed, if this does not change the conclusion! Likewise, if you aim to show morphology of an organ, make sure that said organ is fully visible – image stitching, if declared (legend, methods), is possible and allowed. Many times an overview, e.g.&nbsp;of cell culture dish and a focus on some detail is shown with two images side by side, one the original image and alongside this a zoomed inset. In one third of publications, likely accidental, the origin of the inset in the original image is not clearly indicated or entirely missing. This hinders the audiences to understand the relation of inset to image, especially since in half of the cases the inset is also not explained in the legend.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://helenajamborwrites.netlify.app/posts/Image_numbers/Insets_numbers.png" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Inset example and the number of missing inset explanations <a href="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001161">from Jambor et al., 2021</a>)</figcaption>
+</figure>
+</div>
+</section>
+<section id="annotations-incomplete" class="level4">
+<h4 class="anchored" data-anchor-id="annotations-incomplete">Annotations: incomplete</h4>
+<p>Speaking of annotations – they are not optional, despite what the data suggest: up to 30% of publications omit an explanation of the colors shown in images (e.g., channel, staining), up to 40% fail to explain symbols, regions of interest, or arrows, and many times the species or cell type visible in the image is not clear from the legend. Especially all colors and symbols must essentially be explained with the figure, while further details such as specimen could also be described in the method section – alas, it is also missing very often in this section, but that is another story (Marques G, 2020; Sheen et al., 2019).</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://helenajamborwrites.netlify.app/posts/Image_numbers/Annotations.png" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Poor and better annotations, here of the color channels <a href="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001161">from Jambor et al., 2021</a>)</figcaption>
+</figure>
+</div>
+</section>
+<section id="a-happy-ending" class="level4">
+<h4 class="anchored" data-anchor-id="a-happy-ending">A happy ending</h4>
+<p>We showed that across all criteria, only 1/5 th of publications with images show fully interpretable images. Beyond our analysis, many papers also fail to understandably present data on image acquisition, imaging methods and also image processing details. We as scientific community have to ensure that our scientific data is truthful and reliable, and also understandable to current and future readers. Incomprehensible images limit effective science communication and we should strive to improve all data we present in publications.</p>
+I have compiled a series of blog posts “How to… Publish Images” that provide a rapid guidance and links to further resources.
+<ul>
+<li>
+How to… image formatting (August 1) <a href="../../posts/Image_how_mag/index.html">Link to blog</a>
+</li>
+<li>
+How to… image scale information (August 3) <a href="../../posts/Image_how_scale/index.html">Link to blog</a>
+</li>
+<li>
+How to… image annotation (August 8) <a href="../../posts/Image_how_annot/index.html">Link to blog</a>
+</li>
+<li>
+How to… image colors (August 10) <a href="../../posts/Image_how_color/index.html">Link to blog</a>
+</li>
+<li>
+How to… image availability (August 15) <a href="../../posts/Image_how_avail/index.html">Link to blog</a>
+</li>
+<li>
+Cheat sheets for image publishing (August 21) <a href="../../posts/Image_cheatsheets/index.html">Link to blog</a>
+</li>
+<li>
+A short history of science images (August 27) <a href="../../posts/Image_history/index.html">Link to blog</a>
+</li>
+<li>
+How to… image analysis (Sept 20) <a href="../../posts/Image_how_analysis/index.html">Link to blog</a>
+</li>
+<li>
+How to… avoid misleading with images (Sept 22) <a href="../../posts/Image_misleading/index.html">Link to blog</a>
+</li>
+</ul>
+<p>PS if you are interested, I usually write about more general visualizations, e.g., <a href="../../posts/GraphicalAbstract_1/index.html">How to create Graphical Abstracts</a></p>
+</section>
+<section id="read-more" class="level4">
+<h4 class="anchored" data-anchor-id="read-more">Read more</h4>
+<ul>
+<li>
+Our article assessing the current quality of images and Recommendations for Creating clear and informative image-based figures for scientific publications. <a href="https://doi.org/10.1371/journal.pbio.3001161">Jambor, H., Antonietti, A., Alicea, B., Audisio, T.L., Auer, S., Bhardwaj, V., Burgess, S.J., Ferling, I., Gazda, M.A., Hoeppner, L.H., Ilangovan, V., Lo, H., Olson, M., Mohamed, S.Y., Sarabipour, S., Varma, A., Walavalkar, K., Wissink, E.M., Weissgerber, T.L., 2021. PLoS Biol</a>
+</li>
+<li>
+A study quantifying how many images are in publications. Viziometrics: Analyzing Visual Information in the Scientific Literature.<a href="https://ieeexplore.ieee.org/document/7888968">Lee P IEEE Transactions on Big Data 2018;4:117-29.</a>
+</li>
+<li>
+Imaging methods are vastly underreported in biomedical research.<a href="https://doi.org/10.7554/eLife.55133">Marques G, P.T., Sanders MA, 2020. Elife 2020.<br>
+</a>
+</li>
+<li>
+A big Replication Study that also includes image data: Biomechanical remodeling of the microenvironment by stromal caveolin-1 favors tumor invasion and metastasis.<a href="https://doi.org/10.7554/eLife.45120">Sheen, M.R., Fields, J.L., Northan, B., Lacoste, J., Ang, L.-H., Fiering, S., Reproducibility Project: Cancer Biology, 2019. eLife 8, e45120.</a>
+</li>
+
+
+</ul></section>
+</section>
+
+ ]]></description>
+  <category>images</category>
+  <category>how-to</category>
+  <category>cheat sheets</category>
+  <guid>https://helenajamborwrites.netlify.app/posts/Image_numbers/index.html</guid>
+  <pubDate>Wed, 26 Jul 2023 22:00:00 GMT</pubDate>
+  <media:content url="https://helenajamborwrites.netlify.app/posts/Image_numbers/Summary.png" medium="image" type="image/png" height="50" width="144"/>
+</item>
+<item>
+  <title>How to… Graphical Abstracts 3: The final touch</title>
+  <dc:creator>Helena Jambor</dc:creator>
+  <dc:creator>Helena Jambor</dc:creator>
+  <link>https://helenajamborwrites.netlify.app/posts/GraphicalAbstracts_3/GraphicalAbstracts.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="how-to-graphical-abstacts-3" class="level2">
+<h2 class="anchored" data-anchor-id="how-to-graphical-abstacts-3">How to… Graphical Abstacts 3</h2>
+<p>I described tools and icon resources in <a href="../../posts/GraphicalAbstract_1/index.html">Graphical Abstracts 1</a> and how to organise the page for a legible graphical abstract in <a href="../../posts/GraphicalAbstracts_2/index.html">Graphical Abstracts 2</a>. Now, as the last step, we can add a little text where necessary, quicker orient readers with colors, and make sure we got it right with a little feedback.</p>
+<section id="text" class="level4">
+<h4 class="anchored" data-anchor-id="text">Text</h4>
+<p>A minimum amount of text will be necessary in almost all Graphical Abstracts: to explain arrows, images, and point to conclusions. Of course, keep text to a minimum and understandable, i.e., without jargon or abbreviations. Use easy to understand language: you may want to use popular keywords or phrases to rapidly grab attention and orient audiences. Text may have to be added to label pictograms that are otherwise ambiguous or that are uncommon. A circle could mean molecule, area, cell or similar. <img src="https://helenajamborwrites.netlify.app/posts/GraphicalAbstracts_3/text1.png" class="img-fluid" alt="Pictograms with unclear meaning"></p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://helenajamborwrites.netlify.app/posts/GraphicalAbstracts_3/text2.png" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Pictograms explained with minimal text</figcaption>
+</figure>
+</div>
+<p>When no images are available, e.g., for highly specialized words, text can be used as a substitute for images.</p>
+<p>Think of all text as legends to your visuals! In this spirit, try to encode your text annotations the same way as the visual element they are encoding.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://helenajamborwrites.netlify.app/posts/GraphicalAbstracts_3/text3.png" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Colored text to explain key point - saving your files</figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://helenajamborwrites.netlify.app/posts/GraphicalAbstracts_3/text4.png" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Multi-colored text as legend to entire graphical abstract</figcaption>
+</figure>
+</div>
+</section>
+<section id="colors" class="level4">
+<h4 class="anchored" data-anchor-id="colors">Colors</h4>
+<p>We first and foremost make graphical abstracts as a visual appetizer for our readers, and as such they should be attractive and colorful. In all visualizations we use color to highlight or contrast (see also examples with text above), to depict the natural appearance of a visualized object, or to encode numbers: sequential/continuous data should be encoded with varying saturation of one color, diverging data with a 2-color scheme, and qualitative data may be encoded with varying color hues</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://helenajamborwrites.netlify.app/posts/GraphicalAbstracts_3/Colors-01.png" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Color use in visaualizations.Rabbit by Albrecht Dürer, Public domain, via Wikimedia Commons.</figcaption>
+</figure>
+</div>
+<section id="consistent-colors" class="level5">
+<h5 class="anchored" data-anchor-id="consistent-colors">Consistent colors</h5>
+<p>In all cases it is important to use colors consistently. The color code/color scheme should be maintained within the abstract and also between abstract and the main manuscript. A change in color is considered to also be a change in meaning – colors should therefore be carefully chosen. As colors are perceived immediately, they should overall be used sparsely to not overload readers and distract from the main message.</p>
+</section>
+<section id="accessible-colors" class="level5">
+<h5 class="anchored" data-anchor-id="accessible-colors">Accessible colors</h5>
+<p>When selecting colors, authors should always ensure that colors are accessible to all readers, including color blind audiences. We included many color suggestions in <a href="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001161">our big survey of image figures published in PLOS Bio</a>: <img src="https://helenajamborwrites.netlify.app/posts/GraphicalAbstracts_3/ColorVisibility.png" class="img-fluid" alt="Color visibilities on backdrop"></p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://helenajamborwrites.netlify.app/posts/GraphicalAbstracts_3/Colorblind.png" class="img-fluid figure-img" width="440"></p>
+<figcaption class="figure-caption">Colors as seen by color-blind audiences</figcaption>
+</figure>
+</div>
+<p>And, the importance of making all your figure accessible to color biond was was prominently highlighted in a technology feature by Alla Katsnelson in <a href="https://www.nature.com/articles/d41586-021-02696-z">Nature</a>, featuring also my humble opinion.</p>
+</section>
+<section id="tools-for-selecting-colors-and-color-schemes" class="level5">
+<h5 class="anchored" data-anchor-id="tools-for-selecting-colors-and-color-schemes">Tools for selecting colors and color schemes:</h5>
+<ul>
+<li><p><a href="https://colorbrewer2.org/">ColorBrewer</a> was developed for data color schemes in maps, but is easy to use and works perfectly well for other sciences need to visualize data. <img src="https://helenajamborwrites.netlify.app/posts/GraphicalAbstracts_3/ColorBrewer.png" class="img-fluid"></p></li>
+<li><p><a href="https://paletton.com/">Paletton</a> lets you choose attractive color combinations using a color wheel, e.g.&nbsp;adjacent colors for harmonious appearance or complementary colors to contrast scenarios. <img src="https://helenajamborwrites.netlify.app/posts/GraphicalAbstracts_3/P.png" class="img-fluid"></p></li>
+</ul>
+<p>Neat: with palettton you can try out your color combination in a mock website/poster, in an art-work similar to a graphical abstract scenario, and also check how color combinations are visible to color-blind audiences:</p>
+<div class="quarto-layout-panel">
+<div class="quarto-layout-row quarto-layout-valign-top">
+<div class="quarto-layout-cell" style="flex-basis: 100.0%;justify-content: center;">
+<p><img src="https://helenajamborwrites.netlify.app/posts/GraphicalAbstracts_3/P_poster-website.png" class="img-fluid" width="220"> <img src="https://helenajamborwrites.netlify.app/posts/GraphicalAbstracts_3/P_flowerdesign.png" class="img-fluid" width="220"> <img src="https://helenajamborwrites.netlify.app/posts/GraphicalAbstracts_3/P_colorblind.png" class="img-fluid" width="260"></p>
+</div>
+</div>
+</div>
+<ul>
+<li><a href="https://icolorpalette.com/color-palette-from-images">IColorpalette</a> let’s you pick a color scheme based on your favorite art work! Here’s one for all of us longing for some holiday!</li>
+</ul>
+<p><img src="https://helenajamborwrites.netlify.app/posts/GraphicalAbstracts_3/holiday_colors.png" class="img-fluid" alt="Color scheme based on holiday picture, colors as hex values"> Bonus: you can download the SVG file and directly use the colors via the color pipette!</p>
+
+
+</section>
+</section>
+</section>
+
+ ]]></description>
+  <category>datavis</category>
+  <category>Graphical abstracts</category>
+  <category>how-to</category>
+  <guid>https://helenajamborwrites.netlify.app/posts/GraphicalAbstracts_3/GraphicalAbstracts.html</guid>
+  <pubDate>Sun, 18 Jun 2023 22:00:00 GMT</pubDate>
+  <media:content url="https://helenajamborwrites.netlify.app/posts/GraphicalAbstracts_3/text3.png" medium="image" type="image/png" height="54" width="144"/>
+</item>
+<item>
+  <title>How to… Graphical abstracts 2: Layout and arrows</title>
+  <dc:creator>Helena Jambor</dc:creator>
+  <dc:creator>Helena Jambor</dc:creator>
+  <link>https://helenajamborwrites.netlify.app/posts/GraphicalAbstracts_2/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="how-to-graphical-abstacts-2" class="level2">
+<h2 class="anchored" data-anchor-id="how-to-graphical-abstacts-2">How to… Graphical Abstacts 2</h2>
+<p>In <a href="../../posts/GraphicalAbstract_1/index.html">Graphical Abstracts 1</a> I outlined where you can find tools, icons, pictograms and simple charts for you Graphical Abstracts. In the next step, the visuals need to be organised into a logical sequence. You therefore need to know your page dimension, decide on a reading direction, and then support the chosen layout with arrows. And at the very end, you can add a little text and colors <a href="../../posts/GraphicalAbstracts_3/GraphicalAbstracts.html">Graphical Abstracts 3</a></p>
+<section id="page-dimension" class="level4">
+<h4 class="anchored" data-anchor-id="page-dimension">Page dimension</h4>
+<p>Layout is defined as the arrangement of parts on an area. What area can you fill? Many times journals request Graphical Abstracts as squares as they are used as thumbnail preview for your article. See for example the landing page of Current Biology: <img src="https://helenajamborwrites.netlify.app/posts/GraphicalAbstracts_2/CurrentBio.png" class="img-fluid"></p>
+<p>Note that the image is roughly stamp-size and that the best graphical abstracts should work in this size. When your graphical abstract is a full figure for a paper, poster, or grant, you usually aim for a rectangle-landscape area: this fits much better onto a page and it is also easier to design a <a href="../../posts/GraphicalAbstracts_2/index.html#Reading direction">reading direction</a> for rectangles. Especially when your space is limited, such as in grant application,s make use of the full-line width to not waste any precious space!</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://helenajamborwrites.netlify.app/posts/GraphicalAbstracts_2/Layout_dimensions2-01.png" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">How much space can you fill? The page size determines layout choices</figcaption>
+</figure>
+</div>
+</section>
+<section id="reading-direction" class="level4">
+<h4 class="anchored" data-anchor-id="reading-direction">Reading direction</h4>
+<p>When designing a graphical abstract you have to clearly tell your audiences where they should start reading. We read text and also all visuals from left to right, unless prompted otherwise by color, arreows, size of image etc.<br>
+Which reading direction you chose depends on your message: if you talk about a linear processes with clear beginning and end, an organization from left to right is suitable as time is usually shown this way (e.g., as x-axis in line charts). Linear processes could be workflows or experimental pipelines, but also cellular processes such as embryo development, cell differentiation, or disease progression. If you instead talk about cyclic events, such as daily or annual recurrences, metabolic cycles, or also cell division, consider using a circular layout. If you just want to make a comparison, before after, on or off, scenario and Zoomed in view, etc, consider a parallel or nested organization.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://helenajamborwrites.netlify.app/posts/GraphicalAbstracts_2/Layout_figure.png" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">The most common organizational layouts of graphical abstracts, adapted from <a href="https://link.springer.com/chapter/10.1007/978-3-319-91376-6_19"> Hullman and Bach 2018</a></figcaption>
+</figure>
+</div>
+<p>More about arranging visual elements and reading direction also check out the <a href="https://www.nature.com/articles/nmeth.1711">Nature Methods Point of View article</a> by Bang Wong.</p>
+</section>
+<section id="arrows-connect-the-visuals" class="level4">
+<h4 class="anchored" data-anchor-id="arrows-connect-the-visuals">Arrows connect the visuals</h4>
+<p>Arrows are omnipresent in all explanatory figures. They connect text, pictograms, images, or charts into a sequential narrative or “storyline”. Arrows come in many designs, just arrowheads, lines with a rounded tip or numerous other end-marks, and of course also lines without any marks can be used to guide the view. Depending on the arrow design, it can adopt many different functions: arrows can simply reinforce the layout, or they can highlight an exception from a reading direction. But arrows can also point to strucures or regions, label, indicate movement, or time. An upward arrow for example could mean ‘move up’, ‘increase’ or ‘good’, while a circular arrow could be day, year or life cycle. In addition, many many domains specific meanings exist, e.g.&nbsp;a cornered arrow for transcription start sites in molecular genetics. Importantly, the semantic meaning of an arrow is highly depended on the context in which it is presented. In graphical abstracts we should decide on one meaning for our arrows, and refrain from varying this. When two arrow types are combined in one graphical abstract thy should be visually cleraly distinct and may have to be explicit explained to readers.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://helenajamborwrites.netlify.app/posts/GraphicalAbstracts_2/Arrows-01.png" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Arrow and their meanings</figcaption>
+</figure>
+</div>
+<p>More about arrows: The seminal work about semantic meanings of arrows by Barbara Tversky: <a href="https://link.springer.com/chapter/10.1007/3-540-44590-0_21">Tversky, B., Zacks, J., Lee, P., Heiser, J., 2000. Lines, Blobs, Crosses and Arrows: Diagrammatic Communication with Schematic Figures. pp.&nbsp;221–230. https://doi.org/10.1007/3-540-44590-0_21</a></p>
+<p>and a practical guide to arrows in figure: <a href="https://www.nature.com/articles/nmeth.1676">Wong, B., 2011c. Arrows. Nat. Methods 8, 701–701. https://doi.org/10.1038/nmeth.1676</a>.</p>
+<hr>
+<p>Next: Add a little text and colors <a href="../../posts/GraphicalAbstracts_3/GraphicalAbstracts.html">Graphical Abstracts 3</a></p>
+
+
+</section>
+</section>
+
+ ]]></description>
+  <category>datavis</category>
+  <category>how-to</category>
+  <category>Graphical abstracts</category>
+  <guid>https://helenajamborwrites.netlify.app/posts/GraphicalAbstracts_2/index.html</guid>
+  <pubDate>Sun, 18 Jun 2023 22:00:00 GMT</pubDate>
+  <media:content url="https://helenajamborwrites.netlify.app/posts/GraphicalAbstracts_2/Layout_figure.png" medium="image" type="image/png" height="28" width="144"/>
+</item>
+<item>
+  <title>How to… Graphical abstracts 1: Tools and resources</title>
+  <dc:creator>Helena Jambor</dc:creator>
+  <dc:creator>Helena Jambor</dc:creator>
+  <link>https://helenajamborwrites.netlify.app/posts/GraphicalAbstract_1/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="how-to-graphical-abstracts-1" class="level2">
+<h2 class="anchored" data-anchor-id="how-to-graphical-abstracts-1">How to… Graphical abstracts 1</h2>
+<p>Graphical abstracts are increasingly common to explain biomedical concepts and research results. As “summary slides”, they have long been used at the end of a talk or lecture. Today, graphical abstracts are widely used as a thumbnail/preview of online publications and also found at posters, on lab websites, and in research grant applications. The key element of every graphical abstract are the visuals - pictograms, icons, or images. Text, arrows and lines then combine the visual elements into a narrated story, and color highlights key elements or encodes quantities. I summarized a few key points to consider before designing a graphical abstract.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://helenajamborwrites.netlify.app/posts/GraphicalAbstract_1/ExampleGA.png" class="img-fluid figure-img" alt="two examples of graphilca abstracts, left for a microbiology study showing the pipeline of lipidomic analysis, and right, for a grant on advanced cancer reesearch with four topics, immumnity, gene therapy, functional profiling, and digital health"></p>
+<figcaption class="figure-caption">Example Graphical abstracts for a paper (left) and a grant (right). Left from: <a href="https://www.cell.com/cell-reports/fulltext/S2211-1247(20)31154-2">Saenz lab </a></figcaption>
+</figure>
+</div>
+<section id="key-visual-find-icons-and-pictograms" class="level4">
+<h4 class="anchored" data-anchor-id="key-visual-find-icons-and-pictograms">Key visual: find icons and pictograms</h4>
+<p>All graphical abstract have key visuals and usually these are icons, pictograms or symbols, less common are iconic microscope or photographic pics or charts. Pictograms can be illustrations, constructed from simple shapes, but mostly are found in icon libraries. Many icon libraries are free and some can also be used without attribution (public domain). In libraries, icons can be downloaded as <strong>PNG</strong> or <strong>SVG</strong> file. PNG, Portable Network Graphic, is a raster-graphics format for lossless data compression. PNGs are ready to use on the web or in software, but are not adaptable. SVG, Scalable Vector Graphic, is a vector images format that can be used interactively on the web, adapted with graphic software, and also used as image as is. Best: you can scale it as large as you like and no pixels will appear. Yay for large posters!</p>
+<section id="libraries-for-general-icons" class="level5">
+<h5 class="anchored" data-anchor-id="libraries-for-general-icons">Libraries for general icons:</h5>
+<ul>
+<li><p>PowerPoint (newer versions) come with free image and icon libraries, as well as many pre-drawn shapes.</p></li>
+<li><p><a href="https://www.svgrepo.com/">SVGrepo </a> is currently the largest (500.000!) general resource and has a pretty cool style search function (by color, rounded, filled/outline, sharp/rounded icons).<br>
+<img src="https://helenajamborwrites.netlify.app/posts/GraphicalAbstract_1/SVG.png" class="img-fluid" alt="SVGrepo icons"></p></li>
+<li><p><a href="https://thenounproject.com/">Nounproject</a> is a large repository sourcing icons from various designers, hence the available icons are vast, but also not matched in style, icons can be used for free with attribution as SVG or PNG. <img src="https://helenajamborwrites.netlify.app/posts/GraphicalAbstract_1/Noun.png" class="img-fluid" alt="Nounproject icons"></p></li>
+<li><p><a href="https://fontawesome.com/icons">Fontawesome</a> is a unicode-based icon library that also can be installed locally as a font for graphic programs or downloaded as SVG. <img src="https://helenajamborwrites.netlify.app/posts/GraphicalAbstract_1/Font.png" class="img-fluid" alt="Fontawesome icons"></p></li>
+</ul>
+</section>
+<section id="biology-and-medicine-specific-icons-are-in-addition-available." class="level5">
+<h5 class="anchored" data-anchor-id="biology-and-medicine-specific-icons-are-in-addition-available.">Biology and Medicine specific icons are in addition available.</h5>
+<ul>
+<li><p><a href="https://smart.servier.com/">SmartServier</a> released full slide-decks with medically-relevant images - lots of detail for diseases! <img src="https://helenajamborwrites.netlify.app/posts/GraphicalAbstract_1/Smart.png" class="img-fluid" alt="SmartServier icons: detailled"></p></li>
+<li><p><a href="https://bioicons.com/">Biocions</a> releases a growing list of biology and laboratory icons, such as Petri dishes and model organisms, mostly as CC0, and it accepts submissions to expand this library! <img src="https://helenajamborwrites.netlify.app/posts/GraphicalAbstract_1/BioIc.png" class="img-fluid" alt="bioicons - same look as SmartServier"></p></li>
+<li><p><a href="healthicons.org">Healthicons</a> has many really simple icons for specialized medical scenarios. Free, no attribution, downloadable! <img src="https://helenajamborwrites.netlify.app/posts/GraphicalAbstract_1/Health.png" class="img-fluid" alt="Health Icons - simple icons"></p></li>
+<li><p><a href="https://www.phylopic.org/">Phylopic</a> has 7500 shapes of animals, plants, algae, , e.g.&nbsp;for phylogeny tree, most in public domain and free to re-used. You can curate your collection. Thank you <a href="http://tmkeesey.net/"> Michael Keesey </a>!</p></li>
+</ul>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://helenajamborwrites.netlify.app/posts/GraphicalAbstract_1/Phylo.png" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Phylopic - shapes of biology</figcaption>
+</figure>
+</div>
+<ul>
+<li><p><a href="https://www.ebi.ac.uk/style-lab/general/fonts/v1.3/">General scientific icons</a> from the EBI, many related to bioinformatics! (But also: Bomb.. wonder how that entered the collection!?). Very neat, you can request support and icons!</p></li>
+<li><p><a href="https://reactome.org/icon-lib">Reactome</a> started a collection of scientific pictograms and chemical drawings for free re-use and encourages the upload of user-designed pictograms for sharing with the scientific community. I have not seen it grow much, wonder where it will go.</p></li>
+</ul>
+<p>When selecting icons for a graphical abstract make sure all icons have an overall similar appearance: same line-width, colors, and level of detail. Many times icon libraries have a design team to ensure this, but open libraries collect pictograms from various designers with quite distinct appearance. When you want to adapt icons to match in style, get the SVG file which is adaptable with e.g., Inkscape or Illustrator.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://helenajamborwrites.netlify.app/posts/GraphicalAbstract_1/GA_pictogram2.png" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">What not to do: icons are not matched in style</figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://helenajamborwrites.netlify.app/posts/GraphicalAbstract_1/GA_pictogram1.png" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">What to do: mix icons that have overall similar appearance</figcaption>
+</figure>
+</div>
+</section>
+</section>
+<section id="key-visual-data-in-chart" class="level4">
+<h4 class="anchored" data-anchor-id="key-visual-data-in-chart">Key visual: data in chart</h4>
+<p>When a key visual should show data in the form of a chart, it is advisable to stick to the most common chart types, bar, line, pie chart or scatter plots. Most readers are familiar with these and they are founded on our core visual perception abilities, comparing lengths, angles, or slopes. For all charts ensure that only a few categories or data points are included and details, tick marks, axis label, legends, are omitted.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://helenajamborwrites.netlify.app/posts/GraphicalAbstract_1/DataViz.png" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Simple Charts that may be used in Graphical Abstracts</figcaption>
+</figure>
+</div>
+<p>Complex charts should only be used if they have e.g.&nbsp;iconic status to indicate a specific method was used: in life sciences t-SNE often symbolize single cell data was obtained, and red/green heatmaps indicate microarray data.</p>
+<p>A good overview of chart types and their use is summarized in data viz catalogues (e.g., <a href="https://datavizcatalogue.com/>DataVizCatalogue">The Data Visualisation Catalogue</a>)</p>
+</section>
+<section id="tools" class="level4">
+<h4 class="anchored" data-anchor-id="tools">Tools</h4>
+<p>Graphical abstracts can be prepared with the same software also used for posters and figures. Many of you will use PoswerPoint. Suitable vector-design software are:</p>
+<ul>
+<li>Adobe Illustrator (commercial)</li>
+<li>CorelDraw (commercial)</li>
+<li>Affinity Designer (commercial)</li>
+<li>open-source: <a href="https://inkscape.org/">Inkscape</a> - this sweet readers, has direct link to many icon libraries (newest version)! Go to File &gt; Import Web Image &gt; select library.</li>
+</ul>
+<p>Vector-based graphics programs allow zooming in and out without quality loss. For most graphical abstracts PowerPoint will also produce sufficient results when slides are adjusted in size and exported as vector graphics, e.g., as PDF. To prevent pixelation select that images are not compressed in the options. A big plus of the open source Inkscape: it keeps getting better. Newest feature: direct import of icons from web-based icon libraries via “Import Web Image” tab. This works already for Bioicons and Reactome via dropdown. Also possible in Inkscaoe: script-based image processing, and script-based chart preparation. Another plus, Inkscape relies on the web vector format SVG and is thus readable by browsers and other vector graphics programs.</p>
+</section>
+<section id="web-based-tools" class="level4">
+<h4 class="anchored" data-anchor-id="web-based-tools">Web-based tools</h4>
+<p>A popular, however increasingly costly option are <a href="https://www.biorender.com/">Biorender</a> and <a href="https://mindthegraph.com/">MindtheGraph</a>, that have annual subscription plans. Biorender has many sample templates for a quick start and vast icons for life sciences, but you must regularly check the licenses as they are constantly adapted. As of now the <strong>first</strong> author must hold a premium license to publish their figures – which is tricky for labs as first author usually does not make all figures, or when authors leave lab etc. Mindthegraph has a similar offer, and also provides design consulting.</p>
+</section>
+<section id="key-message" class="level4">
+<h4 class="anchored" data-anchor-id="key-message">Key message</h4>
+<p>Before starting the design process, spend a good amount of time brainstorming the key message you want to get across. I personally do this by doodling on paper and discussing with peers. Without a clear main message, it will be impossible to design a good graphical abstract. These days a quick conversation with ChatGPT may also help to towards summarizing an abstract to a punchy one-to-two sentences condensed version.</p>
+<p><img src="https://helenajamborwrites.netlify.app/posts/GraphicalAbstract_1/Draw.png" class="img-fluid" alt="Write down a key message first, then spend time implementing a Graphical Abstract"> See more about layout in <a href="../../posts/GraphicalAbstracts_2/index.html">Graphical Abstracts 2</a> and text and colors in <a href="../../posts/GraphicalAbstracts_3/GraphicalAbstracts.html">Graphical Abstracts 3</a></p>
+<p>Note, an earlier version of this post lives at <a href=" https://helenajambor.wordpress.com/2020/10/27/how-to-graphical-abstracts/">my wordpress site</a></p>
+
+
+</section>
+</section>
+
+ ]]></description>
+  <category>datavis</category>
+  <category>how-to</category>
+  <category>Graphical abstracts</category>
+  <guid>https://helenajamborwrites.netlify.app/posts/GraphicalAbstract_1/index.html</guid>
+  <pubDate>Thu, 15 Jun 2023 22:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>30DayChartChallenge</title>
+  <dc:creator>Helena Jambor</dc:creator>
+  <dc:creator>Helena Jambor</dc:creator>
+  <link>https://helenajamborwrites.netlify.app/posts/30DayChartChallenge/30DayChartChallenge.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="charts" class="level2">
+<h2 class="anchored" data-anchor-id="charts">30+ charts</h2>
+<p>The <a href="https://30daychartchallenge.org/">#30DayChartChallenge</a> is an annual festival for chart-lovers around the world. There is a daily visualization challenge and participants submit their contributions online. Datasets, data analysis, tools, and presentation is entirely up to the participant. All entries are <a href="https://twitter.com/search?q=%2330DayChartChallenge">posted on twitter</a> along with a hashtag for the day, from #Day1 to #Day30. The resulting diversity and personal interpretations are the charm of the challenge and a joy to data scientists and visualizers alike.</p>
+<!-- 
+<p float="left">
+  <img src="week1.png" width="250" />
+  <img src="week2.png" width="250" />
+  <img src="week3.png" width="250" />
+  <img src="week4.png" width="250" />
+</p>
+!-->
+<div class="quarto-layout-panel">
+<div class="quarto-layout-row quarto-layout-valign-top">
+<div class="quarto-layout-cell" style="flex-basis: 100.0%;justify-content: center;">
+<p><img src="https://helenajamborwrites.netlify.app/posts/30DayChartChallenge/week1.png" class="img-fluid" width="300"> <img src="https://helenajamborwrites.netlify.app/posts/30DayChartChallenge/week2.png" class="img-fluid" width="300"> <img src="https://helenajamborwrites.netlify.app/posts/30DayChartChallenge/week3.png" class="img-fluid" width="300"> <img src="https://helenajamborwrites.netlify.app/posts/30DayChartChallenge/week4.png" class="img-fluid" width="300"> All charts</p>
+</div>
+</div>
+</div>
+<section id="my-30daychartchallenge" class="level4">
+<h4 class="anchored" data-anchor-id="my-30daychartchallenge">My 30DayChartChallenge</h4>
+<p>I personally was looking for an excuse to get back to making charts with R. All I could think of at the time was however the war in Ukraine. My granddad Anton Jámbor was born and raised in Khust, Zakarpatia Oblast, which was another reason to finally educate myself about Ukraine. So, I made a plan and almost completed it! I researched the people and population of Ukraine, the country and cities, and a little bit the health data since my day-job is in medical research at the University hospital.</p>
+<p>From idea to implementation:</p>
+<div class="quarto-layout-panel">
+<div class="quarto-layout-row quarto-layout-valign-top">
+<div class="quarto-layout-cell" style="flex-basis: 100.0%;justify-content: center;">
+<p><img src="https://helenajamborwrites.netlify.app/posts/30DayChartChallenge/img_5597-1.jpg" class="img-fluid" width="300"> <img src="https://helenajamborwrites.netlify.app/posts/30DayChartChallenge/helenajambor_day6_alternative.png" class="img-fluid" width="300"></p>
+</div>
+</div>
+</div>
+</section>
+<section id="moving-along-the-daily-charts" class="level4">
+<h4 class="anchored" data-anchor-id="moving-along-the-daily-charts">Moving along: the daily charts</h4>
+<p>Over the course of April I completed 18 of the 30 challenges. Many times I made several solutions and tested many more. Below is the example for Kazimir Malevich. I plotted the color-schemes he used in his paintings over his lifetime and tried our several options, including an animation.</p>
+<p>Kazimir Malevich was born in Ukraine and is famous for monochrome,abstract paintings. However, that was a brief period, before and after his paintings are full of colors! I analyzed his color-usage over his lifetime. This was one of the few datasets I created myself. <img src="https://helenajamborwrites.netlify.app/posts/30DayChartChallenge/helenajambor_day10.png" class="img-fluid" alt="Malevich colors {colors in Malevich life time as bar charts}"> <em>Malevich’s colors from early to late periods as bar charts</em></p>
+<p><img src="https://helenajamborwrites.netlify.app/posts/30DayChartChallenge/helenajambor_day10_pie.png" class="img-fluid" alt="Malevich colors"> <em>Malevich’s colors from early to late periods as pie charts</em></p>
+<p><img src="https://helenajamborwrites.netlify.app/posts/30DayChartChallenge/annotatedkazimirmalevichcolors.gif" class="img-fluid" alt="Malevich colors {colors as animation}"> <em>Malevich’s colors animated</em></p>
+<p>Finding time each day for a full month was impossible with Easter vacation and care work requiting my attention. Now, in a calm summer, I finally completed five more challenges for which I had already found data. I posted these final entries on Ukraine’s Independence Day, coinciding with 6 months since the war starts.</p>
+</section>
+<section id="my-design-objectives" class="level4">
+<h4 class="anchored" data-anchor-id="my-design-objectives">My Design objectives</h4>
+<p>My goal was to create a visually and thematically cohesive work. I plan to use my charts for teaching purposes and for teaching the many ways how we can communicate data with charts. Most of my time, as always, was spend on finding a topic for which a dataset was available. A lot of time was also consumed by data wrangling and getting it in a format to actually make charts. And only a fleeting moment for creating the visualizations. That’s how it goes!</p>
+<p>Enjoy my charts, <strong>Slava Ukraini</strong> and keep Ukraine in the news!</p>
+<p float="left">
+<img src="https://helenajamborwrites.netlify.app/posts/30DayChartChallenge/helenajambor_day20_googletrends.png" width="250"> <img src="https://helenajamborwrites.netlify.app/posts/30DayChartChallenge/helenajambor_day22_googleanim2.gif" width="380">
+</p>
+
+
+</section>
+</section>
+
+ ]]></description>
+  <category>datavis</category>
+  <category>charts</category>
+  <category>SciVis</category>
+  <guid>https://helenajamborwrites.netlify.app/posts/30DayChartChallenge/30DayChartChallenge.html</guid>
+  <pubDate>Thu, 23 Feb 2023 23:00:00 GMT</pubDate>
+  <media:content url="https://helenajamborwrites.netlify.app/posts/30DayChartChallenge/week1.png" medium="image" type="image/png" height="108" width="144"/>
+</item>
+<item>
+  <title>How to… Tables</title>
+  <dc:creator>Helena Jambor</dc:creator>
+  <dc:creator>Helena Jambor</dc:creator>
+  <link>https://helenajamborwrites.netlify.app/posts/Tables/TableDesign.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="how-to-tables" class="level2">
+<h2 class="anchored" data-anchor-id="how-to-tables">How to… Tables</h2>
+<section id="the-ancient-gold-of-dataviz" class="level4">
+<h4 class="anchored" data-anchor-id="the-ancient-gold-of-dataviz">The ancient gold of DataViz</h4>
+<p>Tables are one of the most successful visualizations in the history of science. They existed long before charts were invented. Friedrich Miescher reported the discovery of nucleic acids in a small table with just three rows. <a href="https://www.nature.com/articles/287795a0">Janni Nusslein-Volhardt and Eric Wieschaus</a> compiled their observations that gene expression controls embryogenesis in a table. And the seminal discovery that <a href="https://pubmed.ncbi.nlm.nih.gov/19868999/">cells are enclosed by a lipid bilayer</a> warranted a full-page table: Today, tables are still common in scientific papers and presentations today. I just counted around that 14 articles in a recent issue of nature had some kind of table. Simple tables are often relegated to the supplemental section. In the main section, tables come in fancier formats and disguise as heatmaps, HiC plots, or databases.</p>
+<p float="left">
+<img src="https://helenajamborwrites.netlify.app/posts/Tables/gorter.png" width="250"> <img src="https://helenajamborwrites.netlify.app/posts/Tables/types_of_tables-01.png" width="380">
+</p>
+</section>
+<section id="which-data-warrants-a-table" class="level4">
+<h4 class="anchored" data-anchor-id="which-data-warrants-a-table">Which data warrants a table?</h4>
+<p>When a figure is done well, it provides us instant insight to the main message and visually guides us with thick lines, tall bars, patterns in a scatter plot etc to the key data. Tables on the other hand just show text and numbers in an organized form. When reading a table, we use it as text; we read from top left, to bottom right. And this is the intention of a table: it presents a complete dataset without a punchy, key message. Tables force the reader to come up with their own conclusion based on the entire data points. This means they need quite a bit of space and are more work to our audiences.</p>
+<p>Despite its disadvantages, a table is very useful for reporting precise numbers, and for in detail comparisons. Tables are also great for presenting large datasets, in which every member of our audience is interested in a different aspect of the data. For example, each reader of the table below (ERC starting grants per country) will look for their country of interest first. If however you have a clear message, e.g., show which country gets most ERCs, use a bar chart (sort bars by size!), or when you show statistical summaries pick one of <a href="https://helenajambor.wordpress.com/2017/04/27/barbarplots/"> the many chart types</a> for this purpose.</p>
+<p><img src="https://helenajamborwrites.netlify.app/posts/Tables/table_vs_chart-01.png" class="img-fluid"></p>
+</section>
+<section id="designing-a-clear-table" class="level4">
+<h4 class="anchored" data-anchor-id="designing-a-clear-table">Designing a clear table</h4>
+<p>Because tables are organized text, alignment and typography are critical for their legibility, and good legibility allows faster reading.</p>
+<section id="organize-rows-and-columns" class="level5">
+<h5 class="anchored" data-anchor-id="organize-rows-and-columns">1. Organize rows and columns</h5>
+<p>Which data is used as the key for presenting the result? This goes to the first column of every row. In our case these are the country names. All observations for this country, ERC grants, population, funding rate, get a column each.</p>
+</section>
+<section id="alignment-is-your-friend" class="level5">
+<h5 class="anchored" data-anchor-id="alignment-is-your-friend">2. Alignment is your friend</h5>
+<p>Text is best left aligned, where we start reading text. Numbers are right aligned to make comparisons by digits along a column easier. Note: each column header is aligned with its content. That means the header for a text column is left aligned, the header for a number column right aligned.</p>
+<p><img src="https://helenajamborwrites.netlify.app/posts/Tables/alignment_tables-01.png" class="img-fluid"></p>
+</section>
+<section id="font-type" class="level5">
+<h5 class="anchored" data-anchor-id="font-type">3. Font type</h5>
+<p>Choosing a legible font is always great, but really critical for numbers. To be legible, all numbers should have the same height (“new style”) and the same width (“tabular/monospace”). The width is important to compare digits within columns, the same height (so no ascenders and descenders in numbers) looks overall less cluttered.</p>
+<p>It is not possible to make easy recommendation for a specific font since they are modified depending on the operating system and program. For example, Arial has proportional characters which would not work for numbers in a table. Microsoft Word/Mac has adapted the numbers to be tabularized, while Adobe illustrator/Mac has not.</p>
+<p><img src="https://helenajamborwrites.netlify.app/posts/Tables/typography-01.png" class="img-fluid"></p>
+</section>
+<section id="decimals" class="level5">
+<h5 class="anchored" data-anchor-id="decimals">4. Decimals</h5>
+<p>To best compare numbers in a column, they should have the same decimal points. This helps the alignment and the understanding. In general, it is always worth considering if the decimals are even important: number of grants does not warrant a decimal because it can only be a whole number. Same for humans, but humans in millions might be reasonably presented with one decimal.</p>
+<p><img src="https://helenajamborwrites.netlify.app/posts/Tables/decimals.png" class="img-fluid"></p>
+</section>
+<section id="going-the-extra-mile" class="level5">
+<h5 class="anchored" data-anchor-id="going-the-extra-mile">5. Going the extra mile</h5>
+<p>With the above rules, you usually end up with an organized and legible table. But good news is, you can do more! Removing left and right boarders is fantastic to create extra space and use the entire width of a table cell for the content – sometimes rather important for grants!</p>
+<p>You can do still more. The minimalist Edward Tufte even says ‘every pixel should have a meaning’. In this spirit, removing all gridlines works often just as fine. Often the well-aligned content is sufficient to guide the eye through columns and rows.</p>
+<p><img src="https://helenajamborwrites.netlify.app/posts/Tables/gridlines-01.png" class="img-fluid"></p>
+<p>Very long tables however are hard to read without any guides. Two options exist. Either, the content may be grouped into blocks of 5 or 10 rows each. The blocks are then visually separated by white space from each other. Alternatively, the table could include a horizontal gridline every 5 or 10 rows.</p>
+<p><img src="https://helenajamborwrites.netlify.app/posts/Tables/longtables-01.png" class="img-fluid"></p>
+</section>
+<section id="color" class="level5">
+<h5 class="anchored" data-anchor-id="color">6. Color</h5>
+<p>Last, and only last, think also about color (black and grey are colors too!). I personally like highlighting table headers by giving them a fill color. Usually a light grey works fine, but this very much depends on the overall presentation and the purpose. If shown on a beamer, some light greys don’t work anymore. Also think of color code (<a href="https://helenajambor.wordpress.com/2017/04/27/color-blind-are-your-audience-too/">and never mix red and green</a>). I consistently used pink, so using the same color for the header would maybe give it a coordinated look. If your fill color is dark, you have to think about white labels. And they in turn requires larger fonts to achieve equal legibility.</p>
+<p><img src="https://helenajamborwrites.netlify.app/posts/Tables/header-01.png" class="img-fluid"></p>
+</section>
+</section>
+<section id="glossary" class="level4">
+<h4 class="anchored" data-anchor-id="glossary">Glossary</h4>
+<p><em>Heatmap</em> A heatmap is a matrix/table in which the cells are shaded according to a color-scale representing the an observed value. They are particularity used to represent many-to-many comparison. Heatmaps can display very large matrices in at a very small scale and allow us to rapidly compare numbers and even see coherent patterns in the data. Heatmaps may also be combined with clustering algorithms (or simple sorting by value), which facilitates seeing patterns in data. Heatmaps are not useful to get precise numbers.</p>
+<p><em>Microarrays</em> A heatmap that informs about gene expression levels across samples. Gene expression is shown as relative expression compared to a ground truth state. Up-regulation is shown in green, downregulation in red (microarrays are thus not color-blind safe).</p>
+<p><em>HiC plot</em> HiC plots show heat maps where each pixel represents counts for DNA interactions between two genomic regions. The pixel intensity indicates the number of reads (one color scale) or the divergence of reads from a control (dual color scale). The axes each show the genomic regions that are compared, usually binned to e.g.&nbsp;1Mb.</p>
+<p><em>Database</em> Online formats of tables to present a large dataset.</p>
+<p><em>Table-Chart hybrid</em> A table with several observations in columns and one of the observations being presented as small chart (dotplot, boxplot, barplot) adjacent to the respective row. The chart-column usually highlights a particularly important observation.</p>
+
+
+</section>
+</section>
+
+ ]]></description>
+  <category>datavis</category>
+  <category>tables</category>
+  <category>how-to</category>
+  <guid>https://helenajamborwrites.netlify.app/posts/Tables/TableDesign.html</guid>
+  <pubDate>Mon, 20 Feb 2023 23:00:00 GMT</pubDate>
+  <media:content url="https://helenajamborwrites.netlify.app/posts/Tables/alignment_tables-01.png" medium="image" type="image/png" height="44" width="144"/>
+</item>
+<item>
+  <title>Tables: Calendar data</title>
+  <dc:creator>Helena Jambor</dc:creator>
+  <dc:creator>Helena Jambor</dc:creator>
+  <link>https://helenajamborwrites.netlify.app/posts/TablesCalendarData/TablesCalendarData.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="tables-calendar-data" class="level2">
+<h2 class="anchored" data-anchor-id="tables-calendar-data">Tables: Calendar Data</h2>
+<section id="a-new-years-resolution" class="level4">
+<h4 class="anchored" data-anchor-id="a-new-years-resolution">A New year’s resolution</h4>
+<p>At some point in her life, a girl’s gotta start with sports to stay healthy and fit when getting older. Did you know that the number of cells in a brain increases when exercising, and that bones stay strong when close to trained muscles (they actually get signaling molecules telling them to stay young!)? My 2017 New year’s resolution was therefore to do sports as often as possible.</p>
+<p>As I am in love with data, I tracked my progress daily. You can see that I increased from doing sports around 50% of the days to a whopping 90% in July. In January and February, before I was keeping the diary, it was well below half of the days. Clearly, it is easier to run, swim etc. in summer, and I could not keep this up. It was challenging when traveling and on days with a lot of evening appointments and work (November). Most of the days without sports were when I had visitors!</p>
+<p>Initially I also tracked exercise time and what kind of sports I did, but that got too tiring and too complicated. But I did track other parts of my life such as my mood (hint: boring dataset, mainly correlates with female cycle!), my food and my alcohol intake. Interestingly, there is no correlation between sports and alcohol. I do not drink on those days that I feel too miserable for sports. Some days I drank a sip (light grey, a small sherry or so) after my sports, some days I neither drank nor did sports.</p>
+<p>Since I use my diary regularly, I of course tracked all this data on paper: <img src="https://helenajamborwrites.netlify.app/posts/TablesCalendarData/img_0173.jpg" class="img-fluid"></p>
+<p>I thought a lot about how to present it best, and at the end of the day, I really wanted to showcase my daily routine – this is why the final visualization does not look very different. I only added a bar chart summarizing the data.</p>
+<p>I started out making a dot for each day in a simple table format: <img src="https://helenajamborwrites.netlify.app/posts/TablesCalendarData/sports_1.png" class="img-fluid"></p>
+<p>Then I adjusted the number of days and numbered them to have a week-like format. Sticking to standard practice: labeling 1, 8, 15 is of course counter-intuitive, so I quickly changed this to 7/14/21.</p>
+<div id="figure" class="quarto-layout-panel">
+<div class="quarto-layout-row quarto-layout-valign-top">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<p><img src="https://helenajamborwrites.netlify.app/posts/TablesCalendarData/sports_2.png" class="img-fluid" style="width:80.0%"> <img src="https://helenajamborwrites.netlify.app/posts/TablesCalendarData/sports_2b.png" class="img-fluid" style="width:80.0%"></p>
+</div>
+</div>
+</div>
+<p>I then added the actual data: empty space for days without sports, a circle for days I did sports, and a cross for sick days. <img src="https://helenajamborwrites.netlify.app/posts/TablesCalendarData/sports_3.png" class="img-fluid"> Having completed the data visualization, I then started the graphic design part – decluttering wherever possible, playing with color and adjusting layout If necessary. For example, the table like boxes were not necessary at all. What about the lines separating weeks? They are ugly, even in grey!, but some guide is needed to wade through the days. The Gestalt principles show that white space is more effective in grouping that lines and boxes. To discriminate between ‘no sports’ and white space, I changed the white data points to a light grey.</p>
+<div class="quarto-layout-panel">
+<div class="quarto-layout-row quarto-layout-valign-top">
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
+<p><img src="https://helenajamborwrites.netlify.app/posts/TablesCalendarData/sports_4.png" class="img-fluid"> <img src="https://helenajamborwrites.netlify.app/posts/TablesCalendarData/sports_5.png" class="img-fluid"> <img src="https://helenajamborwrites.netlify.app/posts/TablesCalendarData/sports_6.png" class="img-fluid"></p>
+</div>
+</div>
+</div>
+<p>All right, looking better! Now some more details… I added a summarizing bar chart of the percentage of days I did sports (not counting sick days), added titles, axis labels, tick marks, and I also showed the data for the months in which I tracked my alcohol consumption. <img src="https://helenajamborwrites.netlify.app/posts/TablesCalendarData/sports_7.png" class="img-fluid"></p>
+<p>At last – and always at last only! – I added color, and I am in love with blue. <img src="https://helenajamborwrites.netlify.app/posts/TablesCalendarData/myYear4.png" class="img-fluid"></p>
+
+
+</section>
+</section>
+
+ ]]></description>
+  <category>datavis</category>
+  <category>tables</category>
+  <category>how-to</category>
+  <guid>https://helenajamborwrites.netlify.app/posts/TablesCalendarData/TablesCalendarData.html</guid>
+  <pubDate>Sun, 19 Feb 2023 23:00:00 GMT</pubDate>
+  <media:content url="https://helenajamborwrites.netlify.app/posts/TablesCalendarData/img_0173.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Tables: With R</title>
+  <dc:creator>Helena Jambor</dc:creator>
+  <dc:creator>Helena Jambor</dc:creator>
+  <link>https://helenajamborwrites.netlify.app/posts/Tables_in_R/Tables_in_R.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><a href="../../posts/TablesCalendarData/TablesCalendarData.html">Last week</a> I visualized the days I did sports in 2017 by hand with illustrator. Most of the time, we want however re-tell similar data (I am not giving up sports anytime soon!), so I always look for ways to create visualizations computationally, for example in R. Therefore, today, I show you how to make a viz of data on days of a year in R.</p>
+<p><img src="https://helenajamborwrites.netlify.app/posts/Tables_in_R/myYear4.png" class="img-fluid"></p>
+<p>First step: googling (or: duckduck-ing) to find a package other people use for this type of visualization. To my surprise, this took a very long time! Apparently, there is no default package in R that can visualize calendar data!? I found a very laborious solution that someone made with ggplot (referenced here: https://www.r-bloggers.com/ggplot2-time-series-heatmaps/), but it was &gt; 10 lines of code. I then stumbled upon another package, made specifically for visualizing pollutants in air (!), but it works also for other data and is straightforward to use. “openair” takes any dataframe with a “date”-column in the standard format (YYYY-MM-DD) and plots whatever you define as the “pollutant”. In my case, the days I did sports were the “pollutant”.</p>
+<p>3 easy steps:</p>
+<ol type="1">
+<li>Open your data in R, I called my dataframe “sports”.</li>
+<li>Then load library(openair)</li>
+<li>Plot:</li>
+</ol>
+<div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">calendarPlot</span>(sports, <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">pollutant =</span> sports, <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">year =</span> <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">2017</span>)</span></code></pre></div>
+<p>Voila! <img src="https://helenajamborwrites.netlify.app/posts/Tables_in_R/Screen Shot 2018-01-14 at 10.35.29.png" class="img-fluid"> Red: days I did sports, yellow: lazy days, white: sick days.</p>
+
+
+
+ ]]></description>
+  <category>datavis</category>
+  <category>tables</category>
+  <category>how-to</category>
+  <guid>https://helenajamborwrites.netlify.app/posts/Tables_in_R/Tables_in_R.html</guid>
+  <pubDate>Sun, 19 Feb 2023 23:00:00 GMT</pubDate>
+  <media:content url="https://helenajamborwrites.netlify.app/posts/Tables_in_R/myYear4.png" medium="image" type="image/png" height="57" width="144"/>
+</item>
+</channel>
+</rss>

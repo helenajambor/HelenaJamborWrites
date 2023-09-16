@@ -2,7 +2,7 @@
 title: "How to... image analysis"
 description: "Towards quantifiable results - a teaser to image analysis"
 author: "Christopher Schmied"
-date: "20230930"
+date: "20230920"
 categories:
   - images
   - how-to
