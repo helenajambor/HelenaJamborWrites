@@ -24,6 +24,8 @@ website:
       - icon: linkedin
         text: LinkedIn
         href: https://linkedin.com//in/helena-klara-jambor-b35b507b
+      - icon: rss
+        href: index.xml
   
 format:
   html:
