@@ -8,7 +8,7 @@
 <title>HelenaJamborWrites</title>
 <link>https://helenajamborwrites.netlify.app/index.html</link>
 <atom:link href="https://helenajamborwrites.netlify.app/index.xml" rel="self" type="application/rss+xml"/>
-<description>Helena Jambor&#39;s blog on data visualization and visual communication of scientific data</description>
+<description>Blog about data visualization and visual communication of scientific data</description>
 <generator>quarto-1.3.361</generator>
 <lastBuildDate>Sat, 26 Aug 2023 22:00:00 GMT</lastBuildDate>
 <item>
@@ -577,7 +577,7 @@ Tableau blog on red/green<a href="https://www.tableau.com/blog/examining-data-vi
 <figure class="figure">
 <div class="quarto-layout-row quarto-layout-valign-top">
 <div class="quarto-layout-cell" style="flex-basis: 100.0%;justify-content: center;">
-<p><img src="https://helenajamborwrites.netlify.app/posts/Image_how_scale/worms copy.png" class="img-fluid figure-img"></p>
+<p><img src="https://helenajamborwrites.netlify.app/posts/Image_how_scale/worms_copy.png" class="img-fluid figure-img"></p>
 </div>
 </div>
 <div class="quarto-layout-row quarto-layout-valign-top">
@@ -685,7 +685,7 @@ Tableau blog on red/green<a href="https://www.tableau.com/blog/examining-data-vi
   <category>how-to</category>
   <guid>https://helenajamborwrites.netlify.app/posts/Image_how_scale/index.html</guid>
   <pubDate>Wed, 02 Aug 2023 22:00:00 GMT</pubDate>
-  <media:content url="https://helenajamborwrites.netlify.app/posts/Image_how_scale/worms copy.png" medium="image" type="image/png" height="33" width="144"/>
+  <media:content url="https://helenajamborwrites.netlify.app/posts/Image_how_scale/worms_copy.png" medium="image" type="image/png" height="33" width="144"/>
 </item>
 <item>
   <title>How to… image formatting</title>
@@ -1013,7 +1013,7 @@ A big Replication Study that also includes image data: Biomechanical remodeling 
 <section id="page-dimension" class="level4">
 <h4 class="anchored" data-anchor-id="page-dimension">Page dimension</h4>
 <p>Layout is defined as the arrangement of parts on an area. What area can you fill? Many times journals request Graphical Abstracts as squares as they are used as thumbnail preview for your article. See for example the landing page of Current Biology: <img src="https://helenajamborwrites.netlify.app/posts/GraphicalAbstracts_2/CurrentBio.png" class="img-fluid"></p>
-<p>Note that the image is roughly stamp-size and that the best graphical abstracts should work in this size. When your graphical abstract is a full figure for a paper, poster, or grant, you usually aim for a rectangle-landscape area: this fits much better onto a page and it is also easier to design a <a href="../../posts/GraphicalAbstracts_2/index.html#Reading direction">reading direction</a> for rectangles. Especially when your space is limited, such as in grant application,s make use of the full-line width to not waste any precious space!</p>
+<p>Note that the image is roughly stamp-size and that the best graphical abstracts should work in this size. When your graphical abstract is a full figure for a paper, poster, or grant, you usually aim for a rectangle-landscape area: this fits much better onto a page and it is also easier to design a reading direction for rectangles. Especially when your space is limited, such as in grant application,s make use of the full-line width to not waste any precious space!</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://helenajamborwrites.netlify.app/posts/GraphicalAbstracts_2/Layout_dimensions2-01.png" class="img-fluid figure-img"></p>

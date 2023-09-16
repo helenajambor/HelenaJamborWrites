@@ -3,7 +3,7 @@ project:
   
 website:
   title: "HelenaJamborWrites"
-  description: "Helena Jambor's blog on data visualization and visual communication of scientific data" 
+  description: "Blog about data visualization and visual communication of scientific data" 
   site-url: https://helenajamborwrites.netlify.app/
   navbar:
     right:

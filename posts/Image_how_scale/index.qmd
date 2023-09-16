@@ -7,7 +7,7 @@ categories:
   - images
   - how-to
 #  - history
-image: "worms copy.png"
+image: "worms_copy.png"
 ---
 ## How to… image scale information
 Microscopy images without any annotations are abstract art rather than scientific evidences. [After deciding on image size and format](../Image_how_mag/index.qmd), the next step towards making image content understandable is to annotate the object size, explain all colors, and any symbols used.
@@ -40,7 +40,7 @@ At times other familiar objects are included: a penny is placed on a rock in geo
 
 
 ::: {#fig-familiars layout-nrow=2}
-![](worms copy.png)
+![](worms_copy.png)
 
 ![](NigelLarkin_Nat_SCA_Scalebar.png)
 

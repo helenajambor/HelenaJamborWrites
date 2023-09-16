@@ -18,7 +18,7 @@ Layout is defined as the arrangement of parts on an area. What area can you fill
 ![](CurrentBio.png)
 
 Note that the image is roughly stamp-size and that the best graphical abstracts should work in this size. 
-When your graphical abstract is a full figure for a paper, poster, or grant, you usually aim for a rectangle-landscape area: this fits much better onto a page and it is also easier to design a [reading direction](index.qmd#Reading direction) for rectangles. Especially when your space is limited, such as in grant application,s make use of the full-line width to not waste any precious space!
+When your graphical abstract is a full figure for a paper, poster, or grant, you usually aim for a rectangle-landscape area: this fits much better onto a page and it is also easier to design a reading direction for rectangles. Especially when your space is limited, such as in grant application,s make use of the full-line width to not waste any precious space!
 
 ![How much space can you fill? The page size determines layout choices](Layout_dimensions2-01.png)
 
