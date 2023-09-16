@@ -39,9 +39,9 @@ Helena Jambor then started a fantastic effort within Quarep-LiMi to improve publ
 </ul>
 We hope that these checklist will enhance the work of scientists and make their life easier by giving clear and actionable instructions for the publication of images and image analysis.
 
-#### Read the Nature Methods paper <a href="https://www.nature.com/articles/s41592-023-01987-9">here</a> 
-#### Find the checklist to download as printable files <a href="https://doi.org/10.5281/zenodo.7642559">here</a>.
-##### A companion Jupyter Book is available <a href="https://quarep-limi.github.io/WG12_checklists_for_image_publishing/intro.html">here</a>.
+###### Read the Nature Methods paper <a href="https://www.nature.com/articles/s41592-023-01987-9">here</a> 
+###### Find the checklist to download as printable files <a href="https://doi.org/10.5281/zenodo.7642559">here</a>.
+###### A companion Jupyter Book is available <a href="https://quarep-limi.github.io/WG12_checklists_for_image_publishing/intro.html">here</a>.
 
 ::: {#fig-chris}
 ![](Fig 7.png)
