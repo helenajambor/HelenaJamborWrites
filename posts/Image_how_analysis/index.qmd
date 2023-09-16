@@ -12,15 +12,15 @@ draft: True
 A guest post by Christopher Schmied, find him <a href="https://www.linkedin.com/in/chrischmied/">on linkedin</a> or <a href="https://twitter.com/ChriSchmied">social media</a>.
 
 ## Hidden image analysis
-As a Research Data Scientist I engage in many different collaborative scientific projects, particularly focusing on the analysis of microscopy image data (Fig. Image analysis). Turning to the scientific literature, I noticed that image analysis methods were often absent or hidden by only briefly mentioning the used image analysis software. This made reproduction often very difficult.
+As a Research Data Scientist I engage in many different collaborative scientific projects, particularly focusing on the analysis of microscopy image data (Fig. 1). Turning to the scientific literature, I noticed that image analysis methods were often absent or hidden by only briefly mentioning the used image analysis software. This made reproduction often very difficult.
 
 In publications image analysis is only one of many different methods scientists utilize to produce quantitative results. This scientific skill is increasingly taught in many courses at academic institutions. Also many online resources in different formats exist that help scientists to perform image analysis correctly: 
 <ul>
-<li>Written tutorials: <a href"https://bioimagebook.github.io/">BioImageBook</a></li>
-<li>Videos: <a hreaf="https://youtu.be/ZBsjrcYiw-c?si=94OpKKrXc49br3bD">find on e.g., youtube</a></li>
-<li>Publications: <a hread="https://f1000research.com/articles/9-1373">Start with this & links therein</a></li>
+<li>Written tutorials: <a href="https://bioimagebook.github.io/">BioImageBook</a></li>
+<li>Videos: <a href="https://youtu.be/ZBsjrcYiw-c?si=94OpKKrXc49br3bD">find on e.g., youtube</a></li>
+<li>Publications: <a href="https://f1000research.com/articles/9-1373">Start with this & links therein</a></li>
 </ul>
-Furthermore, there is also a growing community of scientists specialized in image analysis. You can get directly in touch with this community via <a href=" https://forum.image.sc/">image.sc</a>. In this forum you can find many solutions and helpful materials, for instance in the following post you will find <a hreaf="https://forum.image.sc/t/bioimage-analysis-recommended-reading-and-viewing/28051
+Furthermore, there is also a growing community of scientists specialized in image analysis. You can get directly in touch with this community via <a href=" https://forum.image.sc/">image.sc</a>. In this forum you can find many solutions and helpful materials, for instance in the following post you will find <a href="https://forum.image.sc/t/bioimage-analysis-recommended-reading-and-viewing/28051
 ">a vast collection of training materials for image analysis</a>. 
 However, clear instructions or guidelines how image analysis should be documented in research papers were missing. This is another reason that is making it hard for authors to effectively publish good image analysis methods.
 
@@ -38,6 +38,10 @@ Helena Jambor then started a fantastic effort within Quarep-LiMi to improve publ
 <li>Machine learning workflows</l>
 </ul>
 We hope that these checklist will enhance the work of scientists and make their life easier by giving clear and actionable instructions for the publication of images and image analysis.
+
+Read the Nature Methods paper <a href="https://www.nature.com/articles/s41592-023-01987-9">here</a> 
+Find the checklist to download as printable files <a hreaf="https://doi.org/10.5281/zenodo.7642559">here</a>.
+A companion Jupyter Book is available <a hreaf="https://quarep-limi.github.io/WG12_checklists_for_image_publishing/intro.html">here</a>.
 
 ::: {#fig-chris}
 ![](Fig 7.png)
