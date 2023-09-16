@@ -11,7 +11,7 @@ draft: True
 ---
 A guest post by Christopher Schmied, find him <a href="https://www.linkedin.com/in/chrischmied/">on linkedin</a> or <a href="https://twitter.com/ChriSchmied">social media</a>.
 
-######Hidden image analysis
+## Hidden image analysis
 As a Research Data Scientist I engage in many different collaborative scientific projects, particularly focusing on the analysis of microscopy image data (Fig. Image analysis). Turning to the scientific literature, I noticed that image analysis methods were often absent or hidden by only briefly mentioning the used image analysis software. This made reproduction often very difficult.
 
 In publications image analysis is only one of many different methods scientists utilize to produce quantitative results. This scientific skill is increasingly taught in many courses at academic institutions. Also many online resources in different formats exist that help scientists to perform image analysis correctly: 
@@ -26,6 +26,7 @@ However, clear instructions or guidelines how image analysis should be documente
 
 :::{#fig-IA}
 ![](Chris_new.png)
+
 Image Analysis: (A) With image analysis workflows quantitative data is extracted from images. (B) Images are data here intensity information is displayed in different ways. (C) Image segmentation allows to extract information such as objects numbers, object sizes, shapes etc.
 ::: 
 
