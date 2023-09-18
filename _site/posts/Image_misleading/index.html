@@ -8,7 +8,7 @@
 
 <meta name="author" content="Helena Jambor">
 <meta name="dcterms.date" content="2023-09-22">
-<meta name="description" content="An introduction to avoid misleading images in publications">
+<meta name="description" content="A quick overview of what are misleading images in publications">
 
 <title>HelenaJamborWrites - How to… avoid Misleading images</title>
 <style>
@@ -119,6 +119,11 @@ ul.task-list li input[type="checkbox"] {
 </i> 
  <span class="menu-text">LinkedIn</span></a>
   </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="../../index.xml" rel="" target=""><i class="bi bi-rss" role="img">
+</i> 
+ <span class="menu-text"></span></a>
+  </li>  
 </ul>
             <div class="quarto-navbar-tools">
 </div>
@@ -133,7 +138,7 @@ ul.task-list li input[type="checkbox"] {
       <h1 class="title">How to… avoid Misleading images</h1>
                   <div>
         <div class="description">
-          An introduction to avoid misleading images in publications
+          A quick overview of what are misleading images in publications
         </div>
       </div>
                           <div class="quarto-categories">
@@ -174,35 +179,132 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<p>I care about science and images that is widely accessible. At present, that is not always the case. Image figures are confusing and unclear. I have <a href="../../posts/Image_numbers/index.html">extensively written</a> and <a href="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001161"> published</a> on how to make image data understandable. Incomprehensible data is demonstrably less read, less often cited, and unlikely to be included in the scientific canon. Don’t believe me? <a href="https://pubmed.ncbi.nlm.nih.gov/26361556/">Letchford et al</a> have data!</p>
+<p>I care about science and images that is widely accessible. At present, that is not always the case. Image figures are confusing and unclear. I have <a href="../../posts/Image_numbers/index.html">written</a> and <a href="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001161"> published</a> about communicating understandable image data, and last week <a href="https://www.nature.com/articles/s41592-023-01987-9">our community-developed guidelines for publishing understandable images</a> got published.</p>
+<p>For scientists it is worth investing time in producing clear papers: incomprehensible data is demonstrably less read, less often cited, and unlikely to be included in the scientific canon. Don’t believe me? <a href="https://pubmed.ncbi.nlm.nih.gov/26361556/">Letchford et al</a> have data!</p>
+<div id="fig-letch" class="quarto-figure quarto-figure-center anchored">
+<figure class="figure">
+<p><img src="Letchford.jpg" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Figure&nbsp;1: From Letchford et al.&nbsp;2015, doi: 10.1098/rsos.150266.</figcaption>
+</figure>
+</div>
 <section id="accidentally-misleading-images" class="level2">
 <h2 class="anchored" data-anchor-id="accidentally-misleading-images">Accidentally misleading images</h2>
-<p>At other times, published images are also misleading, not just unclear. This may be because image data was incorrectly processed. I <a href="../../posts/Image_how_mag/index.html">previously wrote about one case</a>, which illustrated that the sequence of contrast adjustment and image cropping matter! I regularly witness the education gap in my DataViz courses. In the image section the graduate students ask: Is it ok to turn images? Can I crop away a neighbouring cell? Am I allowed to show green fluorescent protein in red? When images are processed without in-depth knowledge of the software, accidentally misleading images may be the result.</p>
+<p>Published images at times are not just unclear but misleading. This may be because image data was incorrectly processed. I <a href="../../posts/Image_how_mag/index.html">previously wrote about one example published by Miura and Norrelykke</a>, which illustrated that the sequence of contrast adjustment and image cropping matter. I regularly witness the education gap in image handling in my DataViz courses. Graduate students ask: Is it ok to turn images? Can I crop away a neighboring cell? Am I allowed to show green fluorescent protein in red? When images are processed without in-depth knowledge of the software, accidentally misleading images may be the result.</p>
+<div id="fig-kota" class="quarto-figure quarto-figure-center anchored">
+<figure class="figure">
+<p><img src="Kota.png" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Figure&nbsp;2: Sequence matters when adjusting brightness contrast. Adapted from <a href="https://doi.org/10.15252/embj.2020105889">Miura &amp; Norrelykke</a></figcaption>
+</figure>
+</div>
+<div id="fig-chris" class="quarto-figure quarto-figure-center anchored">
+<figure class="figure">
+<p><img src="Turning_Images.png" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Figure&nbsp;3: How turning/transforming images can falsify intensity distributions in image data, example from Christopher Schmied.</figcaption>
+</figure>
+</div>
 </section>
 <section id="actually-misleading-images" class="level2">
 <h2 class="anchored" data-anchor-id="actually-misleading-images">Actually misleading images</h2>
-<p>In comparison more rare are instances of intentional image manipulation. These are cases when authors fabricate or forge data to mislead audiences. Elisabeth Bik has extensively brought attention to this problem and also quantified image manipulations in publications. Already before Biks quantification and activism, early initiatives of scientists and editors clarified what counts as image manipulation and which image processing is acceptable for publication. The CSE guidelines are long and update annually!</p>
+<p>Less common than accidentally misleading images, are instances of intentional image manipulation. These are cases when authors fabricate or forge data to mislead audiences. Elisabeth Bik has brought attention to this problem and also quantified instances of image manipulations in publications.</p>
+<div id="fig-fraud" class="quarto-figure quarto-figure-center anchored">
+<figure class="figure">
+<p><img src="BikBlog.jpg" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Figure&nbsp;4: Example of “composed” image, that contains cloned/spliced image parts, from <a href="https://twitter.com/MicrobiomDigest">Elisabeth Bik</a>.</figcaption>
+</figure>
+</div>
+</section>
+<section id="guidelines-to-avoid-misleading-images" class="level2">
+<h2 class="anchored" data-anchor-id="guidelines-to-avoid-misleading-images">Guidelines to avoid misleading images</h2>
+<p>Already before Biks quantification and activism, early community initiatives of scientists and editors clarified what counts as image manipulation and which image processing is acceptable for publication. The CSE guidelines are long and update annually! Here is the relevant section on digital image:</p>
+<div id="fig-cse" class="quarto-figure quarto-figure-center anchored">
+<figure class="figure">
+<p><img src="CSE2.png" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Figure&nbsp;5: CSE 3.4.1 Guidelines for Handling Image Data</figcaption>
+</figure>
+</div>
 </section>
 <section id="read-more" class="level2">
 <h2 class="anchored" data-anchor-id="read-more">Read more</h2>
 <p>Bik, E.M., Casadevall, A., Fang, F.C., 2016.<a href="https://doi.org/10.1128/mBio.00809-16">The Prevalence of Inappropriate Image Duplication in Biomedical Research Publications.</a> mBio 7.</p>
-<p><a href=""></a> #### Accurate and reproducible image quality Brown, C.M., 2007. Fluorescence microscopy–avoiding the pitfalls. J Cell Sci 120, 1703–1705. https://doi.org/10.1242/jcs.03433 Faklaris, O., Bancel-Vallée, L., Dauphin, A., Monterroso, B., Frère, P., Geny, D., Manoliu, T., de Rossi, S., Cordelières, F.P., Schapman, D., Nitschke, R., Cau, J., Guilbert, T., 2022. Quality assessment in light microscopy for routine use through simple tools and robust metrics. Journal of Cell Biology 221, e202107093. https://doi.org/10.1083/jcb.202107093</p>
+<div id="fig-bik2" class="quarto-figure quarto-figure-center anchored">
+<figure class="figure">
+<p><img src="BikPaper.png" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Figure&nbsp;6: Example in publication.</figcaption>
+</figure>
+</div>
+<section id="accurate-and-reproducible-image-quality" class="level4">
+<h4 class="anchored" data-anchor-id="accurate-and-reproducible-image-quality">Accurate and reproducible image quality</h4>
+<ul>
+<li>
+Brown, C.M., 2007. <a href="https://doi.org/10.1242/jcs.03433">Fluorescence microscopy–avoiding the pitfalls. J Cell Sci 120, 1703–1705.</a>
+</li>
+<li>
+Faklaris, O., Bancel-Vallée, L., Dauphin, A., Monterroso, B., Frère, P., Geny, D., Manoliu, T., de Rossi, S., Cordelières, F.P., Schapman, D., Nitschke, R., Cau, J., Guilbert, T., 2022. <a href="https://doi.org/10.1083/jcb.202107093
+">Quality assessment in light microscopy for routine use through simple tools and robust metrics. Journal of Cell Biology 221.</a>
+</li>
+</ul>
+</section>
 <section id="recommendations-to-avoid-misleading-images" class="level4">
 <h4 class="anchored" data-anchor-id="recommendations-to-avoid-misleading-images">Recommendations to avoid misleading images</h4>
-<p>Bik, E.M., Fang, F.C., Kullas, A.L., Davis, R.J., Casadevall, A., 2018. Analysis and Correction of Inappropriate Image Duplication: the Molecular and Cellular Biology Experience. Mol Cell Biol 38, e00309-18. https://doi.org/10.1128/MCB.00309-18 Cromey, D.W., 2013. Digital images are data: and should be treated as such. Methods Mol Biol 931, 1–27. https://doi.org/10.1007/978-1-62703-056-4_1 CSE [WWW Document], 2012. . CSE’s White Paper on Promoting Integrity in Scientific Journal Publications. URL http://www.councilscienceeditors.org/wp-content/uploads/entire_whitepaper.pdf (accessed 1.1.21). North, A.J., 2006. Seeing is believing? A beginners’ guide to practical pitfalls in image acquisition. J Cell Biol 172, 9–18. https://doi.org/10.1083/jcb.200507103 Rossner, M., Yamada, K.M., 2004. What’s in a picture? The temptation of image manipulation. J Cell Biol 166, 11–5. https://doi.org/10.1083/jcb.200406019</p>
+<ul>
+<li>
+Bik, E.M., Fang, F.C., Kullas, A.L., Davis, R.J., Casadevall, A., 2018. <a href="https://doi.org/10.1128/MCB.00309-18">Analysis and Correction of Inappropriate Image Duplication: the Molecular and Cellular Biology Experience.</a>
+</li>
+<li>
+Cromey, D.W., 2013. <a href="https://doi.org/10.1007/978-1-62703-056-4_1">Digital images are data: and should be treated as such.</a>
+</li>
+<li>
+CSE’s White Paper on <a href="http://www.councilscienceeditors.org/wp-content/uploads/entire_whitepaper.pdf">Promoting Integrity in Scientific Journal Publications</a>
+</li>
+<li>
+North, A.J., 2006. <a href="https://doi.org/10.1083/jcb.200507103">Seeing is believing? A beginners’ guide to practical pitfalls in image acquisition.</a>
+</li>
+<li>
+Rossner, M., Yamada, K.M., 2004. <a href="https://doi.org/10.1083/jcb.200406019">What’s in a picture? The temptation of image manipulation.</a>
+</li>
+</ul>
 </section>
 <section id="detection-of-manipulated-image-data" class="level4">
 <h4 class="anchored" data-anchor-id="detection-of-manipulated-image-data">Detection of manipulated image data</h4>
-<p>Bucci, E.M., 2018. Automatic detection of image manipulations in the biomedical literature. Cell Death Dis 9, 400. https://doi.org/10.1038/s41419-018-0430-3 Koppers, L., Wormer, H., Ickstadt, K., 2017. Towards a Systematic Screening Tool for Quality Assurance and Semiautomatic Fraud Detection for Images in the Life Sciences. Sci Eng Ethics 23, 1113–1128. https://doi.org/10.1007/s11948-016-9841-7</p>
-<p>Van Noorden, R., 2022. Journals adopt AI to spot duplicated images in manuscripts. Nature 601, 14–15. https://doi.org/10.1038/d41586-021-03807-6 Van Noorden, R., 2020. Publishers launch joint effort to tackle altered images in research papers. Nature. https://doi.org/10.1038/d41586-020-01410-9</p>
+<ul>
+<li>
+Bucci, E.M., 2018. <a href="https://doi.org/10.1038/s41419-018-0430-3">Automatic detection of image manipulations in the biomedical literature.</a>
+</li>
+<li>
+Koppers, L., Wormer, H., Ickstadt, K., 2017. <a href="https://doi.org/10.1007/s11948-016-9841-7">Towards a Systematic Screening Tool for Quality Assurance and Semiautomatic Fraud Detection for Images in the Life Sciences.</a>
+</li>
+<li>
+Van Noorden, R., 2022. <a href="https://doi.org/10.1038/d41586-021-03807-6">Journals adopt AI to spot duplicated images in manuscripts.</a>
+</li>
+<li>
+Van Noorden, R., 2020. <a href="https://doi.org/10.1038/d41586-020-01410-9">Publishers launch joint effort to tackle altered images in research papers.</a>
+</li>
+</ul>
 </section>
 <section id="appropriate-image-handling-and-analysis" class="level4">
 <h4 class="anchored" data-anchor-id="appropriate-image-handling-and-analysis">Appropriate image handling and analysis</h4>
-<p>Aaron, J., Chew, T.-L., 2021. A guide to accurate reporting in digital image processing - can anyone reproduce your quantitative analysis? J Cell Sci 134, jcs254151. https://doi.org/10.1242/jcs.254151 Hammer, M., Huisman, M., Rigano, A., Boehm, U., Chambers, J.J., Gaudreault, N., North, A.J., Pimentel, J.A., Sudar, D., Bajcsy, P., Brown, C.M., Corbett, A.D., Faklaris, O., Lacoste, J., Laude, A., Nelson, G., Nitschke, R., Farzam, F., Smith, C.S., Grunwald, D., Strambio-De-Castillia, C., 2021. Towards community-driven metadata standards for light microscopy: tiered specifications extending the OME model. Nat Methods 18, 1427–1440. https://doi.org/10.1038/s41592-021-01327-9 Martin, C., Blatt, M., 2013. Manipulation and misconduct in the handling of image data. Plant Cell 25, 3147–3148. https://doi.org/10.1105/tpc.113.250980 Miura, K., Norrelykke, S.F., 2021. Reproducible image handling and analysis. EMBO J 40, e105889. https://doi.org/10.15252/embj.2020105889</p>
+<ul>
+<li>
+Aaron, J., Chew, T.-L., 2021. <a href="https://doi.org/10.1242/jcs.254151">A guide to accurate reporting in digital image processing - can anyone reproduce your quantitative analysis?</a>
+</li>
+<li>
+Hammer, M., Huisman, M., Rigano, A., Boehm, U., Chambers, J.J., Gaudreault, N., North, A.J., Pimentel, J.A., Sudar, D., Bajcsy, P., Brown, C.M., Corbett, A.D., Faklaris, O., Lacoste, J., Laude, A., Nelson, G., Nitschke, R., Farzam, F., Smith, C.S., Grunwald, D., Strambio-De-Castillia, C., 2021. <a href="https://doi.org/10.1038/s41592-021-01327-9">Towards community-driven metadata standards for light microscopy: tiered specifications extending the OME model.</a>
+</li>
+<li>
+Martin, C., Blatt, M., 2013. <a href="https://doi.org/10.1105/tpc.113.250980">Manipulation and misconduct in the handling of image data.</a>
+</li>
+<li>
+Miura, K., Norrelykke, S.F., 2021. <a href="https://doi.org/10.15252/embj.2020105889">Reproducible image handling and analysis.</a>
+</li>
+</ul>
 </section>
 <section id="guidelines-for-writing-materials-and-methods-sections-for-images" class="level4">
 <h4 class="anchored" data-anchor-id="guidelines-for-writing-materials-and-methods-sections-for-images">Guidelines for writing materials and methods sections for images</h4>
-<p>Marques G, P.T., Sanders MA, 2020. Imaging methods are vastly underreported in biomedical research. Elife 2020. https://doi.org/10.7554/eLife.55133</p>
+<ul>
+<li>
+Marques G, P.T., Sanders MA, 2020. <a href="https://doi.org/10.7554/eLife.55133">Imaging methods are vastly underreported in biomedical research</a>.
+</li>
+</ul>
 
 
 </section>

@@ -10,7 +10,67 @@
 <atom:link href="https://helenajamborwrites.netlify.app/index.xml" rel="self" type="application/rss+xml"/>
 <description>Blog about data visualization and visual communication of scientific data</description>
 <generator>quarto-1.3.361</generator>
-<lastBuildDate>Sat, 26 Aug 2023 22:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sun, 17 Sep 2023 22:00:00 GMT</lastBuildDate>
+<item>
+  <title>Checklists for image publication</title>
+  <dc:creator>Helena Jambor</dc:creator>
+  <dc:creator>Helena Jambor</dc:creator>
+  <link>https://helenajamborwrites.netlify.app/posts/Image_NM_story/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Our guidelines for image and image analyses publishing just got published for you all <a href="https://www.nature.com/articles/s41592-023-01987-9"> in Nature Methods</a>. This was a very long journey for me, read how it unfolded for me:</p>
+<section id="some-images-oh-my" class="level2">
+<h2 class="anchored" data-anchor-id="some-images-oh-my">Some images, oh my!</h2>
+<p>In 2017 I was just prepping one of my data vis courses for scientists, which also includes image figures. I was searching some teaching examples in publications when I realised that many, many authors were still happily using red/green color combinations in both charts and also in microscopy images, rendering their science visually inaccessible to colour-blind readers <a href="https://thenode.biologists.com/color-blind-audiences/photo/">(see my post at TheNode)</a>.</p>
+<div id="fig-red-green" class="quarto-figure quarto-figure-center anchored">
+<figure class="figure">
+<p><img src="https://helenajamborwrites.netlify.app/posts/Image_NM_story/Colors.png" class="img-fluid figure-img" width="600"></p>
+<figcaption class="figure-caption">Figure&nbsp;1: Problems of showing image data in color.</figcaption>
+</figure>
+</div>
+</section>
+<section id="we-collected-numbers-oh-dear" class="level2">
+<h2 class="anchored" data-anchor-id="we-collected-numbers-oh-dear">We collected numbers, OH DEAR!</h2>
+<p>At the 2018 <a href="https://meetings.embo.org/event/18-lsm">Light Sheet conference</a> microscopy fans gathered to discuss awesome images. Except me, I was still stunned by the subpar images I had seen in papers. I ended up chatting with Rita Strack, editor at Nature Methods about journal strategies to ensure image figures are legible (none back then!) and my idea for a survey. The idea evolved into a project when I teamed up with Tracey Weissgerber in the eLIFE ambassador programme. Tracey had experience with meta-research (i.e.&nbsp;screening literature) and with out group we analyzed published images with a standardized protocol. Now we had numbers for what previously was just an impression: lots of pictures didn’t have sizes marks, giving readers a little guessing game time. The colors? Turns out, many were like secret codes that only the authors could understand. Plus, the explanations often barely enlightened - check ourpaper <a href="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001161">in PLOS BIO</a></p>
+<div id="fig-plos" class="quarto-figure quarto-figure-center anchored">
+<figure class="figure">
+<p><img src="https://helenajamborwrites.netlify.app/posts/Image_NM_story/Summary.png" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Figure&nbsp;2: Summary of the PLOS BIO numbers we collected.</figcaption>
+</figure>
+</div>
+</section>
+<section id="zoom-zoom-zoom-science-in-a-global-network" class="level2">
+<h2 class="anchored" data-anchor-id="zoom-zoom-zoom-science-in-a-global-network">Zoom, Zoom, Zoom: science in a global network</h2>
+<p>Our PLOS BIO paper got me onto the (virtual, remember COVID!) stage of the 2020 meeting of the German Bioimaging society. The Q&amp;A was a lively discussion of many impossible ways to improve image communication and one clear idea: let’s form a <a href="https://quarep.org/">QUAREP</a> working group for this! Starting with just four members, we hashed, clashed, and conjured what eventually became the checklists for image publishing. Quickly our <a href="https://quarep.org/working-groups/wg-12-image-visualization-and-analysis/">Working Group 12</a> grew and became very interdisciplinary: we have members from research institutes, medical clinics, and even NASA; from all continents and time-zones; from applied research, companies and theory. Safe to say, we also at times failed to find a consensus and tip toed around some topics until we dropped them. Our opinions also differed on how strict we wanted to be with guidelines but also there found a workable compromise between our ideals and reality. In the end, all scientists globally, also those with little access to advanced microscopy facilities, should be empowered to reach the minimal goals, while at the same time we also wanted to push some higher image and image analysis standards. This lead to the the three levels, mandatory, recommended and ideal.</p>
+<div id="fig-evolution" class="quarto-figure quarto-figure-center anchored">
+<figure class="figure">
+<p><img src="https://helenajamborwrites.netlify.app/posts/Image_NM_story/checklistEvolution.png" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Figure&nbsp;3: Evolution of the checklists. From white-silver-gold to Recommended and Ideal. Only icons were always there, everything else changed.</figcaption>
+</figure>
+</div>
+</section>
+<section id="a-paper-emerges" class="level2">
+<h2 class="anchored" data-anchor-id="a-paper-emerges">A paper emerges</h2>
+<p>Fuelled by caffeine and italian carbs at the Human Technopole in Milan, a writing-weekend produced the first draft that was improved in feedback rounds with many of our QUAREP-LiMi friends and colleages. The extended vetting was helpful, with just one round of small revisions our manuscript was accepted by our first choice journal, Nature Methods. Coincidentally, it was handled by Rita Strack, who I believe does not even remember our brief coffee line conversation about this project many years agon! And now we give the checklists to all of you scientists – These are not lists, but the audacious result of chasing pixel perfection in scientific zoom calls. For me personally it was a rewarding experience to collaborate with so many people, and from now I will keep meeting co-authors at many meetings to come!</p>
+<div id="fig-meeting" class="quarto-figure quarto-figure-center anchored">
+<figure class="figure">
+<p><img src="https://helenajamborwrites.netlify.app/posts/Image_NM_story/HTBesuch2.jpg" class="img-fluid figure-img"> <img src="https://helenajamborwrites.netlify.app/posts/Image_NM_story/IMG_2346.jpeg" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Figure&nbsp;4: HT Milan where Helena &amp; Christopher wrote the first draft in Sept 2022 and for relaxation played with Chloe (dog). Below celebrating with 10% of the author team at PoLBIAS23, Sept 2023.</figcaption>
+</figure>
+</div>
+
+
+</section>
+
+ ]]></description>
+  <category>images</category>
+  <guid>https://helenajamborwrites.netlify.app/posts/Image_NM_story/index.html</guid>
+  <pubDate>Sun, 17 Sep 2023 22:00:00 GMT</pubDate>
+  <media:content url="https://helenajamborwrites.netlify.app/posts/Image_NM_story/Checklist_Image_2023-05-10-png" medium="image"/>
+</item>
 <item>
   <title>(A very short) History of Bio-Images</title>
   <dc:creator>Helena Jambor</dc:creator>
