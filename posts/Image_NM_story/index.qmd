@@ -5,7 +5,7 @@ author: "Helena Jambor"
 date: "20230918"
 categories:
   - images
-image: "Checklist_Image_2023-05-10-png"
+image: "Checklist_Image_2023-05-10.png"
 ---
 Our guidelines for image and image analyses publishing just got published for you all <a href="https://www.nature.com/articles/s41592-023-01987-9"> in Nature Methods</a>. This was a very long journey for me, read how it unfolded for me:
 
