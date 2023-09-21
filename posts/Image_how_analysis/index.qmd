@@ -6,8 +6,7 @@ date: "20230920"
 categories:
   - images
   - how-to
-image: ""
-draft: True
+image: "intesities.png"
 ---
 A guest post by Christopher Schmied, find him <a href="https://www.linkedin.com/in/chrischmied/">on linkedin</a> or <a href="https://twitter.com/ChriSchmied">social media</a>.
 
