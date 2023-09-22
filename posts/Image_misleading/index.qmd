@@ -7,7 +7,6 @@ categories:
   - images
   - how-to
 image: "Turning_Images.png"
-draft: True
 ---
 I care about science and images that is widely accessible. At present, that is not always the case. Image figures are confusing and unclear. I have [written](../Image_numbers/index.qmd) and 
 <a href="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001161"> published</a> about communicating understandable image data, and last week <a href="https://www.nature.com/articles/s41592-023-01987-9">our community-developed guidelines for publishing understandable images</a> got published. 
