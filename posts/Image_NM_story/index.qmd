@@ -10,7 +10,7 @@ image: "Checklist_Image_2023-05-10.png"
 Our guidelines for image and image analyses publishing just got published for you all <a href="https://www.nature.com/articles/s41592-023-01987-9"> in Nature Methods</a>. This was a long journey, here is how it came about: 
 
 ## Some images, oh my!
-In 2017 I was prepping one of my data vis courses, which also touches on  image figures. While searching for teaching examples in publications, I realised that many, many authors were still happily using red/green color combinations in both charts and also in microscopy images, thus making their science visually inaccessible to colour-blind readers <a href="https://thenode.biologists.com/color-blind-audiences/photo/">(see my post at TheNode)</a>. 
+In 2016/2017 I was a fellow at the <a href="https://www.wiko-berlin.de/">Institute for Advanced Studies</a> and prepping a data visualisation curriculum, which included image figures. Screening for teaching examples I found that many, many authors were still happily publishing red/green color combinations in both charts and also in microscopy images, thus making their science visually inaccessible to colour-blind readers <a href="https://thenode.biologists.com/color-blind-audiences/photo/">(see my post at TheNode)</a>. 
 
 :::{#fig-red-green}
 ![](Colors2.png)
