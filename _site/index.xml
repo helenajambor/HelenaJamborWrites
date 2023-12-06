@@ -10,7 +10,122 @@
 <atom:link href="https://helenajamborwrites.netlify.app/index.xml" rel="self" type="application/rss+xml"/>
 <description>Blog about data visualization and visual communication of scientific data</description>
 <generator>quarto-1.3.361</generator>
-<lastBuildDate>Thu, 21 Sep 2023 22:00:00 GMT</lastBuildDate>
+<lastBuildDate>Tue, 05 Dec 2023 23:00:00 GMT</lastBuildDate>
+<item>
+  <title>Science &amp; Art at ASCB CellBio23</title>
+  <dc:creator>Helena Jambor</dc:creator>
+  <dc:creator>Helena Jambor</dc:creator>
+  <link>https://helenajamborwrites.netlify.app/posts/ASCB/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="saturday-is-art-day-at-ascb" class="level1">
+<h1>Saturday is Art-Day at ASCB!</h1>
+<p>Last week I was invited to the <a href="https://www.ascb.org/cellbio2023/program/subgroups/">ASCB Subgroup “Science and Art: Bridging Two Creative Universes“ </a>. Artists shows subjective views of the world, while biologists measure life, which seem like opposites. Where they converge is in their shared goal to communicate their ideas and insights. And nowhere are they as close as in the communication with data visualizations.</p>
+<section id="what-i-spoke-about" class="level2">
+<h2 class="anchored" data-anchor-id="what-i-spoke-about">What I spoke about</h2>
+<p>I am neither a cell biologist (anymore), nor an artist. But my work is to make data understandable through visualization. Data visualization is about finding truthful, insightful, and pleasing representations for messy, uncertain, and complicated biological data. And to create effective visualizations, we use techniques from the arts. I am fully behind the notion of the organisers, that there is an “impact of artistic practices on scientific research and communication“. In my talk I show how concepts from art make data visualizations work.</p>
+<div id="fig-overview" class="quarto-figure quarto-figure-center anchored">
+<figure class="figure">
+<p><img src="https://helenajamborwrites.netlify.app/posts/ASCB/Slide1.png" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Figure&nbsp;1: Art concepts we use in data visualization</figcaption>
+</figure>
+</div>
+</section>
+<section id="representation" class="level2">
+<h2 class="anchored" data-anchor-id="representation">Representation</h2>
+<p>Art expresses itself in many representations, from sculpture to video, and these evolve over time. In data visualizations we also rely on a pool of representations we can choose from, and these are the chart types. Each serves a different purpose, some are intuitive, and others require prior training.</p>
+<div id="fig-rep" class="quarto-figure quarto-figure-center anchored">
+<figure class="figure">
+<p><img src="https://helenajamborwrites.netlify.app/posts/ASCB/Slide2.png" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Figure&nbsp;2: Pick a suitable representation for your data. For numerical data numerous charts exists and new forms keep being invented.</figcaption>
+</figure>
+</div>
+</section>
+<section id="abstraction" class="level2">
+<h2 class="anchored" data-anchor-id="abstraction">Abstraction</h2>
+<p>Abstraction is used constantly in science. We take a picture of cute animals, make continuous observations of molecular interactions, or take snapshots of genomes – each is a simplification into 1s and 0s, which then can be averaged, correlated, and tested.</p>
+<div id="fig-abtr" class="quarto-figure quarto-figure-center anchored">
+<figure class="figure">
+<p><img src="https://helenajamborwrites.netlify.app/posts/ASCB/Slide3.png" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Figure&nbsp;3: All data are just 1s and 0s.</figcaption>
+</figure>
+</div>
+</section>
+<section id="pattern-recognition" class="level2">
+<h2 class="anchored" data-anchor-id="pattern-recognition">Pattern recognition</h2>
+<p>When we turn 1s and 0s into visualizations for inspection, we use of the preattentive cues to find outliers, patterns or to draw attention.</p>
+<div id="fig-ptterns" class="quarto-figure quarto-figure-center anchored">
+<figure class="figure">
+<p><img src="https://helenajamborwrites.netlify.app/posts/ASCB/Slide4.png" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Figure&nbsp;4: Our eyes see visual cues such as line width, color, decorations, and absences.</figcaption>
+</figure>
+</div>
+</section>
+<section id="rules" class="level2">
+<h2 class="anchored" data-anchor-id="rules">Rules</h2>
+<p>Data visualization relies on human visual perception. From magicians, we that our visual senses can be tricked. In science we want to avoid this to not mislead our audiences. Therefore, we established rules for scientists how to faithfully present data.</p>
+<div id="fig-rules" class="quarto-figure quarto-figure-center anchored">
+<figure class="figure">
+<p><img src="https://helenajamborwrites.netlify.app/posts/ASCB/Slide5.png" class="img-fluid figure-img"></p>
+<p><img src="https://helenajamborwrites.netlify.app/posts/ASCB/Slide6.png" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Figure&nbsp;5: <img src="https://helenajamborwrites.netlify.app/posts/ASCB/Slide7.png" class="img-fluid figure-img"> Resources: Tracey’s paper about <a href="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002128"> misleading bar charts</a>, our paper about <a href="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001161">unclear image figures</a>, our workflow, with cheatsheets!, for <a href="https://f1000research.com/articles/9-1373/v2">image processing</a>, and our checklists for publishing <a href="https://www.nature.com/articles/s41592-023-01987-9"> image data</a>.</figcaption>
+</figure>
+</div>
+</section>
+<section id="break-rules" class="level2">
+<h2 class="anchored" data-anchor-id="break-rules">Break rules</h2>
+<p>At times, we see that rules get broken. Currently, against best practice, 3D-effects are making a comeback in charts. Usually, these charts do not necessarily want to present data the best way, but merely grab the attention of the visually overstimulated audience.</p>
+<div id="fig-breakrules" class="quarto-figure quarto-figure-center anchored">
+<figure class="figure">
+<p><img src="https://helenajamborwrites.netlify.app/posts/ASCB/Slide8.png" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Figure&nbsp;6: Trained data visualizers consider 3D effects misleading - a new generation seems to disagree and fancy some cool effects here and there!</figcaption>
+</figure>
+</div>
+</section>
+<section id="emotional-response" class="level2">
+<h2 class="anchored" data-anchor-id="emotional-response">Emotional response</h2>
+<p>The purpose of attention grabbing is to elicit an emotional response. Emotional responses get people engaged and known to enhance comprehension and memory. Any emotional response works for this, so in art and data visualization we can use humor, horror and of course beauty. For our patient communication project used a calming and somewhat pretty visualization to help cancer patients understand their treatment course.</p>
+<div id="fig-emotion" class="quarto-figure quarto-figure-center anchored">
+<figure class="figure">
+<p><img src="https://helenajamborwrites.netlify.app/posts/ASCB/Slide9.png" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Figure&nbsp;7: Emotions help us understand and remember.</figcaption>
+</figure>
+</div>
+</section>
+<section id="fashion" class="level2">
+<h2 class="anchored" data-anchor-id="fashion">Fashion</h2>
+<p>Just as in art, also in data visualization we are not impartial to trends. Just check out the below iterations of a figure - can you guess which was fashionable when? Check out <a href="https://www.biorxiv.org/content/10.1101/2023.10.24.563757v3">Isaac and James paper</a> to find out which we considered pretty in 2023 - and how they show us that cells can survive happily with JUST TWO LIPIDS!</p>
+<div id="fig-fashion" class="quarto-figure quarto-figure-center anchored">
+<figure class="figure">
+<p><img src="https://helenajamborwrites.netlify.app/posts/ASCB/Paper_Figure5_231107_variations2.png" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Figure&nbsp;8: Each generation has their favorite color scheme for data.</figcaption>
+</figure>
+</div>
+</section>
+<section id="some-more-literature" class="level2">
+<h2 class="anchored" data-anchor-id="some-more-literature">Some more literature</h2>
+<p>Get all the reading material, including the first book on data visualization for life science from 1885!</p>
+<div class="{fig-link}">
+<p><img src="https://helenajamborwrites.netlify.app/posts/ASCB/Slide10.png" class="img-fluid"></p>
+</div>
+</section>
+<section id="my-wonderful-colleagues" class="level2">
+<h2 class="anchored" data-anchor-id="my-wonderful-colleagues">My wonderful colleagues</h2>
+<p>Please also check out the great work by all the other speakers: Date Goodsell and Beate Mierzwa do not need any introduction, their work is shared widely. Gaia Pigino explored ways to use art to even make her own science more fun for herself, while Mary O’Reilly shared fun ways to increase creativity in our illustrations and Christopher Prinz told his personal story of heightening the game of his lab with art. Thao Do and Mol Mir try to bring art to the scientists in their respective institutes, while Leonora Martínez-Nuñez uses art to publicize science to a public. Representation with sculptures was definingly a theme, maybe we need some haptic, real-world objects after a decade of big data. We learned about ceramics from Duygu Ozpolat, glass art from Alex Ritter, and metal welding from Bryan Welm. And finally, Melanie Stegman introduced a relatively new format, video games, as another flower in the bouquet of possibilities to make science fun and accessible to wide audiences.</p>
+
+
+</section>
+</section>
+
+ ]]></description>
+  <category>dataviz</category>
+  <guid>https://helenajamborwrites.netlify.app/posts/ASCB/index.html</guid>
+  <pubDate>Tue, 05 Dec 2023 23:00:00 GMT</pubDate>
+  <media:content url="https://helenajamborwrites.netlify.app/posts/ASCB/Slide8.png" medium="image" type="image/png" height="84" width="144"/>
+</item>
 <item>
   <title>How to… avoid Misleading images</title>
   <dc:creator>Helena Jambor</dc:creator>

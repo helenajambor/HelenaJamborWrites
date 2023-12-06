@@ -1,0 +1,101 @@
+---
+title: "Science & Art at ASCB CellBio23"
+description: "A quick roundup of my talk at the ASCB Subgroup “Science and Art: Bridging Two Creative Universes“"
+author: "Helena Jambor"
+date: "20231206"
+categories:
+  - dataviz
+image: "Slide8.png"
+---
+# Saturday is Art-Day at ASCB! 
+Last week I was invited to the <a href="https://www.ascb.org/cellbio2023/program/subgroups/">ASCB Subgroup “Science and Art: Bridging Two Creative Universes“ </a>. Artists shows subjective views of the world, while biologists measure life, which seem like opposites. Where they converge is in their shared goal to communicate their ideas and insights. And nowhere are they as close as in the communication with data visualizations. 
+
+## What I spoke about
+I am neither a cell biologist (anymore), nor an artist. But my work is to make data understandable through visualization. Data visualization is about finding truthful, insightful, and pleasing representations for messy, uncertain, and complicated biological data. And to create effective visualizations, we use techniques from the arts. I am fully behind the notion of the organisers, that there is an “impact of artistic practices on scientific research and communication“. In my talk I show how concepts from art make data visualizations work.
+
+::: {#fig-overview}
+![](Slide1.png)
+
+Art concepts we use in data visualization
+:::
+
+## Representation
+Art expresses itself in many representations, from sculpture to video, and these evolve over time. In data visualizations we also rely on a pool of representations we can choose from, and these are the chart types. Each serves a different purpose, some are intuitive, and others require prior training. 
+
+::: {#fig-rep}
+![](Slide2.png)
+
+Pick a suitable representation for your data. For numerical data numerous charts exists and new forms keep being invented.
+:::
+
+## Abstraction
+Abstraction is used constantly in science. We take a picture of cute animals, make continuous observations of molecular interactions, or take snapshots of genomes – each is a simplification into 1s and 0s, which then can be averaged, correlated, and tested. 
+
+::: {#fig-abtr}
+![](Slide3.png)
+
+All data are just 1s and 0s.
+:::
+
+## Pattern recognition 
+When we turn 1s and 0s into visualizations for inspection, we use of the preattentive cues to find outliers, patterns or to draw attention.
+
+::: {#fig-ptterns}
+![](Slide4.png)
+
+Our eyes see visual cues such as line width, color, decorations, and absences. 
+:::
+
+## Rules
+Data visualization relies on human visual perception. From magicians, we that our visual senses can be tricked. In science we want to avoid this to not mislead our audiences. Therefore, we established rules for scientists how to faithfully present data. 
+
+::: {#fig-rules}
+![](Slide5.png)
+
+![](Slide6.png)
+
+![](Slide7.png)
+Resources: Tracey's paper about
+<a href="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002128"> misleading bar charts</a>, our paper about <a href="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001161">unclear image figures</a>, our workflow, with cheatsheets!, for <a href="https://f1000research.com/articles/9-1373/v2">image processing</a>, and our checklists for publishing <a href="https://www.nature.com/articles/s41592-023-01987-9"> image data</a>.
+
+:::
+
+## Break rules 
+At times, we see that rules get broken. Currently, against best practice, 3D-effects are making a comeback in charts. Usually, these charts do not necessarily want to present data the best way, but merely grab the attention of the visually overstimulated audience. 
+
+::: {#fig-breakrules}
+![](Slide8.png)
+
+Trained data visualizers consider 3D effects misleading - a new generation seems to disagree and fancy some cool effects here and there! 
+:::
+
+## Emotional response
+The purpose of attention grabbing is to elicit an emotional response. Emotional responses get people engaged and known to enhance comprehension and memory. Any emotional response works for this, so in art and data visualization we can use humor, horror and of course beauty. For our patient communication project used a calming and somewhat pretty visualization to help cancer patients understand their treatment course. 
+
+::: {#fig-emotion}
+![](Slide9.png)
+
+Emotions help us understand and remember.
+:::
+
+## Fashion 
+Just as in art, also in data visualization we are not impartial to trends. Just check out the below iterations of a figure - can you guess which was fashionable when? Check out <a href="https://www.biorxiv.org/content/10.1101/2023.10.24.563757v3">Isaac and James paper</a> to find out which we considered pretty in 2023 - and how they show us that cells can survive happily with JUST TWO LIPIDS! 
+
+::: {#fig-fashion}
+![](Paper_Figure5_231107_variations2.png)
+
+Each generation has their favorite color scheme for data.
+:::
+
+## Some more literature 
+Get all the reading material, including the first book on data visualization for life science from 1885! 
+
+:::{fig-link}
+![](Slide10.png)
+:::
+
+
+## My wonderful colleagues
+Please also check out the great work by all the other speakers: Date Goodsell and Beate Mierzwa do not need any introduction, their work is shared widely. Gaia Pigino explored ways to use art to even make her own science more fun for herself, while Mary O'Reilly shared fun ways to increase creativity in our illustrations and Christopher Prinz told his personal story of heightening the game of his lab with art. 
+Thao Do and Mol Mir try to bring art to the scientists in their respective institutes, while Leonora Martínez-Nuñez uses art to publicize science to a public. Representation with sculptures was definingly a theme, maybe we need some haptic, real-world objects after a decade of big data. We learned about ceramics from Duygu Ozpolat, glass art from Alex Ritter, and metal welding from Bryan Welm. And finally, Melanie Stegman introduced a relatively new format, video games, as another flower in the bouquet of possibilities to make science fun and accessible to wide audiences. 
+

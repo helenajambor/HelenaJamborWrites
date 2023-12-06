@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://helenajamborwrites.netlify.app/index.html</loc>
-    <lastmod>2023-11-01T10:20:32.800Z</lastmod>
+    <lastmod>2023-12-06T09:38:00.202Z</lastmod>
   </url>
   <url>
     <loc>https://helenajamborwrites.netlify.app/posts/Image_how_scale/index.html</loc>
@@ -27,5 +27,9 @@
   <url>
     <loc>https://helenajamborwrites.netlify.app/posts/Image_misleading/index.html</loc>
     <lastmod>2023-09-22T10:48:21.484Z</lastmod>
+  </url>
+  <url>
+    <loc>https://helenajamborwrites.netlify.app/posts/ASCB/index.html</loc>
+    <lastmod>2023-12-06T09:37:58.367Z</lastmod>
   </url>
 </urlset>
