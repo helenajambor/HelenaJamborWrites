@@ -101,7 +101,7 @@ Thao Do and Mol Mir try to bring art to the scientists in their respective insti
 In the evening we got a chance to visit the SEAS Disease Biophysics Group headed by Kit Parker. They are trying to advance bioengineering in many directions but also incorporate creative techniques of the arts into their research and artists into their labs - for a fruitful exchange if ideas and apporaches. And were treated to "drumroll" WALKING TACOs! I did eat out of a bag for the first time in my life. 
 
 ::: {#fig-taco}
-![](WalkingTaco_helena.jpeg)
+![](WalkingTaco_helena.jpeg){width=150}
 
 
 Walking taco, skeptical look is before diggin' in! 
