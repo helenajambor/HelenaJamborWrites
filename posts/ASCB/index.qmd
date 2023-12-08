@@ -1,5 +1,5 @@
 ---
-title: "Science & Art at ASCB CellBio23"
+title: "Science&Art at ASCB CellBio23"
 description: "A quick roundup of my talk at the ASCB Subgroup “Science and Art: Bridging Two Creative Universes“"
 author: "Helena Jambor"
 date: "20231206"
@@ -88,12 +88,24 @@ Each generation has their favorite color scheme for data.
 ## Some more literature 
 Get all the reading material, including the first book on data visualization for life science from 1885! 
 
-:::{fig-link}
+:::{#fig-link}
 ![](Slide10.png)
+
+Scan link for lots of papers. Or not. 
 :::
 
 
 ## My wonderful colleagues
 Please also check out the great work by all the other speakers: <a href="https://ccsb.scripps.edu/goodsell/">Dave Goodsell</a> does not need any introduction, his work is shared widely and who has not seen the colorful structures of cells! <a href="https://humantechnopole.it/en/people/gaia-pigino/">Gaia Pigino</a> explored ways to use art to even make her own science more fun for herself, while Mary O'Reilly shared fun ways to increase creativity in our illustrations and Christopher Prinz told his personal story of heightening the game of his lab with art. 
 Thao Do and Mol Mir try to bring art to the scientists in their respective institutes, while Leonora Martínez-Nuñez uses art to publicize science to a public. Representation with sculptures was definingly a theme, maybe we need some haptic, real-world objects after a decade of big data. We learned about ceramics from Duygu Ozpolat, glass art from Alex Ritter, and metal welding from Bryan Welm. And finally, <a href="https://new.mica.edu/undergraduate-majors-minors/game-design-major/melanie-stegman/">Melanie Stegman</a> introduced a relatively new format, video games, as another flower in the bouquet of possibilities to make science fun and accessible to wide audiences.
-And, last, a thank you to the organisers, <a href="https://beatascienceart.com/about/">Beata Mierzwa</a>, Francesca Bartolini and Carsten Janke!! 
+In the evening we got a chance to visit the SEAS Disease Biophysics Group headed by Kit Parker. They are trying to advance bioengineering in many directions but also incorporate creative techniques of the arts into their research and artists into their labs - for a fruitful exchange if ideas and apporaches. And were treated to "drumroll" WALKING TACOs! I did eat out of a bag for the first time in my life. 
+
+::: {#fig-taco}
+![](WalkingTaco_helena.jpeg)
+
+
+Walking taco, skeptical look is before diggin' in! 
+:::
+
+
+A big thank you to the organizers, <a href="https://beatascienceart.com/about/">Beata Mierzwa</a>, Francesca Bartolini and Carsten Janke!! 
