@@ -1,0 +1,71 @@
+---
+title: "Truthful images"
+description: "Do images tell the truth? - a perspective about a continous debate in sciences"
+author: "Helena Jambor"
+date: "20231220"
+categories:
+  - history
+  - images
+image: "Slide2.png"
+---
+# Do images tell the truth?
+Objectivity and truth matter in scientific images, especially as we use them to communicate insights about life and the universe. Today, AI is igniting debates in microscopy imaging. Does AI accurately emnhances reality? Are hallucinations introduced? And what defines a truly "raw" image in the era of advanced microscopes? For the Christmas edition of the <a href="https://journals.biologists.com/jcs/article/136/24/jcs261837/337758/A-community-driven-approach-to-enhancing-the?guestAccessKey=eb13a893-aad0-4291-a2f6-3748eb1941b4">Journal of Cell Sciences</a>, I wrote about our community efforts towards improving images in publication and put our work into a historical perspective.
+
+:::{#fig-ai}
+![](split_tribolium2.png)
+
+Content-aware image restoration - one of the first applications of AI in confocal microscopy images. From <a href="https://www.nature.com/articles/s41592-018-0216-7"> Weigert et al 2018</a>
+:::
+
+
+## Enlightenment & drawings
+Debates about truth in images did not arise with AI. While the imaging methods are new, the discussions about image objectivity has long historical roots.
+In the Enlightenment era, similar discussions happened around drawings, and duelists were the observing scientists, their scientific illustrators and copperplate engravers. Even then, achieving objectivity was tough and "fixing the empirically variable, excluding the accidental, and eliminating the impure," as Goethe noted, was daunting in images. 
+
+## Photography
+Photography was a game-changer in the 18 hundreds, as AI is today. Arthur Worthington's captures this well. Worthington drew the shape of falling drops in their nearly otherworldly symmetry. Shocked by his first photos, revealing the irregular nature of the splashes, he wrote "the mind of the observer is filled with an ideal splash, whose perfection may never be realized." Highly recommend his book "Romance of Science Series - The Splash of a Drop" - free <a href="http://archive.org/details/splashofdrop00wortuoft">on the Internet Archive</a>. 
+
+::: {#fig-overview}
+![](Slide2.png)
+
+Worthingtons splashes looked strikingly different in drawings and first photographs.
+:::
+
+## Image adjustments, then and now
+Early photography needed a lot of “effort and artifice” (Daston, Objectivity). Early pics were often coarse and had to be tweeked to show anything at all. What was acceptable and what was misleading? An <a href="https://archive.org/details/b2192532x">early textbook for microscopy images</a> from 1890 gives us a clue: splicing images was commonly practiced for efficiency, while altering background colors raised concerns about potential manipulation. Its author Neuhauss also writes that "all measures that uniformly impact the entire image are unequivocally permissible," a notion almost unchanged in contemporary guides for the now digital images (Cromey, 2013).
+
+:::{#fig-neuhauss}
+![](Neuhauss_Photomicrograph.png)
+
+A photo-micrograph captured by Neuhauss, likely adhering to the good practice of image processing postulated in his book. 
+:::
+
+## Community efforts
+The gap between what scientists see and what tech shows will remain. Bridging it and finding consensus what images tell the truth will always need collective efforts and debates in the scientific community. 
+
+Read the full article and many more about community<a href="https://journals.biologists.com/jcs/article/136/24/jcs261837/337758/A-community-driven-approach-to-enhancing-the?guestAccessKey=eb13a893-aad0-4291-a2f6-3748eb1941b4"> here.</a>
+
+### More reading
+My blog series about image handling: 
+<ul>
+<li>How to... image formatting (August 1) [Link to blog](../Image_how_mag/index.qmd)</li>
+<li>How to... image scale information (August 3) [Link to blog](../Image_how_scale/index.qmd)</li>
+<li>How to... image annotation (August 8) [Link to blog](../Image_how_annot/index.qmd)</li>
+<li>How to... image colors (August 10) [Link to blog](../Image_how_color/index.qmd)</li>
+<li>How to... image availability (August 15) [Link to blog](../Image_how_avail/index.qmd)</li>
+<li>Cheat sheets for image publishing (August 21) [Link to blog](../Image_cheatsheets/index.qmd)</li>
+<li>A short history of science images (August 27) [Link to blog](../Image_history/index.qmd)</li>
+<li>How to... image analysis (Sept 20) [Link to blog](../Image_how_analysis/index.qmd)</li>
+<li>How to... avoid misleading with images (Sept 22) [Link to blog](../Image_misleading/index.qmd)</li>
+</ul>
+
+Our community effort for image publication, out in Nature Methods: 
+
+:::{#fig-checklists}
+![](Slide1.png)
+
+Checklists for image and image analyses publication.
+::: 
+
+
+
