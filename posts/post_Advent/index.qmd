@@ -6,7 +6,7 @@ date: "20240104"
 categories:
   - datavis
   - sketches
-image: "Tag_24.png"
+image: "StrikingImage.png"
 ---
 # My Advent of doodles
 I sketch a little something most days, usually in the morning. Hence, I make a lot of drawings of my mug or other breakfast items. In December, I wanted to explore ways for encoding quantities. Starting from 1 all the way to 24 I tried out different marks to show increasingly large numbers. I was wondering which would be clear, or easy to decode, or just pretty. Enjoy my little data-vis advent calendar! 
