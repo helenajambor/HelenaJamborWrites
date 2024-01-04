@@ -10,7 +10,127 @@
 <atom:link href="https://helenajamborwrites.netlify.app/index.xml" rel="self" type="application/rss+xml"/>
 <description>Blog about data visualization and visual communication of scientific data</description>
 <generator>quarto-1.3.361</generator>
-<lastBuildDate>Tue, 19 Dec 2023 23:00:00 GMT</lastBuildDate>
+<lastBuildDate>Wed, 03 Jan 2024 23:00:00 GMT</lastBuildDate>
+<item>
+  <title>Advent-doodling</title>
+  <dc:creator>Helena Jambor</dc:creator>
+  <dc:creator>Helena Jambor</dc:creator>
+  <link>https://helenajamborwrites.netlify.app/posts/post_Advent/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="my-advent-of-doodles" class="level1">
+<h1>My Advent of doodles</h1>
+<p>I sketch a little something most days, usually in the morning. Hence, I make a lot of drawings of my mug or other breakfast items. In December, I wanted to explore ways for encoding quantities. Starting from 1 all the way to 24 I tried out different marks to show increasingly large numbers. I was wondering which would be clear, or easy to decode, or just pretty. Enjoy my little data-vis advent calendar!</p>
+<div id="fig-one" class="quarto-layout-panel">
+<figure class="figure">
+<div class="quarto-layout-row quarto-layout-valign-top">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<p><img src="https://helenajamborwrites.netlify.app/posts/post_Advent/1.png" class="img-fluid figure-img"></p>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<p><img src="https://helenajamborwrites.netlify.app/posts/post_Advent/2.png" class="img-fluid figure-img"></p>
+</div>
+</div>
+<p></p><figcaption class="figure-caption">Figure&nbsp;1: 1 is tricky - it needs something around, a frame, to really focus the attention on the one dot, or the one mark etc. When it is enclosed by a rectangle it appears more like position is communicated - not the quantity. 2 items can already form a line, a visual group - it is getting easier to recognize that a quantity is shown. I like the mountains and waves :) And, again, the Cartesian coordinates are confusing and distract from a quantity.</figcaption><p></p>
+</figure>
+</div>
+<div id="fig-three" class="quarto-layout-panel">
+<figure class="figure">
+<div class="quarto-layout-row quarto-layout-valign-top">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<p><img src="https://helenajamborwrites.netlify.app/posts/post_Advent/3.png" class="img-fluid figure-img"></p>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<p><img src="https://helenajamborwrites.netlify.app/posts/post_Advent/4.png" class="img-fluid figure-img"></p>
+</div>
+</div>
+<p></p><figcaption class="figure-caption">Figure&nbsp;2: 3 works nicely with dots, lines or rectanges, and still works with waves and mountains. 3 was fun! Oh, and 4 was even more fun - maybe I am also getting the hang ot it. I tried dots, lines, round lines, rectangles, clouds and drops. I feel like the “stairs” going up is not working at all - and also waves and dots in RANDOM (bottom left) order is getting tricky already.</figcaption><p></p>
+</figure>
+</div>
+<div id="fig-five" class="quarto-layout-panel">
+<figure class="figure">
+<div class="quarto-layout-row quarto-layout-valign-top">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<p><img src="https://helenajamborwrites.netlify.app/posts/post_Advent/5.png" class="img-fluid figure-img"></p>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<p><img src="https://helenajamborwrites.netlify.app/posts/post_Advent/6.png" class="img-fluid figure-img"></p>
+</div>
+</div>
+<p></p><figcaption class="figure-caption">Figure&nbsp;3: Fun ways for 5 - i think it is most clear when items are neatly arranged. The many fun ways, flowers starts etc work probalby a lot better as multiples - when we can compare petal number or flame number etc. Now: 6! Pity I used a blue pen! But I leave it - errors are the beauty of real sketches. Six is not possible at all anymore as waves! And surprisingly tricky as petals - it may be me, but an uneven number is much better to see!</figcaption><p></p>
+</figure>
+</div>
+<div id="fig-seven" class="quarto-layout-panel">
+<figure class="figure">
+<div class="quarto-layout-row quarto-layout-valign-top">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<p><img src="https://helenajamborwrites.netlify.app/posts/post_Advent/7.png" class="img-fluid figure-img"></p>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<p><img src="https://helenajamborwrites.netlify.app/posts/post_Advent/8.png" class="img-fluid figure-img"></p>
+</div>
+</div>
+<p></p><figcaption class="figure-caption">Figure&nbsp;4: Impossible to see at first glance “7” in and of these. Too much for visually comprehension? We are now at “Magic number 7”, the limit Miller defined we can perceive pre-attentively. Given that seven was already challenging for me, I started to play with groupings for 8. Two lines, two rows of rectangles etc. The only iterations that I find easy are the tile-array (bottom left) and the system used in pubs etc, of four lines where fifth line goes across.</figcaption><p></p>
+</figure>
+</div>
+<div id="fig-nine" class="quarto-layout-panel">
+<figure class="figure">
+<div class="quarto-layout-row quarto-layout-valign-top">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<p><img src="https://helenajamborwrites.netlify.app/posts/post_Advent/9.png" class="img-fluid figure-img"></p>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<p><img src="https://helenajamborwrites.netlify.app/posts/post_Advent/10.png" class="img-fluid figure-img"></p>
+</div>
+</div>
+<p></p><figcaption class="figure-caption">Figure&nbsp;5: Same as eight, 9 works best when it forms groups. Really easy are 3x3 goups, or rectangles, lines, or dots. I even once supported grouping by proximity with an enclosure (looks like 3 traffic lights sideways, third row, second from right), I know the Gestalt principles! For 10 mostly same as nine - if grouped it works well (second row right examples), even with tricky shapes (bottom line, little “plants”).</figcaption><p></p>
+</figure>
+</div>
+<div id="fig-11-14" class="quarto-layout-panel">
+<figure class="figure">
+<div class="quarto-layout-row quarto-layout-valign-top">
+<div class="quarto-layout-cell" style="flex-basis: 100.0%;justify-content: center;">
+<p><img src="https://helenajamborwrites.netlify.app/posts/post_Advent/11.png" id="fig-11" class="img-fluid figure-img" width="300" alt="11"> <img src="https://helenajamborwrites.netlify.app/posts/post_Advent/12.png" id="fig-12" class="img-fluid figure-img" width="300" alt="12"> <img src="https://helenajamborwrites.netlify.app/posts/post_Advent/13.png" id="fig-13" class="img-fluid figure-img" width="300" alt="13"> <img src="https://helenajamborwrites.netlify.app/posts/post_Advent/14.png" id="fig-14" class="img-fluid figure-img" width="300" alt="14"></p>
+</div>
+</div>
+<p></p><figcaption class="figure-caption">Figure&nbsp;6: I have given up on being able to visually count - instead I just play around with shapes and groups. Readable imo are only the few that are using the talling system.</figcaption><p></p>
+</figure>
+</div>
+<div id="fig-15-18" class="quarto-layout-panel">
+<figure class="figure">
+<div class="quarto-layout-row quarto-layout-valign-top">
+<div class="quarto-layout-cell" style="flex-basis: 100.0%;justify-content: center;">
+<p><img src="https://helenajamborwrites.netlify.app/posts/post_Advent/15.png" id="fig-15" class="img-fluid figure-img" width="300" alt="15"> <img src="https://helenajamborwrites.netlify.app/posts/post_Advent/16.png" id="fig-16" class="img-fluid figure-img" width="300" alt="16"> <img src="https://helenajamborwrites.netlify.app/posts/post_Advent/17.png" id="fig-17" class="img-fluid figure-img" width="300" alt="17"> <img src="https://helenajamborwrites.netlify.app/posts/post_Advent/18.png" id="fig-18" class="img-fluid figure-img" width="300" alt="18"></p>
+</div>
+</div>
+<p></p><figcaption class="figure-caption">Figure&nbsp;7: 15 to 18…. Getting messier! If you want clarity, tallying is the only hope, but for attraction the grouped flowers are starting to become interesting - and interesting is not bad, it captures attention and let’s readers linger a little longer.</figcaption><p></p>
+</figure>
+</div>
+<div id="fig-19-24" class="quarto-layout-panel">
+<figure class="figure">
+<div class="quarto-layout-row quarto-layout-valign-top">
+<div class="quarto-layout-cell" style="flex-basis: 100.0%;justify-content: center;">
+<p><img src="https://helenajamborwrites.netlify.app/posts/post_Advent/19.png" id="fig-19" class="img-fluid figure-img" width="300" alt="19"> <img src="https://helenajamborwrites.netlify.app/posts/post_Advent/20.png" id="fig-20" class="img-fluid figure-img" width="300" alt="20"> <img src="https://helenajamborwrites.netlify.app/posts/post_Advent/21.png" id="fig-21" class="img-fluid figure-img" width="300" alt="21"> <img src="https://helenajamborwrites.netlify.app/posts/post_Advent/22.png" id="fig-22" class="img-fluid figure-img" width="300" alt="22"> <img src="https://helenajamborwrites.netlify.app/posts/post_Advent/23.png" id="fig-23" class="img-fluid figure-img" width="300" alt="23"> <img src="https://helenajamborwrites.netlify.app/posts/post_Advent/24.png" id="fig-24" class="img-fluid figure-img" width="300" alt="24"></p>
+</div>
+</div>
+<p></p><figcaption class="figure-caption">Figure&nbsp;8: Oh well, at this point it does not matter anymore, but there are now so many items it becomes joyful to look at. Symmetries can be formed and broken, which is interesting! And flower bed are blooming :=)</figcaption><p></p>
+</figure>
+</div>
+<p>This was fun! I guess there really is no point going onwards to New Years. The more items we got, the more important becomes their layouting and organisation. Happy new year and see you for next years advent challenge!</p>
+
+
+</section>
+
+ ]]></description>
+  <category>datavis</category>
+  <category>sketches</category>
+  <guid>https://helenajamborwrites.netlify.app/posts/post_Advent/index.html</guid>
+  <pubDate>Wed, 03 Jan 2024 23:00:00 GMT</pubDate>
+  <media:content url="https://helenajamborwrites.netlify.app/posts/post_Advent/Tag_24.png" medium="image" type="image/png"/>
+</item>
 <item>
   <title>Truthful images</title>
   <dc:creator>Helena Jambor</dc:creator>
@@ -229,7 +349,7 @@ How to… avoid misleading with images (Sept 22) <a href="../../posts/Image_misl
 </section>
 
  ]]></description>
-  <category>dataviz</category>
+  <category>datavis</category>
   <guid>https://helenajamborwrites.netlify.app/posts/ASCB/index.html</guid>
   <pubDate>Tue, 05 Dec 2023 23:00:00 GMT</pubDate>
   <media:content url="https://helenajamborwrites.netlify.app/posts/ASCB/Slide8.png" medium="image" type="image/png" height="84" width="144"/>
@@ -1735,7 +1855,6 @@ Which reading direction you chose depends on your message: if you talk about a l
  ]]></description>
   <category>datavis</category>
   <category>charts</category>
-  <category>SciVis</category>
   <guid>https://helenajamborwrites.netlify.app/posts/30DayChartChallenge/30DayChartChallenge.html</guid>
   <pubDate>Thu, 23 Feb 2023 23:00:00 GMT</pubDate>
   <media:content url="https://helenajamborwrites.netlify.app/posts/30DayChartChallenge/week1.png" medium="image" type="image/png" height="108" width="144"/>
@@ -1821,57 +1940,6 @@ Which reading direction you chose depends on your message: if you talk about a l
   <guid>https://helenajamborwrites.netlify.app/posts/Tables/TableDesign.html</guid>
   <pubDate>Mon, 20 Feb 2023 23:00:00 GMT</pubDate>
   <media:content url="https://helenajamborwrites.netlify.app/posts/Tables/alignment_tables-01.png" medium="image" type="image/png" height="44" width="144"/>
-</item>
-<item>
-  <title>Tables: Calendar data</title>
-  <dc:creator>Helena Jambor</dc:creator>
-  <dc:creator>Helena Jambor</dc:creator>
-  <link>https://helenajamborwrites.netlify.app/posts/TablesCalendarData/TablesCalendarData.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<section id="tables-calendar-data" class="level2">
-<h2 class="anchored" data-anchor-id="tables-calendar-data">Tables: Calendar Data</h2>
-<section id="a-new-years-resolution" class="level4">
-<h4 class="anchored" data-anchor-id="a-new-years-resolution">A New year’s resolution</h4>
-<p>At some point in her life, a girl’s gotta start with sports to stay healthy and fit when getting older. Did you know that the number of cells in a brain increases when exercising, and that bones stay strong when close to trained muscles (they actually get signaling molecules telling them to stay young!)? My 2017 New year’s resolution was therefore to do sports as often as possible.</p>
-<p>As I am in love with data, I tracked my progress daily. You can see that I increased from doing sports around 50% of the days to a whopping 90% in July. In January and February, before I was keeping the diary, it was well below half of the days. Clearly, it is easier to run, swim etc. in summer, and I could not keep this up. It was challenging when traveling and on days with a lot of evening appointments and work (November). Most of the days without sports were when I had visitors!</p>
-<p>Initially I also tracked exercise time and what kind of sports I did, but that got too tiring and too complicated. But I did track other parts of my life such as my mood (hint: boring dataset, mainly correlates with female cycle!), my food and my alcohol intake. Interestingly, there is no correlation between sports and alcohol. I do not drink on those days that I feel too miserable for sports. Some days I drank a sip (light grey, a small sherry or so) after my sports, some days I neither drank nor did sports.</p>
-<p>Since I use my diary regularly, I of course tracked all this data on paper: <img src="https://helenajamborwrites.netlify.app/posts/TablesCalendarData/img_0173.jpg" class="img-fluid"></p>
-<p>I thought a lot about how to present it best, and at the end of the day, I really wanted to showcase my daily routine – this is why the final visualization does not look very different. I only added a bar chart summarizing the data.</p>
-<p>I started out making a dot for each day in a simple table format: <img src="https://helenajamborwrites.netlify.app/posts/TablesCalendarData/sports_1.png" class="img-fluid"></p>
-<p>Then I adjusted the number of days and numbered them to have a week-like format. Sticking to standard practice: labeling 1, 8, 15 is of course counter-intuitive, so I quickly changed this to 7/14/21.</p>
-<div id="figure" class="quarto-layout-panel">
-<div class="quarto-layout-row quarto-layout-valign-top">
-<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
-<p><img src="https://helenajamborwrites.netlify.app/posts/TablesCalendarData/sports_2.png" class="img-fluid" style="width:80.0%"> <img src="https://helenajamborwrites.netlify.app/posts/TablesCalendarData/sports_2b.png" class="img-fluid" style="width:80.0%"></p>
-</div>
-</div>
-</div>
-<p>I then added the actual data: empty space for days without sports, a circle for days I did sports, and a cross for sick days. <img src="https://helenajamborwrites.netlify.app/posts/TablesCalendarData/sports_3.png" class="img-fluid"> Having completed the data visualization, I then started the graphic design part – decluttering wherever possible, playing with color and adjusting layout If necessary. For example, the table like boxes were not necessary at all. What about the lines separating weeks? They are ugly, even in grey!, but some guide is needed to wade through the days. The Gestalt principles show that white space is more effective in grouping that lines and boxes. To discriminate between ‘no sports’ and white space, I changed the white data points to a light grey.</p>
-<div class="quarto-layout-panel">
-<div class="quarto-layout-row quarto-layout-valign-top">
-<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
-<p><img src="https://helenajamborwrites.netlify.app/posts/TablesCalendarData/sports_4.png" class="img-fluid"> <img src="https://helenajamborwrites.netlify.app/posts/TablesCalendarData/sports_5.png" class="img-fluid"> <img src="https://helenajamborwrites.netlify.app/posts/TablesCalendarData/sports_6.png" class="img-fluid"></p>
-</div>
-</div>
-</div>
-<p>All right, looking better! Now some more details… I added a summarizing bar chart of the percentage of days I did sports (not counting sick days), added titles, axis labels, tick marks, and I also showed the data for the months in which I tracked my alcohol consumption. <img src="https://helenajamborwrites.netlify.app/posts/TablesCalendarData/sports_7.png" class="img-fluid"></p>
-<p>At last – and always at last only! – I added color, and I am in love with blue. <img src="https://helenajamborwrites.netlify.app/posts/TablesCalendarData/myYear4.png" class="img-fluid"></p>
-
-
-</section>
-</section>
-
- ]]></description>
-  <category>datavis</category>
-  <category>tables</category>
-  <category>how-to</category>
-  <guid>https://helenajamborwrites.netlify.app/posts/TablesCalendarData/TablesCalendarData.html</guid>
-  <pubDate>Sun, 19 Feb 2023 23:00:00 GMT</pubDate>
-  <media:content url="https://helenajamborwrites.netlify.app/posts/TablesCalendarData/img_0173.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>

@@ -4,7 +4,7 @@ description: "A quick roundup of my talk at the ASCB Subgroup “Science and Art
 author: "Helena Jambor"
 date: "20231206"
 categories:
-  - dataviz
+  - datavis
 image: "Slide8.png"
 ---
 # Saturday is Art-Day at ASCB! 

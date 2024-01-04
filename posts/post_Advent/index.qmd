@@ -1,18 +1,88 @@
 ---
-title: "Advent"
-description: "Post description"
+title: "Advent-doodling"
+description: "Exploring ways to encode increasing quantities"
 author: "Helena Jambor"
-date: "20230111"
+date: "20240104"
 categories:
   - datavis
-  - datasketch
-  - fun
-#draft: true
+  - sketches
 image: "Tag_24.png"
-draft: true
 ---
+# My Advent of doodles
+I sketch a little something most days, usually in the morning. Hence, I make a lot of drawings of my mug or other breakfast items. In December, I wanted to explore ways for encoding quantities. Starting from 1 all the way to 24 I tried out different marks to show increasingly large numbers. I was wondering which would be clear, or easy to decode, or just pretty. Enjoy my little data-vis advent calendar! 
 
-<!-- draft: true in header, will hide blog until finished --> 
+:::{#fig-one layout-ncol=2}
+![](1.png)
 
-![](Tag_24.png)
-*24 with dots and lines and waves (also, happy Christmas)*
+![](2.png)
+
+
+1 is tricky - it needs something around, a frame, to really focus the attention on the one dot, or the one mark etc. When it is enclosed by a rectangle it appears more like position is communicated - not the quantity. 2 items can already form a line, a visual group - it is getting easier to recognize that a quantity is shown. I like the mountains and waves :) And, again, the Cartesian coordinates are confusing and distract from a quantity. 
+:::
+
+:::{#fig-three layout-ncol=2}
+![](3.png)
+
+![](4.png)
+
+3 works nicely with dots, lines or rectanges, and still works with waves and mountains. 3 was fun!  Oh, and 4 was even more fun - maybe I am also getting the hang ot it. I tried dots, lines, round lines, rectangles, clouds and drops. I feel like the "stairs" going up is not working at all - and also waves and dots in RANDOM (bottom left) order is getting tricky already. 
+:::
+
+:::{#fig-five layout-ncol=2}
+![](5.png)
+
+![](6.png)
+
+Fun ways for 5 - i think it is most clear when items are neatly arranged. The many fun ways, flowers starts etc work probalby a lot better as multiples - when we can compare petal number or flame number etc. Now: 6! Pity I used a blue pen! But I leave it - errors are the beauty of real sketches. Six is not possible at all anymore as waves! And surprisingly tricky as petals - it may be me, but an uneven number is much better to see!
+:::
+
+:::{#fig-seven layout-ncol=2}
+![](7.png)
+
+![](8.png)
+
+Impossible to see at first glance "7" in and of these. Too much for visually comprehension? We are now at "Magic number 7", the limit Miller defined we can perceive pre-attentively. 
+Given that seven was already challenging for me, I started to play with groupings for 8. Two lines, two rows of rectangles etc. The only iterations that I find easy are the tile-array (bottom left) and the system used in pubs etc, of four lines where fifth line goes across.  
+:::
+
+:::{#fig-nine layout-ncol=2}
+![](9.png)
+
+![](10.png)
+
+
+Same as eight, 9 works best when it forms groups. Really easy are 3x3 goups, or rectangles, lines, or dots. I even once supported grouping by proximity with an enclosure (looks like 3 traffic lights sideways, third row, second from right), I know the Gestalt principles! For 10 mostly same as nine - if grouped it works well (second row right examples), even with tricky shapes (bottom line, little "plants").
+:::
+
+:::{#fig-11-14 layout-nrow=2}
+![11](11.png){#fig-11 width=300}
+![12](12.png){#fig-12 width=300}
+![13](13.png){#fig-13 width=300}
+![14](14.png){#fig-14 width=300}
+
+I have given up on being able to visually count - instead I just play around with shapes and groups. Readable imo are only the few that are using the talling system.
+:::
+
+:::{#fig-15-18 layout-nrow=2}
+![15](15.png){#fig-15 width=300}
+![16](16.png){#fig-16 width=300}
+![17](17.png){#fig-17 width=300}
+![18](18.png){#fig-18 width=300}
+
+15 to 18.... Getting messier! If you want clarity, tallying is the only hope, but for attraction the grouped flowers are starting to become interesting - and interesting is not bad, it captures attention and let's readers linger a little longer. 
+:::
+
+:::{#fig-19-24 layout-nrow=3}
+![19](19.png){#fig-19 width=300}
+![20](20.png){#fig-20 width=300}
+![21](21.png){#fig-21 width=300}
+![22](22.png){#fig-22 width=300}
+![23](23.png){#fig-23 width=300}
+![24](24.png){#fig-24 width=300}
+
+Oh well, at this point it does not matter anymore, but there are now so many items it becomes joyful to look at. Symmetries can be formed and broken, which is interesting! And flower bed are blooming :=) 
+:::
+
+This was fun! I guess there really is no point going onwards to New Years. The more items we got, the more important becomes their layouting and organisation. Happy new year and see you for next years advent challenge! 
+
+

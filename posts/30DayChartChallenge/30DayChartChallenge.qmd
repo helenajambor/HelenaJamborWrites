@@ -6,7 +6,6 @@ date: "20230224"
 categories:
   - datavis
   - charts
-  - SciVis
 image: "week1.png"
 ---
 ## 30+ charts
