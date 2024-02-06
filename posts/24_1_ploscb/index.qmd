@@ -1,0 +1,23 @@
+---
+title: "10 simple rules for Graphical Abstracts"
+description: "A guide for designing Graphical Abstracts - new Paper alert"
+author: "Helena Jambor"
+date: "20240206"
+categories:
+  - datavis
+  - how-to
+  - Graphical abstracts
+image: "PLOSCB.png"
+---
+#### "Thank you for providing me with an exciting and informative read which was truly enjoyable."
+Never have I ever had such great responses from reviewers - it was a joy to attend to the few very good suggestions they had for improving the manuscript! Reviewer 2 and 3 were similarly enthusiastic: "Congratulations for laying out your perspective." and "Overall, the paper is a beneficial guide for researchers looking to effectively communicate their research through graphical abstracts." A day to mark in my calendar! 
+
+I am happy to finally share with you that the summary of my Graphical Abstract blogs is now available as paper for you all to share and cite! 
+Out in <a href= https://dx.plos.org/10.1371/journal.pcbi.1011789>PLOS Computational Biology.</a> 
+
+
+::: {#fig-overview}
+![](Slide6.png)
+
+Stages of a graphical abstract - from inception to implementation.
+:::
