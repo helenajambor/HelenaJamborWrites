@@ -9,7 +9,7 @@ categories:
   - Graphical abstracts
 
 ---
-##### Paper Alert: this is not published in <a href= https://dx.plos.org/10.1371/journal.pcbi.1011789>PLOS Computational Biology!</a> 
+##### Paper Alert: this is now published in <a href= https://dx.plos.org/10.1371/journal.pcbi.1011789>PLOS Computational Biology!</a> 
 
 ## How to... Graphical abstracts 1
 Graphical abstracts are increasingly common to explain biomedical concepts and research results. As “summary slides”, they have long been used at the end of a talk or lecture. Today, graphical abstracts are widely used as a thumbnail/preview of online publications and also found at posters, on lab websites, and in research grant applications. 

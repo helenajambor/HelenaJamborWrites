@@ -10,7 +10,7 @@ categories:
 image: "text3.png"
 
 ---
-##### Paper Alert: this is not published in <a href= https://dx.plos.org/10.1371/journal.pcbi.1011789>PLOS Computational Biology!</a>
+##### Paper Alert: this is now published in <a href= https://dx.plos.org/10.1371/journal.pcbi.1011789>PLOS Computational Biology!</a>
 
 ## How to... Graphical Abstacts 3
 I described tools and icon resources in [Graphical Abstracts 1](../GraphicalAbstract_1/index.qmd) and how to organise the page for a legible graphical abstract in [Graphical Abstracts 2](../GraphicalAbstracts_2/index.qmd). Now, as the last step, we can add a little text where necessary, quicker orient readers with colors, and make sure we got it right with a little feedback. 
