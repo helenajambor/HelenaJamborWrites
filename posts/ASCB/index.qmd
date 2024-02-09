@@ -5,7 +5,7 @@ author: "Helena Jambor"
 date: "20231206"
 categories:
   - datavis
-image: "Slide8.png"
+image: "Slide1.png"
 ---
 # Saturday is Art-Day at ASCB! 
 Last week I was invited to the <a href="https://www.ascb.org/cellbio2023/program/subgroups/">ASCB Subgroup “Science and Art: Bridging Two Creative Universes“ </a>. Artists shows subjective views of the world, while biologists measure life, which seem like opposites. Where they converge is in their shared goal to communicate their ideas and insights. And nowhere are they as close as in the communication with data visualizations. 
