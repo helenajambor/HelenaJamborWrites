@@ -5,7 +5,7 @@ author: "Helena Jambor"
 date: "20240610"
 categories:
   - datavis
-image: ""
+image: "plan.png"
 ---
 #### Datavis at the oncology unit
 You all know I love data visualizations for science communication. But in the past 5 years, I worked in the oncology unit, and started to research how visual aids can be effectively used in cancer care. 
