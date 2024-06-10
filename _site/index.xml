@@ -6,16 +6,92 @@
       version="2.0">
 <channel>
 <title>HelenaJamborWrites</title>
-<link>https://helenajamborwrites.netlify.app/index.html</link>
+<link>https://helenajamborwrites.netlify.app/</link>
 <atom:link href="https://helenajamborwrites.netlify.app/index.xml" rel="self" type="application/rss+xml"/>
 <description>Blog about data visualization and visual communication of scientific data</description>
-<generator>quarto-1.3.361</generator>
-<lastBuildDate>Mon, 05 Feb 2024 23:00:00 GMT</lastBuildDate>
+<generator>quarto-1.4.552</generator>
+<lastBuildDate>Sun, 09 Jun 2024 22:00:00 GMT</lastBuildDate>
+<item>
+  <title>Visual aids for patient empowerment</title>
+  <dc:creator>Helena Jambor</dc:creator>
+  <dc:creator>Helena Jambor</dc:creator>
+  <link>https://helenajamborwrites.netlify.app/posts/MedArxiv/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="datavis-at-the-oncology-unit" class="level4">
+<h4 class="anchored" data-anchor-id="datavis-at-the-oncology-unit">Datavis at the oncology unit</h4>
+<p>You all know I love data visualizations for science communication. But in the past 5 years, I worked in the oncology unit, and started to research how visual aids can be effectively used in cancer care.</p>
+<p>When cancer patients begin treatment, they feel overwhelmed, anxious, and intimidated by the hospital setting. This stress can significantly reduce how much information they retain. On average, patients remember only about 20% of the critical treatment details provided by their healthcare team.</p>
+<div id="fig-visualaid" class="quarto-figure quarto-figure-center quarto-float anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-visualaid-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="https://helenajamborwrites.netlify.app/posts/MedArxiv/plan.png" class="img-fluid figure-img">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-visualaid-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;1: Example visual aid for communicating treatment path for a patient with multiple myeloma.
+</figcaption>
+</figure>
+</div>
+</section>
+<section id="visual-aid-comprehension" class="level4">
+<h4 class="anchored" data-anchor-id="visual-aid-comprehension">Visual aid comprehension</h4>
+<p>To bridge this health literacy gap and enhance treatment adherence, we explored the use of visual aids to support doctor-patient communication during cancer treatments. Our study reveals that these visual aids are not only clear and easy to understand, but also significantly improve comprehension of medical information and prove highly beneficial in clinical settings.</p>
+<div id="fig-anna" class="quarto-figure quarto-figure-center quarto-float anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-anna-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="https://helenajamborwrites.netlify.app/posts/MedArxiv/Anna_PR.png" class="img-fluid figure-img">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-anna-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;2: Visual aids increasd participants response quality and confidence. Based on questionnaire with 160 participants.
+</figcaption>
+</figure>
+</div>
+<p>We for example showed that the response quality was increased,from 68% to 84%, when participants were informed about cancer treatment with a visual aid. More importantly, these aids boosted participants’ confidence in their understanding and led to higher ratings of information quality. We also assessed the clarity of the visual aids; the pictograms used to represent key terms were mostly interpretable and considered effective by 300 participants.</p>
+<div id="fig-julian" class="quarto-figure quarto-figure-center quarto-float anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-julian-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="https://helenajamborwrites.netlify.app/posts/MedArxiv/Julian_PR.png" class="img-fluid figure-img">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-julian-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;3: Example of visual representations for “hospital” - pictogram and comic were much more guessable than photo. Based on questionnaire of 306 participants.
+</figcaption>
+</figure>
+</div>
+</section>
+<section id="patients-use-of-visual-aids" class="level4">
+<h4 class="anchored" data-anchor-id="patients-use-of-visual-aids">Patients use of visual aids</h4>
+<p>A critical part of our research focused on the patient experiences (all approved by ethics board). With the help of visual aids, patients were able to better understand and remember their treatment paths, retaining key information for several weeks. Both patients and physicians found the visual aids to be very helpful, and many patients kept and treasured their aids.</p>
+<div id="fig-patients" class="quarto-figure quarto-figure-center quarto-float anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-patients-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="https://helenajamborwrites.netlify.app/posts/MedArxiv/Patient_PR.png" class="img-fluid figure-img">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-patients-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;4: Patient responses to qualitative questions. Based on interviews with 30 patients.
+</figcaption>
+</figure>
+</div>
+<p>Our work underscores the value of visual aids in clinical settings and motivates us to continue working towards greater equity in patient-centered care and improving doctor-patient communication. Stay tuned for more updates!</p>
+<p>Read our paper on <a href="https://www.medrxiv.org/content/10.1101/2024.06.04.24308420v1">MedArxiv</a></p>
+
+
+</section>
+
+ ]]></description>
+  <category>datavis</category>
+  <guid>https://helenajamborwrites.netlify.app/posts/MedArxiv/</guid>
+  <pubDate>Sun, 09 Jun 2024 22:00:00 GMT</pubDate>
+  <media:content url="https://helenajamborwrites.netlify.app/posts/MedArxiv" medium="image"/>
+</item>
 <item>
   <title>10 simple rules for Graphical Abstracts</title>
   <dc:creator>Helena Jambor</dc:creator>
   <dc:creator>Helena Jambor</dc:creator>
-  <link>https://helenajamborwrites.netlify.app/posts/24_1_ploscb/index.html</link>
+  <link>https://helenajamborwrites.netlify.app/posts/24_1_ploscb/</link>
   <description><![CDATA[ 
 
 
@@ -39,7 +115,7 @@
   <category>datavis</category>
   <category>how-to</category>
   <category>Graphical abstracts</category>
-  <guid>https://helenajamborwrites.netlify.app/posts/24_1_ploscb/index.html</guid>
+  <guid>https://helenajamborwrites.netlify.app/posts/24_1_ploscb/</guid>
   <pubDate>Mon, 05 Feb 2024 23:00:00 GMT</pubDate>
   <media:content url="https://helenajamborwrites.netlify.app/posts/24_1_ploscb/PLOSCB.png" medium="image" type="image/png" height="130" width="144"/>
 </item>
@@ -47,7 +123,7 @@
   <title>Advent-doodling</title>
   <dc:creator>Helena Jambor</dc:creator>
   <dc:creator>Helena Jambor</dc:creator>
-  <link>https://helenajamborwrites.netlify.app/posts/post_Advent/index.html</link>
+  <link>https://helenajamborwrites.netlify.app/posts/post_Advent/</link>
   <description><![CDATA[ 
 
 
@@ -159,7 +235,7 @@
  ]]></description>
   <category>datavis</category>
   <category>sketches</category>
-  <guid>https://helenajamborwrites.netlify.app/posts/post_Advent/index.html</guid>
+  <guid>https://helenajamborwrites.netlify.app/posts/post_Advent/</guid>
   <pubDate>Wed, 03 Jan 2024 23:00:00 GMT</pubDate>
   <media:content url="https://helenajamborwrites.netlify.app/posts/post_Advent/StrikingImage.png" medium="image" type="image/png" height="110" width="144"/>
 </item>
@@ -266,7 +342,7 @@ How to… avoid misleading with images (Sept 22) <a href="../../posts/Image_misl
   <title>Science&amp;Art at ASCB CellBio23</title>
   <dc:creator>Helena Jambor</dc:creator>
   <dc:creator>Helena Jambor</dc:creator>
-  <link>https://helenajamborwrites.netlify.app/posts/ASCB/index.html</link>
+  <link>https://helenajamborwrites.netlify.app/posts/ASCB/</link>
   <description><![CDATA[ 
 
 
@@ -382,7 +458,7 @@ How to… avoid misleading with images (Sept 22) <a href="../../posts/Image_misl
 
  ]]></description>
   <category>datavis</category>
-  <guid>https://helenajamborwrites.netlify.app/posts/ASCB/index.html</guid>
+  <guid>https://helenajamborwrites.netlify.app/posts/ASCB/</guid>
   <pubDate>Tue, 05 Dec 2023 23:00:00 GMT</pubDate>
   <media:content url="https://helenajamborwrites.netlify.app/posts/ASCB/Slide1.png" medium="image" type="image/png" height="55" width="144"/>
 </item>
@@ -390,7 +466,7 @@ How to… avoid misleading with images (Sept 22) <a href="../../posts/Image_misl
   <title>How to… avoid Misleading images</title>
   <dc:creator>Helena Jambor</dc:creator>
   <dc:creator>Helena Jambor</dc:creator>
-  <link>https://helenajamborwrites.netlify.app/posts/Image_misleading/index.html</link>
+  <link>https://helenajamborwrites.netlify.app/posts/Image_misleading/</link>
   <description><![CDATA[ 
 
 
@@ -530,7 +606,7 @@ Marques G, P.T., Sanders MA, 2020. <a href="https://doi.org/10.7554/eLife.55133"
  ]]></description>
   <category>images</category>
   <category>how-to</category>
-  <guid>https://helenajamborwrites.netlify.app/posts/Image_misleading/index.html</guid>
+  <guid>https://helenajamborwrites.netlify.app/posts/Image_misleading/</guid>
   <pubDate>Thu, 21 Sep 2023 22:00:00 GMT</pubDate>
   <media:content url="https://helenajamborwrites.netlify.app/posts/Image_misleading/Turning_Images.png" medium="image" type="image/png" height="138" width="144"/>
 </item>
@@ -538,7 +614,7 @@ Marques G, P.T., Sanders MA, 2020. <a href="https://doi.org/10.7554/eLife.55133"
   <title>How to… image analysis</title>
   <dc:creator>Helena Jambor</dc:creator>
   <dc:creator>Christopher Schmied</dc:creator>
-  <link>https://helenajamborwrites.netlify.app/posts/Image_how_analysis/index.html</link>
+  <link>https://helenajamborwrites.netlify.app/posts/Image_how_analysis/</link>
   <description><![CDATA[ 
 
 
@@ -603,7 +679,7 @@ Machine learning workflows
  ]]></description>
   <category>images</category>
   <category>how-to</category>
-  <guid>https://helenajamborwrites.netlify.app/posts/Image_how_analysis/index.html</guid>
+  <guid>https://helenajamborwrites.netlify.app/posts/Image_how_analysis/</guid>
   <pubDate>Tue, 19 Sep 2023 22:00:00 GMT</pubDate>
   <media:content url="https://helenajamborwrites.netlify.app/posts/Image_how_analysis/intesities.png" medium="image" type="image/png" height="102" width="144"/>
 </item>
@@ -611,7 +687,7 @@ Machine learning workflows
   <title>Checklists for image publication</title>
   <dc:creator>Helena Jambor</dc:creator>
   <dc:creator>Helena Jambor</dc:creator>
-  <link>https://helenajamborwrites.netlify.app/posts/Image_NM_story/index.html</link>
+  <link>https://helenajamborwrites.netlify.app/posts/Image_NM_story/</link>
   <description><![CDATA[ 
 
 
@@ -663,7 +739,7 @@ Machine learning workflows
 
  ]]></description>
   <category>images</category>
-  <guid>https://helenajamborwrites.netlify.app/posts/Image_NM_story/index.html</guid>
+  <guid>https://helenajamborwrites.netlify.app/posts/Image_NM_story/</guid>
   <pubDate>Sun, 17 Sep 2023 22:00:00 GMT</pubDate>
   <media:content url="https://helenajamborwrites.netlify.app/posts/Image_NM_story/Checklist_Image_2023-05-10.png" medium="image" type="image/png" height="208" width="144"/>
 </item>
@@ -671,7 +747,7 @@ Machine learning workflows
   <title>(A very short) History of Bio-Images</title>
   <dc:creator>Helena Jambor</dc:creator>
   <dc:creator>Helena Jambor</dc:creator>
-  <link>https://helenajamborwrites.netlify.app/posts/Image_history/index.html</link>
+  <link>https://helenajamborwrites.netlify.app/posts/Image_history/</link>
   <description><![CDATA[ 
 
 
@@ -742,7 +818,7 @@ NEWTH, H. The Feeding of Ammocœtes. Nature 126, 94–95 (1930) <a href="https:/
  ]]></description>
   <category>images</category>
   <category>history</category>
-  <guid>https://helenajamborwrites.netlify.app/posts/Image_history/index.html</guid>
+  <guid>https://helenajamborwrites.netlify.app/posts/Image_history/</guid>
   <pubDate>Sat, 26 Aug 2023 22:00:00 GMT</pubDate>
   <media:content url="https://helenajamborwrites.netlify.app/posts/Image_history/Marey.jpg" medium="image" type="image/jpeg"/>
 </item>
@@ -750,7 +826,7 @@ NEWTH, H. The Feeding of Ammocœtes. Nature 126, 94–95 (1930) <a href="https:/
   <title>Cheat sheet Image preparation</title>
   <dc:creator>Helena Jambor</dc:creator>
   <dc:creator>Helena Jambor</dc:creator>
-  <link>https://helenajamborwrites.netlify.app/posts/Image_cheatsheets/index.html</link>
+  <link>https://helenajamborwrites.netlify.app/posts/Image_cheatsheets/</link>
   <description><![CDATA[ 
 
 
@@ -878,7 +954,7 @@ Reproducible image handling and analysis. <a href="https://www.embopress.org/doi
   <category>images</category>
   <category>how-to</category>
   <category>cheat sheets</category>
-  <guid>https://helenajamborwrites.netlify.app/posts/Image_cheatsheets/index.html</guid>
+  <guid>https://helenajamborwrites.netlify.app/posts/Image_cheatsheets/</guid>
   <pubDate>Sun, 20 Aug 2023 22:00:00 GMT</pubDate>
   <media:content url="https://helenajamborwrites.netlify.app/posts/Image_cheatsheets/SchmiedJambor_Figure4.png" medium="image" type="image/png" height="111" width="144"/>
 </item>
@@ -886,7 +962,7 @@ Reproducible image handling and analysis. <a href="https://www.embopress.org/doi
   <title>Summer23</title>
   <dc:creator>Helena Jambor</dc:creator>
   <dc:creator>Helena Jambor</dc:creator>
-  <link>https://helenajamborwrites.netlify.app/posts/Summer23/index.html</link>
+  <link>https://helenajamborwrites.netlify.app/posts/Summer23/</link>
   <description><![CDATA[ 
 
 
@@ -903,7 +979,7 @@ Sketches
 
  ]]></description>
   <category>sketches</category>
-  <guid>https://helenajamborwrites.netlify.app/posts/Summer23/index.html</guid>
+  <guid>https://helenajamborwrites.netlify.app/posts/Summer23/</guid>
   <pubDate>Mon, 14 Aug 2023 22:00:00 GMT</pubDate>
   <media:content url="https://helenajamborwrites.netlify.app/posts/Summer23/Scan1.png" medium="image" type="image/png" height="102" width="144"/>
 </item>
@@ -911,7 +987,7 @@ Sketches
   <title>How to… image availability</title>
   <dc:creator>Helena Jambor</dc:creator>
   <dc:creator>Helena Jambor</dc:creator>
-  <link>https://helenajamborwrites.netlify.app/posts/Image_how_avail/index.html</link>
+  <link>https://helenajamborwrites.netlify.app/posts/Image_how_avail/</link>
   <description><![CDATA[ 
 
 
@@ -946,7 +1022,7 @@ Sketches
  ]]></description>
   <category>images</category>
   <category>how-to</category>
-  <guid>https://helenajamborwrites.netlify.app/posts/Image_how_avail/index.html</guid>
+  <guid>https://helenajamborwrites.netlify.app/posts/Image_how_avail/</guid>
   <pubDate>Mon, 14 Aug 2023 22:00:00 GMT</pubDate>
   <media:content url="https://helenajamborwrites.netlify.app/posts/Image_how_avail/Beth.png" medium="image" type="image/png" height="67" width="144"/>
 </item>
@@ -954,7 +1030,7 @@ Sketches
   <title>How to… image colors</title>
   <dc:creator>Helena Jambor</dc:creator>
   <dc:creator>Helena Jambor</dc:creator>
-  <link>https://helenajamborwrites.netlify.app/posts/Image_how_color/index.html</link>
+  <link>https://helenajamborwrites.netlify.app/posts/Image_how_color/</link>
   <description><![CDATA[ 
 
 
@@ -1049,7 +1125,7 @@ Tableau blog on red/green<a href="https://www.tableau.com/blog/examining-data-vi
  ]]></description>
   <category>images</category>
   <category>how-to</category>
-  <guid>https://helenajamborwrites.netlify.app/posts/Image_how_color/index.html</guid>
+  <guid>https://helenajamborwrites.netlify.app/posts/Image_how_color/</guid>
   <pubDate>Wed, 09 Aug 2023 22:00:00 GMT</pubDate>
   <media:content url="https://helenajamborwrites.netlify.app/posts/Image_how_color/Brinton_colorcombo.png" medium="image" type="image/png" height="153" width="144"/>
 </item>
@@ -1057,7 +1133,7 @@ Tableau blog on red/green<a href="https://www.tableau.com/blog/examining-data-vi
   <title>How to… image annotation</title>
   <dc:creator>Helena Jambor</dc:creator>
   <dc:creator>Helena Jambor</dc:creator>
-  <link>https://helenajamborwrites.netlify.app/posts/Image_how_annot/index.html</link>
+  <link>https://helenajamborwrites.netlify.app/posts/Image_how_annot/</link>
   <description><![CDATA[ 
 
 
@@ -1176,7 +1252,7 @@ Tableau blog on red/green<a href="https://www.tableau.com/blog/examining-data-vi
  ]]></description>
   <category>images</category>
   <category>how-to</category>
-  <guid>https://helenajamborwrites.netlify.app/posts/Image_how_annot/index.html</guid>
+  <guid>https://helenajamborwrites.netlify.app/posts/Image_how_annot/</guid>
   <pubDate>Mon, 07 Aug 2023 22:00:00 GMT</pubDate>
   <media:content url="https://helenajamborwrites.netlify.app/posts/Image_how_annot/Symbols_arrows_lettercode.png" medium="image" type="image/png" height="66" width="144"/>
 </item>
@@ -1184,7 +1260,7 @@ Tableau blog on red/green<a href="https://www.tableau.com/blog/examining-data-vi
   <title>How to… image scale information</title>
   <dc:creator>Helena Jambor</dc:creator>
   <dc:creator>Helena Jambor</dc:creator>
-  <link>https://helenajamborwrites.netlify.app/posts/Image_how_scale/index.html</link>
+  <link>https://helenajamborwrites.netlify.app/posts/Image_how_scale/</link>
   <description><![CDATA[ 
 
 
@@ -1339,7 +1415,7 @@ Tableau blog on red/green<a href="https://www.tableau.com/blog/examining-data-vi
  ]]></description>
   <category>images</category>
   <category>how-to</category>
-  <guid>https://helenajamborwrites.netlify.app/posts/Image_how_scale/index.html</guid>
+  <guid>https://helenajamborwrites.netlify.app/posts/Image_how_scale/</guid>
   <pubDate>Wed, 02 Aug 2023 22:00:00 GMT</pubDate>
   <media:content url="https://helenajamborwrites.netlify.app/posts/Image_how_scale/worms_copy.png" medium="image" type="image/png" height="33" width="144"/>
 </item>
@@ -1347,7 +1423,7 @@ Tableau blog on red/green<a href="https://www.tableau.com/blog/examining-data-vi
   <title>How to… image formatting</title>
   <dc:creator>Helena Jambor</dc:creator>
   <dc:creator>Helena Jambor</dc:creator>
-  <link>https://helenajamborwrites.netlify.app/posts/Image_how_mag/index.html</link>
+  <link>https://helenajamborwrites.netlify.app/posts/Image_how_mag/</link>
   <description><![CDATA[ 
 
 
@@ -1411,7 +1487,7 @@ QuickFigures: a tool to quickly transform microscope images into quality figures
  ]]></description>
   <category>images</category>
   <category>how-to</category>
-  <guid>https://helenajamborwrites.netlify.app/posts/Image_how_mag/index.html</guid>
+  <guid>https://helenajamborwrites.netlify.app/posts/Image_how_mag/</guid>
   <pubDate>Mon, 31 Jul 2023 22:00:00 GMT</pubDate>
   <media:content url="https://helenajamborwrites.netlify.app/posts/Image_how_mag/Kota.png" medium="image" type="image/png" height="58" width="144"/>
 </item>
@@ -1419,7 +1495,7 @@ QuickFigures: a tool to quickly transform microscope images into quality figures
   <title>Many papers, many images, many problems</title>
   <dc:creator>Helena Jambor</dc:creator>
   <dc:creator>Helena Jambor</dc:creator>
-  <link>https://helenajamborwrites.netlify.app/posts/Image_numbers/index.html</link>
+  <link>https://helenajamborwrites.netlify.app/posts/Image_numbers/</link>
   <description><![CDATA[ 
 
 
@@ -1556,7 +1632,7 @@ A big Replication Study that also includes image data: Biomechanical remodeling 
   <category>images</category>
   <category>how-to</category>
   <category>cheat sheets</category>
-  <guid>https://helenajamborwrites.netlify.app/posts/Image_numbers/index.html</guid>
+  <guid>https://helenajamborwrites.netlify.app/posts/Image_numbers/</guid>
   <pubDate>Wed, 26 Jul 2023 22:00:00 GMT</pubDate>
   <media:content url="https://helenajamborwrites.netlify.app/posts/Image_numbers/Summary.png" medium="image" type="image/png" height="50" width="144"/>
 </item>
@@ -1660,7 +1736,7 @@ A big Replication Study that also includes image data: Biomechanical remodeling 
   <title>How to… Graphical abstracts 2: Layout and arrows</title>
   <dc:creator>Helena Jambor</dc:creator>
   <dc:creator>Helena Jambor</dc:creator>
-  <link>https://helenajamborwrites.netlify.app/posts/GraphicalAbstracts_2/index.html</link>
+  <link>https://helenajamborwrites.netlify.app/posts/GraphicalAbstracts_2/</link>
   <description><![CDATA[ 
 
 
@@ -1717,7 +1793,7 @@ Which reading direction you chose depends on your message: if you talk about a l
   <category>datavis</category>
   <category>how-to</category>
   <category>Graphical abstracts</category>
-  <guid>https://helenajamborwrites.netlify.app/posts/GraphicalAbstracts_2/index.html</guid>
+  <guid>https://helenajamborwrites.netlify.app/posts/GraphicalAbstracts_2/</guid>
   <pubDate>Sun, 18 Jun 2023 22:00:00 GMT</pubDate>
   <media:content url="https://helenajamborwrites.netlify.app/posts/GraphicalAbstracts_2/Layout_figure.png" medium="image" type="image/png" height="28" width="144"/>
 </item>
@@ -1725,7 +1801,7 @@ Which reading direction you chose depends on your message: if you talk about a l
   <title>How to… Graphical abstracts 1: Tools and resources</title>
   <dc:creator>Helena Jambor</dc:creator>
   <dc:creator>Helena Jambor</dc:creator>
-  <link>https://helenajamborwrites.netlify.app/posts/GraphicalAbstract_1/index.html</link>
+  <link>https://helenajamborwrites.netlify.app/posts/GraphicalAbstract_1/</link>
   <description><![CDATA[ 
 
 
@@ -1830,75 +1906,8 @@ Which reading direction you chose depends on your message: if you talk about a l
   <category>datavis</category>
   <category>how-to</category>
   <category>Graphical abstracts</category>
-  <guid>https://helenajamborwrites.netlify.app/posts/GraphicalAbstract_1/index.html</guid>
+  <guid>https://helenajamborwrites.netlify.app/posts/GraphicalAbstract_1/</guid>
   <pubDate>Thu, 15 Jun 2023 22:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>30DayChartChallenge</title>
-  <dc:creator>Helena Jambor</dc:creator>
-  <dc:creator>Helena Jambor</dc:creator>
-  <link>https://helenajamborwrites.netlify.app/posts/30DayChartChallenge/30DayChartChallenge.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<section id="charts" class="level2">
-<h2 class="anchored" data-anchor-id="charts">30+ charts</h2>
-<p>The <a href="https://30daychartchallenge.org/">#30DayChartChallenge</a> is an annual festival for chart-lovers around the world. There is a daily visualization challenge and participants submit their contributions online. Datasets, data analysis, tools, and presentation is entirely up to the participant. All entries are <a href="https://twitter.com/search?q=%2330DayChartChallenge">posted on twitter</a> along with a hashtag for the day, from #Day1 to #Day30. The resulting diversity and personal interpretations are the charm of the challenge and a joy to data scientists and visualizers alike.</p>
-<!-- 
-<p float="left">
-  <img src="week1.png" width="250" />
-  <img src="week2.png" width="250" />
-  <img src="week3.png" width="250" />
-  <img src="week4.png" width="250" />
-</p>
-!-->
-<div class="quarto-layout-panel">
-<div class="quarto-layout-row quarto-layout-valign-top">
-<div class="quarto-layout-cell" style="flex-basis: 100.0%;justify-content: center;">
-<p><img src="https://helenajamborwrites.netlify.app/posts/30DayChartChallenge/week1.png" class="img-fluid" width="300"> <img src="https://helenajamborwrites.netlify.app/posts/30DayChartChallenge/week2.png" class="img-fluid" width="300"> <img src="https://helenajamborwrites.netlify.app/posts/30DayChartChallenge/week3.png" class="img-fluid" width="300"> <img src="https://helenajamborwrites.netlify.app/posts/30DayChartChallenge/week4.png" class="img-fluid" width="300"> All charts</p>
-</div>
-</div>
-</div>
-<section id="my-30daychartchallenge" class="level4">
-<h4 class="anchored" data-anchor-id="my-30daychartchallenge">My 30DayChartChallenge</h4>
-<p>I personally was looking for an excuse to get back to making charts with R. All I could think of at the time was however the war in Ukraine. My granddad Anton Jámbor was born and raised in Khust, Zakarpatia Oblast, which was another reason to finally educate myself about Ukraine. So, I made a plan and almost completed it! I researched the people and population of Ukraine, the country and cities, and a little bit the health data since my day-job is in medical research at the University hospital.</p>
-<p>From idea to implementation:</p>
-<div class="quarto-layout-panel">
-<div class="quarto-layout-row quarto-layout-valign-top">
-<div class="quarto-layout-cell" style="flex-basis: 100.0%;justify-content: center;">
-<p><img src="https://helenajamborwrites.netlify.app/posts/30DayChartChallenge/img_5597-1.jpg" class="img-fluid" width="300"> <img src="https://helenajamborwrites.netlify.app/posts/30DayChartChallenge/helenajambor_day6_alternative.png" class="img-fluid" width="300"></p>
-</div>
-</div>
-</div>
-</section>
-<section id="moving-along-the-daily-charts" class="level4">
-<h4 class="anchored" data-anchor-id="moving-along-the-daily-charts">Moving along: the daily charts</h4>
-<p>Over the course of April I completed 18 of the 30 challenges. Many times I made several solutions and tested many more. Below is the example for Kazimir Malevich. I plotted the color-schemes he used in his paintings over his lifetime and tried our several options, including an animation.</p>
-<p>Kazimir Malevich was born in Ukraine and is famous for monochrome,abstract paintings. However, that was a brief period, before and after his paintings are full of colors! I analyzed his color-usage over his lifetime. This was one of the few datasets I created myself. <img src="https://helenajamborwrites.netlify.app/posts/30DayChartChallenge/helenajambor_day10.png" class="img-fluid" alt="Malevich colors {colors in Malevich life time as bar charts}"> <em>Malevich’s colors from early to late periods as bar charts</em></p>
-<p><img src="https://helenajamborwrites.netlify.app/posts/30DayChartChallenge/helenajambor_day10_pie.png" class="img-fluid" alt="Malevich colors"> <em>Malevich’s colors from early to late periods as pie charts</em></p>
-<p><img src="https://helenajamborwrites.netlify.app/posts/30DayChartChallenge/annotatedkazimirmalevichcolors.gif" class="img-fluid" alt="Malevich colors {colors as animation}"> <em>Malevich’s colors animated</em></p>
-<p>Finding time each day for a full month was impossible with Easter vacation and care work requiting my attention. Now, in a calm summer, I finally completed five more challenges for which I had already found data. I posted these final entries on Ukraine’s Independence Day, coinciding with 6 months since the war starts.</p>
-</section>
-<section id="my-design-objectives" class="level4">
-<h4 class="anchored" data-anchor-id="my-design-objectives">My Design objectives</h4>
-<p>My goal was to create a visually and thematically cohesive work. I plan to use my charts for teaching purposes and for teaching the many ways how we can communicate data with charts. Most of my time, as always, was spend on finding a topic for which a dataset was available. A lot of time was also consumed by data wrangling and getting it in a format to actually make charts. And only a fleeting moment for creating the visualizations. That’s how it goes!</p>
-<p>Enjoy my charts, <strong>Slava Ukraini</strong> and keep Ukraine in the news!</p>
-<p float="left">
-<img src="https://helenajamborwrites.netlify.app/posts/30DayChartChallenge/helenajambor_day20_googletrends.png" width="250"> <img src="https://helenajamborwrites.netlify.app/posts/30DayChartChallenge/helenajambor_day22_googleanim2.gif" width="380">
-</p>
-
-
-</section>
-</section>
-
- ]]></description>
-  <category>datavis</category>
-  <category>charts</category>
-  <guid>https://helenajamborwrites.netlify.app/posts/30DayChartChallenge/30DayChartChallenge.html</guid>
-  <pubDate>Thu, 23 Feb 2023 23:00:00 GMT</pubDate>
-  <media:content url="https://helenajamborwrites.netlify.app/posts/30DayChartChallenge/week1.png" medium="image" type="image/png" height="108" width="144"/>
 </item>
 </channel>
 </rss>

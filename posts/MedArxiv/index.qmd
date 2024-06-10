@@ -1,0 +1,50 @@
+---
+title: "Visual aids for patient empowerment"
+description: "Visual aids to support communication on cancer treatment paths - new paper alert"
+author: "Helena Jambor"
+date: "20240610"
+categories:
+  - datavis
+image: ""
+---
+#### Datavis at the oncology unit
+You all know I love data visualizations for science communication. But in the past 5 years, I worked in the oncology unit, and started to research how visual aids can be effectively used in cancer care. 
+
+When cancer patients begin treatment, they feel overwhelmed, anxious, and intimidated by the hospital setting. This stress can significantly reduce how much information they retain. On average, patients remember only about 20% of the critical treatment details provided by their healthcare team.
+
+::: {#fig-visualaid}
+![](plan.png) 
+
+Example visual aid for communicating treatment path for a patient with multiple myeloma. 
+:::
+
+#### Visual aid comprehension
+To bridge this health literacy gap and enhance treatment adherence, we explored the use of visual aids to support doctor-patient communication during cancer treatments. Our study reveals that these visual aids are not only clear and easy to understand, but also significantly improve comprehension of medical information and prove highly beneficial in clinical settings.
+
+::: {#fig-anna}
+![](Anna_PR.png)
+
+Visual aids increasd participants response quality and confidence. Based on questionnaire with 160 participants. 
+:::
+
+We for example showed that the response quality was increased,from 68% to 84%, when participants were informed about cancer treatment with a visual aid. More importantly, these aids boosted participants' confidence in their understanding and led to higher ratings of information quality. We also assessed the clarity of the visual aids; the pictograms used to represent key terms were mostly interpretable and considered effective by 300 participants.
+
+::: {#fig-julian}
+![](Julian_PR.png)
+
+Example of visual representations for "hospital" - pictogram and comic were much more guessable than photo. Based on questionnaire of 306 participants. 
+:::
+
+#### Patients use of visual aids 
+A critical part of our research focused on the patient experiences (all approved by ethics board). With the help of visual aids, patients were able to better understand and remember their treatment paths, retaining key information for several weeks. Both patients and physicians found the visual aids to be very helpful, and many patients kept and treasured their aids.
+
+::: {#fig-patients}
+![](Patient_PR.png)
+
+
+Patient responses to qualitative questions. Based on interviews with 30 patients. 
+:::
+
+Our work underscores the value of visual aids in clinical settings and motivates us to continue working towards greater equity in patient-centered care and improving doctor-patient communication. Stay tuned for more updates!
+
+Read our paper on [MedArxiv](https://www.medrxiv.org/content/10.1101/2024.06.04.24308420v1)

@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.3.361">
+<meta name="generator" content="quarto-1.4.552">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -47,7 +47,13 @@ ul.task-list li input[type="checkbox"] {
   "collapse-after": 3,
   "panel-placement": "end",
   "type": "overlay",
-  "limit": 20,
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
   "language": {
     "search-no-results-text": "No results",
     "search-matching-documents-text": "matching documents",
@@ -56,6 +62,7 @@ ul.task-list li input[type="checkbox"] {
     "search-more-match-text": "more match in this document",
     "search-more-matches-text": "more matches in this document",
     "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
     "search-detached-cancel-button-title": "Cancel",
     "search-submit-button-title": "Submit",
     "search-label": "Search"
@@ -94,16 +101,43 @@ ul.task-list li input[type="checkbox"] {
   <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
   <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
+
 <link rel="stylesheet" href="styles.css">
-<link rel="alternate" type="application/rss+xml" title="HelenaJamborWrites" href="index.xml"></head>
+<link rel="alternate" type="application/rss+xml" title="HelenaJamborWrites" href="index.xml" data-external="1"></head>
 
 <body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
-  <header id="quarto-header" class="headroom fixed-top">
-    <nav class="navbar navbar-expand-lg navbar-dark ">
+  <header id="quarto-header" class="headroom fixed-top quarto-banner">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
-      <div class="navbar-brand-container">
+      <div class="navbar-brand-container mx-auto">
     <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">HelenaJamborWrites</span>
     </a>
@@ -115,49 +149,49 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./about.html" rel="" target="">
- <span class="menu-text">About</span></a>
+    <a class="nav-link" href="./about.html"> 
+<span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./science.html" rel="" target="">
- <span class="menu-text">Science</span></a>
+    <a class="nav-link" href="./science.html"> 
+<span class="menu-text">Science</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./talks.html" rel="" target="">
- <span class="menu-text">Talks &amp; courses</span></a>
+    <a class="nav-link" href="./talks.html"> 
+<span class="menu-text">Talks &amp; courses</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./doodles.html" rel="" target="">
- <span class="menu-text">Doodles</span></a>
+    <a class="nav-link" href="./doodles.html"> 
+<span class="menu-text">Doodles</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="https://github.com/helenajambor" rel="" target=""><i class="bi bi-github" role="img">
+    <a class="nav-link" href="https://github.com/helenajambor"> <i class="bi bi-github" role="img">
 </i> 
- <span class="menu-text">Github</span></a>
+<span class="menu-text">Github</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="https://vis.social/@helenajambor" rel="" target=""><i class="bi bi-mastodon" role="img">
+    <a class="nav-link" href="https://vis.social/@helenajambor"> <i class="bi bi-mastodon" role="img">
 </i> 
- <span class="menu-text">Mastodon</span></a>
+<span class="menu-text">Mastodon</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="https://twitter.com/helenajambor" rel="" target="">
- <span class="menu-text">Twitter</span></a>
+    <a class="nav-link" href="https://twitter.com/helenajambor"> 
+<span class="menu-text">Twitter</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="https://linkedin.com//in/helena-klara-jambor-b35b507b" rel="" target=""><i class="bi bi-linkedin" role="img">
+    <a class="nav-link" href="https://linkedin.com//in/helena-klara-jambor-b35b507b"> <i class="bi bi-linkedin" role="img">
 </i> 
- <span class="menu-text">LinkedIn</span></a>
+<span class="menu-text">LinkedIn</span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="./index.xml" rel="" target=""><i class="bi bi-rss" role="img">
+    <a class="nav-link" href="./index.xml"> <i class="bi bi-rss" role="img">
 </i> 
- <span class="menu-text"></span></a>
+<span class="menu-text"></span></a>
   </li>  
 </ul>
-            <div class="quarto-navbar-tools">
-</div>
           </div> <!-- /navcollapse -->
+          <div class="quarto-navbar-tools">
+</div>
       </div> <!-- /container-fluid -->
     </nav>
 </header>
@@ -170,7 +204,7 @@ ul.task-list li input[type="checkbox"] {
   </div>
     
   
-  <div class="quarto-title-meta">
+  <div class="quarto-title-meta column-page-left">
 
       
     
@@ -183,7 +217,7 @@ ul.task-list li input[type="checkbox"] {
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(23)</span></div><div class="category" data-category="Graphical abstracts">Graphical abstracts <span class="quarto-category-count">(4)</span></div><div class="category" data-category="charts">charts <span class="quarto-category-count">(1)</span></div><div class="category" data-category="cheat sheets">cheat sheets <span class="quarto-category-count">(2)</span></div><div class="category" data-category="datavis">datavis <span class="quarto-category-count">(10)</span></div><div class="category" data-category="history">history <span class="quarto-category-count">(2)</span></div><div class="category" data-category="how-to">how-to <span class="quarto-category-count">(16)</span></div><div class="category" data-category="images">images <span class="quarto-category-count">(12)</span></div><div class="category" data-category="sketches">sketches <span class="quarto-category-count">(2)</span></div><div class="category" data-category="tables">tables <span class="quarto-category-count">(3)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(24)</span></div><div class="category" data-category="Graphical abstracts">Graphical abstracts <span class="quarto-category-count">(4)</span></div><div class="category" data-category="charts">charts <span class="quarto-category-count">(1)</span></div><div class="category" data-category="cheat sheets">cheat sheets <span class="quarto-category-count">(2)</span></div><div class="category" data-category="datavis">datavis <span class="quarto-category-count">(11)</span></div><div class="category" data-category="history">history <span class="quarto-category-count">(2)</span></div><div class="category" data-category="how-to">how-to <span class="quarto-category-count">(16)</span></div><div class="category" data-category="images">images <span class="quarto-category-count">(12)</span></div><div class="category" data-category="sketches">sketches <span class="quarto-category-count">(2)</span></div><div class="category" data-category="tables">tables <span class="quarto-category-count">(3)</span></div></div></div>
 <!-- main -->
 <main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
 
@@ -194,21 +228,55 @@ ul.task-list li input[type="checkbox"] {
 
 
 
+
 <div class="quarto-listing quarto-listing-container-default" id="listing-listing">
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="datavis,how-to,Graphical abstracts" data-listing-date-sort="1707174000000" data-listing-file-modified-sort="1707466343919" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="quarto-post image-right" data-index="0" data-categories="datavis" data-listing-date-sort="1717970400000" data-listing-file-modified-sort="1718026771804" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="364">
 <div class="thumbnail">
-<p><a href="./posts/24_1_ploscb/index.html"> <img src="./posts/24_1_ploscb/PLOSCB.png" class="thumbnail-image"> </a></p>
+<p><a href="./posts/MedArxiv/index.html" class="no-external"></a></p><a href="./posts/MedArxiv/index.html" class="no-external">
+<p><img src="./posts/MedArxiv" class="thumbnail-image"></p>
+</a><p><a href="./posts/MedArxiv/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/24_1_ploscb/index.html">
 <h3 class="no-anchor listing-title">
-10 simple rules for Graphical Abstracts
+<a href="./posts/MedArxiv/index.html" class="no-external">Visual aids for patient empowerment</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/MedArxiv/index.html" class="no-external"></a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('datavis'); return false;">
+datavis
+</div>
+</div>
+<div class="listing-description">
+<a href="./posts/MedArxiv/index.html" class="no-external">Visual aids to support communication on cancer treatment paths - new paper alert</a>
+</div>
+</div>
+<div class="metadata">
+<a href="./posts/MedArxiv/index.html" class="no-external">
+<div class="listing-date">
+Jun 10, 2024
+</div>
+<div class="listing-author">
+Helena Jambor, Helena Jambor
 </div>
 </a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="1" data-categories="datavis,how-to,Graphical abstracts" data-listing-date-sort="1707174000000" data-listing-file-modified-sort="1707466343919" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="119">
+<div class="thumbnail">
+<p><a href="./posts/24_1_ploscb/index.html" class="no-external"></a></p><a href="./posts/24_1_ploscb/index.html" class="no-external">
+<p><img src="./posts/24_1_ploscb/PLOSCB.png" class="thumbnail-image"></p>
+</a><p><a href="./posts/24_1_ploscb/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/24_1_ploscb/index.html" class="no-external">10 simple rules for Graphical Abstracts</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./posts/24_1_ploscb/index.html" class="no-external"></a>
+</div>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('datavis'); return false;">
 datavis
@@ -220,14 +288,12 @@ how-to
 Graphical abstracts
 </div>
 </div>
-<a href="./posts/24_1_ploscb/index.html">
 <div class="listing-description">
-<p>A guide for designing Graphical Abstracts - new Paper alert</p>
+<a href="./posts/24_1_ploscb/index.html" class="no-external">A guide for designing Graphical Abstracts - new Paper alert</a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/24_1_ploscb/index.html">
+<a href="./posts/24_1_ploscb/index.html" class="no-external">
 <div class="listing-date">
 Feb 6, 2024
 </div>
@@ -237,19 +303,19 @@ Helena Jambor, Helena Jambor
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="1" data-categories="datavis,sketches" data-listing-date-sort="1704322800000" data-listing-file-modified-sort="1704385080770" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4">
+<div class="quarto-post image-right" data-index="2" data-categories="datavis,sketches" data-listing-date-sort="1704322800000" data-listing-file-modified-sort="1704385080770" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="640">
 <div class="thumbnail">
-<p><a href="./posts/post_Advent/index.html"> <img src="./posts/post_Advent/StrikingImage.png" class="thumbnail-image"> </a></p>
+<p><a href="./posts/post_Advent/index.html" class="no-external"></a></p><a href="./posts/post_Advent/index.html" class="no-external">
+<p><img src="./posts/post_Advent/StrikingImage.png" class="thumbnail-image"></p>
+</a><p><a href="./posts/post_Advent/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/post_Advent/index.html">
 <h3 class="no-anchor listing-title">
-Advent-doodling
+<a href="./posts/post_Advent/index.html" class="no-external">Advent-doodling</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/post_Advent/index.html" class="no-external"></a>
 </div>
-</a>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('datavis'); return false;">
 datavis
@@ -258,14 +324,12 @@ datavis
 sketches
 </div>
 </div>
-<a href="./posts/post_Advent/index.html">
 <div class="listing-description">
-<p>Exploring ways to encode increasing quantities</p>
+<a href="./posts/post_Advent/index.html" class="no-external">Exploring ways to encode increasing quantities</a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/post_Advent/index.html">
+<a href="./posts/post_Advent/index.html" class="no-external">
 <div class="listing-date">
 Jan 4, 2024
 </div>
@@ -275,19 +339,19 @@ Helena Jambor, Helena Jambor
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="2" data-categories="history,images" data-listing-date-sort="1703026800000" data-listing-file-modified-sort="1703066532189" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3">
+<div class="quarto-post image-right" data-index="3" data-categories="history,images" data-listing-date-sort="1703026800000" data-listing-file-modified-sort="1703066532189" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="528">
 <div class="thumbnail">
-<p><a href="./posts/Image_JCS/TruthInImages.html"> <img src="./posts/Image_JCS/Slide2.png" class="thumbnail-image"> </a></p>
+<p><a href="./posts/Image_JCS/TruthInImages.html" class="no-external"></a></p><a href="./posts/Image_JCS/TruthInImages.html" class="no-external">
+<p><img src="./posts/Image_JCS/Slide2.png" class="thumbnail-image"></p>
+</a><p><a href="./posts/Image_JCS/TruthInImages.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/Image_JCS/TruthInImages.html">
 <h3 class="no-anchor listing-title">
-Truthful images
+<a href="./posts/Image_JCS/TruthInImages.html" class="no-external">Truthful images</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/Image_JCS/TruthInImages.html" class="no-external"></a>
 </div>
-</a>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('history'); return false;">
 history
@@ -296,14 +360,12 @@ history
 images
 </div>
 </div>
-<a href="./posts/Image_JCS/TruthInImages.html">
 <div class="listing-description">
-<p>Do images tell the truth? - a perspective about a continous debate in sciences</p>
+<a href="./posts/Image_JCS/TruthInImages.html" class="no-external">Do images tell the truth? - a perspective about a continous debate in sciences</a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/Image_JCS/TruthInImages.html">
+<a href="./posts/Image_JCS/TruthInImages.html" class="no-external">
 <div class="listing-date">
 Dec 20, 2023
 </div>
@@ -313,32 +375,30 @@ Helena Jambor, Helena Jambor
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="3" data-categories="datavis" data-listing-date-sort="1701817200000" data-listing-file-modified-sort="1707466375516" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5">
+<div class="quarto-post image-right" data-index="4" data-categories="datavis" data-listing-date-sort="1701817200000" data-listing-file-modified-sort="1707466375516" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="901">
 <div class="thumbnail">
-<p><a href="./posts/ASCB/index.html"> <img src="./posts/ASCB/Slide1.png" class="thumbnail-image"> </a></p>
+<p><a href="./posts/ASCB/index.html" class="no-external"></a></p><a href="./posts/ASCB/index.html" class="no-external">
+<p><img src="./posts/ASCB/Slide1.png" class="thumbnail-image"></p>
+</a><p><a href="./posts/ASCB/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/ASCB/index.html">
 <h3 class="no-anchor listing-title">
-Science&amp;Art at ASCB CellBio23
+<a href="./posts/ASCB/index.html" class="no-external">Science&amp;Art at ASCB CellBio23</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/ASCB/index.html" class="no-external"></a>
 </div>
-</a>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('datavis'); return false;">
 datavis
 </div>
 </div>
-<a href="./posts/ASCB/index.html">
 <div class="listing-description">
-<p>A quick roundup of my talk at the ASCB Subgroup “Science and Art: Bridging Two Creative Universes“</p>
+<a href="./posts/ASCB/index.html" class="no-external">A quick roundup of my talk at the ASCB Subgroup “Science and Art: Bridging Two Creative Universes“</a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/ASCB/index.html">
+<a href="./posts/ASCB/index.html" class="no-external">
 <div class="listing-date">
 Dec 6, 2023
 </div>
@@ -348,19 +408,19 @@ Helena Jambor, Helena Jambor
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="4" data-categories="images,how-to" data-listing-date-sort="1695333600000" data-listing-file-modified-sort="1695379698341" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4">
+<div class="quarto-post image-right" data-index="5" data-categories="images,how-to" data-listing-date-sort="1695333600000" data-listing-file-modified-sort="1695379698341" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="699">
 <div class="thumbnail">
-<p><a href="./posts/Image_misleading/index.html"> <img src="./posts/Image_misleading/Turning_Images.png" class="thumbnail-image"> </a></p>
+<p><a href="./posts/Image_misleading/index.html" class="no-external"></a></p><a href="./posts/Image_misleading/index.html" class="no-external">
+<p><img src="./posts/Image_misleading/Turning_Images.png" class="thumbnail-image"></p>
+</a><p><a href="./posts/Image_misleading/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/Image_misleading/index.html">
 <h3 class="no-anchor listing-title">
-How to… avoid Misleading images
+<a href="./posts/Image_misleading/index.html" class="no-external">How to… avoid Misleading images</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/Image_misleading/index.html" class="no-external"></a>
 </div>
-</a>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('images'); return false;">
 images
@@ -369,14 +429,12 @@ images
 how-to
 </div>
 </div>
-<a href="./posts/Image_misleading/index.html">
 <div class="listing-description">
-<p>A quick overview of what are misleading images in publications</p>
+<a href="./posts/Image_misleading/index.html" class="no-external">A quick overview of what are misleading images in publications</a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/Image_misleading/index.html">
+<a href="./posts/Image_misleading/index.html" class="no-external">
 <div class="listing-date">
 Sep 22, 2023
 </div>
@@ -386,19 +444,19 @@ Helena Jambor, Helena Jambor
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="5" data-categories="images,how-to" data-listing-date-sort="1695160800000" data-listing-file-modified-sort="1695308623370" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3">
+<div class="quarto-post image-right" data-index="6" data-categories="images,how-to" data-listing-date-sort="1695160800000" data-listing-file-modified-sort="1695308623370" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="447">
 <div class="thumbnail">
-<p><a href="./posts/Image_how_analysis/index.html"> <img src="./posts/Image_how_analysis/intesities.png" class="thumbnail-image"> </a></p>
+<p><a href="./posts/Image_how_analysis/index.html" class="no-external"></a></p><a href="./posts/Image_how_analysis/index.html" class="no-external">
+<p><img src="./posts/Image_how_analysis/intesities.png" class="thumbnail-image"></p>
+</a><p><a href="./posts/Image_how_analysis/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/Image_how_analysis/index.html">
 <h3 class="no-anchor listing-title">
-How to… image analysis
+<a href="./posts/Image_how_analysis/index.html" class="no-external">How to… image analysis</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/Image_how_analysis/index.html" class="no-external"></a>
 </div>
-</a>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('images'); return false;">
 images
@@ -407,14 +465,12 @@ images
 how-to
 </div>
 </div>
-<a href="./posts/Image_how_analysis/index.html">
 <div class="listing-description">
-<p>Towards quantifiable results - a teaser to image analysis</p>
+<a href="./posts/Image_how_analysis/index.html" class="no-external">Towards quantifiable results - a teaser to image analysis</a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/Image_how_analysis/index.html">
+<a href="./posts/Image_how_analysis/index.html" class="no-external">
 <div class="listing-date">
 Sep 20, 2023
 </div>
@@ -424,32 +480,30 @@ Helena Jambor, Christopher Schmied
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="6" data-categories="images" data-listing-date-sort="1694988000000" data-listing-file-modified-sort="1698834030353" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4">
+<div class="quarto-post image-right" data-index="7" data-categories="images" data-listing-date-sort="1694988000000" data-listing-file-modified-sort="1698834030353" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="661">
 <div class="thumbnail">
-<p><a href="./posts/Image_NM_story/index.html"> <img src="./posts/Image_NM_story/Checklist_Image_2023-05-10.png" class="thumbnail-image"> </a></p>
+<p><a href="./posts/Image_NM_story/index.html" class="no-external"></a></p><a href="./posts/Image_NM_story/index.html" class="no-external">
+<p><img src="./posts/Image_NM_story/Checklist_Image_2023-05-10.png" class="thumbnail-image"></p>
+</a><p><a href="./posts/Image_NM_story/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/Image_NM_story/index.html">
 <h3 class="no-anchor listing-title">
-Checklists for image publication
+<a href="./posts/Image_NM_story/index.html" class="no-external">Checklists for image publication</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/Image_NM_story/index.html" class="no-external"></a>
 </div>
-</a>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('images'); return false;">
 images
 </div>
 </div>
-<a href="./posts/Image_NM_story/index.html">
 <div class="listing-description">
-<p>A quick checklist for everyone wishing to publish images and image analysis results - out today in Nature Methods</p>
+<a href="./posts/Image_NM_story/index.html" class="no-external">A quick checklist for everyone wishing to publish images and image analysis results - out today in Nature Methods</a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/Image_NM_story/index.html">
+<a href="./posts/Image_NM_story/index.html" class="no-external">
 <div class="listing-date">
 Sep 18, 2023
 </div>
@@ -459,19 +513,19 @@ Helena Jambor, Helena Jambor
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="7" data-categories="images,history" data-listing-date-sort="1693087200000" data-listing-file-modified-sort="1694432929163" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3">
+<div class="quarto-post image-right" data-index="8" data-categories="images,history" data-listing-date-sort="1693087200000" data-listing-file-modified-sort="1694432929163" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="564">
 <div class="thumbnail">
-<p><a href="./posts/Image_history/index.html"> <img src="./posts/Image_history/Marey.jpg" class="thumbnail-image"> </a></p>
+<p><a href="./posts/Image_history/index.html" class="no-external"></a></p><a href="./posts/Image_history/index.html" class="no-external">
+<p><img src="./posts/Image_history/Marey.jpg" class="thumbnail-image"></p>
+</a><p><a href="./posts/Image_history/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/Image_history/index.html">
 <h3 class="no-anchor listing-title">
-(A very short) History of Bio-Images
+<a href="./posts/Image_history/index.html" class="no-external">(A very short) History of Bio-Images</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/Image_history/index.html" class="no-external"></a>
 </div>
-</a>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('images'); return false;">
 images
@@ -480,14 +534,12 @@ images
 history
 </div>
 </div>
-<a href="./posts/Image_history/index.html">
 <div class="listing-description">
-<p>Images in biology and medicine, from antiquity to today</p>
+<a href="./posts/Image_history/index.html" class="no-external">Images in biology and medicine, from antiquity to today</a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/Image_history/index.html">
+<a href="./posts/Image_history/index.html" class="no-external">
 <div class="listing-date">
 Aug 27, 2023
 </div>
@@ -497,19 +549,19 @@ Helena Jambor, Helena Jambor
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="8" data-categories="images,how-to,cheat sheets" data-listing-date-sort="1692568800000" data-listing-file-modified-sort="1694433118230" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4">
+<div class="quarto-post image-right" data-index="9" data-categories="images,how-to,cheat sheets" data-listing-date-sort="1692568800000" data-listing-file-modified-sort="1694433118230" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="793">
 <div class="thumbnail">
-<p><a href="./posts/Image_cheatsheets/index.html"> <img src="./posts/Image_cheatsheets/SchmiedJambor_Figure4.png" class="thumbnail-image"> </a></p>
+<p><a href="./posts/Image_cheatsheets/index.html" class="no-external"></a></p><a href="./posts/Image_cheatsheets/index.html" class="no-external">
+<p><img src="./posts/Image_cheatsheets/SchmiedJambor_Figure4.png" class="thumbnail-image"></p>
+</a><p><a href="./posts/Image_cheatsheets/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/Image_cheatsheets/index.html">
 <h3 class="no-anchor listing-title">
-Cheat sheet Image preparation
+<a href="./posts/Image_cheatsheets/index.html" class="no-external">Cheat sheet Image preparation</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/Image_cheatsheets/index.html" class="no-external"></a>
 </div>
-</a>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('images'); return false;">
 images
@@ -521,14 +573,12 @@ how-to
 cheat sheets
 </div>
 </div>
-<a href="./posts/Image_cheatsheets/index.html">
 <div class="listing-description">
-<p>Cheat sheets to process and prepare images for publication</p>
+<a href="./posts/Image_cheatsheets/index.html" class="no-external">Cheat sheets to process and prepare images for publication</a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/Image_cheatsheets/index.html">
+<a href="./posts/Image_cheatsheets/index.html" class="no-external">
 <div class="listing-date">
 Aug 21, 2023
 </div>
@@ -538,32 +588,30 @@ Helena Jambor, Helena Jambor
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="9" data-categories="sketches" data-listing-date-sort="1692050400000" data-listing-file-modified-sort="1694871269103" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="quarto-post image-right" data-index="10" data-categories="sketches" data-listing-date-sort="1692050400000" data-listing-file-modified-sort="1694871269103" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="18">
 <div class="thumbnail">
-<p><a href="./posts/Summer23/index.html"> <img src="./posts/Summer23/Scan1.png" class="thumbnail-image"> </a></p>
+<p><a href="./posts/Summer23/index.html" class="no-external"></a></p><a href="./posts/Summer23/index.html" class="no-external">
+<p><img src="./posts/Summer23/Scan1.png" class="thumbnail-image"></p>
+</a><p><a href="./posts/Summer23/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/Summer23/index.html">
 <h3 class="no-anchor listing-title">
-Summer23
+<a href="./posts/Summer23/index.html" class="no-external">Summer23</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/Summer23/index.html" class="no-external"></a>
 </div>
-</a>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('sketches'); return false;">
 sketches
 </div>
 </div>
-<a href="./posts/Summer23/index.html">
 <div class="listing-description">
-<p>My summertime sketches</p>
+<a href="./posts/Summer23/index.html" class="no-external">My summertime sketches</a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/Summer23/index.html">
+<a href="./posts/Summer23/index.html" class="no-external">
 <div class="listing-date">
 Aug 15, 2023
 </div>
@@ -573,19 +621,19 @@ Helena Jambor, Helena Jambor
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="10" data-categories="images,how-to" data-listing-date-sort="1692050400000" data-listing-file-modified-sort="1692025218505" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3">
+<div class="quarto-post image-right" data-index="11" data-categories="images,how-to" data-listing-date-sort="1692050400000" data-listing-file-modified-sort="1692025218505" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="433">
 <div class="thumbnail">
-<p><a href="./posts/Image_how_avail/index.html"> <img src="./posts/Image_how_avail/Beth.png" class="thumbnail-image"> </a></p>
+<p><a href="./posts/Image_how_avail/index.html" class="no-external"></a></p><a href="./posts/Image_how_avail/index.html" class="no-external">
+<p><img src="./posts/Image_how_avail/Beth.png" class="thumbnail-image"></p>
+</a><p><a href="./posts/Image_how_avail/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/Image_how_avail/index.html">
 <h3 class="no-anchor listing-title">
-How to… image availability
+<a href="./posts/Image_how_avail/index.html" class="no-external">How to… image availability</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/Image_how_avail/index.html" class="no-external"></a>
 </div>
-</a>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('images'); return false;">
 images
@@ -594,14 +642,12 @@ images
 how-to
 </div>
 </div>
-<a href="./posts/Image_how_avail/index.html">
 <div class="listing-description">
-<p>Make your published images available to coworkers, colleagues and for future re-analysis</p>
+<a href="./posts/Image_how_avail/index.html" class="no-external">Make your published images available to coworkers, colleagues and for future re-analysis</a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/Image_how_avail/index.html">
+<a href="./posts/Image_how_avail/index.html" class="no-external">
 <div class="listing-date">
 Aug 15, 2023
 </div>
@@ -611,19 +657,19 @@ Helena Jambor, Helena Jambor
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="11" data-categories="images,how-to" data-listing-date-sort="1691618400000" data-listing-file-modified-sort="1692599382151" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5">
+<div class="quarto-post image-right" data-index="12" data-categories="images,how-to" data-listing-date-sort="1691618400000" data-listing-file-modified-sort="1692599382151" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="936">
 <div class="thumbnail">
-<p><a href="./posts/Image_how_color/index.html"> <img src="./posts/Image_how_color/Brinton_colorcombo.png" class="thumbnail-image"> </a></p>
+<p><a href="./posts/Image_how_color/index.html" class="no-external"></a></p><a href="./posts/Image_how_color/index.html" class="no-external">
+<p><img src="./posts/Image_how_color/Brinton_colorcombo.png" class="thumbnail-image"></p>
+</a><p><a href="./posts/Image_how_color/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/Image_how_color/index.html">
 <h3 class="no-anchor listing-title">
-How to… image colors
+<a href="./posts/Image_how_color/index.html" class="no-external">How to… image colors</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/Image_how_color/index.html" class="no-external"></a>
 </div>
-</a>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('images'); return false;">
 images
@@ -632,14 +678,12 @@ images
 how-to
 </div>
 </div>
-<a href="./posts/Image_how_color/index.html">
 <div class="listing-description">
-<p>Color your image data - acceessible, understandable, visible.</p>
+<a href="./posts/Image_how_color/index.html" class="no-external">Color your image data - acceessible, understandable, visible.</a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/Image_how_color/index.html">
+<a href="./posts/Image_how_color/index.html" class="no-external">
 <div class="listing-date">
 Aug 10, 2023
 </div>
@@ -649,19 +693,19 @@ Helena Jambor, Helena Jambor
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="12" data-categories="images,how-to" data-listing-date-sort="1691445600000" data-listing-file-modified-sort="1691486767558" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4">
+<div class="quarto-post image-right" data-index="13" data-categories="images,how-to" data-listing-date-sort="1691445600000" data-listing-file-modified-sort="1691486767558" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="646">
 <div class="thumbnail">
-<p><a href="./posts/Image_how_annot/index.html"> <img src="./posts/Image_how_annot/Symbols_arrows_lettercode.png" class="thumbnail-image"> </a></p>
+<p><a href="./posts/Image_how_annot/index.html" class="no-external"></a></p><a href="./posts/Image_how_annot/index.html" class="no-external">
+<p><img src="./posts/Image_how_annot/Symbols_arrows_lettercode.png" class="thumbnail-image"></p>
+</a><p><a href="./posts/Image_how_annot/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/Image_how_annot/index.html">
 <h3 class="no-anchor listing-title">
-How to… image annotation
+<a href="./posts/Image_how_annot/index.html" class="no-external">How to… image annotation</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/Image_how_annot/index.html" class="no-external"></a>
 </div>
-</a>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('images'); return false;">
 images
@@ -670,14 +714,12 @@ images
 how-to
 </div>
 </div>
-<a href="./posts/Image_how_annot/index.html">
 <div class="listing-description">
-<p>Make images understandalble: explain all that is visible</p>
+<a href="./posts/Image_how_annot/index.html" class="no-external">Make images understandalble: explain all that is visible</a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/Image_how_annot/index.html">
+<a href="./posts/Image_how_annot/index.html" class="no-external">
 <div class="listing-date">
 Aug 8, 2023
 </div>
@@ -687,19 +729,19 @@ Helena Jambor, Helena Jambor
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="13" data-categories="images,how-to" data-listing-date-sort="1691013600000" data-listing-file-modified-sort="1694868605664" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4">
+<div class="quarto-post image-right" data-index="14" data-categories="images,how-to" data-listing-date-sort="1691013600000" data-listing-file-modified-sort="1694868605664" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="742">
 <div class="thumbnail">
-<p><a href="./posts/Image_how_scale/index.html"> <img src="./posts/Image_how_scale/worms_copy.png" class="thumbnail-image"> </a></p>
+<p><a href="./posts/Image_how_scale/index.html" class="no-external"></a></p><a href="./posts/Image_how_scale/index.html" class="no-external">
+<p><img src="./posts/Image_how_scale/worms_copy.png" class="thumbnail-image"></p>
+</a><p><a href="./posts/Image_how_scale/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/Image_how_scale/index.html">
 <h3 class="no-anchor listing-title">
-How to… image scale information
+<a href="./posts/Image_how_scale/index.html" class="no-external">How to… image scale information</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/Image_how_scale/index.html" class="no-external"></a>
 </div>
-</a>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('images'); return false;">
 images
@@ -708,14 +750,12 @@ images
 how-to
 </div>
 </div>
-<a href="./posts/Image_how_scale/index.html">
 <div class="listing-description">
-<p>Scale bar, scale information or magnification statement? Communicate the size of your specimen</p>
+<a href="./posts/Image_how_scale/index.html" class="no-external">Scale bar, scale information or magnification statement? Communicate the size of your specimen</a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/Image_how_scale/index.html">
+<a href="./posts/Image_how_scale/index.html" class="no-external">
 <div class="listing-date">
 Aug 3, 2023
 </div>
@@ -725,19 +765,19 @@ Helena Jambor, Helena Jambor
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="14" data-categories="images,how-to" data-listing-date-sort="1690840800000" data-listing-file-modified-sort="1690879845742" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3">
+<div class="quarto-post image-right" data-index="15" data-categories="images,how-to" data-listing-date-sort="1690840800000" data-listing-file-modified-sort="1690879845742" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="564">
 <div class="thumbnail">
-<p><a href="./posts/Image_how_mag/index.html"> <img src="./posts/Image_how_mag/Kota.png" class="thumbnail-image"> </a></p>
+<p><a href="./posts/Image_how_mag/index.html" class="no-external"></a></p><a href="./posts/Image_how_mag/index.html" class="no-external">
+<p><img src="./posts/Image_how_mag/Kota.png" class="thumbnail-image"></p>
+</a><p><a href="./posts/Image_how_mag/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/Image_how_mag/index.html">
 <h3 class="no-anchor listing-title">
-How to… image formatting
+<a href="./posts/Image_how_mag/index.html" class="no-external">How to… image formatting</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/Image_how_mag/index.html" class="no-external"></a>
 </div>
-</a>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('images'); return false;">
 images
@@ -746,14 +786,12 @@ images
 how-to
 </div>
 </div>
-<a href="./posts/Image_how_mag/index.html">
 <div class="listing-description">
-<p>Size, orientation, magnification of images</p>
+<a href="./posts/Image_how_mag/index.html" class="no-external">Size, orientation, magnification of images</a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/Image_how_mag/index.html">
+<a href="./posts/Image_how_mag/index.html" class="no-external">
 <div class="listing-date">
 Aug 1, 2023
 </div>
@@ -763,19 +801,19 @@ Helena Jambor, Helena Jambor
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="15" data-categories="images,how-to,cheat sheets" data-listing-date-sort="1690408800000" data-listing-file-modified-sort="1694676663396" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6">
+<div class="quarto-post image-right" data-index="16" data-categories="images,how-to,cheat sheets" data-listing-date-sort="1690408800000" data-listing-file-modified-sort="1694676663396" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1099">
 <div class="thumbnail">
-<p><a href="./posts/Image_numbers/index.html"> <img src="./posts/Image_numbers/Summary.png" class="thumbnail-image"> </a></p>
+<p><a href="./posts/Image_numbers/index.html" class="no-external"></a></p><a href="./posts/Image_numbers/index.html" class="no-external">
+<p><img src="./posts/Image_numbers/Summary.png" class="thumbnail-image"></p>
+</a><p><a href="./posts/Image_numbers/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/Image_numbers/index.html">
 <h3 class="no-anchor listing-title">
-Many papers, many images, many problems
+<a href="./posts/Image_numbers/index.html" class="no-external">Many papers, many images, many problems</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/Image_numbers/index.html" class="no-external"></a>
 </div>
-</a>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('images'); return false;">
 images
@@ -787,14 +825,12 @@ how-to
 cheat sheets
 </div>
 </div>
-<a href="./posts/Image_numbers/index.html">
 <div class="listing-description">
-<p>Are Images understandable in publications?</p>
+<a href="./posts/Image_numbers/index.html" class="no-external">Are Images understandable in publications?</a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/Image_numbers/index.html">
+<a href="./posts/Image_numbers/index.html" class="no-external">
 <div class="listing-date">
 Jul 27, 2023
 </div>
@@ -804,19 +840,19 @@ Helena Jambor, Helena Jambor
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="16" data-categories="datavis,Graphical abstracts,how-to" data-listing-date-sort="1687125600000" data-listing-file-modified-sort="1707312905967" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4">
+<div class="quarto-post image-right" data-index="17" data-categories="datavis,Graphical abstracts,how-to" data-listing-date-sort="1687125600000" data-listing-file-modified-sort="1707312905967" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="602">
 <div class="thumbnail">
-<p><a href="./posts/GraphicalAbstracts_3/GraphicalAbstracts.html"> <img src="./posts/GraphicalAbstracts_3/text3.png" class="thumbnail-image"> </a></p>
+<p><a href="./posts/GraphicalAbstracts_3/GraphicalAbstracts.html" class="no-external"></a></p><a href="./posts/GraphicalAbstracts_3/GraphicalAbstracts.html" class="no-external">
+<p><img src="./posts/GraphicalAbstracts_3/text3.png" class="thumbnail-image"></p>
+</a><p><a href="./posts/GraphicalAbstracts_3/GraphicalAbstracts.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/GraphicalAbstracts_3/GraphicalAbstracts.html">
 <h3 class="no-anchor listing-title">
-How to… Graphical Abstracts 3: The final touch
+<a href="./posts/GraphicalAbstracts_3/GraphicalAbstracts.html" class="no-external">How to… Graphical Abstracts 3: The final touch</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/GraphicalAbstracts_3/GraphicalAbstracts.html" class="no-external"></a>
 </div>
-</a>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('datavis'); return false;">
 datavis
@@ -828,14 +864,12 @@ Graphical abstracts
 how-to
 </div>
 </div>
-<a href="./posts/GraphicalAbstracts_3/GraphicalAbstracts.html">
 <div class="listing-description">
-<p>Finishing a Graphical Abstract by adding text and color</p>
+<a href="./posts/GraphicalAbstracts_3/GraphicalAbstracts.html" class="no-external">Finishing a Graphical Abstract by adding text and color</a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/GraphicalAbstracts_3/GraphicalAbstracts.html">
+<a href="./posts/GraphicalAbstracts_3/GraphicalAbstracts.html" class="no-external">
 <div class="listing-date">
 Jun 19, 2023
 </div>
@@ -845,19 +879,19 @@ Helena Jambor, Helena Jambor
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="17" data-categories="datavis,how-to,Graphical abstracts" data-listing-date-sort="1687125600000" data-listing-file-modified-sort="1707312888065" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4">
+<div class="quarto-post image-right" data-index="18" data-categories="datavis,how-to,Graphical abstracts" data-listing-date-sort="1687125600000" data-listing-file-modified-sort="1707312888065" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="669">
 <div class="thumbnail">
-<p><a href="./posts/GraphicalAbstracts_2/index.html"> <img src="./posts/GraphicalAbstracts_2/Layout_figure.png" class="thumbnail-image"> </a></p>
+<p><a href="./posts/GraphicalAbstracts_2/index.html" class="no-external"></a></p><a href="./posts/GraphicalAbstracts_2/index.html" class="no-external">
+<p><img src="./posts/GraphicalAbstracts_2/Layout_figure.png" class="thumbnail-image"></p>
+</a><p><a href="./posts/GraphicalAbstracts_2/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/GraphicalAbstracts_2/index.html">
 <h3 class="no-anchor listing-title">
-How to… Graphical abstracts 2: Layout and arrows
+<a href="./posts/GraphicalAbstracts_2/index.html" class="no-external">How to… Graphical abstracts 2: Layout and arrows</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/GraphicalAbstracts_2/index.html" class="no-external"></a>
 </div>
-</a>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('datavis'); return false;">
 datavis
@@ -869,14 +903,12 @@ how-to
 Graphical abstracts
 </div>
 </div>
-<a href="./posts/GraphicalAbstracts_2/index.html">
 <div class="listing-description">
-<p>Layout and arrows to organise Graphical abstracts</p>
+<a href="./posts/GraphicalAbstracts_2/index.html" class="no-external">Layout and arrows to organise Graphical abstracts</a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/GraphicalAbstracts_2/index.html">
+<a href="./posts/GraphicalAbstracts_2/index.html" class="no-external">
 <div class="listing-date">
 Jun 19, 2023
 </div>
@@ -886,19 +918,19 @@ Helena Jambor, Helena Jambor
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="18" data-categories="datavis,how-to,Graphical abstracts" data-listing-date-sort="1686866400000" data-listing-file-modified-sort="1707312899333" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="7">
+<div class="quarto-post image-right" data-index="19" data-categories="datavis,how-to,Graphical abstracts" data-listing-date-sort="1686866400000" data-listing-file-modified-sort="1707312899333" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="7" data-listing-word-count-sort="1235">
 <div class="thumbnail">
-<p><a href="./posts/GraphicalAbstract_1/index.html"> <p class="card-img-top"><img src="posts/GraphicalAbstract_1/ExampleGA.png" alt="two examples of graphilca abstracts, left for a microbiology study showing the pipeline of lipidomic analysis, and right, for a grant on advanced cancer reesearch with four topics, immumnity, gene therapy, functional profiling, and digital health"  class="thumbnail-image card-img"/></p> </a></p>
+<p><a href="./posts/GraphicalAbstract_1/index.html" class="no-external"></a></p><a href="./posts/GraphicalAbstract_1/index.html" class="no-external">
+<p class="card-img-top"><img src="posts/GraphicalAbstract_1/ExampleGA.png" alt="two examples of graphilca abstracts, left for a microbiology study showing the pipeline of lipidomic analysis, and right, for a grant on advanced cancer reesearch with four topics, immumnity, gene therapy, functional profiling, and digital health"  class="thumbnail-image card-img"/></p>
+</a><p><a href="./posts/GraphicalAbstract_1/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/GraphicalAbstract_1/index.html">
 <h3 class="no-anchor listing-title">
-How to… Graphical abstracts 1: Tools and resources
+<a href="./posts/GraphicalAbstract_1/index.html" class="no-external">How to… Graphical abstracts 1: Tools and resources</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/GraphicalAbstract_1/index.html" class="no-external"></a>
 </div>
-</a>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('datavis'); return false;">
 datavis
@@ -910,14 +942,12 @@ how-to
 Graphical abstracts
 </div>
 </div>
-<a href="./posts/GraphicalAbstract_1/index.html">
 <div class="listing-description">
-<p>Tools and resources for creating Graphical abstracts</p>
+<a href="./posts/GraphicalAbstract_1/index.html" class="no-external">Tools and resources for creating Graphical abstracts</a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/GraphicalAbstract_1/index.html">
+<a href="./posts/GraphicalAbstract_1/index.html" class="no-external">
 <div class="listing-date">
 Jun 16, 2023
 </div>
@@ -927,19 +957,19 @@ Helena Jambor, Helena Jambor
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="19" data-categories="datavis,charts" data-listing-date-sort="1677193200000" data-listing-file-modified-sort="1704376223674" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3">
+<div class="quarto-post image-right" data-index="20" data-categories="datavis,charts" data-listing-date-sort="1677193200000" data-listing-file-modified-sort="1704376223674" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="491">
 <div class="thumbnail">
-<p><a href="./posts/30DayChartChallenge/30DayChartChallenge.html"> <img src="./posts/30DayChartChallenge/week1.png" class="thumbnail-image"> </a></p>
+<p><a href="./posts/30DayChartChallenge/30DayChartChallenge.html" class="no-external"></a></p><a href="./posts/30DayChartChallenge/30DayChartChallenge.html" class="no-external">
+<p><img src="./posts/30DayChartChallenge/week1.png" class="thumbnail-image"></p>
+</a><p><a href="./posts/30DayChartChallenge/30DayChartChallenge.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/30DayChartChallenge/30DayChartChallenge.html">
 <h3 class="no-anchor listing-title">
-30DayChartChallenge
+<a href="./posts/30DayChartChallenge/30DayChartChallenge.html" class="no-external">30DayChartChallenge</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/30DayChartChallenge/30DayChartChallenge.html" class="no-external"></a>
 </div>
-</a>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('datavis'); return false;">
 datavis
@@ -948,14 +978,12 @@ datavis
 charts
 </div>
 </div>
-<a href="./posts/30DayChartChallenge/30DayChartChallenge.html">
 <div class="listing-description">
-<p>My entries to the 30DayChartChallenge 2022 - Slava Ukraini</p>
+<a href="./posts/30DayChartChallenge/30DayChartChallenge.html" class="no-external">My entries to the 30DayChartChallenge 2022 - Slava Ukraini</a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/30DayChartChallenge/30DayChartChallenge.html">
+<a href="./posts/30DayChartChallenge/30DayChartChallenge.html" class="no-external">
 <div class="listing-date">
 Feb 24, 2023
 </div>
@@ -965,19 +993,19 @@ Helena Jambor, Helena Jambor
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="20" data-categories="datavis,tables,how-to" data-listing-date-sort="1676934000000" data-listing-file-modified-sort="1687169930261" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6">
+<div class="quarto-post image-right" data-index="21" data-categories="datavis,tables,how-to" data-listing-date-sort="1676934000000" data-listing-file-modified-sort="1687169930261" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1136">
 <div class="thumbnail">
-<p><a href="./posts/Tables/TableDesign.html"> <img src="./posts/Tables/alignment_tables-01.png" class="thumbnail-image"> </a></p>
+<p><a href="./posts/Tables/TableDesign.html" class="no-external"></a></p><a href="./posts/Tables/TableDesign.html" class="no-external">
+<p><img src="./posts/Tables/alignment_tables-01.png" class="thumbnail-image"></p>
+</a><p><a href="./posts/Tables/TableDesign.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/Tables/TableDesign.html">
 <h3 class="no-anchor listing-title">
-How to… Tables
+<a href="./posts/Tables/TableDesign.html" class="no-external">How to… Tables</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/Tables/TableDesign.html" class="no-external"></a>
 </div>
-</a>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('datavis'); return false;">
 datavis
@@ -989,14 +1017,12 @@ tables
 how-to
 </div>
 </div>
-<a href="./posts/Tables/TableDesign.html">
 <div class="listing-description">
-<p>All about how to design legible and pretty tables</p>
+<a href="./posts/Tables/TableDesign.html" class="no-external">All about how to design legible and pretty tables</a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/Tables/TableDesign.html">
+<a href="./posts/Tables/TableDesign.html" class="no-external">
 <div class="listing-date">
 Feb 21, 2023
 </div>
@@ -1006,19 +1032,19 @@ Helena Jambor, Helena Jambor
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="21" data-categories="datavis,tables,how-to" data-listing-date-sort="1676847600000" data-listing-file-modified-sort="1687169955618" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3">
+<div class="quarto-post image-right" data-index="22" data-categories="datavis,tables,how-to" data-listing-date-sort="1676847600000" data-listing-file-modified-sort="1687169955618" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="559">
 <div class="thumbnail">
-<p><a href="./posts/TablesCalendarData/TablesCalendarData.html"> <img src="./posts/TablesCalendarData/img_0173.jpg" class="thumbnail-image"> </a></p>
+<p><a href="./posts/TablesCalendarData/TablesCalendarData.html" class="no-external"></a></p><a href="./posts/TablesCalendarData/TablesCalendarData.html" class="no-external">
+<p><img src="./posts/TablesCalendarData/img_0173.jpg" class="thumbnail-image"></p>
+</a><p><a href="./posts/TablesCalendarData/TablesCalendarData.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/TablesCalendarData/TablesCalendarData.html">
 <h3 class="no-anchor listing-title">
-Tables: Calendar data
+<a href="./posts/TablesCalendarData/TablesCalendarData.html" class="no-external">Tables: Calendar data</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/TablesCalendarData/TablesCalendarData.html" class="no-external"></a>
 </div>
-</a>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('datavis'); return false;">
 datavis
@@ -1030,14 +1056,12 @@ tables
 how-to
 </div>
 </div>
-<a href="./posts/TablesCalendarData/TablesCalendarData.html">
 <div class="listing-description">
-<p>Calendar data turned into chart</p>
+<a href="./posts/TablesCalendarData/TablesCalendarData.html" class="no-external">Calendar data turned into chart</a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/TablesCalendarData/TablesCalendarData.html">
+<a href="./posts/TablesCalendarData/TablesCalendarData.html" class="no-external">
 <div class="listing-date">
 Feb 20, 2023
 </div>
@@ -1047,19 +1071,19 @@ Helena Jambor, Helena Jambor
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="22" data-categories="datavis,tables,how-to" data-listing-date-sort="1676847600000" data-listing-file-modified-sort="1687169894680" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
+<div class="quarto-post image-right" data-index="23" data-categories="datavis,tables,how-to" data-listing-date-sort="1676847600000" data-listing-file-modified-sort="1687169894680" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="220">
 <div class="thumbnail">
-<p><a href="./posts/Tables_in_R/Tables_in_R.html"> <img src="./posts/Tables_in_R/myYear4.png" class="thumbnail-image"> </a></p>
+<p><a href="./posts/Tables_in_R/Tables_in_R.html" class="no-external"></a></p><a href="./posts/Tables_in_R/Tables_in_R.html" class="no-external">
+<p><img src="./posts/Tables_in_R/myYear4.png" class="thumbnail-image"></p>
+</a><p><a href="./posts/Tables_in_R/Tables_in_R.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/Tables_in_R/Tables_in_R.html">
 <h3 class="no-anchor listing-title">
-Tables: With R
+<a href="./posts/Tables_in_R/Tables_in_R.html" class="no-external">Tables: With R</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/Tables_in_R/Tables_in_R.html" class="no-external"></a>
 </div>
-</a>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('datavis'); return false;">
 datavis
@@ -1071,14 +1095,12 @@ tables
 how-to
 </div>
 </div>
-<a href="./posts/Tables_in_R/Tables_in_R.html">
 <div class="listing-description">
-<p>A workaround solution to create calendar data charts in R</p>
+<a href="./posts/Tables_in_R/Tables_in_R.html" class="no-external">A workaround solution to create calendar data charts in R</a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/Tables_in_R/Tables_in_R.html">
+<a href="./posts/Tables_in_R/Tables_in_R.html" class="no-external">
 <div class="listing-date">
 Feb 20, 2023
 </div>
@@ -1172,10 +1194,27 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     // clear code selection
     e.clearSelection();
   });
-  function tippyHover(el, contentFn) {
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp("https:\/\/helenajamborwrites\.netlify\.app\/");
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+      }
+    }
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
     const config = {
       allowHTML: true,
-      content: contentFn,
       maxWidth: 500,
       delay: 100,
       arrow: false,
@@ -1185,8 +1224,17 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       interactive: true,
       interactiveBorder: 10,
       theme: 'quarto',
-      placement: 'bottom-start'
+      placement: 'bottom-start',
     };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
     window.tippy(el, config); 
   }
   const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
@@ -1198,7 +1246,130 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       try { href = new URL(href).hash; } catch {}
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
-      return note.innerHTML;
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      // TODO in 1.5, we should make sure this works without a callout special case
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
     });
   }
       let selectedAnnoteEl;
@@ -1242,6 +1413,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
             }
             div.style.top = top - 2 + "px";
             div.style.height = height + 4 + "px";
+            div.style.left = 0;
             let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
             if (gutterDiv === null) {
               gutterDiv = window.document.createElement("div");
@@ -1267,6 +1439,32 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         });
         selectedAnnoteEl = undefined;
       };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
       // Attach click handler to the DT
       const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
       for (const annoteDlNode of annoteDls) {
@@ -1327,6 +1525,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
+
 
 
 
