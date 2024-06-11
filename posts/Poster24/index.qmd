@@ -1,30 +1,17 @@
 ---
 title: "How to... Poster Design"
-description: "The ultimate list of ressources for effective poster  design"
+description: "The ultimate list of resources for effective poster  design"
 author: "Helena Jambor"
 date: "20240619"
 categories:
   - datavis
   - PosterDesign
   - how-to
-image: " .png"
+image: "bingo.png"
 draft: true
 ---
-#### How to.. Poster preparation: The ultimate list of ressources
+#### Poster preparation: The ultimate list of resources
 With the pandemic over for good, we are truly back to in-person conferences and their packed poster sessions. Think about the numbers: each year, well over hundred thousand poster are presented at academic and industry networking events. Think about the effort: each poster is made in many hours spent trying to concisely communicate a message. Think about the room for improvements: many of the posters are densely filled with text and fail to spark joy.
-
-###### A number of guides introduce life scientists to poster design: 
-* Barker, E., Phillips, V., 2021. Creating conference posters: Structure, form and content. J Perioper Pract 31, 296–299. [See paper](https://doi.org/10.1177/1750458921996254)
-* Block, S.M., 1996. Do’s and don’t’s of poster presentation. Biophysical Journal 71, 3527–3529. [See paper](https://doi.org/10.1016/S0006-3495(96)79549-8)
-* Boullata, J.I., Mancuso, C.E., 2007. A “How-To” Guide in Preparing Abstracts and Poster Presentations. Nutr Clin Pract 22, 641–646. [See paper](https://doi.org/10.1177/0115426507022006641)
-* Brown, B.S., 1997. Poster design—Six points to ponder. Biochemical Education 25, 136–137. [See paper](https://doi.org/10.1016/S0307-4412(97)00045-9)
-* Brown, B.S., 1996. Communicate your science! ... Producing punchy posters. Trends Cell Biol 6, 37–39. [See paper](https://doi.org/10.1016/0962-8924(96)81037-3)
-* Erren, T.C., Bourne, P.E., 2007. Ten simple rules for a good poster presentation. PLoS Comput Biol 3, e102. [See paper](https://doi.org/10.1371/journal.pcbi.0030102)
-* Faulkes, Z., 2021. Better Posters: Plan, Design and Present an Academic Poster. Pelagic Publishing Ltd.
-* Fraser, J., Fuller, L., Hutber, G., 2016. Creating Effective Conference Abstracts and Posters in Biomedicine: 500 Tips for Success. CRC Press.
-* Jambor, H.K., 2023. Insights on poster preparation practices in life sciences. Front Bioinform 3, 1216139. [See paper](https://doi.org/10.3389/fbinf.2023.1216139)
-* Wang, A., Greda, D., Carroll, S., Bianchi, L.M., Cunningham, C.D., 2022. Preparing and Giving                   Effective Poster Presentations, in: Research During Medical Residency. CRC Press.
-
 Here are a few tipps for tools and visuals for better posters in 2024: 
 
 #### Tools for poster preparation
@@ -73,7 +60,22 @@ In particular icons and symbols, which we learn early and thus understand almost
 For inspiration check out the first icon library, designed by Gerd Arntz for the Isotype project in the early 1900s. Despite Otto Neurath and Gerd Arntz intending the isotype project as a common worldwide visual language, their relatives decided to hold copyright [link](http://www.gerdarntz.org/isotype.html). 
 
 #### Understandable title and text 
-The number of words that Bernard Brown showed on his poster about poster design is 131 – and he hints to the fact that this may be enough for academic conference posters. Thus, concise writing is essential for posters. But the first impression of a poster comes from a title – if this is cluttered with abbreviations clear to you and your labmates but not the wider attendees, they might not dare to stop. But even the title should also be short and there is science to support this. Letford et al analysed 20,000 papers and showed that the shorter the title, the more citations a paper received. This may be a multifaceted phenomen, but likely one aspec it that shorter titles are easier to understand. 
+The number of words that Bernard Brown showed on his poster about poster design is 131 – and he hints to the fact that this may be enough for academic conference posters. Thus, concise writing is essential for posters. 
+
+:::{fig-brown}
+![](Brown_Poster.png)
+
+Brown - producing punchy posters
+:::
+
+
+But the first impression of a poster comes from a title – if this is cluttered with abbreviations clear to you and your labmates but not the wider attendees, they might not dare to stop. But even the title should also be short and there is science to support this. Letford et al analysed 20,000 papers and showed that the shorter the title, the more citations a paper received. This may be multiple factors, but one aspect is that shorter titles are easier to understand. 
+
+:::{fig-titles}
+![](titles.png)
+
+The advantage of short paper titles, figure from letchford 2015.
+:::
 
 #### Catchy Colorschemes
 The industrial designer Henry Dreyfuss is cited saying that “colours are the exclamation marks in design” – color perception is immediate and we cannot ignore colors. 
@@ -101,4 +103,23 @@ A lasting effect from COVID times is that conference formats have forever become
 And last, get feedback on the poster before print and have a short “Elevator pitch” ready. You may only have one minute to grab the attention of someone in the coffee line, rushing past your poster, so a ready-to-fire run-down of the main points is essential. 
 For feeedback, get your colleaagues to speficifcally comment on the readability of poster text and figures. It turns out that most poster presenters do not receive feedback before hitting the print button [See paper](https://doi.org/10.3389/fbinf.2023.1216139). Two questions you may ask: 1. What do you see first? This ideally is the title and the key visual, if not revise. 2. Ask someone to explain the poster back to you. When they get stuck it usually is because something is not quite clear. You can also use this silly “Bad Poster Bingo” to make sure your poster does not disappoint. 
 
+:::{fig-bingo}
+![](bingo.png)
+
+
+Enjoy a game of bad poster bingo - or check it to avoid common mistakes. Get a printable version:  https://doi.org/10.6084/m9.figshare.26012899.v2 
+:::
+
+
+#### A number of guides introduce life scientists to poster design: 
+* Barker, E., Phillips, V., 2021. Creating conference posters: Structure, form and content. J Perioper Pract 31, 296–299. [See paper](https://doi.org/10.1177/1750458921996254)
+* Block, S.M., 1996. Do’s and don’t’s of poster presentation. Biophysical Journal 71, 3527–3529. [See paper](https://doi.org/10.1016/S0006-3495(96)79549-8)
+* Boullata, J.I., Mancuso, C.E., 2007. A “How-To” Guide in Preparing Abstracts and Poster Presentations. Nutr Clin Pract 22, 641–646. [See paper](https://doi.org/10.1177/0115426507022006641)
+* Brown, B.S., 1997. Poster design—Six points to ponder. Biochemical Education 25, 136–137. [See paper](https://doi.org/10.1016/S0307-4412(97)00045-9)
+* Brown, B.S., 1996. Communicate your science! ... Producing punchy posters. Trends Cell Biol 6, 37–39. [See paper](https://doi.org/10.1016/0962-8924(96)81037-3)
+* Erren, T.C., Bourne, P.E., 2007. Ten simple rules for a good poster presentation. PLoS Comput Biol 3, e102. [See paper](https://doi.org/10.1371/journal.pcbi.0030102)
+* Faulkes, Z., 2021. Better Posters: Plan, Design and Present an Academic Poster. Pelagic Publishing Ltd.
+* Fraser, J., Fuller, L., Hutber, G., 2016. Creating Effective Conference Abstracts and Posters in Biomedicine: 500 Tips for Success. CRC Press.
+* Jambor, H.K., 2023. Insights on poster preparation practices in life sciences. Front Bioinform 3, 1216139. [See paper](https://doi.org/10.3389/fbinf.2023.1216139)
+* Wang, A., Greda, D., Carroll, S., Bianchi, L.M., Cunningham, C.D., 2022. Preparing and Giving                   Effective Poster Presentations, in: Research During Medical Residency. CRC Press.
 
