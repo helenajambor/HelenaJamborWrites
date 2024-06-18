@@ -1,6 +1,6 @@
 ---
 title: "How to... Poster Design"
-description: "The ultimate list of resources for effective poster  design"
+description: "Resources for effective poster  design - poster part 2"
 author: "Helena Jambor"
 date: "20240619"
 categories:
@@ -8,7 +8,6 @@ categories:
   - PosterDesign
   - how-to
 image: "bingo.png"
-draft: true
 ---
 #### Poster preparation: The ultimate list of resources
 With the pandemic over for good, we are truly back to in-person conferences and their packed poster sessions. Think about the numbers: each year, well over hundred thousand poster are presented at academic and industry networking events. Think about the effort: each poster is made in many hours spent trying to concisely communicate a message. Think about the room for improvements: many of the posters are densely filled with text and fail to spark joy.
