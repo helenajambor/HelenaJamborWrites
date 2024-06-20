@@ -9,27 +9,27 @@ categories:
   - how-to
 image: "bingo.png"
 ---
-#### Poster preparation: The ultimate list of resources
-With the pandemic over for good, we are truly back to in-person conferences and their packed poster sessions. Think about the numbers: each year, well over hundred thousand poster are presented at academic and industry networking events. Think about the effort: each poster is made in many hours spent trying to concisely communicate a message. Think about the room for improvements: many of the posters are densely filled with text and fail to spark joy.
-Here are a few tipps for tools and visuals for better posters in 2024: 
+#### Poster preparation: The ultimate resource guide
+With the pandemic over for good, we are truly back to in-person conferences and their packed poster sessions. Think about the numbers: each year, well over hundred thousand poster are presented at academic and industry networking events. Think about the effort: each poster is made in many hours spent trying to concisely communicate a message. Think about the room for improvements [see also my article](https://www.frontiersin.org/articles/10.3389/fbinf.2023.1216139/full): many of the posters are densely filled with text and fail to "spark joy".
+Here is the second part of [my poster-how-to](../Poster24/index.qmd), tips for tools and visuals for better posters in 2024: 
 
 #### Tools for poster preparation
-In 2024 numerous tools exist that help scientists prepare electronic posters for conferences. Common are software for designing slides, vector-design software, and webbased applications. Vector design software allow for zooming of visualizations without quality loss – meaning not pixelation will suddenly appear when a poster designed on small screen is printed at life size. Here is a roundup of some useful ones: 
+Numerous tools exist that help scientists prepare electronic posters for conferences. Common are software for designing slides, vector-design software, and web based applications. Vector design software allow for zooming of visualizations without quality loss – meaning not pixelation will suddenly appear when a poster designed on small screen is printed at life size. Here is a roundup of some useful ones: 
 
 ###### Open source software
-* Inkscape: A free vector graphic software that is rapidly being developed and becoming more usable every day. In Inkscape you can directly import of icons from icon libraries, e.g., when needing symbols. Inkscape also permits scripting: images can be processed with ImageJ and data can be visualized with R inside Inkscape. Plus, a practical guide for biologists exists (Cvrčková, 2019). 
-*	ImageJ: An open-source image processing software, offers extensive possibilities for image processing. For layouting of posters primarily composed of images, software extensions (“plugins”) can be used, e.g., ScientiFig or FigureJ. Both plugins allow users to arrange multiple images, graphs, and annotations into a single composite figure and has tools for aligning, resizing, and labeling images. 
+* [Inkscape](https://inkscape.org/): A free vector graphic software that is rapidly being developed and becoming more usable every day. In Inkscape you can directly import of icons from icon libraries, e.g., when needing symbols. Inkscape also permits scripting: images can be processed with ImageJ and data can be visualized with R inside Inkscape. Plus, a practical guide for biologists exists ([Cvrčková, 2019 - pay or scihub](https://link.springer.com/protocol/10.1007/978-1-4939-9469-4_8)). 
+*	[ImageJ/FIJI](https://fiji.sc/): An open-source image processing software, offers extensive possibilities for image processing. For layouting of posters primarily composed of images, software extensions (“plugins”) can be used, e.g., ScientiFig or FigureJ. Both plugins allow users to arrange multiple images, graphs, and annotations into a single composite figure and has tools for aligning, resizing, and labeling images. 
 
 ###### Software 
-*	Adobe Illustrator / Affinity Designer / CorelDraw: The proprietary alternatives to Inkscape. Adobe Illustrator is widely used and tutorials help new users along (Culley, 2016). 
+*	Adobe Illustrator / [Affinity Designer](https://affinity.serif.com/en-us/designer/) / CorelDraw: The proprietary alternatives to Inkscape. Adobe Illustrator is widely used and tutorials help new users along (Culley, 2016). 
 *	PowerPoint / Keynote: Often PowerPoint will produce posters of sufficient quality, especially when the canvas size is adjusted and slides are exported as vector graphics such as PDF. When saving your graphical abstract check the settings to make sure that your images are not compressed to prevent pixelation artifacts.
 
 ###### Web-based 
-*	Flourish: online data visualization tool that allows users to create visually appealing charts – which can be combined into data-driven posters. Flourish has numerous customizable templates for common but also uncommon charts. Plus, can handle relatively large datasets.
-*	Figma: is mostly used for prototyping in design, but I have come across many people that use it also use it for poster design. A plus, it allows collaborative work and graphic editing, and the outputs are vector graphic designs. Especially for collaborative work and prototyping Figma can be integrated with a number of other tools, e.g. SLACK, Adobe Cloud, Confluence, Dropbox etc. 
-*	Canva: used for designing visuals for many purposes, popular for its user-friendly interface. Includes a number of templates, a built-in icon and photo library, and also permits real-time collaboration. It is possible to upload contents, such as microscopy image, charts, or user icons, such as the logo of your institute or funder. 
-*	BioRender: proprietary web-based software with a very large biomedical icon library, whose appearance, shape, color, and detail, cannot be changed. A drawback to many labs is also BioRender’s continuous adaptation of licenses, while an advantage is the its interface with public databases, such as the Protein Data Bank. 
-*	MindtheGraph: MindtheGraph is an online platform designed to help users create scientifically accurate and visually appealing illustrations, particularly for academic and research purposes. It offers a Also includes a library of pre-made scientific illustrations and templates. User-friedly drag and drop, and collaborative mode are possible. 
+*	[Flourish](https://flourish.studio/): online data visualization tool that allows users to create visually appealing charts – which can be combined into data-driven posters. Flourish has numerous customizable templates for common but also uncommon charts. Plus, can handle relatively large datasets.
+*	[Figma](https://www.figma.com/): is mostly used for prototyping in design, but I have come across many people that use it also use it for poster design. A plus, it allows collaborative work and graphic editing, and the outputs are vector graphic designs. Especially for collaborative work and prototyping Figma can be integrated with a number of other tools, e.g. SLACK, Adobe Cloud, Confluence, Dropbox etc. 
+*	[Canva](https://www.canva.com/): used for designing visuals for many purposes, popular for its user-friendly interface. Includes a number of templates, a built-in icon and photo library, and also permits real-time collaboration. It is possible to upload contents, such as microscopy image, charts, or user icons, such as the logo of your institute or funder. 
+*[BioRender](https://www.biorender.com/): proprietary web-based software with a very large biomedical icon library, whose appearance, shape, color, and detail, cannot be changed. A drawback to many labs is also BioRender’s continuous adaptation of licenses, while an advantage is the its interface with public databases, such as the Protein Data Bank. 
+*	[MindtheGraph](https://mindthegraph.com/): MindtheGraph is an online platform designed to help users create scientifically accurate and visually appealing illustrations, particularly for academic and research purposes. It offers a Also includes a library of pre-made scientific illustrations and templates. User-friendly drag and drop, and collaborative mode are possible. 
 
 For a more thorough review of common software and their advantages/disadvantages: 
 
@@ -37,7 +37,7 @@ For a more thorough review of common software and their advantages/disadvantages
 * Perkel, J.M., 2020. The software that powers scientific illustration. Nature 582, 137–138. [see paper](https://doi.org/10.1038/d41586-020-01404-7)
 
 #### Catchy visuals 
-The first thing most audiences see from afar are key visuals. These can be large picures, charts, icons, or a simple graphical abstract. Some posters even are entirely visual, presenting data in a story format e.g. as a comic strip. 
+The first thing most audiences see from afar are key visuals. These can be large pictures, charts, icons, or a [simple graphical abstract](../GraphicalAbstract_1/index.qmd). Some posters even are entirely visual, presenting data in a story format e.g. as a comic strip. 
 In particular icons and symbols, which we learn early and thus understand almost intuitively, work well when we want to rapidly grab attention. Icons can even replace or support text, e.g. in titles, legends, or axis labels. Today, we have a vast number or open access resources at our fingertips, and the collection of free icon is expanding daily. Most resources contain icons in either adaptable format (“SVG”) or as image (“PNG”), or both. 
 
 ###### General icons:
@@ -86,6 +86,7 @@ Colors should be used 1. To focus the attention, by applying color where readers
 *	[Color blind friendly?](http://www.colourblindawareness.org/)
 *	[Pick colors for data](https://colorbrewer2.org)
 * [Test if colors work with charts](https://projects.susielu.com/viz-palette)
+* [2500* palettes, searchable, exportable!! Yan Holz did it again.. ](https://python-graph-gallery.com/color-palette-finder/)
 
 ###### Design a color scheme: 
 *	[paletton](http://paletton.com)
@@ -106,7 +107,7 @@ For feeedback, get your colleaagues to speficifcally comment on the readability 
 ![](bingo.png)
 
 
-Enjoy a game of bad poster bingo - or check it to avoid common mistakes. Get a printable version:  https://doi.org/10.6084/m9.figshare.26012899.v2 
+Enjoy a game of bad poster bingo - or check it to avoid common mistakes. Get a [printable version:](https://doi.org/10.6084/m9.figshare.26012899.v2) 
 :::
 
 
