@@ -10,7 +10,95 @@
 <atom:link href="https://helenajamborwrites.netlify.app/index.xml" rel="self" type="application/rss+xml"/>
 <description>Blog about data visualization and visual communication of scientific data</description>
 <generator>quarto-1.4.552</generator>
-<lastBuildDate>Sat, 21 Sep 2024 22:00:00 GMT</lastBuildDate>
+<lastBuildDate>Tue, 22 Oct 2024 22:00:00 GMT</lastBuildDate>
+<item>
+  <title>Links &amp; resources</title>
+  <dc:creator>Helena Jambor</dc:creator>
+  <dc:creator>Helena Jambor</dc:creator>
+  <link>https://helenajamborwrites.netlify.app/posts/24-10_linkcollection/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="all-the-useful-websites" class="level4">
+<h4 class="anchored" data-anchor-id="all-the-useful-websites">All the useful websites!</h4>
+<p>I have already emailed these Dataviz resources to countless scientists - high time to finally set up a centralised collection of to all websites!</p>
+<p>The links are organised by the different aspects of creating scientific data figures: 1. Choosing a chart, 2. text, 3. layouts, 4. colours. There are also links to special use cases and a bit of entertainment.</p>
+</section>
+<section id="choosing-charts" class="level4">
+<h4 class="anchored" data-anchor-id="choosing-charts">Choosing charts</h4>
+<ul>
+<li><a href="http://www.datavizcatalogue.com/">Severino Ribecca DataViz Catalogue</a></li>
+<li><a href="https://python-graph-gallery.com/">Yan Holz Python Graph Gallery</a> - also available for R!</li>
+<li><a href="http://datavizproject.com/">Ferdio’s illustrated guide</a></li>
+</ul>
+<p>Further reading: <a href="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002128">Beyond bar and line plots</a></p>
+</section>
+<section id="text-replace-text-with-images" class="level4">
+<h4 class="anchored" data-anchor-id="text-replace-text-with-images">Text (replace text with images)</h4>
+<p>Some general pictogram resources:</p>
+<ul>
+<li><a href="https://fontawesome.com/icons?d=gallery&amp;c=animals">Fontawesome, use with attribution</a></li>
+<li><a href="https://thenounproject.com/">The Nounproject - use with attribution, registration necessary</a></li>
+<li><a href="https://www.svgrepo.com/">SVG repo General Pictogram collection</a></li>
+<li><a href="">Flaticon General Pictogram collection</a>https://www.flaticon.com/</li>
+<li><a href="">Iconduck General Pictogram collection</a>https://iconduck.com/</li>
+<li><a href="">Simpleicons General Pictogram collection</a>https://simpleicons.org/</li>
+</ul>
+<p>Biology/Science</p>
+<ul>
+<li><a href="https://bioicons.com/">Simon Dürr’s bioicon collection</a></li>
+<li><a href="http://phylopic.org">Icons of all animals and plants etc</a></li>
+<li><a href="https://www.ebi.ac.uk/style-lab/general/fonts/v1.3/">General science icons</a></li>
+<li><a href="https://reactome.org/icon-lib">Science/chemistry icons:</a></li>
+<li><a href="https://scidraw.io/">SCIDRAW</a> a repository of free SVG cartoons for science supported by the Sainsbury Wellcome Centre, CC-BY</li>
+</ul>
+<p>Medicine</p>
+<ul>
+<li><a href="https://smart.servier.com/">smart servier PPT collection</a></li>
+<li><a href="https://healthicons.org/">HeathIcons</a></li>
+</ul>
+</section>
+<section id="layout" class="level4">
+<h4 class="anchored" data-anchor-id="layout">Layout</h4>
+<p>Find inspiring Layouts in Will Timmins-Stahl <a href="https://www.bmj.com/infographics">BMJ Infografics</a></p>
+</section>
+<section id="color" class="level4">
+<h4 class="anchored" data-anchor-id="color">Color</h4>
+<ul>
+<li><a href="https://colorbrewer2.org">Color Brewer: Pick color schemes for data</a></li>
+<li><a href="https://webaim.org/resources/contrastchecker/">WebAIM Check if contrast of foreground and background colors are good</a> (and other accessibility issues)</li>
+</ul>
+</section>
+<section id="specials" class="level2">
+<h2 class="anchored" data-anchor-id="specials">Specials</h2>
+<section id="graphical-abstracts" class="level4">
+<h4 class="anchored" data-anchor-id="graphical-abstracts">Graphical Abstracts</h4>
+<p>My article about <a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011789">Graphical Abstracts (without Biorender)</a></p>
+<p>See also my previous blogs <a href="../../posts/GraphicalAbstract_1/index.html">here</a>, <a href="../../posts/GraphicalAbstracts_2/index.html">here</a>, <a href="../../posts/GraphicalAbstracts_3/GraphicalAbstracts.html">and here</a>.</p>
+</section>
+<section id="resources-for-image-data" class="level4">
+<h4 class="anchored" data-anchor-id="resources-for-image-data">Resources for image data</h4>
+<ul>
+<li><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7931257/">Our cheat sheets for image prep for figures</a></li>
+<li><a href="https://www.nature.com/articles/s41592-023-01987-9">Our community checklist for image publication</a></li>
+<li><a href="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001161">Our survey of image quality in publications</a></li>
+</ul>
+
+
+</section>
+</section>
+
+ ]]></description>
+  <category>datavis</category>
+  <category>how-to</category>
+  <category>links</category>
+  <guid>https://helenajamborwrites.netlify.app/posts/24-10_linkcollection/</guid>
+  <pubDate>Tue, 22 Oct 2024 22:00:00 GMT</pubDate>
+  <media:content url="https://helenajamborwrites.netlify.app/posts/24-10_linkcollection/....png" medium="image" type="image/png"/>
+</item>
 <item>
   <title>From zero to figure hero</title>
   <dc:creator>Helena Jambor</dc:creator>
@@ -55,7 +143,6 @@ Figure&nbsp;2: Stages of the checklist.
 </figcaption>
 </figure>
 </div>
-<p>I am happy to finally share with you that the summary of my Graphical Abstract blogs (<a href="../../posts/GraphicalAbstract_1/index.html">here</a>, <a href="../../posts/GraphicalAbstracts_2/index.html">here</a>, <a href="../../posts/GraphicalAbstracts_3/GraphicalAbstracts.html">and here</a> is now available as paper for you all to read and cite! Out in <a href="https://dx.plos.org/10.1371/journal.pcbi.1011789">PLOS Computational Biology.</a></p>
 
 
 </section>
@@ -63,6 +150,7 @@ Figure&nbsp;2: Stages of the checklist.
  ]]></description>
   <category>datavis</category>
   <category>how-to</category>
+  <category>cheat sheets</category>
   <guid>https://helenajamborwrites.netlify.app/posts/24-9_figurehero/</guid>
   <pubDate>Sat, 21 Sep 2024 22:00:00 GMT</pubDate>
   <media:content url="https://helenajamborwrites.netlify.app/posts/24-9_figurehero/Figure1_checklist_name.png" medium="image" type="image/png" height="204" width="144"/>
@@ -1783,151 +1871,6 @@ QuickFigures: a tool to quickly transform microscope images into quality figures
   <guid>https://helenajamborwrites.netlify.app/posts/Image_how_mag/</guid>
   <pubDate>Mon, 31 Jul 2023 22:00:00 GMT</pubDate>
   <media:content url="https://helenajamborwrites.netlify.app/posts/Image_how_mag/Kota.png" medium="image" type="image/png" height="58" width="144"/>
-</item>
-<item>
-  <title>Many papers, many images, many problems</title>
-  <dc:creator>Helena Jambor</dc:creator>
-  <dc:creator>Helena Jambor</dc:creator>
-  <link>https://helenajamborwrites.netlify.app/posts/Image_numbers/</link>
-  <description><![CDATA[ 
-
-
-
-
-<section id="many-papers-many-images-many-problems" class="level2">
-<h2 class="anchored" data-anchor-id="many-papers-many-images-many-problems">Many papers, many images, many problems</h2>
-<p>500 papers are newly indexed in PubMed every day, almost 1 million each year (<a href="https://www.nlm.nih.gov/bsd/index_stats_comp.html">PubMed Statistics</a>). Many of these contain images: 20% have a photos, light or electron microscopy images, x-rays or similar (see <a href="https://ieeexplore.ieee.org/document/7888968">Lee, 2018</a>). These images document the appearance or structure of specimen, tissues, or cells, and are a analysed to gain quantitative insights of biological processes.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://helenajamborwrites.netlify.app/posts/Image_numbers/ImageTypes.png" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Image types</figcaption>
-</figure>
-</div>
-</section>
-<section id="what-we-did" class="level2">
-<h2 class="anchored" data-anchor-id="what-we-did">What we did</h2>
-<p>Not too long ago a motivated group of scientists including me systematically analyzed the clarity and legibility of images (<a href="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001161">Jambor et al., 2021</a>). It turns out, in only a fraction of the publications, 10-20%, images are fully accessible and interpretable. To get to this number, we surveyed the image quality in the top journals, based on impact factor, in three representative fields, physiology, cell biology and plant sciences. We used a validated protocol and each article was assessed by two independent reviewers. The screening protocol covered diverse aspects: the image presentation in the figure, the completeness of feature annotations, presence of scale information, accessible image colors, and informative image titles/legends.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://helenajamborwrites.netlify.app/posts/Image_numbers/Summary.png" class="img-fluid figure-img" alt="Example images showing the types of problems that were encounterd and their frequency. E.g., scale bars are missing in 45-70% of publicartions with images."></p>
-<figcaption class="figure-caption">Summary of Image Survey, <a href="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001161">from Jambor et al., 2021</a>)</figcaption>
-</figure>
-</div>
-<section id="scale-information-missing-in-up-to-70-of-papers" class="level4">
-<h4 class="anchored" data-anchor-id="scale-information-missing-in-up-to-70-of-papers">Scale information: missing in up to 70% of papers</h4>
-<p>This is possibly the most unexpected finding: many images in publications lack sufficient information about physical scales. This is unexpected as each of us had some memories of being taught about scale bars early in our careers, if not already in high-school biology. Scale information can come in many forms and all of them were acceptable to us: as scale bar inside the image, as information about the physical size of the entire image in figures, and even an indication of the magnification were deemed acceptable. This however was entirely missing in 10-30% of the papers and incomplete in another 30-40%.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://helenajamborwrites.netlify.app/posts/Image_numbers/Scale_numbers.png" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Many papers omit scale information for images, <a href="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001161">from Jambor 2021</a></figcaption>
-</figure>
-</div>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://helenajamborwrites.netlify.app/posts/Image_numbers/Scale_examples.png" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Examples of poor and better scale information, <a href="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001161">from Jambor 2021</a></figcaption>
-</figure>
-</div>
-</section>
-<section id="colors-often-not-accessible-to-color-blind" class="level4">
-<h4 class="anchored" data-anchor-id="colors-often-not-accessible-to-color-blind">Colors: often not accessible to color blind</h4>
-<p>Red/Green color blindness affects around 10% of the male population, and less than 1% of the female population. Nonetheless, astonishingly 30 - 50% of the screened images were not color blind friendly! In addition, in around 20% of images the annotations of colors were not color blind save. This means that colorblind readers are hindered in seeing or fully understand the key scientific messages conveyed in these images.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://helenajamborwrites.netlify.app/posts/Image_numbers/Colors.png" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Colors in microscope images and visibility tests <a href="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001161">from Jambor et al., 2021</a>)</figcaption>
-</figure>
-</div>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://helenajamborwrites.netlify.app/posts/Image_numbers/Colors_visibility.png" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Examples of color visibility <a href="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001161">from Jambor et al., 2021</a>)</figcaption>
-</figure>
-</div>
-</section>
-<section id="details-not-visible-or-insets-not-explained" class="level4">
-<h4 class="anchored" data-anchor-id="details-not-visible-or-insets-not-explained">Details: not visible, or insets not explained</h4>
-<p>Just like in photography, also in microscopy the key subject should ideally fill the frame. What does this mean? If you want to show a cellular detail, do not show the entire petri dish of cells – cutting unnecessary image details is allowed, if this does not change the conclusion! Likewise, if you aim to show morphology of an organ, make sure that said organ is fully visible – image stitching, if declared (legend, methods), is possible and allowed. Many times an overview, e.g.&nbsp;of cell culture dish and a focus on some detail is shown with two images side by side, one the original image and alongside this a zoomed inset. In one third of publications, likely accidental, the origin of the inset in the original image is not clearly indicated or entirely missing. This hinders the audiences to understand the relation of inset to image, especially since in half of the cases the inset is also not explained in the legend.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://helenajamborwrites.netlify.app/posts/Image_numbers/Insets_numbers.png" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Inset example and the number of missing inset explanations <a href="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001161">from Jambor et al., 2021</a>)</figcaption>
-</figure>
-</div>
-</section>
-<section id="annotations-incomplete" class="level4">
-<h4 class="anchored" data-anchor-id="annotations-incomplete">Annotations: incomplete</h4>
-<p>Speaking of annotations – they are not optional, despite what the data suggest: up to 30% of publications omit an explanation of the colors shown in images (e.g., channel, staining), up to 40% fail to explain symbols, regions of interest, or arrows, and many times the species or cell type visible in the image is not clear from the legend. Especially all colors and symbols must essentially be explained with the figure, while further details such as specimen could also be described in the method section – alas, it is also missing very often in this section, but that is another story (Marques G, 2020; Sheen et al., 2019).</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://helenajamborwrites.netlify.app/posts/Image_numbers/Annotations.png" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Poor and better annotations, here of the color channels <a href="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001161">from Jambor et al., 2021</a>)</figcaption>
-</figure>
-</div>
-</section>
-<section id="a-happy-ending" class="level4">
-<h4 class="anchored" data-anchor-id="a-happy-ending">A happy ending</h4>
-<p>We showed that across all criteria, only 1/5 th of publications with images show fully interpretable images. Beyond our analysis, many papers also fail to understandably present data on image acquisition, imaging methods and also image processing details. We as scientific community have to ensure that our scientific data is truthful and reliable, and also understandable to current and future readers. Incomprehensible images limit effective science communication and we should strive to improve all data we present in publications.</p>
-I have compiled a series of blog posts “How to… Publish Images” that provide a rapid guidance and links to further resources.
-<ul>
-<li>
-How to… image formatting (August 1) <a href="../../posts/Image_how_mag/index.html">Link to blog</a>
-</li>
-<li>
-How to… image scale information (August 3) <a href="../../posts/Image_how_scale/index.html">Link to blog</a>
-</li>
-<li>
-How to… image annotation (August 8) <a href="../../posts/Image_how_annot/index.html">Link to blog</a>
-</li>
-<li>
-How to… image colors (August 10) <a href="../../posts/Image_how_color/index.html">Link to blog</a>
-</li>
-<li>
-How to… image availability (August 15) <a href="../../posts/Image_how_avail/index.html">Link to blog</a>
-</li>
-<li>
-Cheat sheets for image publishing (August 21) <a href="../../posts/Image_cheatsheets/index.html">Link to blog</a>
-</li>
-<li>
-A short history of science images (August 27) <a href="../../posts/Image_history/index.html">Link to blog</a>
-</li>
-<li>
-How to… image analysis (Sept 20) <a href="../../posts/Image_how_analysis/index.html">Link to blog</a>
-</li>
-<li>
-How to… avoid misleading with images (Sept 22) <a href="../../posts/Image_misleading/index.html">Link to blog</a>
-</li>
-</ul>
-<p>PS if you are interested, I usually write about more general visualizations, e.g., <a href="../../posts/GraphicalAbstract_1/index.html">How to create Graphical Abstracts</a></p>
-</section>
-<section id="read-more" class="level4">
-<h4 class="anchored" data-anchor-id="read-more">Read more</h4>
-<ul>
-<li>
-Our article assessing the current quality of images and Recommendations for Creating clear and informative image-based figures for scientific publications. <a href="https://doi.org/10.1371/journal.pbio.3001161">Jambor, H., Antonietti, A., Alicea, B., Audisio, T.L., Auer, S., Bhardwaj, V., Burgess, S.J., Ferling, I., Gazda, M.A., Hoeppner, L.H., Ilangovan, V., Lo, H., Olson, M., Mohamed, S.Y., Sarabipour, S., Varma, A., Walavalkar, K., Wissink, E.M., Weissgerber, T.L., 2021. PLoS Biol</a>
-</li>
-<li>
-A study quantifying how many images are in publications. Viziometrics: Analyzing Visual Information in the Scientific Literature.<a href="https://ieeexplore.ieee.org/document/7888968">Lee P IEEE Transactions on Big Data 2018;4:117-29.</a>
-</li>
-<li>
-Imaging methods are vastly underreported in biomedical research.<a href="https://doi.org/10.7554/eLife.55133">Marques G, P.T., Sanders MA, 2020. Elife 2020.<br>
-</a>
-</li>
-<li>
-A big Replication Study that also includes image data: Biomechanical remodeling of the microenvironment by stromal caveolin-1 favors tumor invasion and metastasis.<a href="https://doi.org/10.7554/eLife.45120">Sheen, M.R., Fields, J.L., Northan, B., Lacoste, J., Ang, L.-H., Fiering, S., Reproducibility Project: Cancer Biology, 2019. eLife 8, e45120.</a>
-</li>
-
-
-</ul></section>
-</section>
-
- ]]></description>
-  <category>images</category>
-  <category>how-to</category>
-  <category>cheat sheets</category>
-  <guid>https://helenajamborwrites.netlify.app/posts/Image_numbers/</guid>
-  <pubDate>Wed, 26 Jul 2023 22:00:00 GMT</pubDate>
-  <media:content url="https://helenajamborwrites.netlify.app/posts/Image_numbers/Summary.png" medium="image" type="image/png" height="50" width="144"/>
 </item>
 </channel>
 </rss>

@@ -1,0 +1,67 @@
+---
+title: "Links & resources"
+description: "A collection of links to useful resources for data visualization"
+author: "Helena Jambor"
+date: "20241023"
+categories:
+  - datavis
+  - how-to
+  - links
+image: "....png"
+---
+#### All the useful websites! 
+I have already emailed these Dataviz resources to countless scientists - high time to finally set up a centralised collection of to all websites!
+
+The links are organised by the different aspects of creating scientific data figures: 1. Choosing a chart, 2. text, 3. layouts, 4. colours. There are also links to special use cases and a bit of entertainment. 
+
+#### Choosing charts
+- [Severino Ribecca DataViz Catalogue](http://www.datavizcatalogue.com/)
+- [Yan Holz Python Graph Gallery](https://python-graph-gallery.com/) - also available for R! 
+- [Ferdio's illustrated guide](http://datavizproject.com/)
+
+Further reading: [Beyond bar and line plots](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002128)
+
+#### Text (replace text with images)
+Some general pictogram resources:
+
+- [Fontawesome, use with attribution](https://fontawesome.com/icons?d=gallery&c=animals)
+- [The Nounproject - use with attribution, registration necessary](https://thenounproject.com/)
+- [SVG repo General Pictogram collection](https://www.svgrepo.com/)
+- [Flaticon General Pictogram collection]()https://www.flaticon.com/
+- [Iconduck General Pictogram collection]()https://iconduck.com/
+- [Simpleicons General Pictogram collection]()https://simpleicons.org/
+
+Biology/Science
+
+- [Simon Dürr's bioicon collection](https://bioicons.com/)
+- [Icons of all animals and plants etc](http://phylopic.org)
+- [General science icons](https://www.ebi.ac.uk/style-lab/general/fonts/v1.3/)
+- [Science/chemistry icons:](https://reactome.org/icon-lib)
+- [SCIDRAW](https://scidraw.io/) a repository of free SVG cartoons for science supported by the Sainsbury Wellcome Centre, CC-BY
+
+Medicine 
+
+- [smart servier PPT collection](https://smart.servier.com/)
+- [HeathIcons](https://healthicons.org/)
+
+#### Layout 
+Find inspiring Layouts in Will Timmins-Stahl [BMJ Infografics](https://www.bmj.com/infographics)
+
+#### Color
+- [Color Brewer: Pick color schemes for data](https://colorbrewer2.org)
+- [WebAIM Check if contrast of foreground and background colors are good](https://webaim.org/resources/contrastchecker/) (and other accessibility issues) 
+
+## Specials
+#### Graphical Abstracts
+My article about [Graphical Abstracts (without Biorender)](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011789)
+
+See also my previous blogs [here ](../GraphicalAbstract_1/index.qmd), [here](../GraphicalAbstracts_2/index.qmd), [and here](../GraphicalAbstracts_3/GraphicalAbstracts.qmd).
+
+
+#### Resources for image data
+- [Our cheat sheets for image prep for figures](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7931257/)
+- [Our community checklist for image publication](https://www.nature.com/articles/s41592-023-01987-9)
+- [Our survey of image quality in publications](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001161)
+
+
+

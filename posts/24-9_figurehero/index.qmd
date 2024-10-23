@@ -6,6 +6,7 @@ date: "20240922"
 categories:
   - datavis
   - how-to
+  - cheat sheets
 image: "Figure1_checklist_name.png"
 ---
 #### A produce of this summer 
@@ -33,8 +34,5 @@ The article is still a preprint, feel free to suggest improvements!
 Stages of the checklist. 
 :::
 
-
-I am happy to finally share with you that the summary of my Graphical Abstract blogs ([here ](../GraphicalAbstract_1/index.qmd), [here](../GraphicalAbstracts_2/index.qmd), [and here](../GraphicalAbstracts_3/GraphicalAbstracts.qmd) is now available as paper for you all to read and cite! 
-Out in <a href= https://dx.plos.org/10.1371/journal.pcbi.1011789>PLOS Computational Biology.</a> 
 
 
