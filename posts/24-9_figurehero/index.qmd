@@ -6,7 +6,6 @@ date: "20240922"
 categories:
   - datavis
   - how-to
-  - Graphical abstracts
 image: "Figure1_checklist_name.png"
 ---
 #### A produce of this summer 
