@@ -1,5 +1,5 @@
 ---
-title: "Links & resources"
+title: "First aid for figures: all resources"
 description: "A collection of links to useful resources for data visualization"
 author: "Helena Jambor"
 date: "20241023"
@@ -7,7 +7,7 @@ categories:
   - datavis
   - how-to
   - links
-image: "....png"
+image: "first-aid-svgrepo-com.svg"
 ---
 #### All the useful websites! 
 I have already emailed these Dataviz resources to countless scientists - high time to finally set up a centralised collection of to all websites!
