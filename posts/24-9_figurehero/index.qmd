@@ -1,5 +1,5 @@
 ---
-title: "From zero to figure her"
+title: "From zero to figure hero"
 description: "A quick reference for figure design - new Paper alert"
 author: "Helena Jambor"
 date: "20240922"
