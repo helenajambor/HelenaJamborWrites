@@ -57,11 +57,19 @@ My article about [Graphical Abstracts (without Biorender)](https://journals.plos
 
 See also my previous blogs [here ](../GraphicalAbstract_1/index.qmd), [here](../GraphicalAbstracts_2/index.qmd), [and here](../GraphicalAbstracts_3/GraphicalAbstracts.qmd).
 
-
 #### Resources for image data
 - [Our cheat sheets for image prep for figures](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7931257/)
 - [Our community checklist for image publication](https://www.nature.com/articles/s41592-023-01987-9)
 - [Our survey of image quality in publications](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001161)
+
+#### Tables
+Check out [my previous blog](../Tables/TableDesign.qmd).
+
+#### Fun with numbers
+- How good are you at judging R-values? [GuessTheCorrelation](http://guessthecorrelation.com/)
+- A funny tool [to make up your data](http://robertgrantstats.co.uk/drawmydata.html)
+- Eyeballing game: [guess angles in data](http://woodgears.ca/eyeball/)
+- Clearly Nicolas cage is causing suicides: [Correlation/Causation](http://www.tylervigen.com/spurious-correlations)
 
 
 
