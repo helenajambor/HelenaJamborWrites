@@ -20,10 +20,9 @@ about:
 
 Helena Jambor is a Data Visualization scientist & lecturer. 
 
-I trained as a molecular biologist but also took art classes. After my PhD at the [EMBL](https://www.embl.org/sites/heidelberg/), I worked with multi-dimensional datasets composed of images and genome-scale data at the [Max-Planck Dresden](https://www.mpi-cbg.de/research/researchgroups/currentgroups/pavel-tomancak/research-focus). Since my scholarship lar at the Institute for Advanced Studies in Berlin, I research data visualization in the life science and now combine my expertise with large data sets and my interest in data communication.
+I trained as a molecular biologist but also took art classes. After my PhD at the [EMBL](https://www.embl.org/sites/heidelberg/), I worked with multi-dimensional datasets composed of images and genome-scale data at the [Max-Planck Dresden](https://www.mpi-cbg.de/research/researchgroups/currentgroups/pavel-tomancak/research-focus). Since my scholarship at the [Institute for Advanced Studies](https://www.wiko-berlin.eu/en/fellows/academic-year/2016/jambor-helena) in Berlin, I research data visualization in the life science and now combine my expertise with large data sets and my interest in data communication.
 
-Today, I am a scientist at the University Hospital Dresden designing visualizations for medical data communication. Since 2019, I lecture biomedical data science at Berlin Hochschule für Technik and teach data visualization wherever someone needs me.
-
-I blog, tweet, and write about all aspects of data visualization.
+After working as a data visualization scientist at the University Hospital Dresden and four years as adjunct professpor for bioinformatics, I am now associate professor for data visualization at the [University of Applied Sciences of the Grisons](https://www.fhgr.ch/personen/person/jambor/) in Chur/Switzerland. 
+I teach, train and consult on data visualization in biology and biomedical research. 
 
 

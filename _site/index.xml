@@ -10,7 +10,64 @@
 <atom:link href="https://helenajamborwrites.netlify.app/index.xml" rel="self" type="application/rss+xml"/>
 <description>Blog about data visualization and visual communication of scientific data</description>
 <generator>quarto-1.4.552</generator>
-<lastBuildDate>Tue, 18 Jun 2024 22:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sat, 21 Sep 2024 22:00:00 GMT</lastBuildDate>
+<item>
+  <title>From zero to figure her</title>
+  <dc:creator>Helena Jambor</dc:creator>
+  <dc:creator>Helena Jambor</dc:creator>
+  <link>https://helenajamborwrites.netlify.app/posts/24-9_figurehero/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="a-produce-of-this-summer" class="level4">
+<h4 class="anchored" data-anchor-id="a-produce-of-this-summer">A produce of this summer</h4>
+<p>I had a lot of idle time this summer, waiting for children to return from their activities. Got the idea to finally <a href="https://osf.io/preprints/osf/xgbyr">write up all the tips</a> I give students for improving their figures.</p>
+</section>
+<section id="why-improve-figures" class="level4">
+<h4 class="anchored" data-anchor-id="why-improve-figures">Why improve figures</h4>
+<p>Figures are often packed with quantitative data and many biologists aren’t taught how to design impactful data figures during their studies. My article provides those rapidly wanting to improve figures with a checklist to follow along. And those wanting to learn more with the scientific background why certain practices are good for effective visualizations.</p>
+<div id="fig-overview" class="quarto-figure quarto-figure-center quarto-float anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-overview-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="https://helenajamborwrites.netlify.app/posts/24-9_figurehero/Figure1_checklist_name.png" class="img-fluid figure-img">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-overview-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;1: The checklist.
+</figcaption>
+</figure>
+</div>
+</section>
+<section id="work-in-progress.." class="level4">
+<h4 class="anchored" data-anchor-id="work-in-progress..">Work-in-progress..</h4>
+<p>The article is still a preprint, feel free to suggest improvements!</p>
+<div id="fig-overview" class="quarto-figure quarto-figure-center quarto-float anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-overview-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<p><img src="https://helenajamborwrites.netlify.app/posts/24-9_figurehero/0.png" class="img-fluid figure-img"></p>
+<p><img src="https://helenajamborwrites.netlify.app/posts/24-9_figurehero/2.png" class="img-fluid figure-img"></p>
+<p><img src="https://helenajamborwrites.netlify.app/posts/24-9_figurehero/Figure1_checklist_name.png" class="img-fluid figure-img"></p>
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-overview-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;2: Stages of the checklist.
+</figcaption>
+</figure>
+</div>
+<p>I am happy to finally share with you that the summary of my Graphical Abstract blogs (<a href="../../posts/GraphicalAbstract_1/index.html">here</a>, <a href="../../posts/GraphicalAbstracts_2/index.html">here</a>, <a href="../../posts/GraphicalAbstracts_3/GraphicalAbstracts.html">and here</a> is now available as paper for you all to read and cite! Out in <a href="https://dx.plos.org/10.1371/journal.pcbi.1011789">PLOS Computational Biology.</a></p>
+
+
+</section>
+
+ ]]></description>
+  <category>datavis</category>
+  <category>how-to</category>
+  <category>Graphical abstracts</category>
+  <guid>https://helenajamborwrites.netlify.app/posts/24-9_figurehero/</guid>
+  <pubDate>Sat, 21 Sep 2024 22:00:00 GMT</pubDate>
+  <media:content url="https://helenajamborwrites.netlify.app/posts/24-9_figurehero/Figure1_checklist_name.png" medium="image" type="image/png" height="204" width="144"/>
+</item>
 <item>
   <title>How to… Poster Design</title>
   <dc:creator>Helena Jambor</dc:creator>
@@ -1872,102 +1929,6 @@ A big Replication Study that also includes image data: Biomechanical remodeling 
   <guid>https://helenajamborwrites.netlify.app/posts/Image_numbers/</guid>
   <pubDate>Wed, 26 Jul 2023 22:00:00 GMT</pubDate>
   <media:content url="https://helenajamborwrites.netlify.app/posts/Image_numbers/Summary.png" medium="image" type="image/png" height="50" width="144"/>
-</item>
-<item>
-  <title>How to… Graphical Abstracts 3: The final touch</title>
-  <dc:creator>Helena Jambor</dc:creator>
-  <dc:creator>Helena Jambor</dc:creator>
-  <link>https://helenajamborwrites.netlify.app/posts/GraphicalAbstracts_3/GraphicalAbstracts.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<section id="paper-alert-this-is-now-published-in-plos-computational-biology" class="level5">
-<h5 class="anchored" data-anchor-id="paper-alert-this-is-now-published-in-plos-computational-biology">Paper Alert: this is now published in <a href="https://dx.plos.org/10.1371/journal.pcbi.1011789">PLOS Computational Biology!</a></h5>
-</section>
-<section id="how-to-graphical-abstacts-3" class="level2">
-<h2 class="anchored" data-anchor-id="how-to-graphical-abstacts-3">How to… Graphical Abstacts 3</h2>
-<p>I described tools and icon resources in <a href="../../posts/GraphicalAbstract_1/index.html">Graphical Abstracts 1</a> and how to organise the page for a legible graphical abstract in <a href="../../posts/GraphicalAbstracts_2/index.html">Graphical Abstracts 2</a>. Now, as the last step, we can add a little text where necessary, quicker orient readers with colors, and make sure we got it right with a little feedback.</p>
-<section id="text" class="level4">
-<h4 class="anchored" data-anchor-id="text">Text</h4>
-<p>A minimum amount of text will be necessary in almost all Graphical Abstracts: to explain arrows, images, and point to conclusions. Of course, keep text to a minimum and understandable, i.e., without jargon or abbreviations. Use easy to understand language: you may want to use popular keywords or phrases to rapidly grab attention and orient audiences. Text may have to be added to label pictograms that are otherwise ambiguous or that are uncommon. A circle could mean molecule, area, cell or similar. <img src="https://helenajamborwrites.netlify.app/posts/GraphicalAbstracts_3/text1.png" class="img-fluid" alt="Pictograms with unclear meaning"></p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://helenajamborwrites.netlify.app/posts/GraphicalAbstracts_3/text2.png" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Pictograms explained with minimal text</figcaption>
-</figure>
-</div>
-<p>When no images are available, e.g., for highly specialized words, text can be used as a substitute for images.</p>
-<p>Think of all text as legends to your visuals! In this spirit, try to encode your text annotations the same way as the visual element they are encoding.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://helenajamborwrites.netlify.app/posts/GraphicalAbstracts_3/text3.png" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Colored text to explain key point - saving your files</figcaption>
-</figure>
-</div>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://helenajamborwrites.netlify.app/posts/GraphicalAbstracts_3/text4.png" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Multi-colored text as legend to entire graphical abstract</figcaption>
-</figure>
-</div>
-</section>
-<section id="colors" class="level4">
-<h4 class="anchored" data-anchor-id="colors">Colors</h4>
-<p>We first and foremost make graphical abstracts as a visual appetizer for our readers, and as such they should be attractive and colorful. In all visualizations we use color to highlight or contrast (see also examples with text above), to depict the natural appearance of a visualized object, or to encode numbers: sequential/continuous data should be encoded with varying saturation of one color, diverging data with a 2-color scheme, and qualitative data may be encoded with varying color hues</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://helenajamborwrites.netlify.app/posts/GraphicalAbstracts_3/Colors-01.png" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Color use in visaualizations.Rabbit by Albrecht Dürer, Public domain, via Wikimedia Commons.</figcaption>
-</figure>
-</div>
-<section id="consistent-colors" class="level5">
-<h5 class="anchored" data-anchor-id="consistent-colors">Consistent colors</h5>
-<p>In all cases it is important to use colors consistently. The color code/color scheme should be maintained within the abstract and also between abstract and the main manuscript. A change in color is considered to also be a change in meaning – colors should therefore be carefully chosen. As colors are perceived immediately, they should overall be used sparsely to not overload readers and distract from the main message.</p>
-</section>
-<section id="accessible-colors" class="level5">
-<h5 class="anchored" data-anchor-id="accessible-colors">Accessible colors</h5>
-<p>When selecting colors, authors should always ensure that colors are accessible to all readers, including color blind audiences. We included many color suggestions in <a href="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001161">our big survey of image figures published in PLOS Bio</a>: <img src="https://helenajamborwrites.netlify.app/posts/GraphicalAbstracts_3/ColorVisibility.png" class="img-fluid" alt="Color visibilities on backdrop"></p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://helenajamborwrites.netlify.app/posts/GraphicalAbstracts_3/Colorblind.png" class="img-fluid figure-img" width="440"></p>
-<figcaption class="figure-caption">Colors as seen by color-blind audiences</figcaption>
-</figure>
-</div>
-<p>And, the importance of making all your figure accessible to color biond was was prominently highlighted in a technology feature by Alla Katsnelson in <a href="https://www.nature.com/articles/d41586-021-02696-z">Nature</a>, featuring also my humble opinion.</p>
-</section>
-<section id="tools-for-selecting-colors-and-color-schemes" class="level5">
-<h5 class="anchored" data-anchor-id="tools-for-selecting-colors-and-color-schemes">Tools for selecting colors and color schemes:</h5>
-<ul>
-<li><p><a href="https://colorbrewer2.org/">ColorBrewer</a> was developed for data color schemes in maps, but is easy to use and works perfectly well for other sciences need to visualize data. <img src="https://helenajamborwrites.netlify.app/posts/GraphicalAbstracts_3/ColorBrewer.png" class="img-fluid"></p></li>
-<li><p><a href="https://paletton.com/">Paletton</a> lets you choose attractive color combinations using a color wheel, e.g.&nbsp;adjacent colors for harmonious appearance or complementary colors to contrast scenarios. <img src="https://helenajamborwrites.netlify.app/posts/GraphicalAbstracts_3/P.png" class="img-fluid"></p></li>
-</ul>
-<p>Neat: with palettton you can try out your color combination in a mock website/poster, in an art-work similar to a graphical abstract scenario, and also check how color combinations are visible to color-blind audiences:</p>
-<div class="quarto-layout-panel">
-<div class="quarto-layout-row quarto-layout-valign-top">
-<div class="quarto-layout-cell" style="flex-basis: 100.0%;justify-content: center;">
-<p><img src="https://helenajamborwrites.netlify.app/posts/GraphicalAbstracts_3/P_poster-website.png" class="img-fluid" width="220"> <img src="https://helenajamborwrites.netlify.app/posts/GraphicalAbstracts_3/P_flowerdesign.png" class="img-fluid" width="220"> <img src="https://helenajamborwrites.netlify.app/posts/GraphicalAbstracts_3/P_colorblind.png" class="img-fluid" width="260"></p>
-</div>
-</div>
-</div>
-<ul>
-<li><a href="https://icolorpalette.com/color-palette-from-images">IColorpalette</a> let’s you pick a color scheme based on your favorite art work! Here’s one for all of us longing for some holiday!</li>
-</ul>
-<p><img src="https://helenajamborwrites.netlify.app/posts/GraphicalAbstracts_3/holiday_colors.png" class="img-fluid" alt="Color scheme based on holiday picture, colors as hex values"> Bonus: you can download the SVG file and directly use the colors via the color pipette!</p>
-
-
-</section>
-</section>
-</section>
-
- ]]></description>
-  <category>datavis</category>
-  <category>Graphical abstracts</category>
-  <category>how-to</category>
-  <guid>https://helenajamborwrites.netlify.app/posts/GraphicalAbstracts_3/GraphicalAbstracts.html</guid>
-  <pubDate>Sun, 18 Jun 2023 22:00:00 GMT</pubDate>
-  <media:content url="https://helenajamborwrites.netlify.app/posts/GraphicalAbstracts_3/text3.png" medium="image" type="image/png" height="54" width="144"/>
 </item>
 </channel>
 </rss>

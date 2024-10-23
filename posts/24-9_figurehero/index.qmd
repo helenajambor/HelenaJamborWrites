@@ -1,0 +1,41 @@
+---
+title: "From zero to figure her"
+description: "A quick reference for figure design - new Paper alert"
+author: "Helena Jambor"
+date: "20240922"
+categories:
+  - datavis
+  - how-to
+  - Graphical abstracts
+image: "Figure1_checklist_name.png"
+---
+#### A produce of this summer 
+I had a lot of idle time this summer, waiting for children to return from their activities. Got the idea to finally [write up all the tips](https://osf.io/preprints/osf/xgbyr) I give students for improving their figures. 
+
+#### Why improve figures
+Figures are often packed with quantitative data and many biologists aren’t taught how to design impactful data figures during their studies. My article provides those rapidly wanting to improve figures with a checklist to follow along. And those wanting to learn more with the scientific background why certain practices are good for effective visualizations. 
+
+::: {#fig-overview}
+![](Figure1_checklist_name.png)
+
+The checklist.
+:::
+
+#### Work-in-progress.. 
+The article is still a preprint, feel free to suggest improvements! 
+
+::: {#fig-overview}
+![](0.png)
+
+![](2.png)
+
+![](Figure1_checklist_name.png)
+
+Stages of the checklist. 
+:::
+
+
+I am happy to finally share with you that the summary of my Graphical Abstract blogs ([here ](../GraphicalAbstract_1/index.qmd), [here](../GraphicalAbstracts_2/index.qmd), [and here](../GraphicalAbstracts_3/GraphicalAbstracts.qmd) is now available as paper for you all to read and cite! 
+Out in <a href= https://dx.plos.org/10.1371/journal.pcbi.1011789>PLOS Computational Biology.</a> 
+
+
