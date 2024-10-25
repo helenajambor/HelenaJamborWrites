@@ -70,6 +70,10 @@
 <ul>
 <li><a href="https://colorbrewer2.org">Color Brewer: Pick color schemes for data</a></li>
 <li><a href="https://webaim.org/resources/contrastchecker/">WebAIM Check if contrast of foreground and background colors are good</a> (and other accessibility issues)</li>
+<li><a href="http://paletton.com">Color palette designer</a></li>
+<li>Pick color from image <a href="http://icolorpalette.com/color-palette-from-images">icolorpalette.com/color-palette-from-images</a></li>
+<li>XKCD color study about color names <a href="https://blog.xkcd.com/2010/05/03/color-survey-results/">XKCD</a></li>
+<li>Lisa Rost, datadrapper: <a href="https://blog.datawrapper.de/beautifulcolors/">Pick beautiful colors for your charts</a></li>
 </ul>
 </section>
 <section id="specials" class="level2">
@@ -99,6 +103,15 @@
 <li>Eyeballing game: <a href="http://woodgears.ca/eyeball/">guess angles in data</a></li>
 <li>Clearly Nicolas cage is causing suicides: <a href="http://www.tylervigen.com/spurious-correlations">Correlation/Causation</a></li>
 </ul>
+</section>
+<section id="slides-from-an-introductory-talk" class="level4">
+<h4 class="anchored" data-anchor-id="slides-from-an-introductory-talk">Slides from an introductory talk</h4>
+<ul>
+<li>intro to why we visualize</li>
+<li>tips: how not to lie with charts</li>
+<li>exercises for improving poor charts</li>
+</ul>
+<p><a href="https://www.dropbox.com/scl/fi/q9xknt6oq60t77hrzdshs/2024-10-08_HelenaJambor_handout.pdf?rlkey=ivpwlankzh4kvg9uvwelzo2r5&amp;st=1u3ctz9b&amp;dl=0">link to slides</a></p>
 
 
 </section>

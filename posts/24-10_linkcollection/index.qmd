@@ -50,6 +50,10 @@ Find inspiring Layouts in Will Timmins-Stahl [BMJ Infografics](https://www.bmj.c
 #### Color
 - [Color Brewer: Pick color schemes for data](https://colorbrewer2.org)
 - [WebAIM Check if contrast of foreground and background colors are good](https://webaim.org/resources/contrastchecker/) (and other accessibility issues) 
+- [Color palette designer](http://paletton.com)
+- Pick color from image [icolorpalette.com/color-palette-from-images](http://icolorpalette.com/color-palette-from-images)
+- XKCD color study about color names [XKCD](https://blog.xkcd.com/2010/05/03/color-survey-results/)
+- Lisa Rost, datadrapper: [Pick beautiful colors for your charts](https://blog.datawrapper.de/beautifulcolors/)
 
 ## Specials
 #### Graphical Abstracts
@@ -70,6 +74,15 @@ Check out [my previous blog](../Tables/TableDesign.qmd).
 - A funny tool [to make up your data](http://robertgrantstats.co.uk/drawmydata.html)
 - Eyeballing game: [guess angles in data](http://woodgears.ca/eyeball/)
 - Clearly Nicolas cage is causing suicides: [Correlation/Causation](http://www.tylervigen.com/spurious-correlations)
+
+#### Slides from an introductory talk 
+- intro to why we visualize
+- tips: how not to lie with charts
+- exercises for improving poor charts 
+
+[link to slides](https://www.dropbox.com/scl/fi/q9xknt6oq60t77hrzdshs/2024-10-08_HelenaJambor_handout.pdf?rlkey=ivpwlankzh4kvg9uvwelzo2r5&st=1u3ctz9b&dl=0)
+
+
 
 
 
