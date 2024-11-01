@@ -38,28 +38,19 @@
 </section>
 <section id="text-replace-text-with-images" class="level4">
 <h4 class="anchored" data-anchor-id="text-replace-text-with-images">Text (replace text with images)</h4>
-<p>Some general pictogram resources:</p>
 <ul>
-<li><a href="https://fontawesome.com/icons?d=gallery&amp;c=animals">Fontawesome, use with attribution</a></li>
-<li><a href="https://thenounproject.com/">The Nounproject - use with attribution, registration necessary</a></li>
-<li><a href="https://www.svgrepo.com/">SVG repo General Pictogram collection</a></li>
-<li><a href="">Flaticon General Pictogram collection</a>https://www.flaticon.com/</li>
-<li><a href="">Iconduck General Pictogram collection</a>https://iconduck.com/</li>
-<li><a href="">Simpleicons General Pictogram collection</a>https://simpleicons.org/</li>
+<li><p>Use abbreviations rarely, and only if tested.</p></li>
+<li><p>Add alt-text to support accessibility of figures. <a href="https://www.perkins.org/resource/how-write-alt-text-and-image-descriptions-visually-impaired/">Here is how</a></p></li>
+<li><p>Consider replacing/enhancing text with icons: Some general pictogram resources:</p></li>
+<li><p><a href="https://fontawesome.com/icons?d=gallery&amp;c=animals">Fontawesome, use with attribution</a></p></li>
+<li><p><a href="https://thenounproject.com/">The Nounproject - use with attribution, registration necessary</a></p></li>
+<li><p><a href="https://www.svgrepo.com/">SVG repo General Pictogram collection</a></p></li>
+<li><p><a href="">Flaticon General Pictogram collection</a>https://www.flaticon.com/</p></li>
+<li><p><a href="">Iconduck General Pictogram collection</a>https://iconduck.com/</p></li>
+<li><p><a href="">Simpleicons General Pictogram collection</a>https://simpleicons.org/</p></li>
 </ul>
-<p>Biology/Science</p>
-<ul>
-<li><a href="https://bioicons.com/">Simon Dürr’s bioicon collection</a></li>
-<li><a href="http://phylopic.org">Icons of all animals and plants etc</a></li>
-<li><a href="https://www.ebi.ac.uk/style-lab/general/fonts/v1.3/">General science icons</a></li>
-<li><a href="https://reactome.org/icon-lib">Science/chemistry icons:</a></li>
-<li><a href="https://scidraw.io/">SCIDRAW</a> a repository of free SVG cartoons for science supported by the Sainsbury Wellcome Centre, CC-BY</li>
-</ul>
-<p>Medicine</p>
-<ul>
-<li><a href="https://smart.servier.com/">smart servier PPT collection</a></li>
-<li><a href="https://healthicons.org/">HeathIcons</a></li>
-</ul>
+<p>Biology/Science - New! Entirely in public domain, growing: <a href="https://bioart.niaid.nih.gov/">NIH BioArt collection</a> - <a href="https://bioicons.com/">Simon Dürr’s bioicon collection</a> - <a href="http://phylopic.org">Icons of all animals and plants etc</a> - <a href="https://www.ebi.ac.uk/style-lab/general/fonts/v1.3/">General science icons</a> - <a href="https://reactome.org/icon-lib">Science/chemistry icons:</a> - <a href="https://scidraw.io/">SCIDRAW</a> a repository of free SVG cartoons for science supported by the Sainsbury Wellcome Centre, CC-BY</p>
+<p>Medicine - <a href="https://smart.servier.com/">smart servier PPT collection</a> - <a href="https://healthicons.org/">HeathIcons</a></p>
 </section>
 <section id="layout" class="level4">
 <h4 class="anchored" data-anchor-id="layout">Layout</h4>
@@ -102,7 +93,12 @@
 <li>A funny tool <a href="http://robertgrantstats.co.uk/drawmydata.html">to make up your data</a></li>
 <li>Eyeballing game: <a href="http://woodgears.ca/eyeball/">guess angles in data</a></li>
 <li>Clearly Nicolas cage is causing suicides: <a href="http://www.tylervigen.com/spurious-correlations">Correlation/Causation</a></li>
+<li><a href="https://www.graphs.world/">Guess the underlying dataset is for a daily chart</a>, thank you for this addition from Christian!</li>
 </ul>
+</section>
+<section id="make-it-tools" class="level4">
+<h4 class="anchored" data-anchor-id="make-it-tools">Make it: Tools</h4>
+<p>A handy list for finding resources to tools and software: - All about <a href="https://shinyapps.org/apps/RGraphCompendium/index.php">creating charts in R</a> by Eric-Jan Wagenmakers and Quentin F. Gronau, suggestion from Vincent</p>
 </section>
 <section id="slides-from-an-introductory-talk" class="level4">
 <h4 class="anchored" data-anchor-id="slides-from-an-introductory-talk">Slides from an introductory talk</h4>

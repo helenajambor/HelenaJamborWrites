@@ -22,8 +22,11 @@ The links are organised by the different aspects of creating scientific data fig
 Further reading: [Beyond bar and line plots](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002128)
 
 #### Text (replace text with images)
-Some general pictogram resources:
+- Use abbreviations rarely, and only if tested.
+- Add alt-text to support accessibility of figures. [Here is how](https://www.perkins.org/resource/how-write-alt-text-and-image-descriptions-visually-impaired/)
 
+- Consider replacing/enhancing text with icons: 
+Some general pictogram resources:
 - [Fontawesome, use with attribution](https://fontawesome.com/icons?d=gallery&c=animals)
 - [The Nounproject - use with attribution, registration necessary](https://thenounproject.com/)
 - [SVG repo General Pictogram collection](https://www.svgrepo.com/)
@@ -32,7 +35,7 @@ Some general pictogram resources:
 - [Simpleicons General Pictogram collection]()https://simpleicons.org/
 
 Biology/Science
-
+- New! Entirely in public domain, growing: [NIH BioArt collection](https://bioart.niaid.nih.gov/)
 - [Simon Dürr's bioicon collection](https://bioicons.com/)
 - [Icons of all animals and plants etc](http://phylopic.org)
 - [General science icons](https://www.ebi.ac.uk/style-lab/general/fonts/v1.3/)
@@ -40,7 +43,6 @@ Biology/Science
 - [SCIDRAW](https://scidraw.io/) a repository of free SVG cartoons for science supported by the Sainsbury Wellcome Centre, CC-BY
 
 Medicine 
-
 - [smart servier PPT collection](https://smart.servier.com/)
 - [HeathIcons](https://healthicons.org/)
 
@@ -74,6 +76,11 @@ Check out [my previous blog](../Tables/TableDesign.qmd).
 - A funny tool [to make up your data](http://robertgrantstats.co.uk/drawmydata.html)
 - Eyeballing game: [guess angles in data](http://woodgears.ca/eyeball/)
 - Clearly Nicolas cage is causing suicides: [Correlation/Causation](http://www.tylervigen.com/spurious-correlations)
+- [Guess the underlying dataset is for a daily chart](https://www.graphs.world/), thank you for this addition from Christian! 
+
+#### Make it: Tools
+A handy list for finding resources to tools and software:
+- All about [creating charts in R](https://shinyapps.org/apps/RGraphCompendium/index.php) by Eric-Jan Wagenmakers and Quentin F. Gronau, suggestion from Vincent
 
 #### Slides from an introductory talk 
 - intro to why we visualize
