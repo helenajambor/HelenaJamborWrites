@@ -10,9 +10,9 @@ categories:
 image: "first-aid-svgrepo-com.svg"
 ---
 #### All the useful websites! 
-I have already emailed these Dataviz resources to countless scientists - high time to finally set up a centralised collection of to all websites!
+I have already emailed these Dataviz resources to countless scientists - high time to post the collected links here!
 
-The links are organised by the different aspects of creating scientific data figures: 1. Choosing a chart, 2. text, 3. layouts, 4. colours. There are also links to special use cases and a bit of entertainment. 
+The websites are organised by the different aspects of creating scientific data figures: 1. Choosing a chart, 2. text, 3. layouts, 4. colors. There are also links to special use cases and a bit of entertainment. 
 
 #### Choosing charts
 - [Severino Ribecca DataViz Catalogue](http://www.datavizcatalogue.com/)
