@@ -10,7 +10,84 @@
 <atom:link href="https://helenajamborwrites.netlify.app/index.xml" rel="self" type="application/rss+xml"/>
 <description>Blog about data visualization and visual communication of scientific data</description>
 <generator>quarto-1.4.552</generator>
-<lastBuildDate>Tue, 22 Oct 2024 22:00:00 GMT</lastBuildDate>
+<lastBuildDate>Mon, 03 Feb 2025 23:00:00 GMT</lastBuildDate>
+<item>
+  <title>Infografics for cancer patients</title>
+  <dc:creator>Helena Jambor</dc:creator>
+  <dc:creator>Helena Jambor</dc:creator>
+  <link>https://helenajamborwrites.netlify.app/posts/25-2_VisMed/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="infografics-replace-text" class="level4">
+<h4 class="anchored" data-anchor-id="infografics-replace-text">Infografics replace text</h4>
+<section id="visual-aids-help-cancer-patients-through-treatment" class="level6">
+<h6 class="anchored" data-anchor-id="visual-aids-help-cancer-patients-through-treatment">Visual aids help cancer patients through treatment</h6>
+<p>Visualizations have a HUGE potential for healthcare. Complicated terms, scarce time, and language barriers challenge communication with healthcare professionals. In addition, cancer patients are under stress, often elderly, or have pre-conditions. We show that visual aids increase decision-making competence in complex cancer therapies.</p>
+<div id="fig-overview" class="quarto-figure quarto-figure-center quarto-float anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-overview-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="https://helenajamborwrites.netlify.app/posts/25-2_VisMed/Fig1_Workflow-Treatmentplan.png" class="img-fluid figure-img">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-overview-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;1: Example Visual Timeline
+</figcaption>
+</figure>
+</div>
+<p>In this study I joined forces with the Hematology Unit at the university hospital Dresden, the patient board of the National Center for Tumor Diseases (NCT/UCC) and the Faculty of Psychology at TUD Dresden University of Technology.</p>
+<p>First, we tested which visual representations effectively communicated treatment terms. 7 out of 8 pictograms, 5 out of 8 comics, and 4 out of 8 photos were self-explanable, which means that they could be guessed correctly by &gt;85% of participants. When testing suitability, all pictograms were rated well-suited for the depicted term.</p>
+<div id="fig-visualrepresentations" class="quarto-figure quarto-figure-center quarto-float anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-visualrepresentations-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="https://helenajamborwrites.netlify.app/posts/25-2_VisMed/SupplFig2_VisualRepresentations.png" class="img-fluid figure-img">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-visualrepresentations-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;2: Different visual representations for key terms
+</figcaption>
+</figure>
+</div>
+<p>Next, together with stakeholders, we developed visual timelines to help patients navigate cancer treatment, which is particularly complex for blood cancer patients. We compared comprehension of an audio explanation with versus without a visual aid and showed that visual aids not only helped in answering content questions, but also increased the security among participants that they had answered correctly - this is particularly important for high quality health care.</p>
+<div id="fig-plan-test" class="quarto-figure quarto-figure-center quarto-float anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-plan-test-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="https://helenajamborwrites.netlify.app/posts/25-2_VisMed/Anna_PR.png" class="img-fluid figure-img">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-plan-test-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;3: Visual aids help comprehension
+</figcaption>
+</figure>
+</div>
+<p>Last, we ran a pilot clinical evaluation. When visual aids were used in consultations with cancer patients, MDs responded that the aids were easy to use and they appeared to help patients. This was confirmed by self-assessment of patients. Patients showed good comprehension (mean proportion correct: 0.82) and recall (mean proportion correct: 0.71 after several weeks). But most encouragingly, patients were really grateful for the visual aid and treasured it, indicated by holding on to and regularly consulting the aid.</p>
+<div id="fig-clinical" class="quarto-figure quarto-figure-center quarto-float anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-clinical-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="https://helenajamborwrites.netlify.app/posts/25-2_VisMed/Fig4_Clinical.png" class="img-fluid figure-img">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-clinical-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;4: Patients responses
+</figcaption>
+</figure>
+</div>
+<p>I am most grateful to the anonymous participants and the patients who volunteered to participate in this clinical work!</p>
+<ul>
+<li>Read the open access publication <a href="https://academic.oup.com/jamia/advance-article/doi/10.1093/jamia/ocae319/7958420#500417834">in JAMIA</a></li>
+<li>Read the <a href="https://tu-dresden.de/med/mf/die-fakultaet/newsuebersicht/infografik-statt-text-studie-zeigt-dass-visuelle-hilfen-entscheidungskompetenz-bei-komplexen-krebstherapien-erhoehen">press-release</a></li>
+</ul>
+
+
+</section>
+</section>
+
+ ]]></description>
+  <category>datavis</category>
+  <category>article</category>
+  <guid>https://helenajamborwrites.netlify.app/posts/25-2_VisMed/</guid>
+  <pubDate>Mon, 03 Feb 2025 23:00:00 GMT</pubDate>
+  <media:content url="https://helenajamborwrites.netlify.app/posts/25-2_VisMed/Fig1_Workflow-Treatmentplan.png" medium="image" type="image/png" height="69" width="144"/>
+</item>
 <item>
   <title>First aid for figures: all resources</title>
   <dc:creator>Helena Jambor</dc:creator>
@@ -45,18 +122,18 @@
 </ul>
 <p>Some general pictogram resources:</p>
 <ul>
-<li><a href="https://fontawesome.com/icons?d=gallery&amp;c=animals">Fontawesome, use with attribution</a></li>
-<li><a href="https://thenounproject.com/">The Nounproject - use with attribution, registration necessary</a></li>
-<li><a href="https://www.svgrepo.com/">SVG repo General Pictogram collection</a></li>
-<li><a href="">Flaticon General Pictogram collection</a>https://www.flaticon.com/</li>
-<li><a href="">Iconduck General Pictogram collection</a>https://iconduck.com/</li>
-<li><a href="">Simpleicons General Pictogram collection</a>https://simpleicons.org/</li>
+<li><a href="https://www.svgrepo.com/">SVG repo General Pictogram collection</a> - public domain!</li>
+<li><a href="https://fontawesome.com/icons?d=gallery&amp;c=animals">Fontawesome, free with attribution</a></li>
+<li><a href="https://thenounproject.com/">The Nounproject - free use with attribution, registration necessary</a></li>
+<li><a href="https://www.flaticon.com/">Flaticon General Pictogram collection</a></li>
+<li><a href="https://iconduck.com/">Iconduck General Pictogram collection</a></li>
+<li><a href="https://simpleicons.org/">Simpleicons General Pictogram collection</a></li>
 </ul>
 <p>Biology/Science</p>
 <ul>
 <li>New! Entirely in public domain, growing: <a href="https://bioart.niaid.nih.gov/">NIH BioArt collection</a></li>
-<li><a href="https://bioicons.com/">Simon Dürr’s bioicon collection</a></li>
-<li><a href="http://phylopic.org">Icons of all animals and plants etc</a></li>
+<li><a href="https://bioicons.com/">Simon Dürr’s bioicon collection</a> - collection of all the public domain icons!</li>
+<li><a href="http://phylopic.org">Icons of all animals and plants etc</a> - black icons, by now &gt;10.000. Public domain, all made by Michael Keesey. Support him with a coffe!</li>
 <li><a href="https://www.ebi.ac.uk/style-lab/general/fonts/v1.3/">General science icons</a></li>
 <li><a href="https://reactome.org/icon-lib">Science/chemistry icons:</a></li>
 <li><a href="https://scidraw.io/">SCIDRAW</a> a repository of free SVG cartoons for science supported by the Sainsbury Wellcome Centre, CC-BY</li>
@@ -1836,78 +1913,6 @@ Tableau blog on red/green<a href="https://www.tableau.com/blog/examining-data-vi
   <guid>https://helenajamborwrites.netlify.app/posts/Image_how_scale/</guid>
   <pubDate>Wed, 02 Aug 2023 22:00:00 GMT</pubDate>
   <media:content url="https://helenajamborwrites.netlify.app/posts/Image_how_scale/worms_copy.png" medium="image" type="image/png" height="33" width="144"/>
-</item>
-<item>
-  <title>How to… image formatting</title>
-  <dc:creator>Helena Jambor</dc:creator>
-  <dc:creator>Helena Jambor</dc:creator>
-  <link>https://helenajamborwrites.netlify.app/posts/Image_how_mag/</link>
-  <description><![CDATA[ 
-
-
-
-
-<section id="how-to-image-formatting" class="level2">
-<h2 class="anchored" data-anchor-id="how-to-image-formatting">How to… image formatting</h2>
-<p>In my <a href="../../posts/Image_numbers/index.html">previous post</a> I wrote about issues that make images in publications hard to understand. Now let’s improve this!</p>
-<section id="before-you-start" class="level4">
-<h4 class="anchored" data-anchor-id="before-you-start">Before you start…</h4>
-<p>At best do not mess with the image from your microscope (usually .TIFF).Before adjusting an image for publication, first make a copy and keep the original untouched somewhere save. You more likely than not will need it at some point, e.g.&nbsp;to re-do analysis with newer software, make a better version for publication, or to give to colleagues for reanalysis!</p>
-</section>
-</section>
-<section id="adjust-brighness-and-orientation" class="level2">
-<h2 class="anchored" data-anchor-id="adjust-brighness-and-orientation">Adjust brighness and orientation</h2>
-<p>Almost always adjustments are necessary in digital images, most common of the brightness and contrast. When doing quantitative comparisons of images, fixed intensity values should be used and novice users should only apply linear adjustments that are applied to the whole image. Important: make these adjustments before cropping an image! Miura and Norrelykke in detail describe how the same adjustment calculation varies when performed on an full-view versus a cropped image. Next, many images are rotated. There are consensus ways to orient images in many fields. Humans are shown with the head at the top and the feet at the bottom, but also other traditions exist, e.g.&nbsp;for epithelia the apical side in shown at the top etc. This often requires rotation of microscope images. All rotations must be done carefully as this process redistributes image intensity values. In most software, increments of 90 degrees pixels can be reordered rather than interpolated, which maintains the intensity distribution. (Find out more here: Miura &amp; Norrelykke 2021, Schmied &amp; Jambor, 2020).</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://helenajamborwrites.netlify.app/posts/Image_how_mag/Kota.png" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Sequence matters when adjusting brightness contrast. Adapted from <a href="https://doi.org/10.15252/embj.2020105889">Miura &amp; Norrelykke</a></figcaption>
-</figure>
-</div>
-</section>
-<section id="cropping-magnification" class="level2">
-<h2 class="anchored" data-anchor-id="cropping-magnification">Cropping &amp; Magnification</h2>
-<p>Cropping is a normal adjustment to focus the audience on the key message. To show cellular structures, a close up of the organelle is required, not the whole slide that was imaged. As a rule, cropping is permitted, as long as no key feature is removed that is important for the scientific conclusion. Scientist should also consider the size of the image in the final figure: are the features that matter visible? Might it be better to show the image in larger size? Alternatively, consider enlarging and cropping the image to focus the reader on your key result, or ideally show the original image and an image detail (inset) side by side. When insets are shown their position in the original image must be indicated, e.g., with a “Region of interest”.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://helenajamborwrites.netlify.app/posts/Image_how_mag/Insets.png" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Example of poor and improved insets in figures<a href="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001161">from Jambor 2021</a></figcaption>
-</figure>
-</div>
-</section>
-<section id="assembling-a-figure-with-images" class="level2">
-<h2 class="anchored" data-anchor-id="assembling-a-figure-with-images">Assembling a figure with images</h2>
-<p>Finally, when images are all processed there are many solutions to assembling multi-panel figures. Usually, figures do not only show one microscope image, but several views, split channels, merged images, or false-color quantifications. One is <a href="https://imagej.net/plugins/figurej">FigureJ</a>, a plugin for ImageJ/FIJI by Jerome Mutterer. Another possibility is QuickFigures, again for ImageJ by Mazo. And last, it is also possible to run image processing scripts in the vector graphics software Inkscape directly (<a href="https://www.youtube.com/watch?v=hdlnZMybf7g">here</a> is a youtube tutorial by Jerome Mutterer).</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://helenajamborwrites.netlify.app/posts/Image_how_mag/FigureJ.png" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">FigureJ workflow to assemble a composite image figure</figcaption>
-</figure>
-</div>
-<section id="read-more" class="level4">
-<h4 class="anchored" data-anchor-id="read-more">Read more</h4>
-<ul>
-<li>
-Reproducible image handling and analysis. <a href="https://doi.org/10.15252/embj.2020105889"> Miura, K., Norrelykke, S.F., 2021. EMBO J</a>
-</li>
-<li>
-Effective image visualization for publications - a workflow using open access tools and concepts.<a href="https://doi.org/10.12688/f1000research.27140.2">Schmied, C., Jambor, H.K., 2020. F1000Res 9, 1373.</a>
-</li>
-<li>
-QuickFigures: a tool to quickly transform microscope images into quality figures.<a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0240280">Mazo, G., 2020. PLoS One</a>
-</li>
-</ul>
-
-
-</section>
-</section>
-
- ]]></description>
-  <category>images</category>
-  <category>how-to</category>
-  <guid>https://helenajamborwrites.netlify.app/posts/Image_how_mag/</guid>
-  <pubDate>Mon, 31 Jul 2023 22:00:00 GMT</pubDate>
-  <media:content url="https://helenajamborwrites.netlify.app/posts/Image_how_mag/Kota.png" medium="image" type="image/png" height="58" width="144"/>
 </item>
 </channel>
 </rss>

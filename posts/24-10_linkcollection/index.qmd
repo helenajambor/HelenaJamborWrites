@@ -28,18 +28,18 @@ Further reading: [Beyond bar and line plots](https://journals.plos.org/plosbiolo
 
 Some general pictogram resources:
 
-- [Fontawesome, use with attribution](https://fontawesome.com/icons?d=gallery&c=animals)
-- [The Nounproject - use with attribution, registration necessary](https://thenounproject.com/)
-- [SVG repo General Pictogram collection](https://www.svgrepo.com/)
-- [Flaticon General Pictogram collection]()https://www.flaticon.com/
-- [Iconduck General Pictogram collection]()https://iconduck.com/
-- [Simpleicons General Pictogram collection]()https://simpleicons.org/
+- [SVG repo General Pictogram collection](https://www.svgrepo.com/) - public domain! 
+- [Fontawesome, free with attribution](https://fontawesome.com/icons?d=gallery&c=animals)
+- [The Nounproject - free use with attribution, registration necessary](https://thenounproject.com/)
+- [Flaticon General Pictogram collection](https://www.flaticon.com/)
+- [Iconduck General Pictogram collection](https://iconduck.com/)
+- [Simpleicons General Pictogram collection](https://simpleicons.org/)
 
 Biology/Science
 
 - New! Entirely in public domain, growing: [NIH BioArt collection](https://bioart.niaid.nih.gov/)
-- [Simon Dürr's bioicon collection](https://bioicons.com/)
-- [Icons of all animals and plants etc](http://phylopic.org)
+- [Simon Dürr's bioicon collection](https://bioicons.com/) - collection of all the public domain icons! 
+- [Icons of all animals and plants etc](http://phylopic.org) - black icons, by now >10.000. Public domain, all made by Michael Keesey. Support him with a coffe! 
 - [General science icons](https://www.ebi.ac.uk/style-lab/general/fonts/v1.3/)
 - [Science/chemistry icons:](https://reactome.org/icon-lib)
 - [SCIDRAW](https://scidraw.io/) a repository of free SVG cartoons for science supported by the Sainsbury Wellcome Centre, CC-BY

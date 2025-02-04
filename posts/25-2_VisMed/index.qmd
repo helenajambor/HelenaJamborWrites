@@ -1,0 +1,54 @@
+---
+title: "Infografics for cancer patients"
+description: "Visual aids help patients understand treatment timeline"
+author: "Helena Jambor"
+date: "20250204"
+categories:
+  - datavis
+  - article
+image: "Fig1_Workflow-Treatmentplan.png"
+---
+#### Infografics replace text
+
+###### Visual aids help cancer patients through treatment
+Visualizations have a HUGE potential for healthcare. Complicated terms, scarce time, and language barriers challenge communication with healthcare professionals. In addition, cancer patients are under stress, often elderly, or have pre-conditions. We show that visual aids increase decision-making competence in complex cancer therapies.
+
+::: {#fig-overview}
+![](Fig1_Workflow-Treatmentplan.png)
+
+Example Visual Timeline
+:::
+
+In this study I joined forces with the Hematology Unit at the university hospital Dresden, the patient board of the National Center for Tumor Diseases (NCT/UCC) and the Faculty of Psychology at TUD Dresden University of Technology. 
+
+First, we tested which visual representations effectively communicated treatment terms. 7 out of 8 pictograms, 5 out of 8 comics, and 4 out of 8 photos were self-explanable, which means that they could be guessed correctly by >85% of participants. When testing suitability, all pictograms were rated well-suited for the depicted term. 
+
+::: {#fig-visualrepresentations}
+![](SupplFig2_VisualRepresentations.png)
+
+Different visual representations for key terms
+:::
+
+Next, together with stakeholders, we developed visual timelines to help patients navigate cancer treatment, which is particularly complex for blood cancer patients. We compared comprehension of an audio explanation with versus without a visual aid and showed that visual aids not only helped in answering content questions, but also increased the security among participants that they had answered correctly - this is particularly important for high quality health care. 
+
+::: {#fig-plan-test}
+![](Anna_PR.png)
+
+Visual aids help comprehension
+:::
+
+Last, we ran a pilot clinical evaluation. When visual aids were used in consultations with cancer patients, MDs responded that the aids were easy to use and they appeared to help patients. This was confirmed by self-assessment of patients. Patients showed good comprehension (mean proportion correct: 0.82) and recall (mean proportion correct: 0.71 after several weeks). But most encouragingly, patients were really grateful for the visual aid and treasured it, indicated by holding on to and regularly consulting the aid. 
+
+::: {#fig-clinical}
+![](Fig4_Clinical.png)
+
+Patients responses
+:::
+
+I am most grateful to the anonymous participants and the patients who volunteered to participate in this clinical work! 
+
+- Read the open access publication [in JAMIA](https://academic.oup.com/jamia/advance-article/doi/10.1093/jamia/ocae319/7958420#500417834) 
+- Read the [press-release](https://tu-dresden.de/med/mf/die-fakultaet/newsuebersicht/infografik-statt-text-studie-zeigt-dass-visuelle-hilfen-entscheidungskompetenz-bei-komplexen-krebstherapien-erhoehen)
+
+
+
