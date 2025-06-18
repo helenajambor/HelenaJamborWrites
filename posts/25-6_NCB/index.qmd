@@ -7,7 +7,7 @@ categories:
   - datavis
   - article
   - how-to
-image: "Jambor2025_FigureChecklist.png"
+image: "Jambor2025_FigureChecklist_small.png"
 ---
 #### I gave in!
 After years of students asking for a simple checklist to guide their figure design, and none available, I finally made it myself. And since I’m sure it’s not just my students who need this, it is now published.
