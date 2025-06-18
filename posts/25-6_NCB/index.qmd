@@ -1,0 +1,30 @@
+---
+title: "Chart Checklist"
+description: "A helpful guide for all who want to improve their chart figures"
+author: "Helena Jambor"
+date: "20250618"
+categories:
+  - datavis
+  - article
+  - how-to
+image: "Jambor2025_FigureChecklist.png)"
+---
+#### I gave in!
+After years of students asking for a simple checklist to guide their figure design, and none available, I finally made it myself. And since I’m sure it’s not just my students who need this, it is now published.
+
+##### Why checklists?
+In aviation, pilots rely on preflight checklists to ensure safety, and this was proven to reduce accidents dramatically. In biology, students aren’t trained in graphic design (nor do most want to be), but they do want something concrete to help them create figures that are legible, accessible, and thruthful. A checklist meets that need.
+
+##### Out in Nature Cell Bio
+I'm very happy that Nature Cell Biology saw the value in this work and supported it — with help from three open-minded experts: Beth Cimini, partner in crime & 2 anonymous. It’s not the kind of content biologists usually publish, but I think it’s exactly what many of us need. For microscopy, we’ve already seen the positive impact that [figure checklists](https://www.nature.com/articles/s41592-023-01987-9) can have.
+In this work, I share a point-by-point checklist for designing a chart figure. It includes chart selection. simplifing complex visuals, and effective use color and layout. And, I encourage making feedback part of the design process. I hope to empower biologists (and other scientists!) to communicate their data well – because effective [visual storytelling is also very important to science](https://www.nature.com/articles/nmeth.2571) - read both the article, the response and the response-to-the-response, I promise worth your time!
+
+Get your checklist to download [here](https://datashare.tu-dresden.de/s/Zi4jQr7aXG4ZCm3) 
+
+::: {#fig-checklist}
+![](Jambor2025_FigureChecklist.png)
+
+Figure Checklist 
+:::
+
+

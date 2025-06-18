@@ -10,7 +10,52 @@
 <atom:link href="https://helenajamborwrites.netlify.app/index.xml" rel="self" type="application/rss+xml"/>
 <description>Blog about data visualization and visual communication of scientific data</description>
 <generator>quarto-1.4.552</generator>
-<lastBuildDate>Mon, 03 Feb 2025 23:00:00 GMT</lastBuildDate>
+<lastBuildDate>Tue, 17 Jun 2025 22:00:00 GMT</lastBuildDate>
+<item>
+  <title>Chart Checklist</title>
+  <dc:creator>Helena Jambor</dc:creator>
+  <dc:creator>Helena Jambor</dc:creator>
+  <link>https://helenajamborwrites.netlify.app/posts/25-6_NCB/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="i-gave-in" class="level4">
+<h4 class="anchored" data-anchor-id="i-gave-in">I gave in!</h4>
+<p>After years of students asking for a simple checklist to guide their figure design, and none available, I finally made it myself. And since I’m sure it’s not just my students who need this, it is now published.</p>
+<section id="why-checklists" class="level5">
+<h5 class="anchored" data-anchor-id="why-checklists">Why checklists?</h5>
+<p>In aviation, pilots rely on preflight checklists to ensure safety, and this was proven to reduce accidents dramatically. In biology, students aren’t trained in graphic design (nor do most want to be), but they do want something concrete to help them create figures that are legible, accessible, and thruthful. A checklist meets that need.</p>
+</section>
+<section id="out-in-nature-cell-bio" class="level5">
+<h5 class="anchored" data-anchor-id="out-in-nature-cell-bio">Out in Nature Cell Bio</h5>
+<p>I’m very happy that Nature Cell Biology saw the value in this work and supported it — with help from three open-minded experts: Beth Cimini, partner in crime &amp; 2 anonymous. It’s not the kind of content biologists usually publish, but I think it’s exactly what many of us need. For microscopy, we’ve already seen the positive impact that <a href="https://www.nature.com/articles/s41592-023-01987-9">figure checklists</a> can have. In this work, I share a point-by-point checklist for designing a chart figure. It includes chart selection. simplifing complex visuals, and effective use color and layout. And, I encourage making feedback part of the design process. I hope to empower biologists (and other scientists!) to communicate their data well – because effective <a href="https://www.nature.com/articles/nmeth.2571">visual storytelling is also very important to science</a> - read both the article, the response and the response-to-the-response, I promise worth your time!</p>
+<p>Get your checklist to download <a href="https://datashare.tu-dresden.de/s/Zi4jQr7aXG4ZCm3">here</a></p>
+<div id="fig-checklist" class="quarto-figure quarto-figure-center quarto-float anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-checklist-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="https://helenajamborwrites.netlify.app/posts/25-6_NCB/Jambor2025_FigureChecklist.png" class="img-fluid figure-img">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-checklist-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;1: Figure Checklist
+</figcaption>
+</figure>
+</div>
+
+
+</section>
+</section>
+
+ ]]></description>
+  <category>datavis</category>
+  <category>article</category>
+  <category>how-to</category>
+  <guid>https://helenajamborwrites.netlify.app/posts/25-6_NCB/</guid>
+  <pubDate>Tue, 17 Jun 2025 22:00:00 GMT</pubDate>
+  <media:content url="https://helenajamborwrites.netlify.app/posts/25-6_NCB/Jambor2025_FigureChecklist.png)" medium="image"/>
+</item>
 <item>
   <title>Infografics for cancer patients</title>
   <dc:creator>Helena Jambor</dc:creator>
@@ -129,7 +174,7 @@ Figure&nbsp;4: Patients responses
 <li><a href="https://iconduck.com/">Iconduck General Pictogram collection</a></li>
 <li><a href="https://simpleicons.org/">Simpleicons General Pictogram collection</a></li>
 </ul>
-<p>Biology/Science</p>
+<p>Biology</p>
 <ul>
 <li>New! Entirely in public domain, growing: <a href="https://bioart.niaid.nih.gov/">NIH BioArt collection</a></li>
 <li><a href="https://bioicons.com/">Simon Dürr’s bioicon collection</a> - collection of all the public domain icons!</li>
@@ -143,6 +188,17 @@ Figure&nbsp;4: Patients responses
 <li><a href="https://smart.servier.com/">smart servier PPT collection</a></li>
 <li><a href="https://healthicons.org/">HeathIcons</a></li>
 </ul>
+<p>NEW! General Science/Natural Science</p>
+<ul>
+<li><a href="https://sciencefigures.org/">ScienceFigures</a> 10.000 picture illustrations, with lots of color. With ODL = open design license.</li>
+<li><a href="https://openscienceart.com/">OpenScienceArt</a> - still small, but expanding to include chemistry and physics. Many designers, with indication or source, CC0 mostly.</li>
+</ul>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://helenajamborwrites.netlify.app/posts/24-10_linkcollection/sciencefigures.png" class="img-fluid figure-img"></p>
+<figcaption>Examples from Science Figures</figcaption>
+</figure>
+</div>
 </section>
 <section id="layout" class="level4">
 <h4 class="anchored" data-anchor-id="layout">Layout</h4>
@@ -1750,169 +1806,6 @@ Tableau blog on red/green<a href="https://www.tableau.com/blog/examining-data-vi
   <guid>https://helenajamborwrites.netlify.app/posts/Image_how_annot/</guid>
   <pubDate>Mon, 07 Aug 2023 22:00:00 GMT</pubDate>
   <media:content url="https://helenajamborwrites.netlify.app/posts/Image_how_annot/Symbols_arrows_lettercode.png" medium="image" type="image/png" height="66" width="144"/>
-</item>
-<item>
-  <title>How to… image scale information</title>
-  <dc:creator>Helena Jambor</dc:creator>
-  <dc:creator>Helena Jambor</dc:creator>
-  <link>https://helenajamborwrites.netlify.app/posts/Image_how_scale/</link>
-  <description><![CDATA[ 
-
-
-
-
-<section id="how-to-image-scale-information" class="level2">
-<h2 class="anchored" data-anchor-id="how-to-image-scale-information">How to… image scale information</h2>
-<p>Microscopy images without any annotations are abstract art rather than scientific evidences. <a href="../../posts/Image_how_mag/index.html">After deciding on image size and format</a>, the next step towards making image content understandable is to annotate the object size, explain all colors, and any symbols used.</p>
-</section>
-<section id="scale-bars-in-publications" class="level2">
-<h2 class="anchored" data-anchor-id="scale-bars-in-publications">Scale bars in publications</h2>
-<p>Every scientific image needs scale information to allow audiences to compare and relate the image size with the physical world <a href="../../posts/Image_numbers/index.html">and not all published images currently have scale info</a>. Scale information is best conveyed with a scale bar with its physical dimensions. It’s also possible to make statements about the size of the entire image, or, as last resort, state the dimensions in the figure legend.</p>
-<div id="fig-Scales" class="quarto-layout-panel">
-<figure class="figure">
-<div class="quarto-layout-row quarto-layout-valign-top">
-<div class="quarto-layout-cell" style="flex-basis: 100.0%;justify-content: center;">
-<p><img src="https://helenajamborwrites.netlify.app/posts/Image_how_scale/Scale_examples.png" class="img-fluid figure-img"></p>
-</div>
-</div>
-<p></p><figcaption class="figure-caption">Figure&nbsp;1: Examples of poor and better scale information, <a href="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001161">from Jambor 2021</a></figcaption><p></p>
-</figure>
-</div>
-</section>
-<section id="many-ways-to-show-scale-in-images" class="level2">
-<h2 class="anchored" data-anchor-id="many-ways-to-show-scale-in-images">Many ways to show scale in images</h2>
-<p>Scales are included in scientific illustrations for a long time in different ways. In Maria Merian times, size statements were included in the book, not the drawing itself; she usually stated in the preface that all drawings are at real scale.</p>
-<p>Many times familiar objects are included in drawings or images for scale. Often, this is a human figure, e.g.&nbsp;with plants and trees, rocks, or animals.</p>
-<div id="fig-humanscale" class="quarto-layout-panel">
-<figure class="figure">
-<div class="quarto-layout-row quarto-layout-valign-top">
-<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
-<p><img src="https://helenajamborwrites.netlify.app/posts/Image_how_scale/Scale_human.png" class="img-fluid figure-img" width="250"></p>
-</div>
-<div class="quarto-layout-cell" style="flex-basis: 42.7%;justify-content: center;">
-<p><img src="https://helenajamborwrites.netlify.app/posts/Image_how_scale/ReDreaw_ipad.jpg" class="img-fluid figure-img" width="320"></p>
-</div>
-<div class="quarto-layout-cell" style="flex-basis: 24.0%;justify-content: center;">
-<p><img src="https://helenajamborwrites.netlify.app/posts/Image_how_scale/NICE_scalebar_human-for-scale.PNG" class="img-fluid figure-img" width="180"></p>
-</div>
-</div>
-<p></p><figcaption class="figure-caption">Figure&nbsp;2: Humans for scale of plants, dinosaurs, and unexpectedly large invertebrates</figcaption><p></p>
-</figure>
-</div>
-<p>At times other familiar objects are included: a penny is placed on a rock in geology or a measuring tape is shown.</p>
-<div id="fig-familiars" class="quarto-layout-panel">
-<figure class="figure">
-<div class="quarto-layout-row quarto-layout-valign-top">
-<div class="quarto-layout-cell" style="flex-basis: 100.0%;justify-content: center;">
-<p><img src="https://helenajamborwrites.netlify.app/posts/Image_how_scale/worms_copy.png" class="img-fluid figure-img"></p>
-</div>
-</div>
-<div class="quarto-layout-row quarto-layout-valign-top">
-<div class="quarto-layout-cell" style="flex-basis: 100.0%;justify-content: center;">
-<p><img src="https://helenajamborwrites.netlify.app/posts/Image_how_scale/NigelLarkin_Nat_SCA_Scalebar.png" class="img-fluid figure-img"></p>
-</div>
-</div>
-<p></p><figcaption class="figure-caption">Figure&nbsp;3: Earth worm next to measuring tape and bone scaled with credit-card measure (merch from Nat_SCA)</figcaption><p></p>
-</figure>
-</div>
-</section>
-<section id="scales-in-microscopy-images" class="level2">
-<h2 class="anchored" data-anchor-id="scales-in-microscopy-images">Scales in microscopy images</h2>
-<p>Using familiar objects for scale isn’t possible when we make microscopic observations. This may be why in the earliest published photographs and microscope pictures (mind you, there aren’t many as images were considered a waste of space and decorational) scales are omitted.</p>
-<p>A lovely tool that tried placing familiar objects next to microscopic scenes is the Utah genetics cellular scale animation <a href="http://learn.genetics.utah.edu/content/cells/scale/">Genetics Utah Animation of Scale</a> I never cease to be amazed at the relative size differences of cells and how they vary over so many magnitudes!</p>
-<section id="alternative-to-scale-bars" class="level4">
-<h4 class="anchored" data-anchor-id="alternative-to-scale-bars">Alternative to scale bars</h4>
-<p>A cute alternative to the regular scale bar is here, thanks to Filip Port (<span class="citation" data-cites="crisprflydesign">@crisprflydesign</span><span class="citation" data-cites="fediscience.org">@fediscience.org</span>) who turned the googly eyes of <span class="citation" data-cites="thekengevik">@thekengevik</span> into a veritable scale bar!</p>
-<div id="fig-googly" class="quarto-layout-panel">
-<figure class="figure">
-<div class="quarto-layout-row quarto-layout-valign-top">
-<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
-<p><img src="https://helenajamborwrites.netlify.app/posts/Image_how_scale/thekengevik_googlyeyes.jpg" class="img-fluid figure-img"></p>
-</div>
-<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
-<p><img src="https://helenajamborwrites.netlify.app/posts/Image_how_scale/Screenshot 2022-11-09 at 10.03.32.png" class="img-fluid figure-img"></p>
-</div>
-</div>
-<p></p><figcaption class="figure-caption">Figure&nbsp;4: thekengevik googly eyes idea and googly eyes adapted for scale</figcaption><p></p>
-</figure>
-</div>
-<p>And finally, a fun but maybe not quite practical idea is suggested by Monica Zoppe, cats for scale! Check out <a href="http://www.nature.com/nmeth/journal/v14/n7/abs/nmeth.4300.html"> her article!</a></p>
-<div id="fig-cat" class="quarto-layout-panel">
-<figure class="figure">
-<div class="quarto-layout-row quarto-layout-valign-top">
-<div class="quarto-layout-cell" style="flex-basis: 100.0%;justify-content: center;">
-<p><img src="https://helenajamborwrites.netlify.app/posts/Image_how_scale/Zoppe.png" class="img-fluid figure-img"></p>
-</div>
-</div>
-<p></p><figcaption class="figure-caption">Figure&nbsp;5: Unconventional idea for annotating scales in biology</figcaption><p></p>
-</figure>
-</div>
-</section>
-</section>
-<section id="suggestions-for-making-scale-bars" class="level2">
-<h2 class="anchored" data-anchor-id="suggestions-for-making-scale-bars">Suggestions for making scale bars</h2>
-<p>As we don’t have a clear mental image of the size of a salt grain, sesames seed, or submicron cats to reliably use them to scale, we have to for now rely on scale bars. Using ImageJ/FIJI this can be rapidly accomplished: when using Bioformats to import microscopy files, the metadata, including the physical size, is read in. Then use Analyze &gt; Tools &gt; Scale Bar to define length, width, color, position, and label or your scale bar.</p>
-<section id="length" class="level5">
-<h5 class="anchored" data-anchor-id="length">Length</h5>
-<p>Be kind to your audience and use simple units, such as 100um, 50um, 10 or 2um.</p>
-</section>
-<section id="color" class="level5">
-<h5 class="anchored" data-anchor-id="color">Color</h5>
-<p>Scale bars should have a high contrast with the background. Avoid red, green, or blue bars, as these colors might be considered part of the image.</p>
-</section>
-<section id="position" class="level5">
-<h5 class="anchored" data-anchor-id="position">Position</h5>
-<p>Lower left corner is a safe place. The upper space should be kept for important information like species, cell type, or gene name, and many times figure panel name (A, B,…).</p>
-</section>
-<section id="add-scale-bar-last" class="level5">
-<h5 class="anchored" data-anchor-id="add-scale-bar-last">Add scale bar last</h5>
-<p>In the process of writing your manuscript you may re-think the figure size. Also images are re-sized for posters and slides. It is therefore easiest to add only a very fine scale bar with FIJI and then re-draw it in Adobe Illustrator (or PowerPoint, as I now that about half of you out there use PowerPoint for making figures and posters!).</p>
-</section>
-<section id="in-fijiimagej" class="level5">
-<h5 class="anchored" data-anchor-id="in-fijiimagej">In FIJI/ImageJ</h5>
-<div id="fig-fiji" class="quarto-layout-panel">
-<figure class="figure">
-<div class="quarto-layout-row quarto-layout-valign-top">
-<div class="quarto-layout-cell" style="flex-basis: 100.0%;justify-content: center;">
-<p><img src="https://helenajamborwrites.netlify.app/posts/Image_how_scale/FIJI_scalebar_figure_2.png" class="img-fluid figure-img"></p>
-</div>
-</div>
-<p></p><figcaption class="figure-caption">Figure&nbsp;6: Quick scale bar with FIJI/ImageJ. Also check this <a href="https://www.youtube.com/watch?v=UBcipUjwFec&amp;list=PL8jDF_fSen2BxniT30JZ4zzZfQi4AHni9&amp;index=4">Youtube Tutorial from Lipke Lab</a></figcaption><p></p>
-</figure>
-</div>
-</section>
-<section id="ps" class="level4">
-<h4 class="anchored" data-anchor-id="ps">PS</h4>
-<p>…if you find old scientific images with scale bars, or interesting scales, send them my way for my collection!</p>
-<p>Here are some first returns:</p>
-<div id="fig-examples" class="quarto-layout-panel">
-<figure class="figure">
-<div class="quarto-layout-row quarto-layout-valign-top">
-<div class="quarto-layout-cell" style="flex-basis: 100.0%;justify-content: center;">
-<p><img src="https://helenajamborwrites.netlify.app/posts/Image_how_scale/Scale_human_geology.png" class="img-fluid figure-img" width="350"> <img src="https://helenajamborwrites.netlify.app/posts/Image_how_scale/scale_Bar_legendproblem.jpg" class="img-fluid figure-img" width="270"></p>
-</div>
-</div>
-<p></p><figcaption class="figure-caption">Figure&nbsp;7: Human for scale in geology (courtesy James Saenz) and: pick useful scale bar units, 17:4is NOT user friendly (courtesy Jerome Mutterer).</figcaption><p></p>
-</figure>
-</div>
-<p>Oh and over at Reddit there seems to be a whole community making <a href="https://www.reddit.com/r/BananasForScale/">Banana’s for scale</a> a thing, as Barry Rowlingson <span class="citation" data-cites="geospacedman">@geospacedman</span><span class="citation" data-cites="mastodon.social">@mastodon.social</span> pointed out. One example adapted for biology by Hauke Drechsler (<span class="citation" data-cites="HD_sci">@HD_sci</span><span class="citation" data-cites="biologists.social">@biologists.social</span>):</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://helenajamborwrites.netlify.app/posts/Image_how_scale/HaukeDrechsel_banana_for_scale.png" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Figure 8: Why not! (joke)</figcaption>
-</figure>
-</div>
-
-
-</section>
-</section>
-
- ]]></description>
-  <category>images</category>
-  <category>how-to</category>
-  <guid>https://helenajamborwrites.netlify.app/posts/Image_how_scale/</guid>
-  <pubDate>Wed, 02 Aug 2023 22:00:00 GMT</pubDate>
-  <media:content url="https://helenajamborwrites.netlify.app/posts/Image_how_scale/worms_copy.png" medium="image" type="image/png" height="33" width="144"/>
 </item>
 </channel>
 </rss>

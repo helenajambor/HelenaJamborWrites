@@ -35,7 +35,7 @@ Some general pictogram resources:
 - [Iconduck General Pictogram collection](https://iconduck.com/)
 - [Simpleicons General Pictogram collection](https://simpleicons.org/)
 
-Biology/Science
+Biology
 
 - New! Entirely in public domain, growing: [NIH BioArt collection](https://bioart.niaid.nih.gov/)
 - [Simon Dürr's bioicon collection](https://bioicons.com/) - collection of all the public domain icons! 
@@ -48,6 +48,16 @@ Medicine
 
 - [smart servier PPT collection](https://smart.servier.com/)
 - [HeathIcons](https://healthicons.org/)
+
+NEW! General Science/Natural Science
+
+- [ScienceFigures](https://sciencefigures.org/) 10.000 picture illustrations, with lots of color. With ODL = open design license. 
+- [OpenScienceArt](https://openscienceart.com/) - still small, but expanding to include chemistry and physics. Many designers, with indication or source, CC0 mostly. 
+
+![Examples from Science Figures](sciencefigures.png)
+
+
+
 
 #### Layout 
 Find inspiring Layouts in Will Timmins-Stahl [BMJ Infografics](https://www.bmj.com/infographics)
