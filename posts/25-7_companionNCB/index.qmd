@@ -5,8 +5,8 @@ author: "Helena Jambor"
 date: "20250701"
 categories:
   - datavis
-  - article
-  - how-to
+  - links
+
 image: "Jambor2025_FigureChecklist_small.png"
 ---
 ## The whys - the science of what works for chart figures
