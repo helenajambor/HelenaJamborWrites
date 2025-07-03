@@ -10,7 +10,79 @@
 <atom:link href="https://helenajamborwrites.netlify.app/index.xml" rel="self" type="application/rss+xml"/>
 <description>Blog about data visualization and visual communication of scientific data</description>
 <generator>quarto-1.4.552</generator>
-<lastBuildDate>Mon, 30 Jun 2025 22:00:00 GMT</lastBuildDate>
+<lastBuildDate>Fri, 11 Jul 2025 22:00:00 GMT</lastBuildDate>
+<item>
+  <title>Checklists - Grisons edition</title>
+  <dc:creator>Helena Jambor</dc:creator>
+  <dc:creator>Helena Jambor</dc:creator>
+  <link>https://helenajamborwrites.netlify.app/posts/25-7_GR-cheatsheets/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="checkliste-für-statistische-abbildungen-english-version-see-below" class="level2">
+<h2 class="anchored" data-anchor-id="checkliste-für-statistische-abbildungen-english-version-see-below">Checkliste für statistische Abbildungen (English Version see below)</h2>
+<p>Ich unterrichte Datenvisualisierung und das ist ein herausfordendes Thema: Es verschmilzt Aspekte der Datenwissenschaft, der Statistik, der Computerwissenschaften mit Design und visueller Wahrnehmung. Und alles kommt zusammen, wenn ein statistisches Diagramm erstellt wird, welches Erkenntnisse aus den Daten vermittelt. Eine Checkliste hilft jetzt bei der Erstellung von Abbildungen.</p>
+<section id="warum-checklisten" class="level4">
+<h4 class="anchored" data-anchor-id="warum-checklisten">Warum Checklisten?</h4>
+<p>In der Luftfahrt verlassen sich die Piloten auf Checklisten vor dem Flug, um die Sicherheit zu gewährleisten, und das hat die Zahl der Unfälle drastisch reduziert. In den Datenwissenschaften haben die Studierenden keine Ausbildung in Grafikdesign (und die meisten wollen das auch nicht), aber sie wollen etwas Konkretes, das ihnen hilft, Zahlen zu erstellen, die lesbar, zugänglich und wahrheitsgetreu sind. Alles möglich mit einer Checkliste!</p>
+</section>
+<section id="auf-schwyzerdütsch-und-rumansch" class="level4">
+<h4 class="anchored" data-anchor-id="auf-schwyzerdütsch-und-rumansch">Auf Schwyzerdütsch und Rumansch!</h4>
+<p>Studenten lieben Spickzettel. Nachdem ich immer wieder nach einer Checkliste für die Gestaltung von Abbildungen gefragt wurde - und es keine gab - habe ich sie jetzt einfach selbst erstellt. Und, es sind ja nicht nur meine Studierenden die dies brauchen, deswegen haben wir die Checkliste in einer Fachzeitschrift veröffentlicht. Als Dankeschön für meine Studierenden hier in Graubünden/Schweiz, haben wir sie nun auch in die lokalen Sprachen übersetzt: hier kommen Figure Checklists in Schwyzerdütsch und Rumansch. Hinweis, für die Übersetzungen sind Muttersprachler verantwortlich, Dank an meine Kollegen!</p>
+<div class="{fig-examples}">
+<p><img src="https://helenajamborwrites.netlify.app/posts/25-7_GR-cheatsheets/slide4.png" class="img-fluid" width="200"> <img src="https://helenajamborwrites.netlify.app/posts/25-7_GR-cheatsheets/slide8.png" class="img-fluid" width="200"> <img src="https://helenajamborwrites.netlify.app/posts/25-7_GR-cheatsheets/Slide10.png" class="img-fluid" width="200"> <img src="https://helenajamborwrites.netlify.app/posts/25-7_GR-cheatsheets/slide2.png" class="img-fluid" width="180"></p>
+</div>
+</section>
+<section id="erschienen-in-nature-cell-biology" class="level4">
+<h4 class="anchored" data-anchor-id="erschienen-in-nature-cell-biology">Erschienen in Nature Cell Biology</h4>
+<p>Ich freue mich sehr, dass <a href="https://www.nature.com/articles/s41556-025-01684-z">Nature Cell Biology</a> den Wert dieser Arbeit erkannt und die Veröffentlichung unterstützt hat. Es ist eine ungewöhnliche Arbeit, aber ich denke, sie ist genau das, was viele von uns brauchen, wenn sie ein Projekt, eine wissenschaftliche Arbeit oder eine wissenschaftliche Abbildung allgemeine verständlich erklären müssen.</p>
+<div id="fig-gr" class="quarto-figure quarto-figure-center quarto-float anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-gr-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="https://helenajamborwrites.netlify.app/posts/25-7_GR-cheatsheets/ChartCheckliste_Bündnerd.png" class="img-fluid figure-img">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-gr-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;1: Checkliste in Bündnerdeutsch
+</figcaption>
+</figure>
+</div>
+<div id="fig-gr" class="quarto-figure quarto-figure-center quarto-float anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-gr-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="https://helenajamborwrites.netlify.app/posts/25-7_GR-cheatsheets/ChartCheckliste_Rumansch.png" class="img-fluid figure-img">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-gr-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;2: Checkliste in Rumansch
+</figcaption>
+</figure>
+</div>
+</section>
+</section>
+<section id="english-translation" class="level2">
+<h2 class="anchored" data-anchor-id="english-translation">English Translation:</h2>
+<p>I am teaching data visualization to students at the FHGR. And this is a hard topic: it merges aspects of data science, statistics, computational sciences with design and visual perception. And aspects from all come together when a statistical plot is generated that communicates data insights. This is now easier with figure checklists. #### Why checklists? In aviation, pilots rely on preflight checklists to ensure safety, and this has dramatically reduced accidents. In data science, students aren’t trained in graphic design (nor do most want to be), but they do want something concrete to help them create figures that are legible, accessible, and truthful. A checklist meets that need.</p>
+<section id="in-schwyzerdütsch-and-rumansch." class="level4">
+<h4 class="anchored" data-anchor-id="in-schwyzerdütsch-and-rumansch.">in Schwyzerdütsch and Rumansch.</h4>
+<p>Students love cheat sheets. After I was repeatedly asked for a checklist for the design of figures, and there was none, I have now simply created one myself. And, it’s not just my students who need it, so we published the checklist in a scientific journal. As a thank you for my students here in Graubünden/Switzerland, we have now also translated them into the local languages: here are Figure Checklists in Schwyzerdütsch and Rumansch. Note, native speakers are responsible for the translations, thanks to my colleagues!</p>
+</section>
+<section id="out-in-nature-cell-biology" class="level4">
+<h4 class="anchored" data-anchor-id="out-in-nature-cell-biology">Out in Nature Cell Biology</h4>
+<p>I’m very happy that <a href="https://www.nature.com/articles/s41556-025-01684-z">Nature Cell Biology</a> saw the value in this work and supported its publication. It’s an unusual paper, but I think it’s exactly what many of us need when completing a project output, a scientific paper, or a scientific figure for a general audience. … and since the work came about in Grisons, a canton in Switzerland, we have now also translated the checklist for our local students, into the language they speak: Schwyzerdütsch and Rumansch. Enjoy :)</p>
+
+
+</section>
+</section>
+
+ ]]></description>
+  <category>datavis</category>
+  <category>cheat sheets</category>
+  <guid>https://helenajamborwrites.netlify.app/posts/25-7_GR-cheatsheets/</guid>
+  <pubDate>Fri, 11 Jul 2025 22:00:00 GMT</pubDate>
+  <media:content url="https://helenajamborwrites.netlify.app/posts/25-7_GR-cheatsheets/Slide8.png" medium="image" type="image/png" height="135" width="144"/>
+</item>
 <item>
   <title>The Whys - Figure Checklist</title>
   <dc:creator>Helena Jambor</dc:creator>
@@ -1714,109 +1786,6 @@ Sketches
   <guid>https://helenajamborwrites.netlify.app/posts/Image_how_avail/</guid>
   <pubDate>Mon, 14 Aug 2023 22:00:00 GMT</pubDate>
   <media:content url="https://helenajamborwrites.netlify.app/posts/Image_how_avail/Beth.png" medium="image" type="image/png" height="67" width="144"/>
-</item>
-<item>
-  <title>How to… image colors</title>
-  <dc:creator>Helena Jambor</dc:creator>
-  <dc:creator>Helena Jambor</dc:creator>
-  <link>https://helenajamborwrites.netlify.app/posts/Image_how_color/</link>
-  <description><![CDATA[ 
-
-
-
-
-<section id="how-to-image-colors" class="level2">
-<h2 class="anchored" data-anchor-id="how-to-image-colors">How to… image colors</h2>
-<p>Images come in many appearances. Photos, histology staining, and some clinical image are usually not color adjusted and shown in full color. Electron microscopy images show one layer of information and are shown in greyscale. In light microscopy images we can excite features in several different wavelengths and combine them in multi-colored images. And this is where trouble starts (more on trouble <a href="../../posts/Image_numbers/index.html">in my overview</a>. I already wrote about <a href="../../posts/Image_how_annot/index.html">color annotation</a>, today I focus on the image colors.</p>
-</section>
-<section id="adjust-brightness-contrast" class="level2">
-<h2 class="anchored" data-anchor-id="adjust-brightness-contrast">Adjust brightness &amp; contrast</h2>
-<p>For each channel, brightness and contrast can be adjusted separately. When images are to be compared, fixed intensity values should be used. Adjustment can be done in linear mode, which is applied uniformly to the whole image [note: if you are really into image display details there is much more to learn for you here, monitor display are not uniform, different algorithms are “linear” in different ways etc. If this is critical for your image analysis, learn more. If not, stop here and move on with your science].</p>
-<div id="fig-adjust" class="quarto-figure quarto-figure-center anchored">
-<figure class="figure">
-<p><img src="https://helenajamborwrites.netlify.app/posts/Image_how_color/Adjust_channel.png" height="400" class="figure-img"></p>
-<figcaption class="figure-caption">Figure&nbsp;1: Adjust channel settings in light microscope images. from: Christopher Schmied, F1000R 2020.</figcaption>
-</figure>
-</div>
-</section>
-<section id="select-color-display" class="level2">
-<h2 class="anchored" data-anchor-id="select-color-display">Select color display</h2>
-<p>The vast majority of light microscope cameras capture each emission spectrum as a separate greyscale image. Users then often select a display color (‘lookup table’) for each channel. Many times users simply pick the color of the emission wavelengths. DAPI peaks at 461 nm and is then shown in blue, GFP peaks at 509 nm, which is in the green portion of the visible spectrum, and RFP peaks at 583 nm,hence is shown as red.</p>
-<section id="visibiilty-of-colors" class="level4">
-<h4 class="anchored" data-anchor-id="visibiilty-of-colors">Visibiilty of colors</h4>
-<p>The problem is that blue or red on the black background of microscopy images have a much lower visibility than the original greyscale image. We can see much more fine details when the signal is shown in white on black, as in the original greyscale image. You thus serve your audiences best if you show microscope images in greyscale also in your figures</p>
-<div id="fig-visibilitly" class="quarto-figure quarto-figure-center anchored">
-<figure class="figure">
-<p><img src="https://helenajamborwrites.netlify.app/posts/Image_how_color/Colors_visibility.png" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Figure&nbsp;2: Display colors of light microscope images and a visibility test (greyscale render): details are barely visible in blue on a black background, more structures can be seen when data is shown in white.</figcaption>
-</figure>
-</div>
-</section>
-<section id="accessibility-of-colors" class="level4">
-<h4 class="anchored" data-anchor-id="accessibility-of-colors">Accessibility of colors</h4>
-<p>When we prepare figures we should also consider color-blind audiences. Problems to differentiate red/green, as is the case in deuteranopia, is well known, but also other combinations may be problematic. Online software and also ImageJ allow you to test color combinations for their visibility to diverse audiences. In general: you may find possibilities to combine two channels in color-blind save mode. It is however impossible to find color options for three or more channels. Thus your safest option is again to show each color channel with a separate greyscale image.</p>
-<div id="fig-colorcombo" class="quarto-figure quarto-figure-center anchored">
-<figure class="figure">
-<p><img src="https://helenajamborwrites.netlify.app/posts/Image_how_color/Colors.png" height="400" class="figure-img"></p>
-<figcaption class="figure-caption">Figure&nbsp;3: Think of accessibility of your colors and do a visibility test for color combinations.</figcaption>
-</figure>
-</div>
-</section>
-</section>
-<section id="why-are-we-still-debating-color-choices" class="level2">
-<h2 class="anchored" data-anchor-id="why-are-we-still-debating-color-choices">Why are we still debating color choices?</h2>
-<p>In all forms of science communication, including image preparation, authors should be considered of colorblind readers. Among data scientists, it is well established for at least over a century that red and green colors should not be used in parallel when communicating data.</p>
-<p>W.C. Brinton already wrote about this topic in his books in 1914 and 1939 (Chapter 49 “Color and its use”), citing an even older article by Edward Ayers from 1907, that “One man in twenty and one women in about two hundred are unable to see red and green normally” (Brintons book is <a href="https://archive.org/details/graphicpresentat00brinrich/mode/1up">available online</a>).</p>
-<p>Surprisingly, being considerate with color choices still not reached all: a widely shared technology feature in Nature (<a href="https://doi.org/10.1038/d41586-021-02696-z">Katsnelson, 2021, Colour me better: fixing figures for colour blindness</a>) again calls for authors to use inclusive colors. Also this is echoed by many scientific societies e.g., <a href="https://www.ascb.org/science-news/how-to-make-scientific-figures-accessible-to-readers-with-color-blindness/">the American Society for Cell Biology</a>.</p>
-<div id="fig-brinton" class="quarto-layout-panel">
-<figure class="figure">
-<div class="quarto-layout-row quarto-layout-valign-top">
-<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
-<p><img src="https://helenajamborwrites.netlify.app/posts/Image_how_color/Brinton_book.png" class="img-fluid figure-img"></p>
-</div>
-<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
-<p><img src="https://helenajamborwrites.netlify.app/posts/Image_how_color/Brinton_colorcombo.png" class="img-fluid figure-img"></p>
-</div>
-</div>
-<p></p><figcaption class="figure-caption">Figure&nbsp;4: WC Brinton published in 1914 his book “Graphic presentation”, which included a guide to which color-combinations and their visibility to normal vision (right column) and color blind (left column) audiences .</figcaption><p></p>
-</figure>
-</div>
-</section>
-<section id="more-on-color-combinations" class="level2">
-<h2 class="anchored" data-anchor-id="more-on-color-combinations">More on color combinations</h2>
-<p>How exactly colors can be combined and still be accessible to all readers is controversial. For some images, such as colored photographs, rendering them safe for viewing by colorblind readers is not possible and risks sacrificing clarity. But, as pointed out above, adjusting the display colors is simple for most light microscopy images. Here, colors are selected in the microscope or image processing software. Many already offer combinations of color that are accessible to most colorblind audiences. Currently, many scientists already embraced green/magenta as a color scheme to replace green/red images. However, this may pose a semantic problem, when referring to red-fluorophores depicted in magenta color etc, or a convention problem to others, who feel “Green Fluorescent Protein” should not be shown in e.g., cyan. In light of these semantic and convention obstacles, scientists should embrace publishing each channel of a multicolored light microscope image as a standalone, separate (greyscale) image. Grayscale images are in any case superior to discern fine image details such as specific structures or cells in images. Human eyes perceive the contrast between light and dark areas more easily than they do contrast between a color and dark areas, e.g.&nbsp;as is the case when showing intensities in green on a dark background.</p>
-</section>
-<section id="literature-on-colors-in-microscopy" class="level2">
-<h2 class="anchored" data-anchor-id="literature-on-colors-in-microscopy">Literature on colors in microscopy</h2>
-<p>A Review of Color Blindness for Microscopists: Guidelines and Tools for Accommodating and Coping with Color Vision Deficiency.<br>
-<a href="https://doi.org/10.1017/S1431927615000173">Keene, D.R., 2015, Microscopy and Microanalysis</a></p>
-<section id="tools-and-resources-for-color-choices" class="level4">
-<h4 class="anchored" data-anchor-id="tools-and-resources-for-color-choices">Tools and resources for color choices</h4>
-<ul>
-<li>
-Design color palettes &amp; test accessibility<a href="https://hclwizard.org">HCLwizard</a>
-</li>
-<li>
-Find color palettes for charts<a href="https://colorbrewer2.org">ColorBrewer2</a>
-</li>
-<li>
-Blog on Viz for Colorblind readers<a href="https://www.datylon.com/blog/data-visualization-for-colorblind-readers">Datylon blog</a>
-</li>
-<li>
-Tableau blog on red/green<a href="https://www.tableau.com/blog/examining-data-viz-rules-dont-use-red-green-together">Tableau blog</a>
-</li>
-</ul>
-
-
-</section>
-</section>
-
- ]]></description>
-  <category>images</category>
-  <category>how-to</category>
-  <guid>https://helenajamborwrites.netlify.app/posts/Image_how_color/</guid>
-  <pubDate>Wed, 09 Aug 2023 22:00:00 GMT</pubDate>
-  <media:content url="https://helenajamborwrites.netlify.app/posts/Image_how_color/Brinton_colorcombo.png" medium="image" type="image/png" height="153" width="144"/>
 </item>
 </channel>
 </rss>
