@@ -9,8 +9,8 @@ categories:
 
 image: "Slide8.png"
 ---
-## Checkliste für statistische Abbildungen (English Version see below)
-Ich unterrichte Datenvisualisierung und das ist ein herausfordendes Thema: Es verschmilzt Aspekte der Datenwissenschaft, der Statistik, der Computerwissenschaften mit Design und visueller Wahrnehmung. Und alles kommt zusammen, wenn ein statistisches Diagramm erstellt wird, welches Erkenntnisse aus den Daten vermittelt. Eine Checkliste hilft jetzt bei der Erstellung von Abbildungen.
+## Checklisten für Graubünden
+Ich lehre Datenvisualisierung. Für viele eine Herausforderung: es braucht Kenntisse aus Datenwissenschaften und Statistik, Design und visueller Wahrnehmung um lesbare statistische Diagramm zu erstellen. Meine Checkliste hilft hier.
 
 #### Warum Checklisten?
 In der Luftfahrt verlassen sich die Piloten auf Checklisten vor dem Flug, um die Sicherheit zu gewährleisten, und das hat die Zahl der Unfälle drastisch reduziert. In den Datenwissenschaften haben die Studierenden keine Ausbildung in Grafikdesign (und die meisten wollen das auch nicht), aber sie wollen etwas Konkretes, das ihnen hilft, Zahlen zu erstellen, die lesbar, zugänglich und wahrheitsgetreu sind. Alles möglich mit einer Checkliste!
