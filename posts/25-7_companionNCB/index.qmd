@@ -65,7 +65,7 @@ When selecting color schemes consider tools like Paletton (https://paletton.com/
 - Harrower, M., Brewer, C.A., 2003. ColorBrewer.org: An Online Tool for Selecting Colour Schemes for Maps. The Cartographic Journal 40, 27–37. [here](https://doi.org/10.1179/000870403235002042)
 - Hattab, G., Rhyne, T.-M., Heider, D., 2020. Ten simple rules to colorize biological data visualization. PLOS Computational Biology 16, e1008259. [here](https://doi.org/10.1371/journal.pcbi.1008259)
 - Kim, N.W., Joyner, S.C., Riegelhuth, A., Kim, Y., 2021. Accessible Visualization: Design Space, Opportunities, and Challenges. Computer Graphics Forum 40, 173–188. [here](https://doi.org/10.1111/cgf.14298)
-- Smith, N. & Van der Walt, S., 2015. A Better Default Colormap for Matplotlib. [here](https://bids. github. io/colormap/)
+- Smith, N. & Van der Walt, S., 2015. A Better Default Colormap for Matplotlib. [here](https://bids.github.io/colormap/)
 - Szafir, D.A., 2018. Modeling Color Difference for Visualization Design. IEEE Transactions on Visualization and Computer Graphics 24, 392–401. [here](https://doi.org/10.1109/TVCG.2017.2744359)
 - Wong, B., 2010a. Color coding. Nature Methods 7, 573–573. [here](https://doi.org/10.1038/nmeth0810-573)
 
