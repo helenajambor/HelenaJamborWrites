@@ -1,0 +1,66 @@
+---
+title: "Course Book Data Visualization"
+description: "Highlighting the works of students of the course introduction to data visualization"
+author: "Helena Jambor"
+date: "20251209"
+categories:
+  - datavis
+
+image: "xxx"
+---
+## The *Data Vis Spring* Course Book
+
+How do you turn raw data into something meaningful, informative, or eben beautiful? 
+Have a look at the course book of the spring datavis class of 2025! 
+
+### What’s inside
+
+The book gathers a selection of projects created throughout the semester. Students had the choice of designing data for an interactive dashboards (to be completed in the next course) or infographic. 
+Most projects were individual work and reflects a unique way of exploring real-world questions through visual means. And at times, the data collection and wrangling consumed most time. 
+
+### Why this matters
+
+Data visualization has become a language that connects science, society, and the public. It helps us understand complexity, spot patterns, and communicate ideas that would otherwise stay hidden in spreadsheets.
+In our course, students learn not only the tools of analysis and design — they learn to think critically, make aesthetic decisions, and tell stories with data.
+
+### What the students explored
+
+The yearbook highlights an impressive range of topics. Some projects examine global issues like climate change, inequality, or public health. Others dive into personal data, cultural trends, or scientific datasets.
+All of them take abstract numbers and transform them into visuals that invite reflection, reveal insight, or spark curiosity.
+
+### A snapshot of a growing field
+
+Thanks to the students who contributed their work, the course book shows how engaged, experimental, and responsible the next generation of data visualizers already is.
+
+
+PS  This course is a recurring course at the FHGR in Grisons taught by Helena Jambor, PhD. For more information please contact us: 
+helena.jambor - at - fhgr.ch
+
+License CCBY-NC-ND-SA
+
+
+#### subheader
+
+
+
+::: {#fig-gr}
+![](ChartCheckliste_Bündnerd.png)
+
+Checkliste in Bündnerdeutsch
+
+:::
+
+
+::: {#fig-gr}
+![](ChartCheckliste_Rumansch.png)
+
+Checkliste in Rumansch
+
+:::
+
+
+
+LINK 
+[Nature Cell Biology](https://www.nature.com/articles/s41556-025-01684-z) 
+
+

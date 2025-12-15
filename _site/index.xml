@@ -10,7 +10,178 @@
 <atom:link href="https://helenajamborwrites.netlify.app/index.xml" rel="self" type="application/rss+xml"/>
 <description>Blog about data visualization and visual communication of scientific data</description>
 <generator>quarto-1.4.552</generator>
-<lastBuildDate>Fri, 11 Jul 2025 22:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sun, 14 Dec 2025 23:00:00 GMT</lastBuildDate>
+<item>
+  <title>Why Biology need Data Visualizations</title>
+  <dc:creator>Helena Jambor</dc:creator>
+  <dc:creator>Helena Jambor</dc:creator>
+  <link>https://helenajamborwrites.netlify.app/posts/25-12-15_biovis/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="why-seeing-still-matters-in-big-data-biology" class="level2">
+<h2 class="anchored" data-anchor-id="why-seeing-still-matters-in-big-data-biology">Why Seeing Still Matters in Big Data Biology</h2>
+<p>Biology probes form and function of Life. Form is easy to grasp: cells under a microscope, subcellular structures in electron micrographs, or organisms on camera readily present their shapes.</p>
+<div id="fig-beautybio" class="quarto-figure quarto-figure-center quarto-float anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-beautybio-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="https://helenajamborwrites.netlify.app/posts/25-12-15_biovis/OvarySTRINGS-01.png" class="img-fluid figure-img">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-beautybio-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;1: Examples of microscopy images that allow understanding of Life: Fruit fly ovaries development and the changing RNA localizations during the process.
+</figcaption>
+</figure>
+</div>
+<p>Function is different: it emerges from molecular compositions, interactions, and temporal changes. Such data is not directly visible - we use statistics to make sense of it. But summaries and p-values alone rarely reveal how complex biological systems are organized, the variability in the samples and the resulting uncertainty in the data, or unexpected relationships and pattersn. As datasets grow larger and more complex, these insights only become accessible when data are visualized.</p>
+<div id="fig-gr" class="quarto-figure quarto-figure-center quarto-float anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-gr-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="https://helenajamborwrites.netlify.app/posts/25-12-15_biovis/Jambor_etal_Embryo.png" class="img-fluid figure-img">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-gr-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;2: Statistical chart comparing RNA localizations across development.
+</figcaption>
+</figure>
+</div>
+<p>While the urgency to visualize data feels distinctly modern, the principle itself is not new. Seeing has always been central to biological understanding. Darwin’s and Linnaeus’s classification of species relied on careful visual comparison. In the nineteenth century, Florence Nightingale pioneered statistical charts to reform healthcare, while John Snow’s maps of cholera outbreaks transformed how disease transmission was understood. In the twentieth century, Michaelis and Menten introduced the kinetic plot as a standardized visual language for enzyme activity, and more recently, interactive genome browsers have made entire genomes navigable at nucleotide resolution.</p>
+<div id="fig-old" class="quarto-layout-panel">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-old-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://helenajamborwrites.netlify.app/posts/25-12-15_biovis/Darwin_small.jpg" height="200" class="figure-img"></p>
+<figcaption>Darwin’s phylogenetic tree</figcaption>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://helenajamborwrites.netlify.app/posts/25-12-15_biovis/Scnow.png" height="200" class="figure-img"></p>
+<figcaption>Snow’s Cholera map</figcaption>
+</figure>
+</div>
+</div>
+</div>
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://helenajamborwrites.netlify.app/posts/25-12-15_biovis/flo.png" height="200" class="figure-img"></p>
+<figcaption>Nightingale’s chart invented to document health care reforms</figcaption>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://helenajamborwrites.netlify.app/posts/25-12-15_biovis/marey.png" height="200" class="figure-img"></p>
+<figcaption>Marey’s animation of human locomotion</figcaption>
+</figure>
+</div>
+</div>
+</div>
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-old-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;3: Early data visualizations from life and health sciences.
+</figcaption>
+</figure>
+</div>
+<p>Despite this long tradition, data visualization is still widely treated as a final step in research, a way to communicate results once the real analysis is finished. In reality, visualization plays a much earlier and more fundamental role. Visual exploration exposes batch effects, hidden subpopulations, nonlinear behaviors, and experimental artifacts that often remain invisible to summary statistics alone. These insights directly shape which data can be trusted, which controls are needed, and which experiments should come next.</p>
+<div id="fig-statspic" class="quarto-figure quarto-figure-center quarto-float anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-statspic-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<p><img src="https://helenajamborwrites.netlify.app/posts/25-12-15_biovis/Batch1.png" class="img-fluid figure-img"></p>
+<p><img src="https://helenajamborwrites.netlify.app/posts/25-12-15_biovis/boxplot1.png" class="img-fluid figure-img"></p>
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-statspic-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;4: Examples of plots used during the research process to visualize technical and sample variability.
+</figcaption>
+</figure>
+</div>
+<p>Unlike statistics or experimental methods, data visualization is still poorly formalized in the life sciences. It lacks dedicated training programs, shared standards, and institutional recognition. This gap matters, as data visualization leads to hypotheses generation, insightful data presentation, and builds trust in the results.</p>
+<p>Just as early scientists needed training in scientific drawing to accurately document what they observed, today’s researchers must learn to engineer and interpret data visualizations with comparable rigor. In an era where biology increasingly unfolds in data rather than images alone, learning how to see again has never been more important.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>datavis</category>
+  <guid>https://helenajamborwrites.netlify.app/posts/25-12-15_biovis/</guid>
+  <pubDate>Sun, 14 Dec 2025 23:00:00 GMT</pubDate>
+  <media:content url="https://helenajamborwrites.netlify.app/posts/25-12-15_biovis/OvarySTRINGE-01.png" medium="image" type="image/png"/>
+</item>
+<item>
+  <title>Course Book Data Visualization</title>
+  <dc:creator>Helena Jambor</dc:creator>
+  <dc:creator>Helena Jambor</dc:creator>
+  <link>https://helenajamborwrites.netlify.app/posts/25-12_DAV_yearbook/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="the-data-vis-spring-course-book" class="level2">
+<h2 class="anchored" data-anchor-id="the-data-vis-spring-course-book">The <em>Data Vis Spring</em> Course Book</h2>
+<p>How do you turn raw data into something meaningful, informative, or eben beautiful? Have a look at the course book of the spring datavis class of 2025!</p>
+<section id="whats-inside" class="level3">
+<h3 class="anchored" data-anchor-id="whats-inside">What’s inside</h3>
+<p>The book gathers a selection of projects created throughout the semester. Students had the choice of designing data for an interactive dashboards (to be completed in the next course) or infographic. Most projects were individual work and reflects a unique way of exploring real-world questions through visual means. And at times, the data collection and wrangling consumed most time.</p>
+</section>
+<section id="why-this-matters" class="level3">
+<h3 class="anchored" data-anchor-id="why-this-matters">Why this matters</h3>
+<p>Data visualization has become a language that connects science, society, and the public. It helps us understand complexity, spot patterns, and communicate ideas that would otherwise stay hidden in spreadsheets. In our course, students learn not only the tools of analysis and design — they learn to think critically, make aesthetic decisions, and tell stories with data.</p>
+</section>
+<section id="what-the-students-explored" class="level3">
+<h3 class="anchored" data-anchor-id="what-the-students-explored">What the students explored</h3>
+<p>The yearbook highlights an impressive range of topics. Some projects examine global issues like climate change, inequality, or public health. Others dive into personal data, cultural trends, or scientific datasets. All of them take abstract numbers and transform them into visuals that invite reflection, reveal insight, or spark curiosity.</p>
+</section>
+<section id="a-snapshot-of-a-growing-field" class="level3">
+<h3 class="anchored" data-anchor-id="a-snapshot-of-a-growing-field">A snapshot of a growing field</h3>
+<p>Thanks to the students who contributed their work, the course book shows how engaged, experimental, and responsible the next generation of data visualizers already is.</p>
+<p>PS This course is a recurring course at the FHGR in Grisons taught by Helena Jambor, PhD. For more information please contact us: helena.jambor - at - fhgr.ch</p>
+<p>License CCBY-NC-ND-SA</p>
+<section id="subheader" class="level4">
+<h4 class="anchored" data-anchor-id="subheader">subheader</h4>
+<div id="fig-gr" class="quarto-figure quarto-figure-center quarto-float anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-gr-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="https://helenajamborwrites.netlify.app/posts/25-12_DAV_yearbook/ChartCheckliste_Bündnerd.png" class="img-fluid figure-img">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-gr-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;1: Checkliste in Bündnerdeutsch
+</figcaption>
+</figure>
+</div>
+<div id="fig-gr" class="quarto-figure quarto-figure-center quarto-float anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-gr-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="https://helenajamborwrites.netlify.app/posts/25-12_DAV_yearbook/ChartCheckliste_Rumansch.png" class="img-fluid figure-img">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-gr-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;2: Checkliste in Rumansch
+</figcaption>
+</figure>
+</div>
+<p>LINK <a href="https://www.nature.com/articles/s41556-025-01684-z">Nature Cell Biology</a></p>
+
+
+</section>
+</section>
+</section>
+
+ ]]></description>
+  <category>datavis</category>
+  <guid>https://helenajamborwrites.netlify.app/posts/25-12_DAV_yearbook/</guid>
+  <pubDate>Mon, 08 Dec 2025 23:00:00 GMT</pubDate>
+  <media:content url="https://helenajamborwrites.netlify.app/posts/25-12_DAV_yearbook/xxx" medium="image"/>
+</item>
 <item>
   <title>Checklists - Grisons edition</title>
   <dc:creator>Helena Jambor</dc:creator>
@@ -1718,74 +1889,6 @@ Reproducible image handling and analysis. <a href="https://www.embopress.org/doi
   <guid>https://helenajamborwrites.netlify.app/posts/Image_cheatsheets/</guid>
   <pubDate>Sun, 20 Aug 2023 22:00:00 GMT</pubDate>
   <media:content url="https://helenajamborwrites.netlify.app/posts/Image_cheatsheets/SchmiedJambor_Figure4.png" medium="image" type="image/png" height="111" width="144"/>
-</item>
-<item>
-  <title>Summer23</title>
-  <dc:creator>Helena Jambor</dc:creator>
-  <dc:creator>Helena Jambor</dc:creator>
-  <link>https://helenajamborwrites.netlify.app/posts/Summer23/</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>A few sketches I made in summer 2023 in Smilka, Plön, Beverbeck, Berlin.</p>
-<div class="{=html}">
-<iframe src="https://helenajamborwrites.netlify.app/posts/summer23/slideshow.html" frameborder="0" width="800" height="600">
-Sketches
-</iframe>
-</div>
-
-
-
- ]]></description>
-  <category>sketches</category>
-  <guid>https://helenajamborwrites.netlify.app/posts/Summer23/</guid>
-  <pubDate>Mon, 14 Aug 2023 22:00:00 GMT</pubDate>
-  <media:content url="https://helenajamborwrites.netlify.app/posts/Summer23/Scan1.png" medium="image" type="image/png" height="102" width="144"/>
-</item>
-<item>
-  <title>How to… image availability</title>
-  <dc:creator>Helena Jambor</dc:creator>
-  <dc:creator>Helena Jambor</dc:creator>
-  <link>https://helenajamborwrites.netlify.app/posts/Image_how_avail/</link>
-  <description><![CDATA[ 
-
-
-
-
-<section id="how-to-image-availability" class="level2">
-<h2 class="anchored" data-anchor-id="how-to-image-availability">How to… image availability</h2>
-<p>I <a href="../../posts/Image_how_mag/index.html">said this before</a>, but it should be said again: Make a copy of your original microscope/image file before starting any processing and adjustments and then store this image file along with the final, processed image somewhere save. In an ideal world your colleagues should see your final published image figure and be able to re-do the analysis to get there from a provided microscope image. Ideally, nobody would need to ask you, i.e., the files (TIFFimage, PNG image, scripts, method, anaylsis pipeline etc) should be in a public repository. At present, finding authors and working email adresses is a lot of detective work with changing affiliation, Email, or even profession. This was “wonderfully” demonstrated recently. Researchers investigated how well “data available upon request” really works. To no ones surprise and in almost 50%, this did not even got an Email replies. The team then made “rigorous attempts to contact the authors”, i.e.&nbsp;continuously bothered the authors, which increased the data availability a little, but not enough (Tedersoo et al., 2021).</p>
-</section>
-<section id="public-places-for-your-data" class="level2">
-<h2 class="anchored" data-anchor-id="public-places-for-your-data">Public places for your data</h2>
-<p>For regular light microscope image techniques many public storage possibilities exist and should be used. Free options for up to 20-50Gb of image data are <a href="https://zenodo.org/">Zenodo</a>, <a href="https://osf.io/">Open Science Framework</a>, and <a href="https://figshare.com/">Figshare</a>. These repositories are broad and allow upload of any kind of digital data. A dedicated option for image data are <a href="https://www.openmicroscopy.org/omero/institution/">OMERO servers</a>, however these are usually maintained by institutions, rarely by individual labs and can be both public or private. Image data repositories, that are fully searchable are still being build. The <a href="https://www.ebi.ac.uk/bioimage-archive/">BioImage Archive</a> is one such attempt that accepts any image data, the Image Data Resource publishes image datasets that serves as reference datasets, and EMPIAR is a resource specifically for Electron Microscopy data.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://helenajamborwrites.netlify.app/posts/Image_how_avail/Beth.png" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Overview of data repositories that accept images. From: <a href="https://zenodo.org/record/7628604">Beth Cimini, 2023</a></figcaption>
-</figure>
-</div>
-</section>
-<section id="which-files-should-be-deposited" class="level2">
-<h2 class="anchored" data-anchor-id="which-files-should-be-deposited">Which files should be deposited?</h2>
-<p>The specific file type of the microscope image will depend on imaging setup. A standard format for loss-loss compression is TIFF or the open format OME-TIFF. In specialized microscopy techniques that rapidly accumulate tera-bites of data, e.g., long-term live-imaging, light-sheet microscopy, or similar the original microscopy files are often not stored locally and too large for public repositories. When only compressed files can be kept, PNG files are preferred to e.g., JPEG files, as they allow loss-less compression.</p>
-<section id="read-more" class="level4">
-<h4 class="anchored" data-anchor-id="read-more">Read more:</h4>
-<p>The BioImage Archive - Building a Home for Life-Sciences Microscopy Data. 434, 167505. <a href="https://doi.org/10.1016/j.jmb.2022.167505">Hartley et al 2022 J Mol Biol.</a></p>
-<p>A call for public archives for biological image data. <a href="https://doi.org/10.1038/s41592-018-0195-8">Ellenberg et al 2018. Nat Methods.</a></p>
-
-
-</section>
-</section>
-
- ]]></description>
-  <category>images</category>
-  <category>how-to</category>
-  <guid>https://helenajamborwrites.netlify.app/posts/Image_how_avail/</guid>
-  <pubDate>Mon, 14 Aug 2023 22:00:00 GMT</pubDate>
-  <media:content url="https://helenajamborwrites.netlify.app/posts/Image_how_avail/Beth.png" medium="image" type="image/png" height="67" width="144"/>
 </item>
 </channel>
 </rss>
