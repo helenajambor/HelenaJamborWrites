@@ -1,5 +1,5 @@
 ---
-title: "Why Biology need Data Visualizations"
+title: "Why Biology needs Data Visualization"
 description: "A manifesto for integrating data visualization as research method in the life sciences."
 author: "Helena Jambor"
 date: "20251215"

@@ -12,7 +12,7 @@
 <generator>quarto-1.4.552</generator>
 <lastBuildDate>Sun, 14 Dec 2025 23:00:00 GMT</lastBuildDate>
 <item>
-  <title>Why Biology need Data Visualizations</title>
+  <title>Why Biology needs Data Visualization</title>
   <dc:creator>Helena Jambor</dc:creator>
   <dc:creator>Helena Jambor</dc:creator>
   <link>https://helenajamborwrites.netlify.app/posts/25-12-15_biovis/</link>
@@ -121,72 +121,6 @@ Figure&nbsp;4: Examples of plots used during the research process to visualize t
   <guid>https://helenajamborwrites.netlify.app/posts/25-12-15_biovis/</guid>
   <pubDate>Sun, 14 Dec 2025 23:00:00 GMT</pubDate>
   <media:content url="https://helenajamborwrites.netlify.app/posts/25-12-15_biovis/OvarySTRINGS-01.png" medium="image" type="image/png" height="112" width="144"/>
-</item>
-<item>
-  <title>Course Book Data Visualization</title>
-  <dc:creator>Helena Jambor</dc:creator>
-  <dc:creator>Helena Jambor</dc:creator>
-  <link>https://helenajamborwrites.netlify.app/posts/25-12_DAV_yearbook/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<section id="the-data-vis-spring-course-book" class="level2">
-<h2 class="anchored" data-anchor-id="the-data-vis-spring-course-book">The <em>Data Vis Spring</em> Course Book</h2>
-<p>How do you turn raw data into something meaningful, informative, or eben beautiful? Have a look at the course book of the spring datavis class of 2025!</p>
-<section id="whats-inside" class="level3">
-<h3 class="anchored" data-anchor-id="whats-inside">What’s inside</h3>
-<p>The book gathers a selection of projects created throughout the semester. Students had the choice of designing data for an interactive dashboards (to be completed in the next course) or infographic. Most projects were individual work and reflects a unique way of exploring real-world questions through visual means. And at times, the data collection and wrangling consumed most time.</p>
-</section>
-<section id="why-this-matters" class="level3">
-<h3 class="anchored" data-anchor-id="why-this-matters">Why this matters</h3>
-<p>Data visualization has become a language that connects science, society, and the public. It helps us understand complexity, spot patterns, and communicate ideas that would otherwise stay hidden in spreadsheets. In our course, students learn not only the tools of analysis and design — they learn to think critically, make aesthetic decisions, and tell stories with data.</p>
-</section>
-<section id="what-the-students-explored" class="level3">
-<h3 class="anchored" data-anchor-id="what-the-students-explored">What the students explored</h3>
-<p>The yearbook highlights an impressive range of topics. Some projects examine global issues like climate change, inequality, or public health. Others dive into personal data, cultural trends, or scientific datasets. All of them take abstract numbers and transform them into visuals that invite reflection, reveal insight, or spark curiosity.</p>
-</section>
-<section id="a-snapshot-of-a-growing-field" class="level3">
-<h3 class="anchored" data-anchor-id="a-snapshot-of-a-growing-field">A snapshot of a growing field</h3>
-<p>Thanks to the students who contributed their work, the course book shows how engaged, experimental, and responsible the next generation of data visualizers already is.</p>
-<p>PS This course is a recurring course at the FHGR in Grisons taught by Helena Jambor, PhD. For more information please contact us: helena.jambor - at - fhgr.ch</p>
-<p>License CCBY-NC-ND-SA</p>
-<section id="subheader" class="level4">
-<h4 class="anchored" data-anchor-id="subheader">subheader</h4>
-<div id="fig-gr" class="quarto-figure quarto-figure-center quarto-float anchored">
-<figure class="quarto-float quarto-float-fig figure">
-<div aria-describedby="fig-gr-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
-<img src="https://helenajamborwrites.netlify.app/posts/25-12_DAV_yearbook/ChartCheckliste_Bündnerd.png" class="img-fluid figure-img">
-</div>
-<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-gr-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
-Figure&nbsp;1: Checkliste in Bündnerdeutsch
-</figcaption>
-</figure>
-</div>
-<div id="fig-gr" class="quarto-figure quarto-figure-center quarto-float anchored">
-<figure class="quarto-float quarto-float-fig figure">
-<div aria-describedby="fig-gr-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
-<img src="https://helenajamborwrites.netlify.app/posts/25-12_DAV_yearbook/ChartCheckliste_Rumansch.png" class="img-fluid figure-img">
-</div>
-<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-gr-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
-Figure&nbsp;2: Checkliste in Rumansch
-</figcaption>
-</figure>
-</div>
-<p>LINK <a href="https://www.nature.com/articles/s41556-025-01684-z">Nature Cell Biology</a></p>
-
-
-</section>
-</section>
-</section>
-
- ]]></description>
-  <category>datavis</category>
-  <guid>https://helenajamborwrites.netlify.app/posts/25-12_DAV_yearbook/</guid>
-  <pubDate>Mon, 08 Dec 2025 23:00:00 GMT</pubDate>
-  <media:content url="https://helenajamborwrites.netlify.app/posts/25-12_DAV_yearbook/xxx" medium="image"/>
 </item>
 <item>
   <title>Checklists - Grisons edition</title>
@@ -1895,6 +1829,31 @@ Reproducible image handling and analysis. <a href="https://www.embopress.org/doi
   <guid>https://helenajamborwrites.netlify.app/posts/Image_cheatsheets/</guid>
   <pubDate>Sun, 20 Aug 2023 22:00:00 GMT</pubDate>
   <media:content url="https://helenajamborwrites.netlify.app/posts/Image_cheatsheets/SchmiedJambor_Figure4.png" medium="image" type="image/png" height="111" width="144"/>
+</item>
+<item>
+  <title>Summer23</title>
+  <dc:creator>Helena Jambor</dc:creator>
+  <dc:creator>Helena Jambor</dc:creator>
+  <link>https://helenajamborwrites.netlify.app/posts/Summer23/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>A few sketches I made in summer 2023 in Smilka, Plön, Beverbeck, Berlin.</p>
+<div class="{=html}">
+<iframe src="https://helenajamborwrites.netlify.app/posts/summer23/slideshow.html" frameborder="0" width="800" height="600">
+Sketches
+</iframe>
+</div>
+
+
+
+ ]]></description>
+  <category>sketches</category>
+  <guid>https://helenajamborwrites.netlify.app/posts/Summer23/</guid>
+  <pubDate>Mon, 14 Aug 2023 22:00:00 GMT</pubDate>
+  <media:content url="https://helenajamborwrites.netlify.app/posts/Summer23/Scan1.png" medium="image" type="image/png" height="102" width="144"/>
 </item>
 </channel>
 </rss>

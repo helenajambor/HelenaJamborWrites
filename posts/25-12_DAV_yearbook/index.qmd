@@ -6,7 +6,7 @@ date: "20251209"
 categories:
   - datavis
 
-draft: true 
+draft: true
 image: "xxx"
 ---
 ## The *Data Vis Spring* Course Book
