@@ -6,7 +6,7 @@ date: "20251215"
 categories:
   - datavis
 
-image: "OvarySTRINGE-01.png"
+image: "OvarySTRINGS-01.png"
 ---
 ## Why Seeing Still Matters in Big Data Biology
 Biology probes form and function of Life. Form is easy to grasp: cells under a microscope, subcellular structures in electron micrographs, or organisms on camera readily present their shapes. 
@@ -45,12 +45,12 @@ Early data visualizations from life and health sciences.
 
 Despite this long tradition, data visualization is still widely treated as a final step in research, a way to communicate results once the real analysis is finished. In reality, visualization plays a much earlier and more fundamental role. Visual exploration exposes batch effects, hidden subpopulations, nonlinear behaviors, and experimental artifacts that often remain invisible to summary statistics alone. These insights directly shape which data can be trusted, which controls are needed, and which experiments should come next.
 
-::: {#fig-statspic}
+::: {#fig-statspic layout-ncol=2}
 
-![](Batch1.png)
+![](Batch1.png){width=300}
 
 
-![](boxplot1.png)
+![](boxplot1.png){width=300}
 
 Examples of plots used during the research process to visualize technical and sample variability. 
 
