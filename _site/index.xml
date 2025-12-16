@@ -31,7 +31,7 @@
 <img src="https://helenajamborwrites.netlify.app/posts/25-12-15_biovis/OvarySTRINGS-01.png" class="img-fluid figure-img">
 </div>
 <figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-beautybio-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
-Figure&nbsp;1: Examples of microscopy images that allow understanding of Life: Fruit fly ovaries development and the changing RNA localizations during the process.
+Figure&nbsp;1: Examples of microscopy images that allow understanding of Life: Fruit fly ovaries development and the changing RNA localizations during the process. <a href="https://elifesciences.org/articles/5003">Jambor et al</a>
 </figcaption>
 </figure>
 </div>
@@ -42,11 +42,29 @@ Figure&nbsp;1: Examples of microscopy images that allow understanding of Life: F
 <img src="https://helenajamborwrites.netlify.app/posts/25-12-15_biovis/Jambor_etal_Embryo.png" class="img-fluid figure-img">
 </div>
 <figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-gr-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
-Figure&nbsp;2: Statistical chart comparing RNA localizations across development.
+Figure&nbsp;2: Statistical chart comparing RNA localizations across development <a href="https://elifesciences.org/articles/5003">Jambor et al</a>.
 </figcaption>
 </figure>
 </div>
-<p>While the urgency to visualize data feels distinctly modern, the principle itself is not new. Seeing has always been central to biological understanding. Darwin’s and Linnaeus’s classification of species relied on careful visual comparison. In the nineteenth century, Florence Nightingale pioneered statistical charts to reform healthcare, while John Snow’s maps of cholera outbreaks transformed how disease transmission was understood. In the twentieth century, Michaelis and Menten introduced the kinetic plot as a standardized visual language for enzyme activity, and more recently, interactive genome browsers have made entire genomes navigable at nucleotide resolution.</p>
+<p>Despite being used widely, data visualization is still treated as a final step in research, a way to communicate results once the real analysis is finished. In reality, visualization plays a much earlier and more fundamental role. Visuals expose batch effects, hidden subpopulations, nonlinear behaviors, and experimental artifacts that often remain invisible to summary statistics alone. These insights directly shape which data can be trusted, which controls are needed, and which experiments should come next.</p>
+<div id="fig-statspic" class="quarto-layout-panel">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-statspic-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<p><img src="https://helenajamborwrites.netlify.app/posts/25-12-15_biovis/Batch1.png" class="img-fluid figure-img" width="300"></p>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<p><img src="https://helenajamborwrites.netlify.app/posts/25-12-15_biovis/boxplot1.png" class="img-fluid figure-img" width="300"></p>
+</div>
+</div>
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-statspic-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;3: Examples of plots used during the research process to visualize technical and sample variability.
+</figcaption>
+</figure>
+</div>
+<p>While the urgency to visualize data feels modern, the principle itself is not new. Seeing has always been central to biological understanding. Darwin’s and Linnaeus’s classification of species relied on careful visual comparison. In the nineteenth century, Florence Nightingale pioneered statistical charts to reform healthcare, while John Snow’s maps of cholera outbreaks transformed how disease transmission was understood. In the twentieth century, Michaelis and Menten introduced the kinetic plot as a standardized visual language for enzyme activity, and more recently, interactive genome browsers have made entire genomes navigable at nucleotide resolution.</p>
 <div id="fig-old" class="quarto-layout-panel">
 <figure class="quarto-float quarto-float-fig figure">
 <div aria-describedby="fig-old-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
@@ -88,29 +106,11 @@ Figure&nbsp;2: Statistical chart comparing RNA localizations across development.
 </div>
 </div>
 <figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-old-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
-Figure&nbsp;3: Early data visualizations from life and health sciences.
+Figure&nbsp;4: Early data visualizations from life and health sciences.
 </figcaption>
 </figure>
 </div>
-<p>Despite this long tradition, data visualization is still widely treated as a final step in research, a way to communicate results once the real analysis is finished. In reality, visualization plays a much earlier and more fundamental role. Visual exploration exposes batch effects, hidden subpopulations, nonlinear behaviors, and experimental artifacts that often remain invisible to summary statistics alone. These insights directly shape which data can be trusted, which controls are needed, and which experiments should come next.</p>
-<div id="fig-statspic" class="quarto-layout-panel">
-<figure class="quarto-float quarto-float-fig figure">
-<div aria-describedby="fig-statspic-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
-<div class="quarto-layout-row">
-<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
-<p><img src="https://helenajamborwrites.netlify.app/posts/25-12-15_biovis/Batch1.png" class="img-fluid figure-img" width="300"></p>
-</div>
-<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
-<p><img src="https://helenajamborwrites.netlify.app/posts/25-12-15_biovis/boxplot1.png" class="img-fluid figure-img" width="300"></p>
-</div>
-</div>
-</div>
-<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-statspic-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
-Figure&nbsp;4: Examples of plots used during the research process to visualize technical and sample variability.
-</figcaption>
-</figure>
-</div>
-<p>Unlike statistics or experimental methods, data visualization is still poorly formalized in the life sciences. It lacks dedicated training programs, shared standards, and institutional recognition. This gap matters, as data visualization leads to hypotheses generation, insightful data presentation, and builds trust in the results.</p>
+<p>Today, data visualization is however still poorly formalized in the life sciences. It lacks dedicated training programs, shared standards, and institutional recognition. This gap matters, as data visualization leads to hypotheses generation, insightful data presentation, and builds trust in the results.</p>
 <p>Just as early scientists needed training in scientific drawing to accurately document what they observed, today’s researchers must learn to engineer and interpret data visualizations with comparable rigor. In an era where biology increasingly unfolds in data rather than images alone, learning how to see again has never been more important.</p>
 
 
