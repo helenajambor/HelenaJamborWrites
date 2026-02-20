@@ -5,6 +5,7 @@ author: "Helena Jambor"
 date: "20240610"
 categories:
   - datavis
+  - biovis
 image: "plan.png"
 ---
 #### Datavis at the oncology unit

@@ -6,7 +6,7 @@ date: "20241023"
 categories:
   - datavis
   - how-to
-  - links
+  - biovis
 image: "first-aid-svgrepo-com.svg"
 ---
 #### All the useful websites! 

@@ -118,6 +118,7 @@ Figure&nbsp;4: Early data visualizations from life and health sciences.
 
  ]]></description>
   <category>datavis</category>
+  <category>biovis</category>
   <guid>https://helenajamborwrites.netlify.app/posts/25-12-15_biovis/</guid>
   <pubDate>Sun, 14 Dec 2025 23:00:00 GMT</pubDate>
   <media:content url="https://helenajamborwrites.netlify.app/posts/25-12-15_biovis/OvarySTRINGS-01.png" medium="image" type="image/png" height="112" width="144"/>
@@ -327,7 +328,7 @@ Figure&nbsp;2: Checkliste in Rumansch
 
  ]]></description>
   <category>datavis</category>
-  <category>links</category>
+  <category>how-to</category>
   <guid>https://helenajamborwrites.netlify.app/posts/25-7_companionNCB/</guid>
   <pubDate>Mon, 30 Jun 2025 22:00:00 GMT</pubDate>
   <media:content url="https://helenajamborwrites.netlify.app/posts/25-7_companionNCB/Jambor2025_FigureChecklist_small.png" medium="image" type="image/png" height="96" width="144"/>
@@ -585,7 +586,7 @@ Figure&nbsp;4: Patients responses
  ]]></description>
   <category>datavis</category>
   <category>how-to</category>
-  <category>links</category>
+  <category>biovis</category>
   <guid>https://helenajamborwrites.netlify.app/posts/24-10_linkcollection/</guid>
   <pubDate>Tue, 22 Oct 2024 22:00:00 GMT</pubDate>
   <media:content url="https://helenajamborwrites.netlify.app/posts/24-10_linkcollection/first-aid-svgrepo-com.svg" medium="image" type="image/svg+xml"/>
@@ -955,6 +956,7 @@ Figure&nbsp;4: Patient responses to qualitative questions. Based on interviews w
 
  ]]></description>
   <category>datavis</category>
+  <category>biovis</category>
   <guid>https://helenajamborwrites.netlify.app/posts/MedArxiv/</guid>
   <pubDate>Sun, 09 Jun 2024 22:00:00 GMT</pubDate>
   <media:content url="https://helenajamborwrites.netlify.app/posts/MedArxiv/plan.png" medium="image" type="image/png" height="69" width="144"/>

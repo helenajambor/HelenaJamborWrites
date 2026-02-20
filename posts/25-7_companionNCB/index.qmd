@@ -5,7 +5,7 @@ author: "Helena Jambor"
 date: "20250701"
 categories:
   - datavis
-  - links
+  - how-to
 
 image: "Jambor2025_FigureChecklist_small.png"
 ---
