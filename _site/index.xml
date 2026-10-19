@@ -10,7 +10,47 @@
 <atom:link href="https://helenajamborwrites.netlify.app/index.xml" rel="self" type="application/rss+xml"/>
 <description>Blog about data visualization and visual communication of scientific data</description>
 <generator>quarto-1.4.552</generator>
-<lastBuildDate>Mon, 15 Jun 2026 22:00:00 GMT</lastBuildDate>
+<lastBuildDate>Mon, 19 Oct 2026 22:00:00 GMT</lastBuildDate>
+<item>
+  <title>Engaging figures</title>
+  <dc:creator>Helena Jambor</dc:creator>
+  <dc:creator>Helena Jambor</dc:creator>
+  <link>https://helenajamborwrites.netlify.app/posts/26-10_Proximity/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="figures-should-inform-not-persuade-but-before-information-comes-engagement-how-we-make-our-work-relatable." class="level2">
+<h2 class="anchored" data-anchor-id="figures-should-inform-not-persuade-but-before-information-comes-engagement-how-we-make-our-work-relatable.">Figures should inform, not persuade – but before information comes engagement: How we make our work relatable.</h2>
+<p>In the <a href="https://rdcu.be/WD88cB1kFcva">October issue of Nature Methods</a>, we write about seven principles how to create engagement in figures.</p>
+<p>Every visualization involves decisions about what to show, what to emphasize, how to organize information, and how to guide the reader’s attention. These decisions influence whether a message is clear, memorable, and actionable.</p>
+<p>This was already done is some of the most influential scientific visualizations. Darwin’s tree of life made evolutionary relationships immediately apparent – he pointed out where humans are in the tree, and related them to the other species and to time. John Snow’s cholera map connected deaths to recognizable streets and houses – creating a proximity to familiar places in London. Ed Hawkins’ climate stripes allow people to search climate change in their hometown. These visualizations do not manipulate, but they make abstract information accessible and relevant to the readers.</p>
+<p>What these examples share is that they use proximity principles from rhetorics. They reduce the perceived distance between data and its audience. In our new Nature Methods Point of View, we explore seven dimensions of proximity: credibility, plausibility, importance, temporal proximity, spatial proximity, individual-level focus, and anticipating consequences. Each of these principles is already widely used in biological figures today, often without the authors explicitly recognizing them. But understanding proximity allows us to use these principles more deliberately, while remaining faithful to the underlying evidence. That way we ensure that our figures are engaging, which helps their effectiveness.</p>
+<p>Gift links to all articles so far in the series: - Color Scales: the Birth of Viridis <a href="https://rdcu.be/fnPhk">gift link</a> - Click to plot <a href="https://rdcu.be/fs1Q6">gift link</a> - Code to plot <a href="https://rdcu.be/fyill">gift link</a> - The Graphical abstracts <a href="https://rdcu.be/LiKWakyaVNQa">gift link</a> - The companion website <a href="https://www.nature.com/articles/s41592-026-03276-7">link</a></p>
+<div id="fig-" class="quarto-figure quarto-figure-center quarto-float anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig--caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="https://helenajamborwrites.netlify.app/posts/26-10_Proximity/Slide1.png" class="img-fluid figure-img">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig quarto-uncaptioned" id="fig--caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;1
+</figcaption>
+</figure>
+</div>
+
+
+</section>
+
+ ]]></description>
+  <category>datavis</category>
+  <category>biovis</category>
+  <category>NatureMethods</category>
+  <guid>https://helenajamborwrites.netlify.app/posts/26-10_Proximity/</guid>
+  <pubDate>Mon, 19 Oct 2026 22:00:00 GMT</pubDate>
+  <media:content url="https://helenajamborwrites.netlify.app/posts/26-10_Proximity/Slide7.png" medium="image" type="image/png" height="144" width="144"/>
+</item>
 <item>
   <title>Color Scales: the Birth of Viridis</title>
   <dc:creator>Helena Jambor</dc:creator>
@@ -56,6 +96,7 @@ Figure&nbsp;2: A mountain ridge in Grisons, illustrating the distortions introdu
  ]]></description>
   <category>datavis</category>
   <category>biovis</category>
+  <category>NatureMethods</category>
   <guid>https://helenajamborwrites.netlify.app/posts/26-6_POV/</guid>
   <pubDate>Mon, 15 Jun 2026 22:00:00 GMT</pubDate>
   <media:content url="https://helenajamborwrites.netlify.app/posts/26-6_POV/Figure1_scales.png" medium="image" type="image/png" height="67" width="144"/>
@@ -1744,142 +1785,6 @@ NEWTH, H. The Feeding of Ammocœtes. Nature 126, 94–95 (1930) <a href="https:/
   <guid>https://helenajamborwrites.netlify.app/posts/Image_history/</guid>
   <pubDate>Sat, 26 Aug 2023 22:00:00 GMT</pubDate>
   <media:content url="https://helenajamborwrites.netlify.app/posts/Image_history/Marey.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>Cheat sheet Image preparation</title>
-  <dc:creator>Helena Jambor</dc:creator>
-  <dc:creator>Helena Jambor</dc:creator>
-  <link>https://helenajamborwrites.netlify.app/posts/Image_cheatsheets/</link>
-  <description><![CDATA[ 
-
-
-
-
-<section id="cheat-sheets-for-image-publishing" class="level2">
-<h2 class="anchored" data-anchor-id="cheat-sheets-for-image-publishing">Cheat sheets for Image publishing</h2>
-<p>Images, initially drawings now photos, are <a href="../../posts/Image_history/index.html">widely used in biology and medicine</a> but when published <a href="../../posts/Image_numbers/index.html">not always understandable</a>.</p>
-</section>
-<section id="image-workflow-for-novice-users" class="level2">
-<h2 class="anchored" data-anchor-id="image-workflow-for-novice-users">Image Workflow for Novice Users</h2>
-<p>When preparing images for publication, the sequence and proper use of software matters to truthfully report observations. During the first lock down, Christopher Schmied and I therefore created cheat sheets that explain a most basic workflow to get everyone from microscope data to figure in a few simple steps.</p>
-</section>
-<section id="cheat-sheets" class="level2">
-<h2 class="anchored" data-anchor-id="cheat-sheets">Cheat Sheets</h2>
-<p>The workflow is summarized in two printable cheat sheets. One cheat sheet explains the steps towards a publishable image, the second cheat sheet how to implement the steps with ImageJ/FIJI image processing software.</p>
-<div id="fig-helena" class="quarto-figure quarto-figure-center anchored">
-<figure class="figure">
-<p><img src="https://helenajamborwrites.netlify.app/posts/Image_cheatsheets/SchmiedJambor_Figure4.png" class="img-fluid figure-img" alt="Cheat sheet that explains all steps and commands in FIJI to process and image for publication"></p>
-<figcaption class="figure-caption">Figure&nbsp;1: Preparing an image for publication: a quick design reference. From: <a href="https://f1000research.com/articles/9-1373">Schmied and Jambor. Effective image visualization for publications - a workflow using open access tools and concepts</a></figcaption>
-</figure>
-</div>
-<div id="fig-chris" class="quarto-figure quarto-figure-center anchored">
-<figure class="figure">
-<p><img src="https://helenajamborwrites.netlify.app/posts/Image_cheatsheets/SchmiedJambor_Figure3.png" class="img-fluid figure-img" alt="Cheat sheet that explains all steps and commands in FIJI to process and image for publication"></p>
-<figcaption class="figure-caption">Figure&nbsp;2: Processing image: a quick guide how to do this in FIJI. From: <a href="https://f1000research.com/articles/9-1373">Schmied and Jambor. Effective image visualization for publications - a workflow using open access tools and concepts </a></figcaption>
-</figure>
-</div>
-<section id="download" class="level5">
-<h5 class="anchored" data-anchor-id="download">Download</h5>
-<p>Get the cheat sheets as <a href="https://osf.io/cjp8w/">printable PDF</a>. Note, we used an open license, that means you can get the adaptable files and e.g., make translations, alterations, or add your own notes.</p>
-<p>A German version was already made by <a href="https://joram.schwartzmann.de/cheat-sheet-wissenschaftliche-abbildungen.html">Joram Schwartzmann</a>, checkt it out!</p>
-</section>
-</section>
-<section id="further-resources" class="level2">
-<h2 class="anchored" data-anchor-id="further-resources">Further resources</h2>
-<p>Beyond our starter cheat sheets more great resources help you along the way: The “Biologist’s guide to planning and performing quantitative bioimaging experiments” describes the entire arc from sample to microscope via image analysis towards data interpretation and publication. The resource lists many key points and aggregates links to more detailed descriptions, making it easy for biologists to navigate their first microscopy experiments.</p>
-<div id="fig-senft" class="quarto-figure quarto-figure-center anchored">
-<figure class="figure">
-<p><img src="https://helenajamborwrites.netlify.app/posts/Image_cheatsheets/Senft.PNG" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Figure&nbsp;3: A biologist’s guide to planning and performing quantitative bioimaging experiments <a href="https://doi.org/10.1371/journal.pbio.3002167">Senft RA, Diaz-Rohrer B, Colarusso P, Swift L, Jamali N, Jambor H, et al.&nbsp;(2023) PLoS Biol</a></figcaption>
-</figure>
-</div>
-</section>
-<section id="more-about" class="level2">
-<h2 class="anchored" data-anchor-id="more-about">More about</h2>
-<section id="microscopy-image-acquisition" class="level4">
-<h4 class="anchored" data-anchor-id="microscopy-image-acquisition">Microscopy image acquisition</h4>
-<ul>
-<li>
-Seeing is believing? A beginners’ guide to practical pitfalls in image acquisition. <a href="https://doi.org/10.1083/jcb.200507103">North, A.J., 2006. J Cell Biol</a>
-</li>
-<li>
-Fluorescence microscopy–avoiding the pitfalls. J<a href="https://doi.org/10.1242/jcs.03433">Brown, C.M., 2007. Cell Sci 120, 1703–1705. </a>
-</li>
-<li>
-Rigor and Reproducibility in Confocal Fluorescence Microscopy. <a href="https://doi.org/10.1002/cyto.a.23924">Jonkman, J., 2020. Cytometry A</a>
-</li>
-</ul>
-</section>
-<section id="fluorophores-and-filters" class="level4">
-<h4 class="anchored" data-anchor-id="fluorophores-and-filters">Fluorophores and Filters</h4>
-<ul>
-<li>
-Optimizing live-cell fluorescence imaging conditions to minimize phototoxicity. <a href="https://doi.org/10.1242/jcs.242834">Kiepas, A., Voorand, E., Mubaid, F., Siegel, P.M., Brown, C.M., 2020. J Cell Sci. </a>
-</li>
-<li>
-Assessing phototoxicity in live fluorescence imaging.<a href="https://doi.org/10.1038/nmeth.4344">Laissue, P.P., Alghamdi, R.A., Tomancak, P., Reynaud, E.G., Shroff, H., 2017. Nat Methods</a>
-</li>
-<li>
-Recommendations for a standardized nomenclature for probe tags used in cytometry and microscopy imaging<a href="https://doi.org/10.1002/cyto.a.24224">Blenman, K.R.M., Spidlen, J., Parks, D.R., Moore, W., Treister, A., Leif, R., Bray, C., Goldberg, M., ISAC Data Standards Task Force, Brinkman, R., 2021. ISAC Probe Tag Dictionary: Standardized Nomenclature for Detection and Visualization Labels Used in Cytometry and Microscopy Imaging. Cytometry A</a>
-</li>
-</ul>
-</section>
-<section id="sample-preparation" class="level4">
-<h4 class="anchored" data-anchor-id="sample-preparation">Sample preparation</h4>
-<ul>
-<li>
-Seeing is believing? A beginners’ guide to practical pitfalls in image acquisition. <a href="https://doi.org/10.1083/jcb.200507103">North, A.J., 2006. J Cell Biol</a>
-</li>
-</ul>
-</section>
-<section id="method-reporting" class="level4">
-<h4 class="anchored" data-anchor-id="method-reporting">Method reporting</h4>
-<ul>
-<li>
-Towards community-driven metadata standards for light microscopy: tiered specifications extending the OME model.<a href="https://doi.org/10.1038/s41592-021-01327-9">Hammer, M., Huisman, M., Rigano, A., Boehm, U., Chambers, J.J., Gaudreault, N., North, A.J., Pimentel, J.A., Sudar, D., Bajcsy, P., Brown, C.M., Corbett, A.D., Faklaris, O., Lacoste, J., Laude, A., Nelson, G., Nitschke, R., Farzam, F., Smith, C.S., Grunwald, D., Strambio-De-Castillia, C., 2021. Nat Methods</a>
-</li>
-<li>
-A guide to accurate reporting in digital image acquisition - can anyone replicate your microscopy data?<a href="https://doi.org/10.1242/jcs.254144">Heddleston, J.M., Aaron, J.S., Khuon, S., Chew, T.-L., 2021. J Cell Sci</a>
-</li>
-<li>
-Best practices and tools for reporting reproducible fluorescence microscopy methods. <a href="https://doi.org/10.1038/s41592-021-01156-w">Montero Llopis, P., Senft, R.A., Ross-Elliott, T.J., Stephansky, R., Keeley, D.P., Koshar, P., Marqués, G., Gao, Y.-S., Carlson, B.R., Pengo, T., Sanders, M.A., Cameron, L.A., Itano, M.S., 2021. Nat Methods</a>
-</li>
-<li>
-Imaging methods are vastly underreported in biomedical research. <a href="https://doi.org/10.7554/eLife.55133">Marques G, P.T., Sanders MA, 2020. Elife</a>
-</li>
-<li>
-Micro-Meta App: an interactive tool for collecting microscopy metadata based on community specifications.<a href="">Rigano, A. et al.&nbsp;Nat. Methods</a>
-</li>
-<li>
-MethodsJ2: a software tool to capture metadata and generate comprehensive microscopy methods text. <a href="https://doi.org/10.1038/s41592-021-01290-5">Ryan, J., Pengo, T., Rigano, A., Llopis, P.M., Itano, M.S., Cameron, L.A., Marqués, G., Strambio-De-Castillia, C., Sanders, M.A., Brown, C.M., 2021. Nat Methods</a>
-</li>
-</ul>
-</section>
-<section id="image-analysis-processing-software" class="level4">
-<h4 class="anchored" data-anchor-id="image-analysis-processing-software">Image analysis &amp; processing software</h4>
-<ul>
-<li>
-Fiji: an open-source platform for biological-image analysis.<a href="https://www.nature.com/articles/nmeth.2019">Schindelin J, Arganda-Carreras I, Frise E, Kaynig V, Longair M, Pietzsch T, et al.&nbsp;Nature methods</a>
-</li>
-<li>
-A Hitchhiker’s guide through the bio-image analysis software universe.<a href="https://doi.org/10.1002/1873-3468.14451">Haase, R., Fazeli, E., Legland, D., Doube, M., Culley, S., Belevich, I., Jokitalo, E., Schorb, M., Klemm, A., Tischer, C., 2022. FEBS Lett</a>
-</li>
-<li>
-Reproducible image handling and analysis. <a href="https://www.embopress.org/doi/full/10.15252/embj.2020105889">Miura K NS. EMBO J. 2021;40(3):e105889.</a>
-</li>
-</ul>
-
-
-</section>
-</section>
-
- ]]></description>
-  <category>images</category>
-  <category>how-to</category>
-  <category>cheat sheets</category>
-  <guid>https://helenajamborwrites.netlify.app/posts/Image_cheatsheets/</guid>
-  <pubDate>Sun, 20 Aug 2023 22:00:00 GMT</pubDate>
-  <media:content url="https://helenajamborwrites.netlify.app/posts/Image_cheatsheets/SchmiedJambor_Figure4.png" medium="image" type="image/png" height="111" width="144"/>
 </item>
 </channel>
 </rss>

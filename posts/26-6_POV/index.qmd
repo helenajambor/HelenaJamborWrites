@@ -6,6 +6,7 @@ date: "20260616"
 categories:
   - datavis
   - biovis
+  - NatureMethods
 
 image: "Figure1_scales.png"
 ---
