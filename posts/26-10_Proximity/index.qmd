@@ -8,17 +8,76 @@ categories:
   - biovis
   - NatureMethods
 
-image: "Slide7.png"
+image: "images/Slide7.png"
 ---
-## Figures should inform, not persuade – but before information comes engagement: How we make our work relatable. 
+## How we make our work relatable 
+#### Figures should inform, not persuade – but before information comes engagement
 
-In the [October issue of Nature Methods](https://rdcu.be/WD88cB1kFcva), we write about seven principles how to create engagement in figures. 
+In the [October issue of Nature Methods](https://rdcu.be/WD88cB1kFcva), we write about seven principles how to create engagement in figures. Every visualization involves decisions about what to show, what to emphasize, how to organize information, and how to guide the reader’s attention. These decisions influence whether a message is clear, memorable, and actionable. 
 
-Every visualization involves decisions about what to show, what to emphasize, how to organize information, and how to guide the reader’s attention. These decisions influence whether a message is clear, memorable, and actionable. 
+This was already done is some of the most influential scientific visualizations. Darwin’s tree of life made evolutionary relationships immediately apparent – he pointed out where humans are in the tree, and related them to the other species and to time. John Snow’s cholera map connected deaths to recognizable streets and houses – creating a proximity to familiar places in London. Ed Hawkins’ climate stripes allow people to search climate change in their hometown. What these examples share is that they use proximity principles from rhetorics - below we introduce seven commonly employed ways to create proximity.
 
-This was already done is some of the most influential scientific visualizations. Darwin’s tree of life made evolutionary relationships immediately apparent – he pointed out where humans are in the tree, and related them to the other species and to time. John Snow’s cholera map connected deaths to recognizable streets and houses – creating a proximity to familiar places in London. Ed Hawkins’ climate stripes allow people to search climate change in their hometown. These visualizations do not manipulate, but they make abstract information accessible and relevant to the readers.
+:::{#slideshow}
+```{=html}
 
-What these examples share is that they use proximity principles from rhetorics. They reduce the perceived distance between data and its audience. In our new Nature Methods Point of View, we explore seven dimensions of proximity: credibility, plausibility, importance, temporal proximity, spatial proximity, individual-level focus, and anticipating consequences. Each of these principles is already widely used in biological figures today, often without the authors explicitly recognizing them. But understanding proximity allows us to use these principles more deliberately, while remaining faithful to the underlying evidence. That way we ensure that our figures are engaging, which helps their effectiveness. 
+<div id="figure-carousel" class="carousel slide carousel-dark" data-bs-interval="false">
+
+  <div class="carousel-inner">
+
+    <div class="carousel-item active">
+      <img src="images/Slide1.png" class="d-block w-100" alt="Principle 1">
+    </div>
+
+    <div class="carousel-item">
+      <img src="images/Slide2.png" class="d-block w-100" alt="Principle  1">
+    </div>
+
+    <div class="carousel-item">
+      <img src="images/Slide3.png" class="d-block w-100" alt="Principle  2">
+    </div>
+
+    <div class="carousel-item">
+      <img src="images/Slide4.png" class="d-block w-100" alt="Principle  3">
+    </div>
+
+    <div class="carousel-item">
+      <img src="images/Slide5.png" class="d-block w-100" alt="Principle  4">
+    </div>
+
+    <div class="carousel-item">
+      <img src="images/Slide6.png" class="d-block w-100" alt="Principle  5">
+    </div>
+
+    <div class="carousel-item">
+      <img src="images/Slide7.png" class="d-block w-100" alt="Principle  6">
+    </div>
+
+    <div class="carousel-item">
+      <img src="images/Slide8.png" class="d-block w-100" alt="Principle 7">
+    </div>
+
+  </div>
+
+  <button class="carousel-control-prev" type="button"
+          data-bs-target="#figure-carousel" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Previous</span>
+  </button>
+
+  <button class="carousel-control-next" type="button"
+          data-bs-target="#figure-carousel" data-bs-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Next</span>
+  </button>
+
+</div>
+```
+
+::: 
+
+
+
+Proximity principles originate from rhetorics and are means to reduce the perceived distance between data and its audience. In our new Nature Methods Point of View, we explore seven dimensions of proximity: credibility, plausibility, importance, temporal proximity, spatial proximity, individual-level focus, and anticipating consequences. Each of these principles is already widely used in biological figures today, often without the authors explicitly recognizing them. But understanding proximity allows us to use these principles more deliberately, while remaining faithful to the underlying evidence. That way we ensure that our figures are engaging, which helps their effectiveness. 
 
 Gift links to all articles so far in the series: 
 - Color Scales: the Birth of Viridis [gift link](https://rdcu.be/fnPhk)
@@ -27,11 +86,5 @@ Gift links to all articles so far in the series:
 - The Graphical abstracts [gift link](https://rdcu.be/LiKWakyaVNQa) 
 - The companion website [link](https://www.nature.com/articles/s41592-026-03276-7)
 
-
-::: {#fig-}
-![](Slide1.png)
-
-
-:::
 
 
